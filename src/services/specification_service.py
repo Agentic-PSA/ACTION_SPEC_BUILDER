@@ -1,4 +1,6 @@
 # src/services/specification_service.py
+import json
+
 
 def merge_specifications(spec1, spec2):
     if not spec1:
@@ -41,48 +43,127 @@ def combine_specifications_with_values(merged_specification, specification_value
         # Pobierz mapę duplikatów dla tej sekcji, jeśli istnieje
         section_mapping = duplicate_mapping.get(section_name, {}) if duplicate_mapping else {}
 
-        # Utwórz odwrotną mapę: duplikat -> nazwa kanoniczna
+        # Tworzymy odwrotną mapę: duplikat -> nazwa kanoniczna
         reverse_mapping = {}
         for canonical_name, duplicates in section_mapping.items():
             for duplicate in duplicates:
                 reverse_mapping[duplicate] = canonical_name
 
+        # Tworzymy słownik wszystkich przykładów dla każdego atrybutu (łącznie z duplikatami)
+        all_examples = {}
+
+        # Pierwsza pętla - zbieramy wszystkie przykłady
         for attribute in section["attributes"]:
+
+
             attribute_name = attribute.get(language)
+            if 'wyświetlacz' == section_name.lower():
+                print(attribute_name)
             if not attribute_name:
                 continue
 
-            # Zbieramy wszystkie przykładowe wartości z każdego panel.specification_values
-            examples = []
+            if attribute_name not in all_examples:
+                all_examples[attribute_name] = []
+
             for panel_values in specification_values:
                 values_for_lang = panel_values.get(language, {})
                 section_values = values_for_lang.get(section_name, {})
-
-                # Najpierw sprawdź wartość dla normalnej nazwy atrybutu
                 value = section_values.get(attribute_name)
-                if value is not None:
-                    examples.append(value)
+                if value is not None and value not in all_examples[attribute_name]:
+                    if 'wyświetlacz' == section_name.lower():
+                        print(value)
+                    all_examples[attribute_name].append(value)
+        if 'wyświetlacz' == section_name.lower():
+            print(all_examples)
 
-                # Jeśli mamy mapę duplikatów, sprawdź również wartości dla duplikatów
-                if duplicate_mapping:
-                    # Szukaj wszystkich duplikatów tego atrybutu
-                    for duplicate, canonical in reverse_mapping.items():
-                        if canonical == attribute_name:
-                            dup_value = section_values.get(duplicate)
-                            if dup_value is not None and dup_value not in examples:
-                                examples.append(dup_value)
+        duplicate_examples_from_values = {}
+        for duplicate_name, canonical_name in reverse_mapping.items():
+            duplicate_examples_from_values[duplicate_name] = []
+            for panel_values in specification_values:
+                values_for_lang = panel_values.get(language, {})
+                section_values = values_for_lang.get(section_name, {})
+                value = section_values.get(duplicate_name)
+                if value is not None and value not in duplicate_examples_from_values[duplicate_name]:
+                    duplicate_examples_from_values[duplicate_name].append(value)
+        if 'wyświetlacz' == section_name.lower():
+            print(duplicate_examples_from_values)
+        # Druga pętla - przenosimy przykłady z duplikatów do kanonicznych nazw
 
-            # Usuwamy duplikaty
-            examples = list(dict.fromkeys(examples))
+        for duplicate_name, canonical_name in reverse_mapping.items():
+            if 'wyświetlacz' == section_name.lower():
+                print('|| ', duplicate_name)
+            examples_to_add = duplicate_examples_from_values.get(duplicate_name, [])
+            if canonical_name not in all_examples:
+                all_examples[canonical_name] = []
 
+            for example in examples_to_add:
+                if example not in all_examples[canonical_name]:
+                    if 'wyświetlacz' == section_name.lower():
+                        print('||| ', example)
+                    all_examples[canonical_name].append(example)
+
+
+
+
+
+
+        if 'wyświetlacz' == section_name.lower():
+            print('____________________________')
+            print(all_examples)
+        # Trzecia pętla - tworzymy finalne atrybuty pod kanonicznymi nazwami
+        processed_attributes = set()
+        for attribute_name in all_examples.keys():
+            if attribute_name in processed_attributes:
+                continue
+
+            processed_attributes.add(attribute_name)
+            examples = all_examples.get(attribute_name, [])
+
+            # Normalizacja "Tak"/"Nie"
+            has_yes = any(isinstance(e, str) and e.lower() == "tak" for e in examples)
+            has_no = any(isinstance(e, str) and e.lower() == "nie" for e in examples)
+            if has_yes and not has_no:
+                examples.append("Nie")
+            elif has_no and not has_yes:
+                examples.append("Tak")
+
+            normalized_examples = []
+            has_added_yes = has_added_no = False
+            for e in examples:
+                if isinstance(e, str) and e.lower() == "tak":
+                    if not has_added_yes:
+                        normalized_examples.append("Tak")
+                        has_added_yes = True
+                elif isinstance(e, str) and e.lower() == "nie":
+                    if not has_added_no:
+                        normalized_examples.append("Nie")
+                        has_added_no = True
+                else:
+                    normalized_examples.append(e)
+
+            # Usuwanie duplikatów dla pozostałych wartości
+            final_examples = []
+            seen_values = set()
+            for e in normalized_examples:
+                if isinstance(e, str):
+                    key = e.lower()
+                    if key not in seen_values:
+                        seen_values.add(key)
+                        final_examples.append(e)
+                else:
+                    if e not in final_examples:
+                        final_examples.append(e)
+            if 'wyświetlacz' == section_name.lower():
+                print('||| ', final_examples)
             combined_section["attributes"].append({
                 "name": attribute_name,
-                "examples": examples
+                "examples": final_examples
             })
 
         combined.append(combined_section)
 
     return combined
+
 
 
 # src/services/specification_service.py - dodaj nową funkcję

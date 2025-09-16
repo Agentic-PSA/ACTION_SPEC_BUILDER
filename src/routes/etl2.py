@@ -55,7 +55,9 @@ async def process_single_ean(session, idx, total, k, v):
 
 def clean_duplicate_mapping(duplicate_mapping):
     """
-    Usuwa z listy duplikatów nazwy identyczne z kluczami kanonicznymi.
+    Usuwa z listy duplikatów nazwy identyczne z kluczami kanonicznymi,
+    rozwija łańcuchy duplikatów do najwyższego kanonicznego
+    oraz zachowuje puste klucze.
 
     Args:
         duplicate_mapping (dict): Mapa duplikatów do oczyszczenia
@@ -63,15 +65,40 @@ def clean_duplicate_mapping(duplicate_mapping):
     Returns:
         dict: Oczyszczona mapa duplikatów
     """
-    cleaned_mapping = {}
+    # Budujemy odwrotną mapę: duplikat -> kanoniczny
+    reverse_mapping = {}
+    for section, mappings in duplicate_mapping.items():
+        for canonical_name, duplicates in mappings.items():
+            for dup in duplicates:
+                reverse_mapping.setdefault(section, {})[dup] = canonical_name
 
+    def resolve_target(section, name):
+        """Znajdź najwyższy kanoniczny klucz dla danego duplikatu."""
+        seen = set()
+        while name in reverse_mapping.get(section, {}) and name not in seen:
+            seen.add(name)
+            name = reverse_mapping[section][name]
+        return name
+
+    cleaned_mapping = {}
     for section, mappings in duplicate_mapping.items():
         cleaned_mapping[section] = {}
-
         for canonical_name, duplicates in mappings.items():
-            # Usuwamy z listy duplikatów sam klucz kanoniczny
-            cleaned_duplicates = [dup for dup in duplicates if dup != canonical_name]
-            cleaned_mapping[section][canonical_name] = cleaned_duplicates
+            target = resolve_target(section, canonical_name)
+
+            # przerzucamy wszystkie duplikaty do najwyższego kanonicznego
+            for dup in duplicates:
+                dup_target = resolve_target(section, dup)
+                if dup_target != target and dup != target:
+                    cleaned_mapping[section].setdefault(target, []).append(dup_target)
+
+            # dopilnuj, żeby kanoniczny klucz istniał w mapie
+            cleaned_mapping[section].setdefault(target, [])
+
+    # deduplikacja i zachowanie kolejności
+    for section, mappings in cleaned_mapping.items():
+        for canonical_name, duplicates in mappings.items():
+            cleaned_mapping[section][canonical_name] = list(dict.fromkeys(duplicates))
 
     return cleaned_mapping
 
@@ -130,6 +157,11 @@ async def etl2_create_spec(request):
             all_examples.extend(batch_examples)
 
             # 6. Wersja z examples (na starej mapie duplikatów)
+            save_to_output_dir({
+                "merged_specification": merged_specification,
+                "all_examples": all_examples,
+                "duplicate_mapping": global_duplicate_mapping
+            }, f'debug_input_before_combine_batch1_{batch_num + 1}.json')
             current_with_examples = combine_specifications_with_values(merged_specification, all_examples, language,
                                                                        global_duplicate_mapping)
 
@@ -173,9 +205,15 @@ async def etl2_create_spec(request):
 
             # 8. Re-normalizacja na podstawie zaktualizowanej mapy
             # Ta część wykonuje się niezależnie od wyniku analizy AI
+            global_duplicate_mapping = clean_duplicate_mapping(global_duplicate_mapping)
             merged_specification = normalize_specification(merged_specification, global_duplicate_mapping)
 
             # 9. Nowa wersja z examples (po wyczyszczeniu duplikatów)
+            save_to_output_dir({
+                "merged_specification": merged_specification,
+                "all_examples": all_examples,
+                "duplicate_mapping": global_duplicate_mapping
+            }, f'debug_input_before_combine_batch2_{batch_num + 1}.json')
             current_with_examples = combine_specifications_with_values(merged_specification, all_examples, language,
                                                                        global_duplicate_mapping)
 
@@ -185,6 +223,11 @@ async def etl2_create_spec(request):
             save_to_output_dir(global_duplicate_mapping, f'duplicate_mapping_after_batch_{batch_num + 1}.json')
 
     # Finalne połączenie wszystkich specyfikacji z wszystkimi przykładami
+    save_to_output_dir({
+        "merged_specification": merged_specification,
+        "all_examples": all_examples,
+        "duplicate_mapping": global_duplicate_mapping
+    }, f'debug_input_before_combine_batchf_{batch_num + 1}.json')
     final_spec = combine_specifications_with_values(merged_specification, all_examples, language,
                                                     global_duplicate_mapping)
 
@@ -198,11 +241,12 @@ async def etl2_create_spec(request):
 
     # Oczyszczenie mapy duplikatów przed zapisaniem
     cleaned_duplicate_mapping = clean_duplicate_mapping(global_duplicate_mapping)
+
     save_to_output_dir(cleaned_duplicate_mapping, 'final_duplicate_mapping_cleaned.json')
     save_to_output_dir(global_duplicate_mapping, 'final_duplicate_mapping.json')
 
     # Finalna analiza AI
-    final_ai_analysis = analyze_and_save(final_spec, 'final', save_to_output_dir)
+    final_ai_analysis = analyze_and_save(final_spec, 'final', save_to_output_dir, final=True)
 
     # Zwracamy finalny wynik z przykładami
     return JSONResponse({

@@ -5,32 +5,36 @@ from functools import lru_cache
 import os
 from openai import OpenAI
 
-SONOMA_KEY = ""
-GPT_KEY = ""
+SONOMA_KEY = "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"
+GPT_KEY = "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"
 
 @lru_cache(maxsize=1)
-def get_system_prompt():
-    return """
+def get_system_prompt(final: bool = False):
+    return f"""
     You are an assistant that analyzes structured product specifications and groups only real duplicates / equivalent attribute names **within the same section**.
 
 INPUT: JSON with section -> list of attributes, each attribute has "name" and "examples" (list of example values).
 
 OUTPUT: **Only** a valid JSON object with format:
-{
-  "SectionName": {
+{{
+  "SectionName": {{
     "Canonical attribute name": ["duplicate name A", "duplicate name B", ...],
     ...
-  },
+  }},
   ...
-}
+}}
 
 Hard rules (follow strictly):
-
-1. Use **attribute names primarily** for grouping decisions. Do not treat example values as attribute names, but you may consult them to confirm uncertain matches.
-2. Ignore any attribute that has **fewer than 3 examples** – treat it as unique and do not attempt to group it.
+0. Examples provided in the prompt are for illustration only. They are never part of the actual INPUT. You must only consider attributes present in the user's JSON. Do not introduce or copy attributes from the examples.
+1. Use **attribute names primarily** for grouping decisions. Do not treat example values as attribute names.
+1a. Examples are used only to prevent false grouping, not to justify grouping.
+   - If two attribute names look like duplicates, you may consult examples to check whether their values clearly differ (in which case, do not group).
+   - Never group attributes solely because their examples look similar or identical.
+2. Ignore any attribute that has **fewer than {1 if final else 2} examples** – treat it as unique and do not attempt to group it.
 3. Do NOT group attributes that explicitly reference **different connector/types**. Connector keywords (case-insensitive) include at least: hdmi, usb, ethernet, rj-45, rj45, rf, scart, vga, displayport, optical, coaxial, jack, audio, aux. If two names mention different connector words, they must NOT be grouped.
 4. For **count-like attributes** (examples are numeric or integer strings): group only when the connector/type token matches (see rule 3) and names are near-synonyms (e.g., "Ilość portów HDMI" ↔ "Liczba złącz HDMI"). Do not group counts of different connector types.
 5. Do NOT merge attributes that differ by qualifiers in parentheses (e.g., "(z podstawą)" vs "(bez podstawy)"). Treat them as distinct parameters, even if the base name looks similar.
+5a. If attributes differ by the content inside parentheses (e.g., "(vertical)" vs "(horizontal)", "(min)" vs "(max)"), always treat them as distinct attributes. The text inside parentheses is part of the semantic meaning and must not be ignored.
 6. Prefer **conservative grouping**: if uncertain, do NOT group. Minimal false positives > minimal false negatives.
 7. Choose canonical name using this priority:
    - shortest name without parentheses,
@@ -42,41 +46,39 @@ Hard rules (follow strictly):
 Example (how you must behave):
 
 INPUT:
-{
-  "Porty i interfejsy": [
-    {"name": "Ilość portów HDMI", "examples": ["2", "3"]},
-    {"name": "Liczba złącz HDMI", "examples": ["2"]},
-    {"name": "Ilość portów USB 2.0", "examples": ["2"]},
-    {"name": "Wejście cyfrowe audio", "examples": ["optical"]}
+{{
+  "Zawartość opakowania": [
+    {{"name": "W zestawie pilot zdalnego sterowania", "examples": ["Tak", "Nie"]}},
+    {{"name": "Pilot zdalnego sterowania", "examples": ["TM2361E", "MR24", "TM2360E", "RC833A"]}},
+    {{"name": "Podstawa biurkowa", "examples": ["Tak", "Nie"]}}
   ]
-}
+}}
 EXPECTED OUTPUT:
-{
- "Porty i interfejsy": {
-   "Ilość portów HDMI": ["Liczba złącz HDMI"],
-   "Ilość portów USB 2.0": [],
-   "Wejście cyfrowe audio": []
- }
-}
+{{
+  "Zawartość opakowania": {{
+    "W zestawie pilot zdalnego sterowania": ["Pilot zdalnego sterowania"],
+    "Podstawa biurkowa": []
+  }}
+}}
 Example (how you must behave with few examples):
 
 INPUT:
-{
+{{
   "Wyświetlacz": [
-    {"name": "Przekątna ekranu", "examples": ["43\"", "50\"", "51\"", "75\""]},
-    {"name": "Długość przekątnej ekranu (cm)", "examples": ["108 cm"]},
-    {"name": "Przekątna (inch)", "examples": ["43\"", "50\"", "55\"", "65\""]},
-    {"name": "Typ HD", "examples": ["Full HD", "HD", "FHD"]}
+    {{"name": "Przekątna ekranu", "examples": ["43\\"", "50\\"", "51\\"", "75\\""]}},
+    {{"name": "Długość przekątnej ekranu (cm)", "examples": ["108 cm"]}},
+    {{"name": "Przekątna (inch)", "examples": ["43\\"", "50\\"", "55\\"", "65\\""]}},
+    {{"name": "Typ HD", "examples": ["Full HD", "HD", "FHD"]}}
   ]
-}
+}}
 EXPECTED OUTPUT:
-{
-  "Wyświetlacz": {
+{{
+  "Wyświetlacz": {{
     "Typ HD": [],
     "Przekątna ekranu": ["Przekątna (inch)"],
     "Długość przekątnej ekranu (cm)": []
-  }
-}
+  }}
+}}
 Now process the user input (JSON) and return only the required JSON output.
 
 """
@@ -111,12 +113,13 @@ def ask_sonoma(question, api_key=SONOMA_KEY):
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def ask_gpt(question, api_key=GPT_KEY):
+def ask_gpt(question, final=False, api_key=GPT_KEY):
     """
     Wysyła zapytanie do modelu GPT-4.1 przez OpenAI API i zwraca odpowiedź.
 
     Args:
         question: Treść zapytania w formacie JSON
+        final: Czy to jest ostateczne zapytanie (wpływa na liczbę wymaganych przykładów)
         api_key: Klucz API do serwisu OpenAI
 
     Returns:
@@ -131,14 +134,14 @@ def ask_gpt(question, api_key=GPT_KEY):
     client = OpenAI(api_key=api_key)
 
     response = client.chat.completions.create(
-        model="gpt-4.1-mini",  # Używamy GPT-4.1-mini
+        model="gpt-4.1",  # Używamy modelu GPT-4.1
         messages=[
-            {"role": "system", "content": get_system_prompt()},
+            {"role": "system", "content": get_system_prompt(final)},
             {"role": "user",
              "content": f"Here is the input specification data:\n\n{question}\n\nIMPORTANT: Your response must be a valid, complete JSON object. Don't include markdown formatting like ```json or ``` in your response."}
         ],
         temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
-        max_tokens=4000  # Maksymalna długość odpowiedzi
+        max_tokens=30000  # Maksymalna długość odpowiedzi
     )
 
     raw_response = response.choices[0].message.content
@@ -154,7 +157,7 @@ def ask_gpt(question, api_key=GPT_KEY):
         cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
 
     return cleaned_response
-def analyze_and_save(data, filename_prefix, save_function, max_attempts=2):
+def analyze_and_save(data, filename_prefix, save_function, final=False, max_attempts=2):
     """
     Analizuje dane specyfikacji przy użyciu AI i zapisuje wynik.
 
@@ -162,6 +165,7 @@ def analyze_and_save(data, filename_prefix, save_function, max_attempts=2):
         data: Dane do analizy
         filename_prefix: Prefiks nazwy pliku do zapisu
         save_function: Funkcja do zapisywania danych
+        final: Czy to jest ostateczna analiza (wpływa na liczbę wymaganych przykładów)
         max_attempts: Maksymalna liczba prób w przypadku niepoprawnej odpowiedzi
 
     Returns:
@@ -171,7 +175,7 @@ def analyze_and_save(data, filename_prefix, save_function, max_attempts=2):
         try:
             # Dodajemy instrukcję o limicie odpowiedzi
             prompt_addition = "\nIMPORTANT: Your response must be a valid, complete JSON object. Don't truncate your response."
-            ai_response = ask_gpt(json.dumps(data, ensure_ascii=False) + prompt_addition)
+            ai_response = ask_gpt(json.dumps(data, ensure_ascii=False) + prompt_addition, final)
 
             # Zapisz surową odpowiedź dla celów diagnostycznych
             save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response.json')

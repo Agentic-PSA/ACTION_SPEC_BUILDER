@@ -18,7 +18,38 @@
           "40\"",
           "2,54 m (100\")",
           "86\"",
-          "83\""
+          "83\"",
+          "108 cm",
+          "214 cm",
+          "189 cm",
+          "164 cm",
+          "138 cm",
+          "165 cm",
+          "121 cm",
+          "163,9 cm",
+          "60 cm",
+          "190,5 cm",
+          "80 cm",
+          "126 cm",
+          "139 cm",
+          "140 cm",
+          "125,8 cm",
+          "195 cm",
+          "125 cm",
+          "101 cm",
+          "215,9 cm",
+          "216 cm",
+          "254 cm",
+          "165,1 cm",
+          "217,4 cm",
+          "191 cm",
+          "217 cm",
+          "163 cm",
+          "190 cm",
+          "120,7 cm",
+          "210 cm",
+          "189,3 cm",
+          "194 cm"
         ]
       },
       {
@@ -137,7 +168,8 @@
           "1200:1",
           "5000:1",
           "3000:1",
-          "6000:1"
+          "6000:1",
+          "1000000:1"
         ]
       },
       {
@@ -151,7 +183,8 @@
       {
         "name": "Kąt widzenia",
         "examples": [
-          "178°"
+          "178°",
+          "170°"
         ]
       },
       {
@@ -186,7 +219,8 @@
           "350 cd/m²",
           "600 cd/m²",
           "220 cd/m²",
-          "160 cd/m²"
+          "160 cd/m²",
+          "360 cd/m²"
         ]
       },
       {
@@ -1056,7 +1090,19 @@
         "name": "Obsługa High Dynamic Range (HDR)",
         "examples": [
           "Nie",
-          "Tak"
+          "Tak",
+          "High Dynamic Range 10+ (HDR10 Plus)",
+          "High Dynamic Range 10 (HDR10)",
+          "High Dynamic Range 10+ Adaptive (HDR10 Plus Adaptive)",
+          "Dolby Vision",
+          "Filmmaker Mode",
+          "High Dynamic Range 10 Pro (HDR10 Pro)",
+          "Dolby Vision IQ",
+          "Dynamic Tone Mapping",
+          "Dynamic Tone Mapping PRO",
+          "Hybrid Log-Gamma (HLG)",
+          "HDR 10+",
+          "Cinema HDR"
         ]
       },
       {
@@ -1597,6 +1643,7 @@
         "name": "Wyjście słuchawkowe",
         "examples": [
           "Tak",
+          "1",
           "Nie"
         ]
       },
@@ -1639,7 +1686,10 @@
       {
         "name": "Ilość złączy RF",
         "examples": [
-          "2"
+          "2",
+          "3",
+          "4",
+          "1"
         ]
       },
       {
@@ -1898,7 +1948,10 @@
       },
       {
         "name": "Tryd ECO",
-        "examples": []
+        "examples": [
+          "Tak",
+          "Nie"
+        ]
       },
       {
         "name": "Automatyczne wyłączanie zasilania",
@@ -3349,6 +3402,20 @@
         "name": "W zestawie pilot zdalnego sterowania",
         "examples": [
           "Tak",
+          "TM2361E",
+          "MR24",
+          "TM2360E",
+          "RC833A",
+          "RC902N",
+          "TM2360E (UK, Italia add TM1240A)",
+          "MR25GA / MR25GB (UK, Italy)",
+          "Magic Remote MR25GA",
+          "TM2240A",
+          "RC733A",
+          "RC833",
+          "Podczerwień",
+          "ERF2AF36H (Spain)",
+          "TM1240A",
           "Nie"
         ]
       },

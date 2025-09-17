@@ -57,8 +57,7 @@ def combine_specifications_with_values(merged_specification, specification_value
 
 
             attribute_name = attribute.get(language)
-            if 'wyświetlacz' == section_name.lower():
-                print(attribute_name)
+
             if not attribute_name:
                 continue
 
@@ -70,11 +69,8 @@ def combine_specifications_with_values(merged_specification, specification_value
                 section_values = values_for_lang.get(section_name, {})
                 value = section_values.get(attribute_name)
                 if value is not None and value not in all_examples[attribute_name]:
-                    if 'wyświetlacz' == section_name.lower():
-                        print(value)
                     all_examples[attribute_name].append(value)
-        if 'wyświetlacz' == section_name.lower():
-            print(all_examples)
+
 
         duplicate_examples_from_values = {}
         for duplicate_name, canonical_name in reverse_mapping.items():
@@ -85,21 +81,18 @@ def combine_specifications_with_values(merged_specification, specification_value
                 value = section_values.get(duplicate_name)
                 if value is not None and value not in duplicate_examples_from_values[duplicate_name]:
                     duplicate_examples_from_values[duplicate_name].append(value)
-        if 'wyświetlacz' == section_name.lower():
-            print(duplicate_examples_from_values)
+
         # Druga pętla - przenosimy przykłady z duplikatów do kanonicznych nazw
 
         for duplicate_name, canonical_name in reverse_mapping.items():
-            if 'wyświetlacz' == section_name.lower():
-                print('|| ', duplicate_name)
+
             examples_to_add = duplicate_examples_from_values.get(duplicate_name, [])
             if canonical_name not in all_examples:
                 all_examples[canonical_name] = []
 
             for example in examples_to_add:
                 if example not in all_examples[canonical_name]:
-                    if 'wyświetlacz' == section_name.lower():
-                        print('||| ', example)
+
                     all_examples[canonical_name].append(example)
 
 
@@ -107,9 +100,7 @@ def combine_specifications_with_values(merged_specification, specification_value
 
 
 
-        if 'wyświetlacz' == section_name.lower():
-            print('____________________________')
-            print(all_examples)
+
         # Trzecia pętla - tworzymy finalne atrybuty pod kanonicznymi nazwami
         processed_attributes = set()
         for attribute_name in all_examples.keys():
@@ -153,8 +144,7 @@ def combine_specifications_with_values(merged_specification, specification_value
                 else:
                     if e not in final_examples:
                         final_examples.append(e)
-            if 'wyświetlacz' == section_name.lower():
-                print('||| ', final_examples)
+
             combined_section["attributes"].append({
                 "name": attribute_name,
                 "examples": final_examples

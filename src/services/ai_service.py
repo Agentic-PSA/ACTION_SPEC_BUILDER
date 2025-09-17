@@ -2,7 +2,7 @@
 import json
 import os
 from functools import lru_cache
-
+import aiohttp
 import requests
 from openai import OpenAI
 
@@ -74,7 +74,39 @@ def ask_sonoma(question, api_key=SONOMA_KEY):
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def ask_gpt_custom(system_prompt, content, model="gpt-4o", api_key=GPT_KEY):
+async def ask_sonoma_custom(system_prompt=None, user_prompt=None, api_key=SONOMA_KEY):
+    """
+    Wysyła zapytanie do modelu AI i zwraca odpowiedź.
+
+    Args:
+        system_prompt: Treść promptu systemowego
+        user_prompt: Treść promptu użytkownika
+        api_key: Klucz API do serwisu OpenRouter
+
+    Returns:
+        str: Odpowiedź modelu AI
+    """
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "HTTP-Referer": "http://localhost",
+        "X-Title": "MyApp"
+    }
+
+    data = {
+        "model": "openrouter/sonoma-dusk-alpha",
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+    }
+
+    async with aiohttp.ClientSession() as session:
+        async with session.post("https://openrouter.ai/api/v1/chat/completions",
+                               headers=headers, json=data) as resp:
+            response_json = await resp.json()
+            return response_json["choices"][0]["message"]["content"]
+
+def ask_gpt_custom(system_prompt, content, model="gpt-4.1", api_key=GPT_KEY):
     """
     Wysyła zapytanie do modelu GPT z niestandardowym promptem systemowym i treścią.
 
@@ -101,8 +133,9 @@ def ask_gpt_custom(system_prompt, content, model="gpt-4o", api_key=GPT_KEY):
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": content}
         ],
-        temperature=0.0,  # Niska temperatura dla deterministycznych wyników
-        max_tokens=16000  # Maksymalna długość odpowiedzi
+        temperature=0.00,  # Niska temperatura dla deterministycznych wyników
+        max_tokens=32000,  # Maksymalna długość odpowiedzi
+        response_format = {"type": "json_object"}
     )
 
     raw_response = response.choices[0].message.content
@@ -121,49 +154,44 @@ def ask_gpt_custom(system_prompt, content, model="gpt-4o", api_key=GPT_KEY):
 
 
 def ask_gpt(question, final=False, model="gpt-4.1", api_key=GPT_KEY):
-    """
-    Wysyła zapytanie do modelu GPT-4.1 przez OpenAI API i zwraca odpowiedź.
-
-    Args:
-        question: Treść zapytania w formacie JSON
-        final: Czy to jest ostateczne zapytanie (wpływa na liczbę wymaganych przykładów)
-        api_key: Klucz API do serwisu OpenAI
-
-    Returns:
-        str: Odpowiedź modelu AI (oczyszczona z formatowania Markdown)
-    """
     if not api_key:
         api_key = os.environ.get("OPENAI_API_KEY", "")
         if not api_key:
-            raise ValueError(
-                "Brak klucza API OpenAI. Podaj go jako parametr lub ustaw zmienną środowiskową OPENAI_API_KEY")
+            raise ValueError("Brak klucza API OpenAI.")
 
     client = OpenAI(api_key=api_key)
 
+    system_prompt = "You are a precise assistant for grouping duplicates of attribute names in product specifications."
+
+    full_prompt = f"""{get_system_prompt(final)}
+
+Here is the input specification data:
+
+{question}
+
+IMPORTANT: Your response must be a valid, complete JSON object. 
+Don't include markdown formatting like ```json or ``` in your response.
+"""
+
     response = client.chat.completions.create(
-        model=model,  # Używamy modelu GPT-4.1
+        model=model,
         messages=[
-            {"role": "system", "content": get_system_prompt(final)},
-            {"role": "user",
-             "content": f"Here is the input specification data:\n\n{question}\n\nIMPORTANT: Your response must be a valid, complete JSON object. Don't include markdown formatting like ```json or ``` in your response."}
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": full_prompt},
         ],
-        temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
-        max_tokens=30000  # Maksymalna długość odpowiedzi
+        temperature=0.0,
+        max_tokens=30000
     )
 
-    raw_response = response.choices[0].message.content
+    raw_response = response.choices[0].message.content.strip()
 
-    # Usuwanie formatowania Markdown, jeśli występuje
-    cleaned_response = raw_response.strip()
-    if cleaned_response.startswith('```json'):
-        cleaned_response = cleaned_response.replace('```json', '', 1).strip()
-    elif cleaned_response.startswith('```'):
-        cleaned_response = cleaned_response.replace('```', '', 1).strip()
+    # Czyścimy ewentualne ```json
+    if raw_response.startswith("```"):
+        raw_response = raw_response.split("```", 1)[-1].strip()
+        if raw_response.endswith("```"):
+            raw_response = raw_response[:-3].strip()
 
-    if cleaned_response.endswith('```'):
-        cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
-
-    return cleaned_response
+    return raw_response
 
 
 def analyze_and_save(data, filename_prefix, save_function, final=False, max_attempts=2):

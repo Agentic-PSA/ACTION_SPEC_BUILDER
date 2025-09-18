@@ -1,17 +1,26 @@
 # src/routes/etl2.py
-from starlette.responses import JSONResponse
-import aiohttp
-import asyncio
+import datetime
 import json
 import os
-from src.services.ai_service import ask_gpt_custom, ask_sonoma_custom
-from src.services.file_service import save_json_file
+
 import polars as pl
+from starlette.responses import JSONResponse
 
-import datetime
-import os
+from src.services.ai_service import ask_gpt_custom
+from src.services.file_service import save_json_file
 
-def fix_json(result):
+
+def fix_json(result, idx=None):
+    """
+    Naprawia niepoprawny JSON.
+
+    Args:
+        result (str): Tekst JSON do naprawy
+        idx (int, optional): Indeks bloku dla celów logowania
+
+    Returns:
+        dict: Naprawiony obiekt JSON
+    """
     fixed_result = result.replace("'", '"')  # Zamień pojedyncze cudzysłowy na podwójne
 
     # Sprawdź czy są nieparzystei liczby cudzysłowów
@@ -24,9 +33,13 @@ def fix_json(result):
 
     # Spróbuj sparsować naprawiony JSON
     fixed_json = json.loads(fixed_result)
-    print(f"Udało się naprawić JSON w bloku {idx + 1}")
+    if idx is not None:
+        print(f"Udało się naprawić JSON w bloku {idx + 1}")
+    else:
+        print("Udało się naprawić JSON")
 
     return fixed_json
+
 def split_csv_to_blocks(file_path, block_size=30, output_directory=None, sort_column=2):
     """
     Loads a CSV file, sorts it by the specified column and splits it into smaller blocks
@@ -73,6 +86,7 @@ def split_csv_to_blocks(file_path, block_size=30, output_directory=None, sort_co
 
     # Otherwise return the list of blocks
     return blocks
+
 
 def create_output_directory():
     """
@@ -143,60 +157,49 @@ def merge_product_type_groups(results_dict_list):
 
 def create_updated_csv(original_csv_path, current_merged, output_dir):
     """
-    Tworzy nowy plik CSV z podmienionymi grupami typów produktów.
-
-    Args:
-        original_csv_path (str): Ścieżka do oryginalnego pliku CSV
-        current_merged (dict): Słownik z grupami typów produktów w formacie:
-                              {"nazwa_grupy": [["podkategoria1", "typ1"], ...], ...}
-        output_dir (str): Katalog, w którym zostanie zapisany nowy plik CSV
-
-    Returns:
-        str: Ścieżka do utworzonego pliku CSV
+    Tworzy nowy plik CSV z podmienionymi grupami typów produktów i dodatkową kolumną
+    informującą, czy grupa pochodzi z nowych danych (1) czy ze starej kolumny (0).
     """
+    import polars as pl
+    import os
+
     # Wczytaj oryginalny plik CSV
     original_df = pl.read_csv(original_csv_path)
 
-    # Stwórz odwrotne mapowanie: (Podkategoria, Typ produktu) -> Grupa typów produktu
+    # Odwrotne mapowanie: (Podkategoria, Typ produktu) -> Grupa typów produktu
     reverse_mapping = {}
     for group_name, items in current_merged.items():
         for item in items:
             if isinstance(item, list) and len(item) >= 2:
                 subcategory, product_type = item[0], item[1]
                 reverse_mapping[(subcategory, product_type)] = group_name
-            elif isinstance(item, str):
-                # Dla kompatybilności ze starym formatem
-                reverse_mapping[(None, item)] = group_name
 
-    # Stwórz nowy DataFrame z podmienionymi grupami
     result_data = []
-    for row in original_df.iter_rows(named=True):
+    for row in original_df.to_dicts():
         subcategory = row.get('Podkategoria')
         product_type = row.get('Typ produktu')
+        original_group = row.get('Grupy typów produktu')
 
-        # Znajdź przypisaną grupę dla tej kombinacji
+        # Szukamy grupy w reverse_mapping
         new_group = reverse_mapping.get((subcategory, product_type))
+        is_new = 1 if new_group else 0  # 1 = nowa grupa, 0 = stara
 
-        # Jeśli nie znaleziono w mapowaniu, spróbuj znaleźć po samym typie produktu
-        if new_group is None:
-            new_group = reverse_mapping.get((None, product_type))
+        # Jeśli nie znaleziono w mapowaniu, użyj oryginalnej grupy
+        if not new_group:
+            new_group = original_group
 
-        # Jeśli nadal nie znaleziono, zachowaj oryginalną wartość
-        if new_group is None:
-            new_group = row.get('Grupa typów produktu')
-
-        # Stwórz nowy wiersz z podmienioną grupą
-        new_row = {col: row.get(col) for col in original_df.columns}
-        new_row['Grupa typów produktu'] = new_group
-
+        new_row = row.copy()
+        new_row['Proponowane typy'] = new_group
+        new_row['Nowa grupa'] = is_new  # 1 = nowa, 0 = stara
         result_data.append(new_row)
 
-    # Utwórz nowy DataFrame i zapisz do CSV
+    # Utwórz DataFrame i zapisz CSV
     new_df = pl.DataFrame(result_data)
     output_csv_path = os.path.join(output_dir, "typy_new_groups.csv")
     new_df.write_csv(output_csv_path)
 
     return output_csv_path
+
 
 
 def merge_groups(current_merged, move_groups_data):
@@ -222,133 +225,334 @@ def merge_groups(current_merged, move_groups_data):
                     print(f"Przeniesiono grupę '{child_group}' do nadrzędnej '{parent_group}'")
     return current_merged
 
+def find_hallucinations(combined_groups, block):
+    """
+    Zwraca dict z halucynacjami:
+    {
+      "nazwa_grupy": [["Podkategoria", "Typ produktu"], ...]
+    }
+    """
+    # wszystkie dozwolone pary z tabeli
+    available = set(
+        (row["Podkategoria"], row["Typ produktu"])
+        for _, row in block.iterrows()
+    )
+
+    hallucinations = {}
+    for gname, items in combined_groups.items():
+        for podkat, typ in items:
+            if (podkat, typ) not in available:
+                hallucinations.setdefault(gname, []).append([podkat, typ])
+    return hallucinations
+
+def classify_block(system_prompt, block, current_merged, idx, save_fn):
+    user_prompt = f"""
+Masz tabelę z kolumnami: Kategoria, Podkategoria, Typ produktu, Grupy typów produktu.
+
+Twoim zadaniem jest zwrócić JSON z dwoma kluczami:
+
+1️⃣ "groups": wszystkie unikalne kombinacje (Podkategoria, Typ produktu), które **nie pasują do żadnej z istniejących grup**.
+   - Każda kombinacja musi być w JSON-ie.
+   - Nazwy grup muszą być opisowe i precyzyjne (np. "Akcesoria do grillowania", "Adaptery sieciowe").
+   - Nie używaj placeholderów typu 'inna_grupa', 'grupa1', 'nowa_grupa'.
+
+2️⃣ "old_groups": wszystkie kombinacje, które wyglądają jakby należały do którejś z istniejących grup.
+   - Lista istniejących grup: {current_merged.keys()}.
+   - Jeśli kombinacja pasuje do którejś z tych grup, dodaj ją do "old_groups" zamiast do "groups".
+
+⚠️ Każda kombinacja z tabeli musi trafić dokładnie do jednej kategorii: "groups" albo "old_groups".
+⚠️ Kolumna "Grupy typów produktu" z tabeli jest tylko luźną wskazówką – nie traktuj jej jako prawdy.
+⚠️ Nie łącz różnych rodzajów akcesoriów ani produktów w jedną grupę (np. grillowanie ≠ łazienka ≠ rowery).
+
+Zwróć wyłącznie JSON w tym formacie:
+
+{{
+  "groups": {{
+      "Akcesoria do grillowania": [["Grillowanie", "Akcesoria"]],
+      "Adaptery sieciowe": [["Sieci i systemy zabezpieczeń", "AccesPoint"]]
+  }},
+  "old_groups": {{
+      "Akcesoria do laptopów": [["IT", "Akcesoria"]],
+      "Adaptery audio": [["Mikrofony i słuchawki", "Adaptery i przejściówki"]]
+  }}
+}}
+
+Tabela wejściowa:
+{block.write_csv(separator="\t")}
+"""
+
+    try:
+        save_prompt(f"SYSTEM:\n{system_prompt}\n\nUSER:\n{user_prompt}",
+                    "classify", idx, os.path.dirname(save_fn({}, "dummy.json")))
+        result = ask_gpt_custom(system_prompt, user_prompt, model="gpt-4.1")
+        save_fn({"raw_response": result}, f"block_{idx + 1}_raw_response.json")
+        print('NEW')
+        return json.loads(result)
+    except Exception as e:
+        save_fn({"error": str(e)}, f"block_{idx + 1}_classify_error.json")
+        return None
+
+
+def handle_old_groups(system_prompt, result_json, current_merged, idx, save_fn, merge=True):
+    # Jeśli nie ma old_groups, tylko update
+    if 'old_groups' not in result_json or not result_json['old_groups']:
+        return {}, current_merged  # brak old_groups → nic nie robimy
+
+        # Zbuduj kontekst grup
+    groups_context = build_groups_context(result_json['old_groups'], current_merged)
+
+    old_groups = result_json["old_groups"]
+    reclassify_prompt = f"""
+Mam zestaw produktów, które trzeba przypisać do istniejących grup lub utworzyć dla nich nowe grupy.
+
+ISTNIEJĄCE GRUPY (z przykładami), które mogą być odpowiednie:
+{json.dumps(groups_context, indent=2, ensure_ascii=False)}
+
+PRODUKTY DO KLASYFIKACJI:
+{json.dumps(old_groups, indent=2, ensure_ascii=False)}
+
+Przypisz każdy produkt do odpowiedniej istniejącej grupy z powyższej listy. 
+Jeśli produkt nie pasuje do żadnej z tych grup, stwórz nową grupę z opisową nazwą.
+Nie używaj placeholderów jak 'inna_grupa' czy 'nowa_grupa'.
+
+Zwróć JSON tylko z kluczem "groups", gdzie każdy produkt jest przypisany do dokładnie jednej grupy:
+
+{{
+  "groups": {{
+    "Nazwa grupy 1": [["Podkategoria1", "Typ1"], ...],
+    "Nazwa grupy 2": [["Podkategoria2", "Typ2"], ...]
+  }}
+}}
+"""
+    save_prompt(f"SYSTEM:\n{system_prompt}\n\nUSER:\n{reclassify_prompt}",
+                "old", idx, os.path.dirname(save_fn({}, "dummy.json")))
+    reclassify_result = ask_gpt_custom(system_prompt, reclassify_prompt, model="gpt-4.1")
+    save_fn({"raw_reclassify_response": reclassify_result}, f"block_{idx + 1}_reclassify_raw.json")
+
+    try:
+        reclassify_json = json.loads(reclassify_result)
+        save_fn(reclassify_json, f"block_{idx + 1}_reclassified.json")
+
+        if 'groups' in reclassify_json:
+            reclassified_count = sum(len(v) for v in reclassify_json['groups'].values())
+            print(f"Blok {idx + 1}: Reklasyfikowano {reclassified_count} elementów")
+            return reclassify_json['groups'], current_merged
+        else:
+            print(f"Blok {idx + 1}: Brak 'groups' w reklasyfikacji")
+            return {}, current_merged
+    except json.JSONDecodeError as e:
+        print(f"Błąd parsowania JSON reklasyfikacji w bloku {idx + 1}: {e}")
+        return {}, current_merged
+
+
+def save_prompt(prompt, prompt_type, idx, output_dir):
+    """
+    Zapisuje prompt do pliku tekstowego dla celów dokumentacji.
+
+    Args:
+        prompt (str): Treść promptu
+        prompt_type (str): Rodzaj promptu (np. 'classify', 'reclassify', 'validate')
+        idx (int): Indeks bloku
+        output_dir (str): Katalog wyjściowy
+    """
+    prompt_dir = os.path.join(output_dir, "prompts")
+    os.makedirs(prompt_dir, exist_ok=True)
+
+    filename = f"block_{idx + 1}_{prompt_type}_prompt.txt"
+    filepath = os.path.join(prompt_dir, filename)
+
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(prompt)
+
+    return filepath
+
+def validate_with_agent3(groups_from_agent1, groups_from_agent2, block, system_prompt, idx, save_fn):
+    combined_groups = {**groups_from_agent1, **groups_from_agent2}
+
+    validation_prompt = f"""
+Masz oryginalną tabelę typów produktów:
+
+{block.write_csv(separator="\t")}
+
+Masz też propozycje grupowania z wcześniejszych kroków:
+
+{json.dumps(combined_groups, indent=2, ensure_ascii=False)}
+
+Twoje zadania:
+Struktura grup z poprzednich kroków wygląda tak:
+
+['nowa_grupa1': [['Podkategoria', 'Typ produktu'], ...], 'nowa_grupa2': [...], ...]
+
+1. Sprawdź, czy w tych grupach pojawiły się elementy zmyślone, których nie ma w tabeli wejściowej → umieść je w kluczu "hallucinations".
+2. Kolumna "Grupy typów produktu" z tabeli jest tylko luźną wskazówką – nie traktuj jej jako prawdy.
+3. Sprawdź, które elementy z tabeli wejściowej zostały pominięte. Dla tych elementów **stwórz nowe propozycje grupowania** i umieść je wyłącznie w kluczu "groups".
+   - **Nie zmieniaj istniejących grup ani ich zawartości.**
+   - Do "groups" trafiają tylko elementy, które brakują w dotychczasowych grupach.
+
+Wynikowy JSON:
+
+{{
+  "groups": {{
+    "Nazwa nowej grupy": [["Podkategoria", "Typ produktu"], ...]
+  }},
+  "hallucinations": {{"grupa":["Podkategoria", "Typ produktu"], ...}},
+}}
+"""
+
+    save_prompt(f"SYSTEM:\n{system_prompt}\n\nUSER:\n{validation_prompt}",
+                              "halu", idx, os.path.dirname(save_fn({}, "dummy.json")))
+
+    validation_result = ask_gpt_custom(system_prompt, validation_prompt, model="gpt-4.1")
+    save_fn({"raw_validation_response": validation_result}, f"block_{idx + 1}_validation_raw.json")
+
+    try:
+        validation_json = json.loads(validation_result)
+        save_fn(validation_json, f"block_{idx + 1}_validated.json")
+
+        hallucinations = validation_json.get("hallucinations", {})
+        missing = validation_json.get("missing", [])
+        groups_for_missing = validation_json.get("groups", {})
+
+        print(f"Blok {idx + 1}: Walidacja – {len(hallucinations)} halucynacji, {len(missing)} brakujących elementów, {sum(len(v) for v in groups_for_missing.values())} propozycji")
+
+        return groups_for_missing, hallucinations, missing
+
+    except json.JSONDecodeError as e:
+        print(f"Błąd parsowania JSON walidacji w bloku {idx + 1}: {e}")
+        return {}, [], []
+
+def build_groups_context(current_merged, old_groups):
+    referenced_groups = set()
+    for items in old_groups.values():
+        for item in items:
+            if isinstance(item, list) and len(item) >= 2:
+                subcategory, product_type = item[:2]
+                for group_name, group_items in current_merged.items():
+                    if any(
+                            (subcategory in gi[0] or gi[0] in subcategory or
+                             product_type in gi[1] or gi[1] in product_type)
+                            for gi in group_items if isinstance(gi, list) and len(gi) >= 2
+                    ):
+                        referenced_groups.add(group_name)
+
+    groups_context = {g: current_merged[g][:5] for g in referenced_groups if g in current_merged}
+
+    if not groups_context:
+        # jeśli brak dopasowania, dodaj kilka ostatnich
+        recent = list(current_merged.keys())[-10:]
+        groups_context = {g: current_merged[g][:5] for g in recent}
+
+    return groups_context
+
+
+def remove_hallucinations(groups_dict, hallucinations):
+    """
+    Usuwa halucynacje z grup.
+
+    Args:
+        groups_dict (dict): Słownik z grupami
+        hallucinations (dict/list): Halucynacje do usunięcia (w nowym formacie jako słownik lub starym jako lista)
+
+    Returns:
+        dict: Nowy słownik bez halucynacji
+    """
+    cleaned = {}
+
+    # Przekształć halucynacje do jednolitego formatu do porównania
+    hallucination_strings = set()
+
+    # Obsługa nowego formatu (słownik)
+    if isinstance(hallucinations, dict):
+        for item_list in hallucinations.values():
+            if isinstance(item_list, list):
+                for item in item_list:
+                    hallucination_strings.add(str(item))
+            else:
+                print(f"UWAGA: wartość w słowniku hallucinations nie jest listą: {item_list}")
+
+    # Obsługa starego formatu (lista)
+    elif isinstance(hallucinations, list):
+        for item in hallucinations:
+            if isinstance(item, list):
+                hallucination_strings.add(str(item))
+            else:
+                print(f"UWAGA: element hallucinations nie jest listą: {item}")
+    else:
+        print(f"UWAGA: hallucinations nie jest ani listą, ani słownikiem ({type(hallucinations)})")
+        return groups_dict
+
+    # Filtruj grupy
+    for group_name, items in groups_dict.items():
+        cleaned_items = []
+        for i in items:
+            if isinstance(i, list) and str(i) not in hallucination_strings:
+                cleaned_items.append(i)
+            elif not isinstance(i, list):
+                # Jeśli to nie jest lista, po prostu zachowaj
+                cleaned_items.append(i)
+
+        if cleaned_items:
+            cleaned[group_name] = cleaned_items
+
+    return cleaned
+
+
 
 async def group_types(request):
-    # Utworzenie katalogu wyjściowego
     output_dir = create_output_directory()
 
-    # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
     def save_to_output_dir(data, filename):
         file_path = os.path.join(output_dir, filename)
         save_json_file(data, file_path)
         return file_path
 
-    types_blocks = split_csv_to_blocks('data/typy3.csv', block_size=50, output_directory=output_dir)
-
-    system_prompt = """
-    Jesteś ekspertem w grupowaniu i kategoryzowaniu typów produktów.
-    """
+    types_blocks = split_csv_to_blocks('data/typy3.csv', block_size=30, output_directory=output_dir)
+    system_prompt = "Jesteś ekspertem w grupowaniu i kategoryzowaniu typów produktów."
     current_merged = {}
 
     for idx, block in enumerate(types_blocks):
-        user_prompt = f"""
-        Masz tabelę z kolumnami: Kategoria, Podkategoria, Typ produktu, Grupy typów produktu.
+        # --- Etap 1: klasyfikacja bloku ---
+        result_json = classify_block(system_prompt, block, current_merged, idx, save_to_output_dir)
+        save_to_output_dir(result_json, f"block_{idx + 1}_response.json")
+        if not result_json:
+            continue
 
-        Twoim zadaniem jest zwrócić JSON z dwoma kluczami:
+        items_count = sum(len(r) for r in result_json['groups'].values() if isinstance(r, list))
+        print(f"Blok {idx + 1}: znaleziono {items_count} elementów w {len(result_json['groups'])} nowych grupach")
 
-        1️⃣ "groups": wszystkie unikalne kombinacje (Podkategoria, Typ produktu) w osobnych podlistach.
-           - Każda kombinacja musi być w JSON-ie.
-           - Nazwy grup **muszą być opisowe i precyzyjne**, tak aby różne rodzaje akcesoriów lub produktów nie były scalane.
-           - **Nie używaj placeholderów** typu 'inna_grupa', 'grupa1', 'nowa_grupa'.
-           - Nie grupuj wg podobieństwa ani synonimów, nie zgaduj powiązań poza istniejącymi grupami.
+        # --- Etap 2: reklasyfikacja old_groups (ale jeszcze NIE mergujemy) ---
+        groups_stage2, _ = handle_old_groups(
+            system_prompt, result_json, current_merged, idx, save_to_output_dir, merge=False
+        )
 
-        2️⃣ "move_groups": lista istniejących grup, które mogą zostać przeniesione do nowo powstałej grupy nadrzędnej (opcjonalnie, możesz pozostawić puste).
+        # --- Etap 3: walidacja (hallucinations + missing) ---
+        groups_stage3, hallucinations, missing = validate_with_agent3(
+            result_json["groups"], groups_stage2, block, system_prompt, idx, save_to_output_dir
+        )
 
-        Masz dostęp do istniejących grup: {current_merged.keys()}.
-        - Jeśli kombinacja pasuje do istniejącej grupy, przypisz ją tam.
-        - Jeśli nie, stwórz nową grupę z opisową nazwą.
+        # --- Scalanie po walidacji ---
+        groups_stage1_clean = remove_hallucinations(result_json["groups"], hallucinations)
+        groups_stage2_clean = remove_hallucinations(groups_stage2, hallucinations)
 
-        Zwróć wyłącznie JSON w tym formacie:
+        merged_groups = merge_product_type_groups([
+            groups_stage1_clean,
+            groups_stage2_clean,
+            groups_stage3
+        ])
 
-        {{
-          "groups": {{
-              "Akcesoria do grillowania": [["Grillowanie", "Akcesoria"]],
-              "Adaptery sieciowe": [["Sieci i systemy zabezpieczeń", "AccesPoint"]],
-              ...
-          }},
-          "move_groups": {{
-              "Akcesoria rowerowe": ["Akcesoria uniwersalne"]
-          }}
-        }}
+        # --- Update current_merged ---
+        current_merged = merge_product_type_groups([current_merged, merged_groups])
 
-        Tabela wejściowa:
-        {block.write_csv(separator="\t")}
-        """
 
-        try:
-            # Wywołanie synchroniczne bez asyncio.run_in_executor
-            result = ask_gpt_custom(system_prompt, user_prompt, model="gpt-4.1")
 
-            # Zapisz surową odpowiedź (do celów diagnostycznych)
-            save_to_output_dir({"raw_response": result}, f"block_{idx + 1}_raw_response.json")
+        save_to_output_dir(current_merged, "current_merged.json")
 
-            # Próba parsowania JSON
-            try:
-                result_json = json.loads(result)
-
-                # Zapisz poprawnie sparsowany JSON
-                save_to_output_dir(result_json, f"block_{idx + 1}_parsed.json")
-
-                # Oblicz statystyki
-                items_count = sum([len(r) for r in result_json['groups'].values() if isinstance(r, list)])
-                print(f"Blok {idx + 1}: znaleziono {items_count} elementów w {len(result_json['groups'])} grupach")
-
-                # Aktualizuj merged
-                current_merged = merge_product_type_groups([current_merged, result_json['groups']])
-
-                # Obsługa move_groups z przekazaniem odpowiednich danych
-                if 'move_groups' in result_json and isinstance(result_json['move_groups'], dict):
-                    current_merged = merge_groups(current_merged, result_json['move_groups'])
-
-                save_to_output_dir(current_merged, "current_merged.json")
-
-            except json.JSONDecodeError as e:
-                print(f"Błąd parsowania JSON w bloku {idx + 1}: {e}")
-                # Zapisz informacje o błędzie
-                error_info = {
-                    "error": str(e),
-                    "raw_response": result,
-                    "error_position": {
-                        "line": e.lineno,
-                        "column": e.colno,
-                        "char_position": e.pos
-                    }
-                }
-                save_to_output_dir(error_info, f"block_{idx + 1}_error.json")
-
-                # Możemy spróbować naprawić najczęstsze problemy z JSON
-                try:
-                    fixed_json = fix_json(result)
-
-                    # Zapisz naprawiony JSON
-                    save_to_output_dir(fixed_json, f"block_{idx + 1}_fixed.json")
-
-                    # Aktualizuj merged z naprawionym JSON
-                    if 'groups' in fixed_json:
-                        current_merged = merge_product_type_groups([current_merged, fixed_json['groups']])
-
-                        if 'move_groups' in fixed_json and isinstance(fixed_json['move_groups'], dict):
-                            current_merged = merge_groups(current_merged, fixed_json['move_groups'])
-                    else:
-                        # Jeśli nie ma klucza 'groups', traktuj cały JSON jako grupy
-                        current_merged = merge_product_type_groups([current_merged, fixed_json])
-
-                    save_to_output_dir(current_merged, "current_merged.json")
-
-                except Exception as fix_error:
-                    print(f"Nie udało się naprawić JSON: {fix_error}")
-                    # Kontynuuj z następnym blokiem
-
-        except Exception as e:
-            print(f"Błąd podczas przetwarzania bloku {idx + 1}: {e}")
-            save_to_output_dir({"error": str(e)}, f"block_{idx + 1}_processing_error.json")
-
-    # Utwórz plik CSV z nowymi grupami
+    # --- Generowanie końcowego CSV ---
     try:
         output_csv_path = create_updated_csv('data/typy3.csv', current_merged, output_dir)
         print(f"Utworzono plik CSV z nowymi grupami: {output_csv_path}")
     except Exception as e:
-        print(f"Błąd podczas tworzenia pliku CSV: {e}")
+        print(f"Błąd CSV: {e}")
         save_to_output_dir({"error": str(e)}, "csv_creation_error.json")
 
     return JSONResponse({
@@ -357,3 +561,4 @@ async def group_types(request):
         'groups_count': len(current_merged),
         'final_csv': os.path.join(output_dir, "typy_new_groups.csv")
     })
+

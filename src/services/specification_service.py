@@ -281,3 +281,124 @@ def normalize_specification(specification, duplicate_mapping):
         normalized_spec.append(new_section)
 
     return normalized_spec
+
+def normalize_specification_aka(specification, duplicate_mapping):
+    """
+    Normalizuje specyfikację zamieniając nazwy duplikatów na nazwy kanoniczne.
+
+    Args:
+        specification: Lista sekcji specyfikacji do normalizacji
+        duplicate_mapping: Mapa duplikatów w formacie {sekcja: {nazwa_kanoniczna: [duplikat1, duplikat2]}}
+
+    Returns:
+        list: Znormalizowana specyfikacja
+    """
+
+    if not duplicate_mapping:
+        print("not duplicate_mapping")
+        return specification
+
+    normalized_spec = []
+
+    for section in specification:
+        if "section_name" in section:
+            # Dla struktury surowej specyfikacji (słownik z tłumaczeniami)
+            if isinstance(section["section_name"], dict):
+                # Używamy wartości w języku PL jako klucza w mapie duplikatów
+                section_name = section["section_name"].get("PL", "")
+                attributes_key = "attributes"
+                name_key = "PL"  # Atrybuty również są słownikami tłumaczeń
+            else:
+                # Dla struktury ze skombinowanymi przykładami
+                section_name = section["section_name"]
+                attributes_key = "attributes"
+                name_key = "name"
+        else:
+            # Dla innego formatu (np. z AI)
+            section_name = section.get("section", "")
+            attributes_key = "attributes"
+            name_key = "name"
+
+        section_mapping = duplicate_mapping.get(section_name, {})
+
+        if not section_mapping:
+            normalized_spec.append(section)
+            continue
+
+        # Tworzymy odwrotną mapę: duplikat -> nazwa kanoniczna
+        reverse_mapping = {}
+        for canonical_name, duplicates in section_mapping.items():
+            for duplicate in duplicates:
+                reverse_mapping[duplicate] = canonical_name
+
+        # Tworzymy nową listę atrybutów, zamieniając duplikaty
+        attributes_by_name = {}
+
+        for attr in section.get(attributes_key, []):
+            # Obsługa różnych struktur atrybutów
+            if isinstance(attr, dict) and name_key in attr:
+                if isinstance(attr[name_key], str):
+                    attr_name = attr[name_key]
+                elif isinstance(attr[name_key], dict):
+                    # Dla złożonych struktur
+                    attr_name = attr[name_key].get("PL", "")
+                else:
+                    attr_name = ""
+            else:
+                attr_name = ""
+
+            # Jeśli atrybut to duplikat, zmień nazwę na kanoniczną
+            if attr_name in reverse_mapping:
+                canonical_name = reverse_mapping[attr_name]
+
+                # Jeśli już istnieje atrybut o nazwie kanonicznej, połącz wartości
+                if canonical_name in attributes_by_name:
+                    canonical_attr = attributes_by_name[canonical_name]
+
+                    # Jeśli mamy examples, łączymy je
+                    if "examples" in attr and "examples" in canonical_attr:
+                        for example in attr["examples"]:
+                            if example not in canonical_attr["examples"]:
+                                canonical_attr["examples"].append(example)
+
+                    continue  # Pomijamy duplikat, bo już połączyliśmy wartości
+
+                # Zachowujemy oryginalny atrybut, ale zmieniamy nazwę
+                if isinstance(attr[name_key], str):
+                    attr[name_key] = canonical_name
+                elif isinstance(attr[name_key], dict):
+                    attr[name_key]["PL"] = canonical_name
+
+            # Dodajemy atrybut do tymczasowego słownika z odpowiednim kluczem
+            if isinstance(attr[name_key], str):
+                key = attr[name_key]
+            elif isinstance(attr[name_key], dict):
+                key = attr[name_key].get("PL", "")
+            else:
+                key = ""
+
+            attributes_by_name[key] = attr
+
+        # Odtwarzamy listę atrybutów
+        new_attributes = list(attributes_by_name.values())
+
+        # Tworzymy nową sekcję z unikalnymi atrybutami
+        if "section_name" in section:
+            new_section = {
+                "section_name": section["section_name"],
+                "attributes": new_attributes
+            }
+        else:
+            new_section = {
+                "section": section_name,
+                "attributes": new_attributes
+            }
+
+        normalized_spec.append(new_section)
+
+    return normalized_spec
+
+def llm_structure_aka(curr_llm_structure, new_product):
+    llm_structure = {}
+    batch_examples = new_product['panel']["specification_values"]["PL"]
+    return llm_structure

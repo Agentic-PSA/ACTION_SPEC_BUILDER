@@ -83,6 +83,44 @@ Now process the user input (JSON) and return only the required JSON output.
 
 """
 
+def get_system_prompt_aka(category: str, final: bool = False):
+    return f"""
+Analizujesz formatkę opisową produktów w kategorii telewizory. Aktualne zapytanie dotyczy parametrów w sekcji "{category}"
+
+WEJŚCIE: dwa zestawy danych o tych samych strukturach - parametry oraz przykładowe wartości parametrów
+W pierwszym zestawie mamy aktualną formatkę opisową, w drugim nowo znalezione parametry 
+Struktura danych wejściowych:
+{{
+    "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+    "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+}}
+
+WYJŚCIE: Przetworzony drugi zestaw danych, tak aby zamiast przykładowych wartości była jedna z odpowiedzi: słowo "NOWA" LUB nazwa parametru z pierwszego zestawu danych, dla którego można dodać mapowanie (bezpośrednio, nie jako tablica)
+Struktura danych wejściowych:
+{{
+    "Pierwszy parametr": "NOWA",
+    "Drugi parametr": "Inny parametr z pierwszego zestawu"
+}}
+
+Surowe zasady (należy ich ściśle przestrzegać):
+ 1. Przykłady podane w podpowiedzi służą wyłącznie do celów ilustracyjnych. Nie stanowią one części rzeczywistego WEJŚCIA. Należy brać pod uwagę wyłącznie atrybuty obecne w pliku JSON użytkownika. Nie należy wprowadzać ani kopiować atrybutów z przykładów.
+ 2. Używaj **parametrów** do grupowania decyzji. Nie traktuj przykładowych wartości jako nazw parametrów.
+ 3. Przykładowe wartości służą wyłącznie zapobieganiu błędnemu grupowaniu, a nie uzasadnianiu grupowania.
+    - Jeśli dwie nazwy parametrów wyglądają na zduplikowane, można sprawdzić na przykładach, czy ich wartości wyraźnie się różnią (w takim przypadku nie należy ich grupować).
+    - Nigdy nie grupuj parametrów wyłącznie na podstawie tego, że ich przykłady wyglądają podobnie lub identycznie.
+ 5. NIE łącz parametrów w których są wyrażenia wskazujące na całkiem inną cechę np. 
+    - "brutto" nie łącz z "netto"
+    - "z podstawą" nie łącz z "bez podstawy"
+    - "poziomy" nie łącz z "pionowy"
+    - "min" nie łącz z "max"
+    Należy traktować je jako odrębne parametry, nawet jeśli nazwa podstawowa wygląda podobnie.
+ 6. Preferuj **konserwatywne grupowanie**: w razie wątpliwości NIE grupuj.
+ 7. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.
+ 8. Zachowaj deterministyczność wyników.
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
 
 def ask_sonoma(question, api_key=SONOMA_KEY):
     """
@@ -157,6 +195,55 @@ def ask_gpt(question, final=False, api_key=GPT_KEY):
         cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
 
     return cleaned_response
+
+def ask_gpt_aka(question, category, final=False, api_key=GPT_KEY):
+    """
+    Wysyła zapytanie do modelu GPT-4.1 przez OpenAI API i zwraca odpowiedź.
+
+    Args:
+        question: Treść zapytania w formacie JSON
+        final: Czy to jest ostateczne zapytanie (wpływa na liczbę wymaganych przykładów)
+        api_key: Klucz API do serwisu OpenAI
+
+    Returns:
+        str: Odpowiedź modelu AI (oczyszczona z formatowania Markdown)
+    """
+    if not api_key:
+        api_key = os.environ.get("OPENAI_API_KEY", "")
+        if not api_key:
+            raise ValueError(
+                "Brak klucza API OpenAI. Podaj go jako parametr lub ustaw zmienną środowiskową OPENAI_API_KEY")
+
+
+    #print(get_system_prompt_aka(category, final))
+    #print(question)
+    client = OpenAI(api_key=api_key)
+
+    response = client.chat.completions.create(
+        model="gpt-4.1",  # Używamy modelu GPT-4.1
+        messages=[
+            {"role": "system", "content": get_system_prompt_aka(final)},
+            {"role": "user",
+             "content": f"Here is the input specification data:\n\n{question}\n\nIMPORTANT: Your response must be a valid, complete JSON object. Don't include markdown formatting like ```json or ``` in your response."}
+        ],
+        temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
+        max_tokens=30000  # Maksymalna długość odpowiedzi
+    )
+
+    raw_response = response.choices[0].message.content
+
+    # Usuwanie formatowania Markdown, jeśli występuje
+    cleaned_response = raw_response.strip()
+    if cleaned_response.startswith('```json'):
+        cleaned_response = cleaned_response.replace('```json', '', 1).strip()
+    elif cleaned_response.startswith('```'):
+        cleaned_response = cleaned_response.replace('```', '', 1).strip()
+
+    if cleaned_response.endswith('```'):
+        cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
+
+    return cleaned_response
+
 def analyze_and_save(data, filename_prefix, save_function, final=False, max_attempts=2):
     """
     Analizuje dane specyfikacji przy użyciu AI i zapisuje wynik.
@@ -176,6 +263,70 @@ def analyze_and_save(data, filename_prefix, save_function, final=False, max_atte
             # Dodajemy instrukcję o limicie odpowiedzi
             prompt_addition = "\nIMPORTANT: Your response must be a valid, complete JSON object. Don't truncate your response."
             ai_response = ask_gpt(json.dumps(data, ensure_ascii=False) + prompt_addition, final)
+
+            # Zapisz surową odpowiedź dla celów diagnostycznych
+            save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response.json')
+
+            try:
+                # Próba analizy JSON
+                ai_json = json.loads(ai_response)
+                save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+
+                # Spróbuj wyczyścić odpowiedź - usuń tekst przed i po JSON
+                cleaned_response = ai_response.strip()
+                if cleaned_response.startswith('```json'):
+                    cleaned_response = cleaned_response.replace('```json', '', 1).strip()
+                if cleaned_response.endswith('```'):
+                    cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
+
+                # Ponowna próba parsowania
+                try:
+                    ai_json = json.loads(cleaned_response)
+                    save_function(ai_json, f'{filename_prefix}_ai_analysis_cleaned.json')
+                    return ai_json
+                except json.JSONDecodeError:
+                    # Jeśli jesteśmy w ostatniej próbie, zwróć pusty słownik
+                    if attempt == max_attempts - 1:
+                        print(f"Wszystkie próby nieudane dla {filename_prefix}")
+                        error_result = {}
+                        save_function({"error": "Invalid JSON response after all attempts",
+                                       "response": ai_response},
+                                      f'{filename_prefix}_ai_analysis_error.json')
+                        return error_result
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+            if attempt == max_attempts - 1:
+                error_result = {}
+                save_function({"error": str(e)}, f'{filename_prefix}_ai_analysis_error.json')
+                return error_result
+
+    # Jeśli wszystkie próby się nie powiodły, zwróć pusty słownik
+    return {}
+
+
+def analyze_and_save_aka(category, current_structure, data, filename_prefix, save_function, final=False, max_attempts=2):
+    """
+    Analizuje dane specyfikacji przy użyciu AI i zapisuje wynik.
+
+    Args:
+        current_structure: Aktualna formatka
+        data: Dane do analizy
+        filename_prefix: Prefiks nazwy pliku do zapisu
+        save_function: Funkcja do zapisywania danych
+        final: Czy to jest ostateczna analiza (wpływa na liczbę wymaganych przykładów)
+        max_attempts: Maksymalna liczba prób w przypadku niepoprawnej odpowiedzi
+
+    Returns:
+        dict: Wynik analizy AI (jako obiekt JSON) lub pusty słownik w przypadku błędu
+    """
+    for attempt in range(max_attempts):
+        try:
+            # Dodajemy instrukcję o limicie odpowiedzi
+            prompt_addition = "\nIMPORTANT: Your response must be a valid, complete JSON object. Don't truncate your response."
+            ai_response = ask_gpt_aka(json.dumps(current_structure, ensure_ascii=False, indent=2) + "\n\n" + json.dumps(data, ensure_ascii=False, indent=2) + "\n\n" + prompt_addition, category, final)
 
             # Zapisz surową odpowiedź dla celów diagnostycznych
             save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response.json')

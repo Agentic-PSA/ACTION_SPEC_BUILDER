@@ -55,17 +55,33 @@ async def send_message(session, message, data):
 
 def is_ean_valid(ean):
     if not ean or not isinstance(ean, str):
+        print("is_ean_valid 1")
         return False
 
-    # Szybkie sprawdzenie podstawowych warunków
+    # # Szybkie sprawdzenie podstawowych warunków
+    # if len(ean) < 8 or len(ean) > 13 or not ean.isdigit():
+    #     print("is_ean_valid 1")
+    #     return False
+
+    # # EAN-13 lub EAN-8 check
+    # digits = [int(d) for d in ean]
+    # checksum = sum(digits[-2::-2]) + sum(d * 3 for d in digits[-3::-2])
+    # print("is_ean_valid 1")
+    # return (10 - (checksum % 10)) % 10 == digits[-1]
     if len(ean) < 8 or len(ean) > 13 or not ean.isdigit():
         return False
-
-    # EAN-13 lub EAN-8 check
-    digits = [int(d) for d in ean]
-    checksum = sum(digits[-2::-2]) + sum(d * 3 for d in digits[-3::-2])
-    return (10 - (checksum % 10)) % 10 == digits[-1]
-
+ 
+    # Dodaj zera na początku, aby uzyskać długość 13 cyfr
+    ean = ean.zfill(13)
+ 
+    sum_even = sum(int(ean[i]) for i in range(0, 12, 2))
+    sum_odd = sum(int(ean[i]) for i in range(1, 12, 2))
+    total_sum = sum_even + sum_odd * 3
+ 
+    # Oblicz cyfrę kontrolną
+    check_digit = (10 - (total_sum % 10)) % 10
+ 
+    return check_digit == int(ean[-1])
 
 def generate_ean_variants(ean):
     # Bardziej zwięzła implementacja

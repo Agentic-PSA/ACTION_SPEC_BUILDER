@@ -1,4 +1,3 @@
-# src/routes/etl2.py
 import datetime
 import json
 import os
@@ -6,7 +5,7 @@ import os
 import polars as pl
 from starlette.responses import JSONResponse
 
-from src.services.ai_service import ask_gpt_custom
+from src.services.ai_service import ask_gpt_custom, ask_sonoma_custom
 from src.services.file_service import save_json_file
 
 
@@ -225,44 +224,44 @@ def merge_groups(current_merged, move_groups_data):
                     print(f"Przeniesiono grupę '{child_group}' do nadrzędnej '{parent_group}'")
     return current_merged
 
+
 def find_hallucinations(combined_groups, block):
-    """
-    Zwraca dict z halucynacjami:
-    {
-      "nazwa_grupy": [["Podkategoria", "Typ produktu"], ...]
-    }
-    """
-    # wszystkie dozwolone pary z tabeli
-    available = set(
-        (row["Podkategoria"], row["Typ produktu"])
-        for _, row in block.iterrows()
-    )
+    # Polars: wyciągamy pary (Podkategoria, Typ produktu)
+    available = set(tuple(x) for x in block.select(["Podkategoria", "Typ produktu"]).to_numpy())
 
     hallucinations = {}
     for gname, items in combined_groups.items():
-        for podkat, typ in items:
-            if (podkat, typ) not in available:
-                hallucinations.setdefault(gname, []).append([podkat, typ])
+        for item in items:
+            # Sprawdź, czy item to lista z co najmniej 2 elementami
+            if isinstance(item, list) and len(item) >= 2:
+                podkat, typ = item[0], item[1]
+                if (podkat, typ) not in available:
+                    hallucinations.setdefault(gname, []).append([podkat, typ])
+            else:
+                print(f"UWAGA: Nieprawidłowy format elementu w grupie '{gname}': {item}")
+
     return hallucinations
 
-def classify_block(system_prompt, block, current_merged, idx, save_fn):
+async def classify_block(system_prompt, block, current_merged, idx, save_fn):
     user_prompt = f"""
 Masz tabelę z kolumnami: Kategoria, Podkategoria, Typ produktu, Grupy typów produktu.
 
 Twoim zadaniem jest zwrócić JSON z dwoma kluczami:
 
-1️⃣ "groups": wszystkie unikalne kombinacje (Podkategoria, Typ produktu), które **nie pasują do żadnej z istniejących grup**.
+1. "groups": wszystkie unikalne kombinacje (Podkategoria, Typ produktu), które nie pasują do żadnej z istniejących grup.
    - Każda kombinacja musi być w JSON-ie.
-   - Nazwy grup muszą być opisowe i precyzyjne (np. "Akcesoria do grillowania", "Adaptery sieciowe").
+   - Nazwy grup muszą być opisowe i precyzyjne, np. "Akcesoria do grillowania", "Adaptery sieciowe".
    - Nie używaj placeholderów typu 'inna_grupa', 'grupa1', 'nowa_grupa'.
+   - Cel: te grupy będą później użyte do generowania formatki parametrów technicznych. Jedna formatka może obejmować kilka pokrewnych kategorii. Staraj się minimalizować liczbę różnych formatek.
 
-2️⃣ "old_groups": wszystkie kombinacje, które wyglądają jakby należały do którejś z istniejących grup.
+2. "old_groups": wszystkie kombinacje, które pasują do istniejących grup.
    - Lista istniejących grup: {current_merged.keys()}.
    - Jeśli kombinacja pasuje do którejś z tych grup, dodaj ją do "old_groups" zamiast do "groups".
 
-⚠️ Każda kombinacja z tabeli musi trafić dokładnie do jednej kategorii: "groups" albo "old_groups".
-⚠️ Kolumna "Grupy typów produktu" z tabeli jest tylko luźną wskazówką – nie traktuj jej jako prawdy.
-⚠️ Nie łącz różnych rodzajów akcesoriów ani produktów w jedną grupę (np. grillowanie ≠ łazienka ≠ rowery).
+Wymagania:
+- Każda kombinacja z tabeli musi trafić dokładnie do jednej kategorii: "groups" albo "old_groups".
+- Kolumna "Grupy typów produktu" w tabeli jest tylko wskazówką – nie traktuj jej jako prawdy.
+- Nie łącz różnych rodzajów produktów ani akcesoriów w jedną grupę (np. grillowanie ≠ łazienka ≠ rowery).
 
 Zwróć wyłącznie JSON w tym formacie:
 
@@ -284,7 +283,7 @@ Tabela wejściowa:
     try:
         save_prompt(f"SYSTEM:\n{system_prompt}\n\nUSER:\n{user_prompt}",
                     "classify", idx, os.path.dirname(save_fn({}, "dummy.json")))
-        result = ask_gpt_custom(system_prompt, user_prompt, model="gpt-4.1")
+        result = await ask_sonoma_custom(system_prompt, user_prompt)
         save_fn({"raw_response": result}, f"block_{idx + 1}_raw_response.json")
         print('NEW')
         return json.loads(result)
@@ -293,7 +292,7 @@ Tabela wejściowa:
         return None
 
 
-def handle_old_groups(system_prompt, result_json, current_merged, idx, save_fn, merge=True):
+async def handle_old_groups(system_prompt, result_json, current_merged, idx, save_fn, merge=True):
     # Jeśli nie ma old_groups, tylko update
     if 'old_groups' not in result_json or not result_json['old_groups']:
         return {}, current_merged  # brak old_groups → nic nie robimy
@@ -326,7 +325,7 @@ Zwróć JSON tylko z kluczem "groups", gdzie każdy produkt jest przypisany do d
 """
     save_prompt(f"SYSTEM:\n{system_prompt}\n\nUSER:\n{reclassify_prompt}",
                 "old", idx, os.path.dirname(save_fn({}, "dummy.json")))
-    reclassify_result = ask_gpt_custom(system_prompt, reclassify_prompt, model="gpt-4.1")
+    reclassify_result = await ask_sonoma_custom(system_prompt, reclassify_prompt)
     save_fn({"raw_reclassify_response": reclassify_result}, f"block_{idx + 1}_reclassify_raw.json")
 
     try:
@@ -366,8 +365,16 @@ def save_prompt(prompt, prompt_type, idx, output_dir):
 
     return filepath
 
-def validate_with_agent3(groups_from_agent1, groups_from_agent2, block, system_prompt, idx, save_fn):
+
+import json
+import os
+
+
+async def validate_with_agent3(groups_from_agent1, groups_from_agent2, block, system_prompt, idx, save_fn):
     combined_groups = {**groups_from_agent1, **groups_from_agent2}
+    hallucinations = find_hallucinations(combined_groups, block)
+
+
 
     validation_prompt = f"""
 Masz oryginalną tabelę typów produktów:
@@ -379,13 +386,8 @@ Masz też propozycje grupowania z wcześniejszych kroków:
 {json.dumps(combined_groups, indent=2, ensure_ascii=False)}
 
 Twoje zadania:
-Struktura grup z poprzednich kroków wygląda tak:
-
-['nowa_grupa1': [['Podkategoria', 'Typ produktu'], ...], 'nowa_grupa2': [...], ...]
-
-1. Sprawdź, czy w tych grupach pojawiły się elementy zmyślone, których nie ma w tabeli wejściowej → umieść je w kluczu "hallucinations".
-2. Kolumna "Grupy typów produktu" z tabeli jest tylko luźną wskazówką – nie traktuj jej jako prawdy.
-3. Sprawdź, które elementy z tabeli wejściowej zostały pominięte. Dla tych elementów **stwórz nowe propozycje grupowania** i umieść je wyłącznie w kluczu "groups".
+1. Sprawdź, które elementy z tabeli wejściowej zostały pominięte (ale pomiń te, które już są w grupach).
+2. Dla tych elementów **stwórz nowe propozycje grupowania** i umieść je w kluczu "groups".
    - **Nie zmieniaj istniejących grup ani ich zawartości.**
    - Do "groups" trafiają tylko elementy, które brakują w dotychczasowych grupach.
 
@@ -394,32 +396,41 @@ Wynikowy JSON:
 {{
   "groups": {{
     "Nazwa nowej grupy": [["Podkategoria", "Typ produktu"], ...]
-  }},
-  "hallucinations": {{"grupa":["Podkategoria", "Typ produktu"], ...}},
+  }}
 }}
 """
 
-    save_prompt(f"SYSTEM:\n{system_prompt}\n\nUSER:\n{validation_prompt}",
-                              "halu", idx, os.path.dirname(save_fn({}, "dummy.json")))
+    save_prompt(
+        f"SYSTEM:\n{system_prompt}\n\nUSER:\n{validation_prompt}",
+        "groups", idx, os.path.dirname(save_fn({}, "dummy.json"))
+    )
 
-    validation_result = ask_gpt_custom(system_prompt, validation_prompt, model="gpt-4.1")
+    validation_result = await ask_sonoma_custom(system_prompt, validation_prompt)
     save_fn({"raw_validation_response": validation_result}, f"block_{idx + 1}_validation_raw.json")
 
     try:
         validation_json = json.loads(validation_result)
         save_fn(validation_json, f"block_{idx + 1}_validated.json")
 
-        hallucinations = validation_json.get("hallucinations", {})
-        missing = validation_json.get("missing", [])
         groups_for_missing = validation_json.get("groups", {})
 
-        print(f"Blok {idx + 1}: Walidacja – {len(hallucinations)} halucynacji, {len(missing)} brakujących elementów, {sum(len(v) for v in groups_for_missing.values())} propozycji")
+        # policz brakujące lokalnie
+        all_in_groups = {tuple(x) for items in combined_groups.values() for x in items}
+        missing_count = sum(len(v) for v in groups_for_missing.values())
 
-        return groups_for_missing, hallucinations, missing
+        print(
+            f"Blok {idx + 1}: Walidacja – "
+            f"{sum(len(v) for v in hallucinations.values())} halucynacji, "
+            f"{missing_count} brakujących elementów (wg GPT), "
+            f"{missing_count} propozycji"
+        )
+
+        return groups_for_missing, hallucinations, missing_count
 
     except json.JSONDecodeError as e:
         print(f"Błąd parsowania JSON walidacji w bloku {idx + 1}: {e}")
-        return {}, [], []
+        return {}, hallucinations, []
+
 
 def build_groups_context(current_merged, old_groups):
     referenced_groups = set()
@@ -512,7 +523,7 @@ async def group_types(request):
 
     for idx, block in enumerate(types_blocks):
         # --- Etap 1: klasyfikacja bloku ---
-        result_json = classify_block(system_prompt, block, current_merged, idx, save_to_output_dir)
+        result_json = await classify_block(system_prompt, block, current_merged, idx, save_to_output_dir)
         save_to_output_dir(result_json, f"block_{idx + 1}_response.json")
         if not result_json:
             continue
@@ -521,12 +532,12 @@ async def group_types(request):
         print(f"Blok {idx + 1}: znaleziono {items_count} elementów w {len(result_json['groups'])} nowych grupach")
 
         # --- Etap 2: reklasyfikacja old_groups (ale jeszcze NIE mergujemy) ---
-        groups_stage2, _ = handle_old_groups(
+        groups_stage2, _ = await handle_old_groups(
             system_prompt, result_json, current_merged, idx, save_to_output_dir, merge=False
         )
 
         # --- Etap 3: walidacja (hallucinations + missing) ---
-        groups_stage3, hallucinations, missing = validate_with_agent3(
+        groups_stage3, hallucinations, missing = await validate_with_agent3(
             result_json["groups"], groups_stage2, block, system_prompt, idx, save_to_output_dir
         )
 

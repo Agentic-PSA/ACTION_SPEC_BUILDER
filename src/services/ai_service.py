@@ -134,6 +134,7 @@ def ask_gpt_custom(system_prompt, content, model="gpt-4.1", api_key=GPT_KEY):
             {"role": "user", "content": content}
         ],
         temperature=0.00,  # Niska temperatura dla deterministycznych wyników
+        seed= 4944116822809979520,
         max_tokens=32000,  # Maksymalna długość odpowiedzi
         response_format = {"type": "json_object"}
     )

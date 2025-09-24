@@ -5,8 +5,8 @@ import asyncio
 import json
 import os
 from src.services.ean_service import read_eans, send_message, is_ean_valid, generate_ean_variants, read_eans_from_file
-from src.services.specification_service import merge_specifications, combine_specifications_with_values, normalize_specification, normalize_specification_aka, llm_structure_aka
-from src.services.ai_service import analyze_and_save, ai_analyze_and_create_form, ai_add_main_data
+from src.services.specification_service import merge_specifications, combine_specifications_with_values, normalize_specification 
+from src.services.ai_service import analyze_and_save, ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order
 from src.services.file_service import save_json_file
 
 import datetime
@@ -308,7 +308,7 @@ async def etl2_create_spec_aka(request):
         products = {}
         total = len(data)
         ai_cnt = 0
-        #total = 2
+        total = 2
 
         for i, (k, v) in enumerate(data.items(), start=1):
             if i > total:
@@ -407,18 +407,39 @@ async def etl2_create_spec_aka(request):
                 
             print(f"Analiz AI total: {ai_cnt}")
 
-
-        # stwórz dane podstawowe
-        all_params_with_main_data = ai_add_main_data(category_desc, all_params, f'main_data', save_to_output_dir)
-        #save_to_output_dir(all_params_with_main_data, f'zz_all_params_after_with_main_data')
-
-        wihout_examples = {category: list(params.keys()) for category, params in all_params.items()}
-        main_data_wihout_examples = {category: list(params.keys()) for category, params in all_params_with_main_data.items()}
-        final_specs = {**main_data_wihout_examples, **wihout_examples}
-        save_to_output_dir(final_specs, f'zz_specs_final')
+        save_to_output_dir(all_params, f'zz_all_params')
+        save_to_output_dir(products, f'zz_products')
         save_to_output_dir(translates, f'zz_translates_final')
         save_to_output_dir(params_for_categories, f'zz_categories_final')
-        save_to_output_dir(products, f'zz_products_final')
+
+        # usuń duplikaty
+        to_remove = ai_remove_duplicates(category_desc, all_params, f'without_duplicates', save_to_output_dir)
+        save_to_output_dir(to_remove, f'zz_to_remove_final')
+        for section, params in to_remove.items():
+            if section in all_params:
+                for param, reason in params.items():  # 'reason' to wartość z to_remove
+                    # sprawdzamy, czy w to_remove wartość zaczyna się od "USUN"
+                    if isinstance(reason, str) and reason.strip().startswith("USUN"):
+                        if param in all_params[section]:
+                            del all_params[section][param]
+        save_to_output_dir(all_params, f'zz_all_params_without_duplicates')
+
+        # ustal kolejność
+        ordered = ai_set_order(category_desc, all_params, f'ordered', save_to_output_dir)
+        save_to_output_dir(ordered, f'zz_all_params_with_order')
+
+        # stwórz dane podstawowe i oczyść z danych przykładowych
+        main_data = ai_add_main_data(category_desc, ordered, f'main_data', save_to_output_dir)
+        main_data = {
+            "Dane podstawowe": main_data
+        }
+        save_to_output_dir(main_data, f'zz_all_params_with_main_data')
+        without_examples = {category: list(params.keys()) for category, params in all_params.items()}
+        final_specs = {**main_data, **without_examples}
+        #main_data_wihout_examples = {category: list(params.keys()) for category, params in main_data.items()}
+        #final_specs = {**main_data_wihout_examples, **without_examples}
+        save_to_output_dir(final_specs, f'zz_specs_final')
+        
 
     return JSONResponse({
         "result": True

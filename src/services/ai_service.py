@@ -336,7 +336,7 @@ Teraz przetwórz dane wprowadzone przez użytkownika (JSON) i zwróć tylko wyma
             try:
                 # Próba analizy JSON
                 ai_json = json.loads(ai_response)
-                save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
                 return ai_json
             except json.JSONDecodeError as e:
                 print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
@@ -376,10 +376,28 @@ Teraz przetwórz dane wprowadzone przez użytkownika (JSON) i zwróć tylko wyma
 def ai_add_main_data(category, current_structure, filename_prefix, save_function, max_attempts=2):
     prompt = f"""
 Analizujesz formatkę opisową produktów w kategorii "{category}".
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }}
+}}
 Na podstawie przesłanej formatki zdefiniuj, które pola powinny znaleźć się w sekcji Dane podstawowe. 
 Są to kluczowe parametry, po których najczęściej dokonuje się wyboru danego produktu. 
 Liczba pól powinna być ograniczona – wybierz tylko te najważniejsze, które realnie wpływają na decyzję zakupową. 
 Pamiętaj, że wszystkie pozostałe pola nadal będą widoczne w szczegółowym opisie poniżej, więc tu mają być wyeksponowane tylko najważniejsze informacje.
+
+WYJŚCIE: Struktura danych, w których kluczem jest nazwa parametru, a wartością nazwa sekcji, do której należy
+Struktura danych wyjściowych:
+{{
+    "Pierwszy parametr": "Sekcja 1",
+    "Drugi parametr": "Sekcja 3"
+}}
 
 Now process the user input (JSON) and return only the required JSON output.
 
@@ -388,46 +406,115 @@ Now process the user input (JSON) and return only the required JSON output.
     for attempt in range(max_attempts):
         try:
             ai_response = ask_gpt_aka(question, prompt)
-
-            # Zapisz surową odpowiedź dla celów diagnostycznych
-            # save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response.json')
-
             try:
-                # Próba analizy JSON
                 ai_json = json.loads(ai_response)
-                save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
                 return ai_json
             except json.JSONDecodeError as e:
                 print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
-
-                # Spróbuj wyczyścić odpowiedź - usuń tekst przed i po JSON
-                cleaned_response = ai_response.strip()
-                if cleaned_response.startswith('```json'):
-                    cleaned_response = cleaned_response.replace('```json', '', 1).strip()
-                if cleaned_response.endswith('```'):
-                    cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
-
-                # Ponowna próba parsowania
-                try:
-                    ai_json = json.loads(cleaned_response)
-                    save_function(ai_json, f'{filename_prefix}_ai_analysis_cleaned.json')
-                    return ai_json
-                except json.JSONDecodeError:
-                    # Jeśli jesteśmy w ostatniej próbie, zwróć pusty słownik
-                    if attempt == max_attempts - 1:
-                        print(f"Wszystkie próby nieudane dla {filename_prefix}")
-                        error_result = {}
-                        save_function({"error": "Invalid JSON response after all attempts",
-                                       "response": ai_response},
-                                      f'{filename_prefix}_ai_analysis_error.json')
-                        return error_result
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
         except Exception as e:
             print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
-            if attempt == max_attempts - 1:
-                error_result = {}
-                save_function({"error": str(e)}, f'{filename_prefix}_ai_analysis_error.json')
-                return error_result
 
-    # Jeśli wszystkie próby się nie powiodły, zwróć pusty słownik
     return {}
 
+
+def ai_remove_duplicates(category, current_structure, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}".
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }}
+}}
+Na podstawie przesłanej formatki zdefiniuj, które parametry w sekcji nie pasują do sekcji i powinny zostać usunięte. 
+Na przykład "kolor" nie powinien występować w sekcji "wymiary" - należy go bezwzględnie usunąć lub przesunąć w inne miejsce
+Mogą być również duplikaty, wskazujące na ten sam parametr ale w kilku sekcjach 
+Najlepiej umiejscowiony atrybut powinien pozostać - NIE wskazuj go - nie możemy usunąć wszystkich wystąpień.
+Nie możemy dopuścić do sytuacji, że całkowicie pozbędziemy się danych.
+Pamiętaj, że np. "kolor oparcia nie jest duplikatem "kolor siedzenia".
+
+WYJŚCIE: 
+Przetworzony zestaw danych wejściowych tylko z listą proponowanych atrybutów do usunięcia 
+Zamiast przykładowych wartości w kilku / kilkunastu słowach podaj powód swojej decyzji. Rozpocznij od słów:
+USUN - jeśli rekomendujesz usunięcie
+ZOSTAW - jeśli rekomendujesz pozostawienie
+PRZESUN DO nazwa_sekcji - jesli rekomendujesz przesuniecie do innej sekcji
+Zachowaj strukturę formatki (atrybuty powinny być w odpowiednich sekcjach)
+NIE 
+
+Struktura danych wyjściowych (dane do potencjalnego usunięcia):
+{{
+    "Sekcja 1": {{
+        "Drugi parametr": "powód usunięcia"
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": "powód usunięcia"
+    }}
+}}
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2)+ "\n\n"
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+
+    return {}
+
+def ai_set_order(category, current_structure, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}".
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }}
+}}
+Na podstawie przesłanej formatki zdefiniuj, które sekcje powinny być prezentowane jako pierwsze. 
+Są to kluczowe parametry, po których najczęściej dokonuje się wyboru danego produktu. 
+Zachowaj dowiązanie atrybutów do sekcji - zmień tylko kolejność w ramach sekcji i/lub kolejność całych sekcji.
+Sekcje związane z wymiarami zawsze daj jako ostatnie.
+
+Struktura danych wyjściowych: taka sama jak danych wejściowych, ale we właściwej kolejności
+
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2)+ "\n\n"
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+
+    return {}

@@ -1,82 +1,29 @@
 # src/services/ean_service.py
-
-import time
-import hashlib
 import json
-import requests
 import aiohttp
+import asyncio
+import base64
+import requests
+from functools import lru_cache
 
-async def get_panel_data(ean: str):
-    user = "BLUEBOX"
-    key = "ZUNutFkVddOUf5El6udSUJIxYPFrys83"
-    current_time = int(time.time())
-    data = {
-        "user": user,
-        "key": hashlib.md5((key + str(current_time)).encode()).hexdigest(),
-        "time": current_time,
-        "requestType": "GetProduct",
-        "product_ean": ean
+
+@lru_cache(maxsize=100)
+def get_token(username="admin", password="admin"):
+    url = "http://172.16.10.3:31008/openid/token"
+    headers = {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Authorization': 'Basic ' + base64.b64encode(b'spiffworkflow-backend:my_open_id_secret_key').decode('utf-8')
     }
-    url = "https://icecat.action.pl/api/GetProduct"
-    headers = {'Content-Type': 'application/json'}
-    async with aiohttp.ClientSession() as session:
-        async with session.post(url, headers=headers, json=data) as response:
-            try:
-                panel_response = await response.json()
-                panel_data = panel_response.get("product", {})
-            except Exception:
-                panel_data = {}
-    return panel_data
+    data = {
+        'grant_type': 'password',
+        'code': 'admin:this_is_not_secure_do_not_use_in_production',
+        'username': username,
+        'password': password,
+        'client_id': 'spiffworkflow-backend'
+    }
 
-def get_specification(panel_data):
-    specification_languages = ["PL", "EN", "DE"]
-    panel_data_specification = panel_data.get("specification", [])
-
-    specification = []
-    specification_values = {lang: {} for lang in specification_languages}
-
-    for section in panel_data_specification:
-        section_name = section.get("section_name", {})
-        section_name = {key: section_name[key] for key in specification_languages if key in section_name}
-
-        attributes = section.get("attributes", [])
-        filtered_attributes = []
-
-        for attribute in attributes:
-            attribute_name = attribute.get("attribute_name", {})
-            attribute_name = {key: attribute_name[key] for key in specification_languages if key in attribute_name}
-
-            values = attribute.get("values", {})
-            if isinstance(values, list) and values:
-                values = values[0]
-            if isinstance(values, dict):
-                values = values.get("attribute_value_name", {})
-
-                for lang in specification_languages:
-                    if lang in values and lang in attribute_name:
-                        # Tworzymy strukturę sekcja -> parametr -> wartość
-                        if section_name.get(lang) not in specification_values[lang]:
-                            specification_values[lang][section_name[lang]] = {}
-                        specification_values[lang][section_name[lang]][attribute_name[lang]] = values[lang]
-
-            filtered_attributes.append(attribute_name)
-
-        filtered_section = {
-            "section_name": section_name,
-            "attributes": filtered_attributes
-        }
-        specification.append(filtered_section)
-
-    panel_data["specification_values"] = specification_values
-    delete_keys = ["categories", "images", "multimedia"]
-
-    for key in delete_keys:
-        if key in panel_data:
-            del panel_data[key]
-    return specification
-
-
-
+    response = requests.post(url, headers=headers, data=data)
+    return response.json().get("access_token")
 
 
 async def read_eans(data):
@@ -90,14 +37,20 @@ async def read_eans_from_file(file_path):
     return ean_dict
 
 async def send_message(session, message, data):
-    panel_output_data = await get_panel_data(data)
-    specification = get_specification(panel_output_data)
-    # Request
-
-    return {
-        "specification": specification,
-        "panel_data": panel_output_data,
+    headers = {
+        'Authorization': f'Bearer {get_token()}',
+        'Content-Type': 'application/json'
     }
+
+    try:
+        async with session.post(f'http://172.16.10.3:31008/v1.0/messages/{message}',
+                               headers=headers, json=data, timeout=30) as response:
+            response_data = await response.json()
+            if "error_code" in response_data:
+                return None
+            return response_data['task_data']
+    except (aiohttp.ClientError, asyncio.TimeoutError):
+        return None
 
 
 def is_ean_valid(ean):

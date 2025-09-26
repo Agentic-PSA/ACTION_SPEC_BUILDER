@@ -6,7 +6,7 @@ import json
 import os
 from src.services.ean_service import read_eans, send_message, is_ean_valid, generate_ean_variants, read_eans_from_file
 from src.services.specification_service import merge_specifications, combine_specifications_with_values, normalize_specification 
-from src.services.ai_service import analyze_and_save, ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order
+from src.services.ai_service import analyze_and_save, ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order, ai_sugest_section_names
 from src.services.file_service import save_json_file
 
 import datetime
@@ -264,11 +264,9 @@ async def etl2_create_spec_aka(request):
     # Utworzenie katalogu wyjściowego
     output_dir = create_output_directory()
 
-    # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
-    def save_to_output_dir(data, filename):
-        file_path = os.path.join(output_dir, filename)
-        save_json_file(data, file_path)
-        return file_path
+    # mapowanie
+    with open("data/section_mapping.json", "r", encoding="utf-8") as f:
+        section_mapping = json.load(f)
 
     #data_lcd = await read_eans_from_file('data/TVA-LCD.json')
     #data_oled = await read_eans_from_file('data/TVA-OLE.json')
@@ -277,27 +275,38 @@ async def etl2_create_spec_aka(request):
     #data = {**{d['gtin']: d for d in data_lcd}, **{d['gtin']: d for d in data_oled}}
 
     # telewizory
+    # category_desc = "Telewizory"
     # files = [
     #     'data/TVA-LCD.json',
     #     'data/TVA-OLE.json',
     # ]
     # grzejniki
+    # category_desc = "Grzejniki"
     # files = [
     #     'data/AGD-GKO.json',
     #     'data/AGD-GRO.json',
     # ]
     # golarki
+    category_desc = "Golarki"
     files = [
         'data/AGD-GOL.json',
         'data/AGD-GDU.json',
         'data/AGD-STR.json',
     ]
-    category_desc = "Golarki"
-    data = {}
 
+    # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
+    def save_to_output_dir(data, filename):
+        file_path = os.path.join(output_dir, f'{category_desc}_{filename}')
+        save_json_file(data, file_path)
+        return file_path
+
+
+    data = {}
     for file_path in files:
         records = await read_eans_from_file(file_path)
         data.update({d['gtin']: d for d in records})
+        # for d in records[:5]:
+        #     data[d['gtin']] = d
 
     connector = aiohttp.TCPConnector(limit=30)
 
@@ -308,7 +317,8 @@ async def etl2_create_spec_aka(request):
         products = {}
         total = len(data)
         ai_cnt = 0
-        total = 2
+        #total = 10
+
 
         for i, (k, v) in enumerate(data.items(), start=1):
             if i > total:
@@ -318,6 +328,7 @@ async def etl2_create_spec_aka(request):
                 continue
             params = result['panel']["specification_values"]["PL"]
             products[v['gtin']] = params
+
             array_params = {
                 category: {k: [v] for k, v in specs.items()}
                 for category, specs in params.items()
@@ -359,7 +370,7 @@ async def etl2_create_spec_aka(request):
                 #save_to_output_dir(translates, f'translates_aa_before_{i}')
                 for category, params in potential_new.items():
                     ai_cnt += 1
-                    print(f"Analiza AI {ai_cnt}")
+                    print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Analiza AI {ai_cnt}")
                     #def ai_analyze_and_create_form(category, section, current_structure, data, filename_prefix, save_function, final=False, max_attempts=2):
                     ai_analysis = ai_analyze_and_create_form(category_desc, category, all_params[category], params, f'item_{i}', save_to_output_dir)
                     #print(ai_analysis)
@@ -405,14 +416,48 @@ async def etl2_create_spec_aka(request):
                 #save_to_output_dir(translates, f'translates_after_{i}')
                 
                 
-            print(f"Analiz AI total: {ai_cnt}")
+        print(f"Analiz AI total: {ai_cnt}")
 
         save_to_output_dir(all_params, f'zz_all_params')
         save_to_output_dir(products, f'zz_products')
         save_to_output_dir(translates, f'zz_translates_final')
         save_to_output_dir(params_for_categories, f'zz_categories_final')
 
+        # mapowanie
+        print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Mapuję")
+        print(section_mapping)
+        for section, target in list(section_mapping.items()):
+            if section in all_params:
+                if target == "":
+                    # usuń całą sekcję
+                    print("usuwam sekcje", section)
+                    del all_params[section]
+                else:
+                    # jeśli sekcji docelowej nie ma – utwórz pustą
+                    if target not in all_params:
+                        all_params[target] = {}
+                    # scal parametry
+                    for param, value in all_params[section].items():
+                        if param in all_params[target]:
+                            existing = all_params[target][param]
+                            # jeśli oba są listami → połącz unikalnie
+                            if isinstance(existing, list) and isinstance(value, list):
+                                print("łączę 1", section)
+                                all_params[target][param] = list(set(existing) | set(value))
+                            # jeśli nie są listami → nadpisz
+                            else:
+                                print("łączę 2", section)
+                                all_params[target][param] = value
+                        else:
+                            print("łączę 3", section)
+                            all_params[target][param] = value
+                    # usuń starą sekcję
+                    print("usuwam sekcje", section)
+                    del all_params[section]
+        save_to_output_dir(all_params, f'zz_all_params_after_mapping')
+
         # usuń duplikaty
+        print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Usuwam duplikaty (AI)")
         to_remove = ai_remove_duplicates(category_desc, all_params, f'without_duplicates', save_to_output_dir)
         save_to_output_dir(to_remove, f'zz_to_remove_final')
         for section, params in to_remove.items():
@@ -424,17 +469,26 @@ async def etl2_create_spec_aka(request):
                             del all_params[section][param]
         save_to_output_dir(all_params, f'zz_all_params_without_duplicates')
 
+        #zasugeruj nazwy zmian sekcji
+        print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Zmiany nazw sekcji (AI)")
+        sugest_section_names = ai_sugest_section_names(category_desc, all_params, f'zz_new_section_names_final', save_to_output_dir)
+        save_to_output_dir(sugest_section_names, f'zz_new_section_names_final')
+
         # ustal kolejność
+        print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Ustalam kolejność (AI)")
         ordered = ai_set_order(category_desc, all_params, f'ordered', save_to_output_dir)
         save_to_output_dir(ordered, f'zz_all_params_with_order')
 
         # stwórz dane podstawowe i oczyść z danych przykładowych
+        print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Tworzę dane podstawowe (AI)")
         main_data = ai_add_main_data(category_desc, ordered, f'main_data', save_to_output_dir)
         main_data = {
             "Dane podstawowe": main_data
         }
         save_to_output_dir(main_data, f'zz_all_params_with_main_data')
-        without_examples = {category: list(params.keys()) for category, params in all_params.items()}
+
+        print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Tworzę finalną formatkę")
+        without_examples = {category: list(params.keys()) for category, params in ordered.items()}
         final_specs = {**main_data, **without_examples}
         #main_data_wihout_examples = {category: list(params.keys()) for category, params in main_data.items()}
         #final_specs = {**main_data_wihout_examples, **without_examples}

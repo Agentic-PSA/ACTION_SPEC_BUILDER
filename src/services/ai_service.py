@@ -4,6 +4,8 @@ import requests
 from functools import lru_cache
 import os
 from openai import OpenAI
+from httpx import ReadTimeout
+
 
 SONOMA_KEY = "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"
 GPT_KEY = "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"
@@ -177,34 +179,39 @@ def ask_gpt_aka(question, prompt, api_key=GPT_KEY):
 
     client = OpenAI(api_key=api_key)
 
-    response = client.chat.completions.create(
-        model="gpt-4.1",  # Używamy modelu GPT-4.1
-        messages=[
-            {"role": "system", "content": prompt},
-            {"role": "user",
-             "content": f"Dane wejściowe do analizy:\n\n{question}\n\nIMPORTANT: Your response must be a valid, complete JSON object. Don't include markdown formatting like ```json or ``` in your response. Don't truncate your response"
-            }
-        ],
-        temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
-        max_tokens=30000  # Maksymalna długość odpowiedzi
-    )
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4.1",  # Używamy modelu GPT-4.1
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user",
+                "content": f"Dane wejściowe do analizy:\n\n{question}\n\nIMPORTANT: Your response must be a valid, complete JSON object. Don't include markdown formatting like ```json or ``` in your response. Don't truncate your response"
+                }
+            ],
+            temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
+            max_tokens=30000,  # Maksymalna długość odpowiedzi
+            timeout=300 # max 5 minut
+        )
+        #print(prompt)
+        #print(question)
 
-    #print(prompt)
-    #print(question)
+        raw_response = response.choices[0].message.content
 
-    raw_response = response.choices[0].message.content
+        # Usuwanie formatowania Markdown, jeśli występuje
+        cleaned_response = raw_response.strip()
+        if cleaned_response.startswith('```json'):
+            cleaned_response = cleaned_response.replace('```json', '', 1).strip()
+        elif cleaned_response.startswith('```'):
+            cleaned_response = cleaned_response.replace('```', '', 1).strip()
 
-    # Usuwanie formatowania Markdown, jeśli występuje
-    cleaned_response = raw_response.strip()
-    if cleaned_response.startswith('```json'):
-        cleaned_response = cleaned_response.replace('```json', '', 1).strip()
-    elif cleaned_response.startswith('```'):
-        cleaned_response = cleaned_response.replace('```', '', 1).strip()
+        if cleaned_response.endswith('```'):
+            cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
 
-    if cleaned_response.endswith('```'):
-        cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
+        return cleaned_response
+    except ReadTimeout:
+        print("⏳ Timeout - serwer nie odpowiedział na czas (5 minut)")
+        return "⏳ Timeout - serwer nie odpowiedział na czas (5 minut)"
 
-    return cleaned_response
 
 def analyze_and_save(data, filename_prefix, save_function, final=False, max_attempts=2):
     """
@@ -422,6 +429,7 @@ Now process the user input (JSON) and return only the required JSON output.
 def ai_remove_duplicates(category, current_structure, filename_prefix, save_function, max_attempts=2):
     prompt = f"""
 Analizujesz formatkę opisową produktów w kategorii "{category}".
+
 Struktura danych wejściowych:
 {{
     "Sekcja 1": {{
@@ -433,29 +441,31 @@ Struktura danych wejściowych:
         "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
     }}
 }}
-Na podstawie przesłanej formatki zdefiniuj, które parametry w sekcji nie pasują do sekcji i powinny zostać usunięte. 
-Na przykład "kolor" nie powinien występować w sekcji "wymiary" - należy go bezwzględnie usunąć lub przesunąć w inne miejsce
-Mogą być również duplikaty, wskazujące na ten sam parametr ale w kilku sekcjach 
-Najlepiej umiejscowiony atrybut powinien pozostać - NIE wskazuj go - nie możemy usunąć wszystkich wystąpień.
-Nie możemy dopuścić do sytuacji, że całkowicie pozbędziemy się danych.
-Pamiętaj, że np. "kolor oparcia nie jest duplikatem "kolor siedzenia".
+
+Na podstawie przesłanej formatki
+1. Zdefiniuj, które parametry w sekcji nie pasują do sekcji i powinny zostać usunięte. 
+   - na przykład "kolor" nie powinien występować w sekcji "wymiary" czy też "wydajność" - należy go przesunąć w inne miejsce lub usunąć
+2. Znajdź duplikaty parametrów pomiędzy sekcjami. Jeden z nich (ten najlepiej pasujący) zarekomenduj do pozostawienia, pozostałe zarekomenduj do usunięcia
+   - pamiętaj, że np. parametr "kolor" w sekcji "Oparcie krzesła" nie jest duplikatem parametru "kolor" w sekcji "Siedzisko krzesła"
 
 WYJŚCIE: 
-Przetworzony zestaw danych wejściowych tylko z listą proponowanych atrybutów do usunięcia 
+Przetworzony zestaw danych wejściowych tylko z listą proponowanych atrybutów do zmiany / usunięcia 
 Zamiast przykładowych wartości w kilku / kilkunastu słowach podaj powód swojej decyzji. Rozpocznij od słów:
 USUN - jeśli rekomendujesz usunięcie
 ZOSTAW - jeśli rekomendujesz pozostawienie
 PRZESUN DO nazwa_sekcji - jesli rekomendujesz przesuniecie do innej sekcji
 Zachowaj strukturę formatki (atrybuty powinny być w odpowiednich sekcjach)
-NIE 
+
+ZAWSZE musi pozostać choć jedno wystąpienie zdublowanego atrybutu - NIE WOLNO wszystkich rekomendować do usunięcia.
 
 Struktura danych wyjściowych (dane do potencjalnego usunięcia):
 {{
     "Sekcja 1": {{
-        "Drugi parametr": "powód usunięcia"
+        "Drugi parametr": "USUN - powód usunięcia, np. parametr nie pasuje do sekcji",
     }},
     "Sekcja 2": {{
-        "Pierwszy parametr": "powód usunięcia"
+        "Pierwszy parametr": "USUN - powód usunięcia, np. podwojone wystąpienie",
+        "Piąty parametr": "ZOSTAW - powód pozosatwienia, np. najbardziej pasujący z trzech wystąpień"
     }}
 }}
 
@@ -489,16 +499,60 @@ Struktura danych wejściowych:
     }},
     "Sekcja 2": {{
         "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
-        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
     }}
 }}
 Na podstawie przesłanej formatki zdefiniuj, które sekcje powinny być prezentowane jako pierwsze. 
 Są to kluczowe parametry, po których najczęściej dokonuje się wyboru danego produktu. 
 Zachowaj dowiązanie atrybutów do sekcji - zmień tylko kolejność w ramach sekcji i/lub kolejność całych sekcji.
-Sekcje związane z wymiarami zawsze daj jako ostatnie.
+Sekcje związane z wagą ZAWSZE daj jako przed ostatnie.
+Sekcje związane z wymiarami ZAWSZE daj jako ostatnie.
 
 Struktura danych wyjściowych: taka sama jak danych wejściowych, ale we właściwej kolejności
 
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2)+ "\n\n"
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+
+    return {}
+
+
+def ai_sugest_section_names(category, current_structure, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}".
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+    }}
+}}
+Na podstawie przesłanej formatki zaproponuj nowe nazwy tych sekcji, których nazwy wydają się być nieadekwatne do danych.
+Nie zmieniaj wszystkich nazw - zaproponuj zmiany tylko dla tych najmniej adekwatnych.
+
+Struktura danych wyjściowych    :
+{{
+    "Sekcja 1": "Nowa nazwa sekcji 1",
+    "Sekcja 3": "Nowa nazwa sekcji 3"
+}}
 
 Now process the user input (JSON) and return only the required JSON output.
 

@@ -10,7 +10,7 @@ async def test_map_values():
     output_dir = create_output_directory()
 
     def load_block_file(idx):
-        file_path = os.path.join("output3", "2025-09-22_08-05-04", f"block_mapped_{idx}.json")
+        file_path = os.path.join("output3", "2025-09-23_08-09-23", f"block_mapped_{idx}.json")
         with open(file_path, "r", encoding="utf-8") as f:
             return json.load(f)
 
@@ -24,13 +24,13 @@ async def test_map_values():
         else:
             return obj
 
-    with open('data/all_params_after_449_small.json', 'r', encoding='utf-8') as file:
+    with open('data/all_params_after_449.json', 'r', encoding='utf-8') as file:
         map_vals = json.load(file)
 
     llm_map = {}
     idx = 0
     while True:
-        file_path = os.path.join("output3", "2025-09-22_08-05-04", f"block_mapped_{idx}.json")
+        file_path = os.path.join("output3", "2025-09-23_08-09-23", f"block_mapped_{idx}.json")
         if not os.path.exists(file_path):
             break
         print(f"Wczytuję {file_path}")

@@ -70,7 +70,7 @@ async def map_values(request):
         return file_path
 
 
-    with open('data/all_params_after_449_small.json', 'r', encoding='utf-8') as file:
+    with open('data/all_params_after_449.json', 'r', encoding='utf-8') as file:
         map_vals = json.load(file)
     MAX_LENGTH = 40
     blocks = [{'length': 0, 'items': {}}]
@@ -95,15 +95,16 @@ async def map_values(request):
     for idx, block in enumerate(blocks):
         user_prompt = f"""
         Twoje zadanie polega na:
-        1. Przeczytaniu całej formatki w JSON (atrybuty i ich wypełnienia).
-        2. Usunięciu duplikatów w wartościach atrybutów.
-        3. Jeśli wartości różnią się tylko formatem (np. cal/cm, zapis liczbowy z przecinkiem/kropką, nawiasy) → ujednolić do jednego formatu.
-        4. Jeśli wartości są bardzo zbliżone (np. wynik konwersji jednostek, różnice z zaokrągleń) → potraktować jako duplikaty i zostawić tylko jedną reprezentatywną wartość.
-        5. Pojedynczy format wartości nie może być wartością znormalizowaną, błędem jest przypisanie wartości (200 kWh, 300 kWh, 400 kWh) do znormalizowanej wartości (kWh).
-        6. Jeśli liczbowe wartości różnią się wartością po przecinku i jest to znikoma roznica (mniej niż 1% wartości) → potraktować jako duplikaty i zostawić tylko jedną reprezentatywną wartość.
-        7. Utworzeniu wspólnych wartości dla kilku nazw oznaczających to samo (np. „Direct-LED BLU” = „Direct-LED”, lub ""4K Ultra HD" = "Ultra HD").
-        8. Poprawieniu wszystkich wartości odbiegających od formatu przeważającego w danym atrybucie (np "2,54 m (100\")", na "100\"").
-
+        1. Usunięciu duplikatów w wartościach atrybutów.
+        2. Jeśli wartości różnią się tylko formatem (np. cal/cm, zapis liczbowy z przecinkiem/kropką, nawiasy) → ujednolić do jednego formatu.
+        3. Jeśli wartości są bardzo zbliżone (np. wynik konwersji jednostek, różnice z zaokrągleń, minimalne różnice po przecinku <1% wartości) → potraktować jako duplikaty i zostawić tylko jedną reprezentatywną wartość.
+        4. Pojedynczy format wartości nie może być wartością znormalizowaną, błędem jest przypisanie wartości (200 kWh, 300 kWh, 400 kWh) do znormalizowanej wartości (kWh).
+        5. Utworzeniu wspólnych wartości dla kilku nazw oznaczających to samo (np. „Direct-LED BLU” = „Direct-LED”, lub ""4K Ultra HD" = "Ultra HD").
+        6. Poprawieniu wszystkich wartości odbiegających od formatu przeważającego w danym atrybucie (np "2,54 m (100\")", na "100\"").
+        7. Jeśli analizowany parametr odpowiada za niefunkcjonalny rozmiar lub wagę urządzenia (np. "Waga z opakowaniem", "Głębokość z podstawą") Nie mapuj go. Analogicznie dla parametrów liczbowych typu moc, energia itp. np. średnie zużycie energii nie powinno być mapowane.
+        8. Jeśli analizowany parametr to funkcyjny wymiar np. "długość przekątnej ekranu" lub  "pojemność powerbanka" należy je zmapować.
+        9. Dla kolorów, odcieni i barw: traktuj każdą wartość jako unikalną. Nigdy nie łącz wartości, nawet jeśli są podobne, tłumaczone czy zawierają dodatkowe przymiotniki (np. "Titan Black" ≠ "Black").
+        10. Jeśli w wartości parametru pojawią się widoczny błąd np "erfect" lub "podsawowy", zmapuj na wartość bez błędu "perfect" lub "podstawowy".
         Wynik ma zawierać:
         - wszystkie atrybuty i ich strukturę identyczną jak w danych wejściowych,
         - przy każdej znormalizowanej wartości listę wartości oryginalnych, które zostały zmapowane/usunięte.
@@ -112,14 +113,14 @@ async def map_values(request):
         - Zwróć **wyłącznie JSON**.
         - Nie dodawaj żadnych dodatkowych pól takich jak "length", "items" czy podobnych.
         - Zachowaj dokładnie strukturę sekcji i parametrów z wejściowego JSON-a.
-        - Wartości w `"znormalizowana_wartość"` umieszczaj tylko dla faktycznie zmapowanych/usuniętych wartości.
+        - Wartości w `"znormalizowana_wartość1"` umieszczaj tylko dla faktycznie zmapowanych/usuniętych wartości.
 
         Format odpowiedzi:
 
         {{
           "NazwaSekcjiZWejścia": {{
             "NazwaParametruZWejścia": {{
-              "znormalizowana_wartość": [
+              "znormalizowana_wartość1": [
                 "oryginalna_wartość1",
                 "oryginalna_wartość2"
               ]

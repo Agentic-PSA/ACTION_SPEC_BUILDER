@@ -11,6 +11,7 @@ from src.services.file_service import save_json_file
 
 import datetime
 import os
+import psycopg2
 
 
 def create_output_directory():
@@ -317,16 +318,18 @@ async def etl2_create_spec_aka(request):
         products = {}
         total = len(data)
         ai_cnt = 0
-        #total = 10
+        total = 2
 
 
         for i, (k, v) in enumerate(data.items(), start=1):
             if i > total:
                 break
             result = await process_single_ean(session, i, total, i, v)
+            print("ean", result)
             if not result:
                 continue
             params = result['panel']["specification_values"]["PL"]
+            print("panel", params)
             products[v['gtin']] = params
 
             array_params = {
@@ -494,6 +497,36 @@ async def etl2_create_spec_aka(request):
         #final_specs = {**main_data_wihout_examples, **without_examples}
         save_to_output_dir(final_specs, f'zz_specs_final')
         
+
+        # połączenie
+        conn = psycopg2.connect(
+            dbname="postgres",
+            user="postgres",
+            password="CQ15V1xNC9",
+            host="172.16.10.3",
+            port=30008
+        )
+        cur = conn.cursor()
+        query = """
+            INSERT INTO forms (category, form, translates, llm_form, categories)
+            VALUES(%s, %s, %s, %s, %s)
+            ON CONFLICT (category) DO UPDATE
+            SET form = EXCLUDED.form, translates = EXCLUDED.translates, llm_form = EXCLUDED.llm_form, categories = EXCLUDED.categories
+        """
+        cur.execute(
+            query,
+            (
+                category_desc,
+                json.dumps(ordered, ensure_ascii=False),
+                json.dumps(translates, ensure_ascii=False),
+                json.dumps(ordered, ensure_ascii=False),
+                json.dumps(params_for_categories, ensure_ascii=False)
+            )
+        )
+        conn.commit()
+        cur.close()
+        conn.close()
+
 
     return JSONResponse({
         "result": True

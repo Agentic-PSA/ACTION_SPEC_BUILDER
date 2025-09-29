@@ -8,10 +8,12 @@ from src.services.ean_service import read_eans, send_message, is_ean_valid, gene
 from src.services.specification_service import merge_specifications, combine_specifications_with_values, normalize_specification 
 from src.services.ai_service import analyze_and_save, ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order, ai_sugest_section_names
 from src.services.file_service import save_json_file
+from src.services.form_service import build_form
+from src.services.db_service import form_save
 
 import datetime
 import os
-import psycopg2
+
 
 
 def create_output_directory():
@@ -276,11 +278,11 @@ async def etl2_create_spec_aka(request):
     #data = {**{d['gtin']: d for d in data_lcd}, **{d['gtin']: d for d in data_oled}}
 
     # telewizory
-    # category_desc = "Telewizory"
-    # files = [
-    #     'data/TVA-LCD.json',
-    #     'data/TVA-OLE.json',
-    # ]
+    category_desc = "Telewizory"
+    files = [
+        'data/TVA-LCD.json',
+        'data/TVA-OLE.json',
+    ]
     # grzejniki
     # category_desc = "Grzejniki"
     # files = [
@@ -288,12 +290,12 @@ async def etl2_create_spec_aka(request):
     #     'data/AGD-GRO.json',
     # ]
     # golarki
-    category_desc = "Golarki"
-    files = [
-        'data/AGD-GOL.json',
-        'data/AGD-GDU.json',
-        'data/AGD-STR.json',
-    ]
+    # category_desc = "Golarki"
+    # files = [
+    #     'data/AGD-GOL.json',
+    #     'data/AGD-GDU.json',
+    #     'data/AGD-STR.json',
+    # ]
 
     # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
     def save_to_output_dir(data, filename):
@@ -318,19 +320,29 @@ async def etl2_create_spec_aka(request):
         products = {}
         total = len(data)
         ai_cnt = 0
-        total = 2
+        #total = 2
+        trans_lang = {}
+        categories = []
 
 
         for i, (k, v) in enumerate(data.items(), start=1):
             if i > total:
                 break
             result = await process_single_ean(session, i, total, i, v)
-            print("ean", result)
+            #print("ean", result)
             if not result:
                 continue
+            
+            #save_to_output_dir(result, f"ean_{v['gtin']}")
             params = result['panel']["specification_values"]["PL"]
-            print("panel", params)
+            for section in result["specification"]:
+                trans_lang[section["section_name"]["PL"]] = section["section_name"]
+                for attr in section["attributes"]:
+                    trans_lang[attr["PL"]] = attr
+            #print("panel", params)
             products[v['gtin']] = params
+            if v['groupId'] not in categories:
+                categories.append(v['groupId'])
 
             array_params = {
                 category: {k: [v] for k, v in specs.items()}
@@ -497,35 +509,10 @@ async def etl2_create_spec_aka(request):
         #final_specs = {**main_data_wihout_examples, **without_examples}
         save_to_output_dir(final_specs, f'zz_specs_final')
         
-
-        # połączenie
-        conn = psycopg2.connect(
-            dbname="postgres",
-            user="postgres",
-            password="CQ15V1xNC9",
-            host="172.16.10.3",
-            port=30008
-        )
-        cur = conn.cursor()
-        query = """
-            INSERT INTO forms (category, form, translates, llm_form, categories)
-            VALUES(%s, %s, %s, %s, %s)
-            ON CONFLICT (category) DO UPDATE
-            SET form = EXCLUDED.form, translates = EXCLUDED.translates, llm_form = EXCLUDED.llm_form, categories = EXCLUDED.categories
-        """
-        cur.execute(
-            query,
-            (
-                category_desc,
-                json.dumps(ordered, ensure_ascii=False),
-                json.dumps(translates, ensure_ascii=False),
-                json.dumps(ordered, ensure_ascii=False),
-                json.dumps(params_for_categories, ensure_ascii=False)
-            )
-        )
-        conn.commit()
-        cur.close()
-        conn.close()
+        #tworzenie formatki
+        form = build_form(trans_lang, ordered, categories, include_values=False)
+        form_with_values = build_form(trans_lang, ordered, categories, include_values=True)
+        form_save(categories, ordered, form, form_with_values, translates, params_for_categories)
 
 
     return JSONResponse({

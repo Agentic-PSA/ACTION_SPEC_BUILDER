@@ -244,8 +244,35 @@ async def fill_graph(request):
                 if value == "numerical" and key in units:
                     attributes[key] = units[key]
         add_nodes_data = {
-            "type": ean_type,
+            "type": ean_category,
             "properties": specification
         }
-        # wywołanie "http://172.19.3.220:5013/add_product"
+        try:
+            async with session.post(
+                    "http://172.16.10.3:30383/add_product",
+                    json=add_nodes_data,
+                    headers={"Content-Type": "application/json"}
+            ) as response:
+                if response.status == 200:
+                    result = await response.json()
+                    save_to_output_dir(result, "add_product_response.json")
+                    return JSONResponse({
+                        "success": True,
+                        "specification": specification,
+                        "graph_response": result
+                    })
+                else:
+                    error_text = await response.text()
+                    save_to_output_dir({"error": error_text, "status": response.status}, "add_product_error.json")
+                    return JSONResponse({
+                        "success": False,
+                        "error": f"Błąd podczas dodawania do grafu: {response.status}",
+                        "details": error_text
+                    }, status_code=500)
+        except Exception as e:
+            logging.error(f"Błąd podczas komunikacji z API grafu: {str(e)}")
+            return JSONResponse({
+                "success": False,
+                "error": f"Błąd podczas komunikacji z API grafu: {str(e)}"
+            }, status_code=500)
         return JSONResponse(specification)

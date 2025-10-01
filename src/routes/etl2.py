@@ -278,11 +278,11 @@ async def etl2_create_spec_aka(request):
     #data = {**{d['gtin']: d for d in data_lcd}, **{d['gtin']: d for d in data_oled}}
 
     # telewizory
-    category_desc = "Telewizory"
-    files = [
-        'data/TVA-LCD.json',
-        'data/TVA-OLE.json',
-    ]
+    # category_desc = "Telewizory"
+    # files = [
+    #     'data/TVA-LCD.json',
+    #     'data/TVA-OLE.json',
+    # ]
     # grzejniki
     # category_desc = "Grzejniki"
     # files = [
@@ -290,12 +290,12 @@ async def etl2_create_spec_aka(request):
     #     'data/AGD-GRO.json',
     # ]
     # golarki
-    # category_desc = "Golarki"
-    # files = [
-    #     'data/AGD-GOL.json',
-    #     'data/AGD-GDU.json',
-    #     'data/AGD-STR.json',
-    # ]
+    category_desc = "Golarki"
+    files = [
+        'data/AGD-GOL.json',
+        'data/AGD-GDU.json',
+        'data/AGD-STR.json',
+    ]
 
     # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
     def save_to_output_dir(data, filename):
@@ -316,6 +316,7 @@ async def etl2_create_spec_aka(request):
     async with aiohttp.ClientSession(connector=connector) as session:
         all_params = {}
         translates = {}
+        translates['sections'] = section_mapping
         params_for_categories = {}
         products = {}
         total = len(data)
@@ -502,6 +503,17 @@ async def etl2_create_spec_aka(request):
         }
         save_to_output_dir(main_data, f'zz_all_params_with_main_data')
 
+        main_data_with_examples = {}
+        for section, attrs in main_data.items():
+            main_data_with_examples[section] = {}
+            for attr, group in attrs.items():
+                if group in ordered and attr in ordered[group]:
+                    main_data_with_examples[section][attr] = ordered[group][attr]
+                else:
+                    main_data_with_examples[section][attr] = []
+        save_to_output_dir(main_data_with_examples, f'zz_main_data_with_examples')    
+        ordered_with_main = {**main_data_with_examples, **ordered}
+        save_to_output_dir(ordered_with_main, f'zz_ordered_with_main')
         print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Tworzę finalną formatkę")
         without_examples = {category: list(params.keys()) for category, params in ordered.items()}
         final_specs = {**main_data, **without_examples}
@@ -510,8 +522,14 @@ async def etl2_create_spec_aka(request):
         save_to_output_dir(final_specs, f'zz_specs_final')
         
         #tworzenie formatki
-        form = build_form(trans_lang, ordered, categories, include_values=False)
-        form_with_values = build_form(trans_lang, ordered, categories, include_values=True)
+        #form = build_form(trans_lang, ordered, categories, include_values=False)
+        #form_with_values = build_form(trans_lang, ordered, categories, include_values=True)
+        #form_save(categories, ordered, form, form_with_values, translates, params_for_categories)
+
+        form = build_form(trans_lang, ordered_with_main, categories, include_values=False)
+        form_with_values = build_form(trans_lang, ordered_with_main, categories, include_values=True)
+        save_to_output_dir(form, f'zz_zz_form')
+        save_to_output_dir(form_with_values, f'zz_zz_form_with_values')
         form_save(categories, ordered, form, form_with_values, translates, params_for_categories)
 
 

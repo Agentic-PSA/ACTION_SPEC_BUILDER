@@ -198,7 +198,8 @@ async def fill_graph(request):
 
     # docelowo pobranie z szyny
 
-    ean = "8806087072013"
+    #ean = "8806087072013"
+    ean = "6942351406268"
 
     ean_category = "TVA-LCD"
     connector = aiohttp.TCPConnector(limit=30)
@@ -208,13 +209,13 @@ async def fill_graph(request):
         specification, errors = process_specification(panel_data, ["PL"])
         spec_data = get_form_data('category', ean_category)
 
-        mapa_nazw_parametrów = spec_data['translates']
+        translates = spec_data['translates']
+        save_to_output_dir(specification, 'specification')
 
-
-        #
         # TUTAJ PROCES PODMIANY PARAMETRÓW
-        #
         # Wynik zwrócić do zmiennej specification
+        specification = apply_changes(specification, translates)
+        save_to_output_dir(specification, 'specification2')
 
         correct_values = spec_data['values_map']
         for i, section in enumerate(specification.get("PL", [])):
@@ -276,3 +277,31 @@ async def fill_graph(request):
                 "error": f"Błąd podczas komunikacji z API grafu: {str(e)}"
             }, status_code=500)
         return JSONResponse(specification)
+    
+def apply_changes(data, changes):
+    for section in data.get("PL", []):
+        section_name = section["section_name"]
+
+        # jeśli są mapowania dla tej sekcji
+        if section_name in changes:
+            mapping = changes[section_name]
+
+            new_attributes = {}
+            new_types = {}
+
+            for attr, val in section["attributes"].items():
+                # sprawdzamy czy attr jest w mapowaniu
+                new_attr = mapping.get(attr, attr)
+                if new_attr != attr:
+                    print(f"Section '{section_name}': '{attr}' -> '{new_attr}'")
+                new_attributes[new_attr] = val
+
+                # poprawiamy też typ atrybutu
+                if attr in section["attributes_types"]:
+                    new_types[new_attr] = section["attributes_types"][attr]
+
+            # podmieniamy całość
+            section["attributes"] = new_attributes
+            section["attributes_types"] = new_types
+
+    return data

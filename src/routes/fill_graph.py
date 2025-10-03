@@ -1,20 +1,19 @@
 import datetime
-import json
-import os
-import psycopg2
-from psycopg2 import extras, sql
-from collections import Counter
-import polars as pl
-from starlette.responses import JSONResponse
-from src.services.ean_service import read_eans, send_message
-from src.services.ai_service import ask_gpt_custom, ask_sonoma_custom
-from src.services.file_service import save_json_file
-import aiohttp
 import logging
+import os
 import re
+
+import aiohttp
+import psycopg2
 from pint import UnitRegistry
+from psycopg2 import extras, sql
+from starlette.responses import JSONResponse
+
+from src.services.ean_service import send_message
+from src.services.file_service import save_json_file
 
 ureg = UnitRegistry()
+ureg.define("dni = day")
 Q_ = ureg.Quantity
 
 
@@ -126,6 +125,7 @@ def process_specification(panel_data, specification_languages):
 
 specification_languages = ["PL", "EN", "DE"]
 
+
 def get_form_data(column: str, value: str) -> dict:
     """
     Pobiera dane formularza z bazy danych PostgreSQL dla podanej kolumny.
@@ -146,11 +146,11 @@ def get_form_data(column: str, value: str) -> dict:
 
     try:
         with psycopg2.connect(
-            host="172.16.10.3",
-            port=30008,
-            database="postgres",
-            user="postgres",
-            password="CQ15V1xNC9"
+                host="172.16.10.3",
+                port=30008,
+                database="postgres",
+                user="postgres",
+                password="CQ15V1xNC9"
         ) as conn:
             with conn.cursor(cursor_factory=extras.RealDictCursor) as cursor:
                 query = sql.SQL("SELECT * FROM forms WHERE {field} = %s LIMIT 1").format(
@@ -167,6 +167,7 @@ def get_form_data(column: str, value: str) -> dict:
     except Exception as e:
         print(f"Błąd podczas pobierania danych z bazy: {e}")
         raise
+
 
 def create_output_directory():
     """
@@ -198,13 +199,99 @@ async def fill_graph(request):
 
     # docelowo pobranie z szyny
 
-    #ean = "8806087072013"
-    ean = "6942351406268"
-
+    # ean = "8806087072013"
+    # ean = "6942351406268"
+    pim_data = {
+        "body": {
+            "ProductNumber": "TVASA1LCD0722",
+            "ProductVersion": "1.0",
+            "ProductType": "Telewizory",
+            "Brand": "Samsung",
+            "TranslationCollection": [
+                {
+                    "Language": "pl",
+                    "ProductName": "Telewizor 55\" Samsung QE55Q7F",
+                    "ProductDescription": None
+                },
+                {
+                    "Language": "en-US",
+                    "ProductName": "Telewizor 55\" Samsung QE55Q7F",
+                    "ProductDescription": None
+                },
+                {
+                    "Language": "de",
+                    "ProductName": "Telewizor 55\" Samsung QE55Q7F",
+                    "ProductDescription": None
+                }
+            ],
+            "RelatedProductCollection": [],
+            "ComponentCollection": [],
+            "BarcodeCollection": [
+                {
+                    "BarCodeType": "GTIN-13",
+                    "BarCode": "8806097118565"
+                }
+            ],
+            "BundleType": "",
+            "CNCode": "85287240",
+            "DirectoryGTIN": "",
+            "ProducerNumber": None,
+            "Weight": 15500.0,
+            "Height": 820.0,
+            "Width": 1360.0,
+            "Depth": 120.0,
+            "Battery100Wh": False,
+            "LooseBattery": False,
+            "InstalledBattery": False,
+            "PKWiU": "26.40.20.0",
+            "CountryOfOrigin": None,
+            "CategoryMapCollection": [
+                {
+                    "SalesChannelId": 1,
+                    "CategoryCollection": [
+                        {
+                            "CategoryId": 53984
+                        }
+                    ]
+                },
+                {
+                    "SalesChannelId": 2,
+                    "CategoryCollection": [
+                        {
+                            "CategoryId": 54810
+                        }
+                    ]
+                }
+            ],
+            "PIMProductId": "100080221",
+            "Large": True,
+            "ImporterGPSR": None,
+            "Piktograms": None,
+            "ProducerGPSR": None,
+            "SferisName": "Telewizor Samsung QE55Q7FAAUXXH QLED 55'' 4K Ultra HD Tizen Q-Symphony DVB-T2 Czarny (MODEL 2025)"
+        },
+        "properties": {
+            "message_id": "3ae8c632-2413-4ecf-aec1-03ac28bc186b",
+            "session_id": "0",
+            "content_type": "application/json",
+            "correlation_id": None,
+            "subject": "Product",
+            "application_properties": {
+                "Company": "b'ACT'",
+                "CreationDate": "b'2025-06-02T16:03:27Z'",
+                "ModificationDate": None,
+                "Source": "b'PIM'",
+                "Version": "b'1.0'",
+                "SourceId": "b'TVASA1LCD0722'"
+            },
+            "enqueued_time_utc": "2025-09-29 11:55:49.465000+00:00",
+            "sequence_number": 9835
+        }
+    }
     ean_category = "TVA-LCD"
     connector = aiohttp.TCPConnector(limit=30)
     async with aiohttp.ClientSession(connector=connector) as session:
-        element = await send_message(session, "get_ean", ean)
+        element = await send_message(session, "get_ean", pim_data['body']['BarcodeCollection'][0]['BarCode'])
         panel_data = element.get("panel_data", {})
         specification, errors = process_specification(panel_data, ["PL"])
         spec_data = get_form_data('category', ean_category)
@@ -223,7 +310,8 @@ async def fill_graph(request):
             if section['section_name'] in correct_values:
                 for key, value in attributes.items():
                     if key in correct_values[section['section_name']]:
-                        for correct_key, correct_value in correct_values[section['section_name']][key]['values'].items():
+                        for correct_key, correct_value in correct_values[section['section_name']][key][
+                            'values'].items():
                             if value in correct_value:
                                 attributes[key] = correct_key
                                 break
@@ -246,7 +334,8 @@ async def fill_graph(request):
                     attributes[key] = units[key]
         add_nodes_data = {
             "type": ean_category,
-            "properties": specification
+            "properties": specification,
+            "pim_data": pim_data['body']
         }
         try:
             async with session.post(
@@ -277,7 +366,8 @@ async def fill_graph(request):
                 "error": f"Błąd podczas komunikacji z API grafu: {str(e)}"
             }, status_code=500)
         return JSONResponse(specification)
-    
+
+
 def apply_changes(data, changes):
     for section in data.get("PL", []):
         section_name = section["section_name"]

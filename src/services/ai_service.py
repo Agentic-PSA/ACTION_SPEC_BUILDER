@@ -4,6 +4,8 @@ import requests
 from functools import lru_cache
 import os
 from openai import OpenAI
+from httpx import ReadTimeout
+
 
 SONOMA_KEY = "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"
 GPT_KEY = "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"
@@ -83,45 +85,6 @@ Now process the user input (JSON) and return only the required JSON output.
 
 """
 
-def get_system_prompt_aka(category: str, final: bool = False):
-    return f"""
-Analizujesz formatkę opisową produktów w kategorii telewizory. Aktualne zapytanie dotyczy parametrów w sekcji "{category}"
-
-WEJŚCIE: dwa zestawy danych o tych samych strukturach - parametry oraz przykładowe wartości parametrów
-W pierwszym zestawie mamy aktualną formatkę opisową, w drugim nowo znalezione parametry 
-Struktura danych wejściowych:
-{{
-    "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
-    "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
-}}
-
-WYJŚCIE: Przetworzony drugi zestaw danych, tak aby zamiast przykładowych wartości była jedna z odpowiedzi: słowo "NOWA" LUB nazwa parametru z pierwszego zestawu danych, dla którego można dodać mapowanie (bezpośrednio, nie jako tablica)
-Struktura danych wejściowych:
-{{
-    "Pierwszy parametr": "NOWA",
-    "Drugi parametr": "Inny parametr z pierwszego zestawu"
-}}
-
-Surowe zasady (należy ich ściśle przestrzegać):
- 1. Przykłady podane w podpowiedzi służą wyłącznie do celów ilustracyjnych. Nie stanowią one części rzeczywistego WEJŚCIA. Należy brać pod uwagę wyłącznie atrybuty obecne w pliku JSON użytkownika. Nie należy wprowadzać ani kopiować atrybutów z przykładów.
- 2. Używaj **parametrów** do grupowania decyzji. Nie traktuj przykładowych wartości jako nazw parametrów.
- 3. Przykładowe wartości służą wyłącznie zapobieganiu błędnemu grupowaniu, a nie uzasadnianiu grupowania.
-    - Jeśli dwie nazwy parametrów wyglądają na zduplikowane, można sprawdzić na przykładach, czy ich wartości wyraźnie się różnią (w takim przypadku nie należy ich grupować).
-    - Nigdy nie grupuj parametrów wyłącznie na podstawie tego, że ich przykłady wyglądają podobnie lub identycznie.
- 5. NIE łącz parametrów w których są wyrażenia wskazujące na całkiem inną cechę np. 
-    - "brutto" nie łącz z "netto"
-    - "z podstawą" nie łącz z "bez podstawy"
-    - "poziomy" nie łącz z "pionowy"
-    - "min" nie łącz z "max"
-    Należy traktować je jako odrębne parametry, nawet jeśli nazwa podstawowa wygląda podobnie.
- 6. Preferuj **konserwatywne grupowanie**: w razie wątpliwości NIE grupuj.
- 7. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.
- 8. Zachowaj deterministyczność wyników.
-
-Now process the user input (JSON) and return only the required JSON output.
-
-"""
-
 def ask_sonoma(question, api_key=SONOMA_KEY):
     """
     Wysyła zapytanie do modelu AI i zwraca odpowiedź.
@@ -196,13 +159,13 @@ def ask_gpt(question, final=False, api_key=GPT_KEY):
 
     return cleaned_response
 
-def ask_gpt_aka(question, category, final=False, api_key=GPT_KEY):
+def ask_gpt_aka(question, prompt, api_key=GPT_KEY):
     """
     Wysyła zapytanie do modelu GPT-4.1 przez OpenAI API i zwraca odpowiedź.
 
     Args:
-        question: Treść zapytania w formacie JSON
-        final: Czy to jest ostateczne zapytanie (wpływa na liczbę wymaganych przykładów)
+        question: Dane wejściowe
+        prompt: Instrukcja dla AI
         api_key: Klucz API do serwisu OpenAI
 
     Returns:
@@ -214,35 +177,41 @@ def ask_gpt_aka(question, category, final=False, api_key=GPT_KEY):
             raise ValueError(
                 "Brak klucza API OpenAI. Podaj go jako parametr lub ustaw zmienną środowiskową OPENAI_API_KEY")
 
-
-    #print(get_system_prompt_aka(category, final))
-    #print(question)
     client = OpenAI(api_key=api_key)
 
-    response = client.chat.completions.create(
-        model="gpt-4.1",  # Używamy modelu GPT-4.1
-        messages=[
-            {"role": "system", "content": get_system_prompt_aka(final)},
-            {"role": "user",
-             "content": f"Here is the input specification data:\n\n{question}\n\nIMPORTANT: Your response must be a valid, complete JSON object. Don't include markdown formatting like ```json or ``` in your response."}
-        ],
-        temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
-        max_tokens=30000  # Maksymalna długość odpowiedzi
-    )
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4.1",  # Używamy modelu GPT-4.1
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user",
+                "content": f"Dane wejściowe do analizy:\n\n{question}\n\nIMPORTANT: Your response must be a valid, complete JSON object. Don't include markdown formatting like ```json or ``` in your response. Don't truncate your response"
+                }
+            ],
+            temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
+            max_tokens=20000,  # Maksymalna długość odpowiedzi
+            timeout=600 # max 10 minut
+        )
+        #print(prompt)
+        #print(question)
 
-    raw_response = response.choices[0].message.content
+        raw_response = response.choices[0].message.content
 
-    # Usuwanie formatowania Markdown, jeśli występuje
-    cleaned_response = raw_response.strip()
-    if cleaned_response.startswith('```json'):
-        cleaned_response = cleaned_response.replace('```json', '', 1).strip()
-    elif cleaned_response.startswith('```'):
-        cleaned_response = cleaned_response.replace('```', '', 1).strip()
+        # Usuwanie formatowania Markdown, jeśli występuje
+        cleaned_response = raw_response.strip()
+        if cleaned_response.startswith('```json'):
+            cleaned_response = cleaned_response.replace('```json', '', 1).strip()
+        elif cleaned_response.startswith('```'):
+            cleaned_response = cleaned_response.replace('```', '', 1).strip()
 
-    if cleaned_response.endswith('```'):
-        cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
+        if cleaned_response.endswith('```'):
+            cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
 
-    return cleaned_response
+        return cleaned_response
+    except ReadTimeout:
+        print("⏳ Timeout - serwer nie odpowiedział na czas (5 minut)")
+        return "⏳ Timeout - serwer nie odpowiedział na czas (5 minut)"
+
 
 def analyze_and_save(data, filename_prefix, save_function, final=False, max_attempts=2):
     """
@@ -258,6 +227,7 @@ def analyze_and_save(data, filename_prefix, save_function, final=False, max_atte
     Returns:
         dict: Wynik analizy AI (jako obiekt JSON) lub pusty słownik w przypadku błędu
     """
+
     for attempt in range(max_attempts):
         try:
             # Dodajemy instrukcję o limicie odpowiedzi
@@ -307,7 +277,7 @@ def analyze_and_save(data, filename_prefix, save_function, final=False, max_atte
     return {}
 
 
-def analyze_and_save_aka(category, current_structure, data, filename_prefix, save_function, final=False, max_attempts=2):
+def ai_analyze_and_create_form(category, section, current_structure, data, filename_prefix, save_function, max_attempts=2):
     """
     Analizuje dane specyfikacji przy użyciu AI i zapisuje wynik.
 
@@ -322,19 +292,58 @@ def analyze_and_save_aka(category, current_structure, data, filename_prefix, sav
     Returns:
         dict: Wynik analizy AI (jako obiekt JSON) lub pusty słownik w przypadku błędu
     """
+
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}". Aktualne zapytanie dotyczy parametrów w sekcji "{section}"
+
+WEJŚCIE: dwa zestawy danych o tych samych strukturach - parametry oraz przykładowe wartości parametrów
+W pierwszym zestawie mamy aktualną formatkę opisową, w drugim nowo znalezione parametry 
+Struktura danych wejściowych:
+{{
+    "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+    "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+}}
+
+WYJŚCIE: Przetworzony drugi zestaw danych, tak aby zamiast przykładowych wartości była jedna z odpowiedzi: słowo "NOWA" LUB nazwa parametru z pierwszego zestawu danych, dla którego można dodać mapowanie (bezpośrednio, nie jako tablica)
+Struktura danych wyjściowych:
+{{
+    "Pierwszy parametr": "NOWA",
+    "Drugi parametr": "Inny parametr z pierwszego zestawu"
+}}
+
+Surowe zasady (należy ich ściśle przestrzegać):
+ 1. Przykłady podane w podpowiedzi służą wyłącznie do celów ilustracyjnych. Nie stanowią one części rzeczywistego WEJŚCIA. Należy brać pod uwagę wyłącznie atrybuty obecne w pliku JSON użytkownika. Nie należy wprowadzać ani kopiować atrybutów z przykładów.
+ 2. Używaj **parametrów** do grupowania decyzji. Nie traktuj przykładowych wartości jako nazw parametrów.
+ 3. Przykładowe wartości służą wyłącznie zapobieganiu błędnemu grupowaniu, a nie uzasadnianiu grupowania.
+    - Jeśli dwie nazwy parametrów wyglądają na zduplikowane, można sprawdzić na przykładach, czy ich wartości wyraźnie się różnią (w takim przypadku nie należy ich grupować).
+    - Nigdy nie grupuj parametrów wyłącznie na podstawie tego, że ich przykłady wyglądają podobnie lub identycznie.
+ 5. NIE łącz parametrów w których są wyrażenia wskazujące na całkiem inną cechę np. 
+    - "brutto" nie łącz z "netto"
+    - "z podstawą" nie łącz z "bez podstawy"
+    - "poziomy" nie łącz z "pionowy"
+    - "min" nie łącz z "max"
+    Należy traktować je jako odrębne parametry, nawet jeśli nazwa podstawowa wygląda podobnie.
+ 6. Preferuj **konserwatywne grupowanie**: w razie wątpliwości NIE grupuj.
+ 7. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.
+ 8. Zachowaj deterministyczność wyników.
+
+Teraz przetwórz dane wprowadzone przez użytkownika (JSON) i zwróć tylko wymagane dane wyjściowe JSON.
+
+"""
+
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2) + "\n\n" + json.dumps(data, ensure_ascii=False, indent=2) + "\n\n"
+
     for attempt in range(max_attempts):
         try:
-            # Dodajemy instrukcję o limicie odpowiedzi
-            prompt_addition = "\nIMPORTANT: Your response must be a valid, complete JSON object. Don't truncate your response."
-            ai_response = ask_gpt_aka(json.dumps(current_structure, ensure_ascii=False, indent=2) + "\n\n" + json.dumps(data, ensure_ascii=False, indent=2) + "\n\n" + prompt_addition, category, final)
+            ai_response = ask_gpt_aka(question, prompt)
 
             # Zapisz surową odpowiedź dla celów diagnostycznych
-            save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response.json')
+            # save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response.json')
 
             try:
                 # Próba analizy JSON
                 ai_json = json.loads(ai_response)
-                save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
                 return ai_json
             except json.JSONDecodeError as e:
                 print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
@@ -368,4 +377,198 @@ def analyze_and_save_aka(category, current_structure, data, filename_prefix, sav
                 return error_result
 
     # Jeśli wszystkie próby się nie powiodły, zwróć pusty słownik
+    return {}
+
+
+def ai_add_main_data(category, current_structure, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}".
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }}
+}}
+Na podstawie przesłanej formatki zdefiniuj, które pola powinny znaleźć się w sekcji Dane podstawowe. 
+Są to kluczowe parametry, po których najczęściej dokonuje się wyboru danego produktu. 
+Liczba pól powinna być ograniczona – wybierz tylko te najważniejsze, które realnie wpływają na decyzję zakupową. 
+Pamiętaj, że wszystkie pozostałe pola nadal będą widoczne w szczegółowym opisie poniżej, więc tu mają być wyeksponowane tylko najważniejsze informacje.
+
+WYJŚCIE: Struktura danych, w których kluczem jest nazwa parametru, a wartością nazwa sekcji, do której należy
+Struktura danych wyjściowych:
+{{
+    "Pierwszy parametr": "Sekcja 1",
+    "Drugi parametr": "Sekcja 3"
+}}
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2)+ "\n\n"
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+
+    return {}
+
+
+def ai_remove_duplicates(category, current_structure, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}".
+
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }}
+}}
+
+Na podstawie przesłanej formatki
+1. Zdefiniuj, które parametry w sekcji nie pasują do sekcji i powinny zostać usunięte. 
+   - na przykład "kolor" nie powinien występować w sekcji "wymiary" czy też "wydajność" - należy go przesunąć w inne miejsce lub usunąć
+2. Znajdź duplikaty parametrów pomiędzy sekcjami. Jeden z nich (ten najlepiej pasujący) zarekomenduj do pozostawienia, pozostałe zarekomenduj do usunięcia
+   - pamiętaj, że np. parametr "kolor" w sekcji "Oparcie krzesła" nie jest duplikatem parametru "kolor" w sekcji "Siedzisko krzesła"
+
+WYJŚCIE: 
+Przetworzony zestaw danych wejściowych tylko z listą proponowanych atrybutów do zmiany / usunięcia 
+Zamiast przykładowych wartości w kilku / kilkunastu słowach podaj powód swojej decyzji. Rozpocznij od słów:
+USUN - jeśli rekomendujesz usunięcie
+ZOSTAW - jeśli rekomendujesz pozostawienie
+PRZESUN DO nazwa_sekcji - jesli rekomendujesz przesuniecie do innej sekcji
+Zachowaj strukturę formatki (atrybuty powinny być w odpowiednich sekcjach)
+
+ZAWSZE musi pozostać choć jedno wystąpienie zdublowanego atrybutu - NIE WOLNO wszystkich rekomendować do usunięcia.
+
+Struktura danych wyjściowych (dane do potencjalnego usunięcia):
+{{
+    "Sekcja 1": {{
+        "Drugi parametr": "USUN - powód usunięcia, np. parametr nie pasuje do sekcji",
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": "USUN - powód usunięcia, np. podwojone wystąpienie",
+        "Piąty parametr": "ZOSTAW - powód pozosatwienia, np. najbardziej pasujący z trzech wystąpień"
+    }}
+}}
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2)+ "\n\n"
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+
+    return {}
+
+def ai_set_order(category, current_structure, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}".
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+    }}
+}}
+Na podstawie przesłanej formatki zdefiniuj, które sekcje powinny być prezentowane jako pierwsze. 
+Są to kluczowe parametry, po których najczęściej dokonuje się wyboru danego produktu. 
+Zachowaj dowiązanie atrybutów do sekcji - zmień tylko kolejność w ramach sekcji i/lub kolejność całych sekcji.
+Sekcje związane z wagą ZAWSZE daj jako przed ostatnie.
+Sekcje związane z wymiarami ZAWSZE daj jako ostatnie.
+
+Struktura danych wyjściowych: taka sama jak danych wejściowych, ale we właściwej kolejności
+
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2)+ "\n\n"
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+
+    return {}
+
+
+def ai_sugest_section_names(category, current_structure, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}".
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+    }}
+}}
+Na podstawie przesłanej formatki zaproponuj nowe nazwy tych sekcji, których nazwy wydają się być nieadekwatne do danych.
+Nie zmieniaj wszystkich nazw - zaproponuj zmiany tylko dla tych najmniej adekwatnych.
+
+Struktura danych wyjściowych    :
+{{
+    "Sekcja 1": "Nowa nazwa sekcji 1",
+    "Sekcja 3": "Nowa nazwa sekcji 3"
+}}
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2)+ "\n\n"
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+
     return {}

@@ -7,7 +7,7 @@ kp_categories = [
     'BundleType','CNCode','ComponentCollection','Depth','DirectoryGTIN','Height',
     'ImporterGPSR','InstalledBattery','Large','LooseBattery','Name','PIMProductId',
     'Piktograms','PKWiU','ProducerGPSR','ProducerNumber','ProductType',
-    'RelatedProductCollection','SferisName','Weight','Width','CountryOfOrigin',
+    'RelatedProductCollection','Weight','Width','CountryOfOrigin',
     'CategoryMapCollection'
 ]
 

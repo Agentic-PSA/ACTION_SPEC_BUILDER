@@ -143,7 +143,7 @@ def normalize_values(original_map, final_map):
 
 async def map_values(request):
     output_dir = create_output_directory()
-
+    print('test')
     def save_to_output_dir(data, filename):
         file_path = os.path.join(output_dir, filename)
         save_json_file(data, file_path)
@@ -203,7 +203,8 @@ async def map_values(request):
         - Zwróć **wyłącznie JSON**.
         - Nie dodawaj żadnych dodatkowych pól takich jak "length", "items" czy podobnych.
         - Zachowaj dokładnie strukturę sekcji i parametrów z wejściowego JSON-a.
-        - Jeśli wartości mają jednostki np. kg, kWh itp. wybierz jedną najbardziej dopasowaną i umieść w kluczu "unit", jeśli brak takiej wartości zostaw unit puste. Nie usuwaj jednak jednostki z wartości.
+        - Jeśli wartości mają jednostki np. kg, kWh itp. wybierz jedną najbardziej dopasowaną i umieść w kluczu "unit", jeśli brak takiej wartości zostaw unit puste.
+        - Jeśli umieszczasz jednostkę w unit to tylko i wyłacznie wtedy możesz usunąć ją z wartości znormalizowanej.
         - Jeśli wartość nie pasuje do żadnej innej, pozostaw ją bez zmian, ale umieść w strukturze znormalizowanych wartości wraz z jej jednostką.
         Format odpowiedzi:
         - Nie używaj zwrotów typu "NIE MAPUJ" czy "ZOSTAW JAK JEST", zamiast tego po prostu umieść oryginalną wartość jako znormalizowaną.

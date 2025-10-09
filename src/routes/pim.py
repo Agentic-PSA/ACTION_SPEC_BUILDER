@@ -1,4 +1,5 @@
 from starlette.responses import JSONResponse
+from src.services.fill_graph import fill_graph_single_core, convert_units, process_specification, apply_changes
 
 PIKTOGRAMY = {
     851070: "Substancje łatwopalne",
@@ -19,94 +20,12 @@ PIKTOGRAMY = {
     807686: "GHS07: Szkodliwy"
 }
 
-async def map_values(request):
 
-    request = {
-        "PIMProductId": "12345",
-        "BarcodeCollection": ["5901234123457", "5901234123458"],
-        "Name": "Sample Product",
-        "Brand": "Sample Brand",
-        "ProducerNumber": "SP-001",
-        "ProductManager": "John Doe",
-        "ProductAssistant": "Jane Smith"
-    }
+async def pim(request):
+    data = await request.json()
+    # tu możesz uzupełniać dane PIM
 
 
-    output = {
-        "PIMProductId": request["PIMProductId"],
-        "Brand": request["Brand"],
-        "CategoryMapCollection": {"SalesChannelId": 1, "CategoryCollection": {CategoryId}},
-        "ProductType": "Smartphone",
-        "NameEN": request["Name"] + " EN",
-        "NameDE": request["Name"] + " DE",
-        "TranslationCollection": [{
-            "Langue": "EN",
-            "ProductName": request["Name"] + " EN",
-        }],
-        "SferisName": request["Name"] + " Sferis",
-        "CNCode": "85171200",
-        "PKWiU": "26.20.11",
-        "Intrastatname": request["Name"] + " Intrastat",
-        "IntrastatnameLong": request["Name"] + " Intrastat Long",
-        "CountryOfOrigin": "Poland",
-        "Weight": 0.5,
-        "Height": 15.0,
-        "Width": 7.0,
-        "Depth": 0.8,
-        "ProducerGPSR": {
-            "NazwaProducenta": "Samsung",
-            "Ulica": "ul. Przykładowa",
-            "NrDomu": "12",
-            "KodPocztowy": "00-001",
-            "Miasto": "Warszawa",
-            "Kraj": "PL",
-            "NrKierunkowy": "+48",
-            "NrTelefonu": "123456789",
-            "Email": "kontakt@samsung.pl"
-        },
-        "ImporterGPSR": {
-            "NazwaProducenta": "Samsung",
-            "Ulica": "ul. Przykładowa",
-            "NrDomu": "12",
-            "KodPocztowy": "00-001",
-            "Miasto": "Warszawa",
-            "Kraj": "PL",
-            "NrKierunkowy": "+48",
-            "NrTelefonu": "123456789",
-            "Email": "kontakt@samsung.pl"
-        },
-        "Piktograms": [PIKTOGRAMY[851074], PIKTOGRAMY[830908]],
-        "EnergyLabel": "A++",
-        "Battery100Wh": False,
-        "InstalledBattery": True,
-        "LooseBattery": False,
-        "Large": False,
-        "ComponentCollection": [
-            {"ComponentItemID": "comp1", "ComponentQty": 1},
-        ],
-        "RelatedProductCollection": [{
-            "ProductNumber": "98765",
-            "RelationType": "Related" if True else "Duplicate",
-            "RelationNo": 1
-        }],
-        "Speccollection": [{'sectionId': 2,
-        'atributeId': 4,
-        'value': 200,
-        'languageId': 'en'},
-        {'sectionId': 2,
-        'atributeId': 4,
-        'value': 200,
-        'languageId': 'de'},
-        {'sectionId': 2,
-        'atributeId': 5,
-        'value': 300,
-        'languageId': 'en'},
-        ],
-        "Photocollection": [
-            {"URL": "http://example.com/photo1.jpg"},
-            {"URL": "http://example.com/photo2.jpg"}
-        ]
-    }
-    return JSONResponse({
-        'success': True,
-    })
+    output = await fill_graph_single_core({"body":data})
+    return JSONResponse(output)
+

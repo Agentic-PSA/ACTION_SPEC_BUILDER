@@ -1,4 +1,5 @@
 import datetime
+import json
 import logging
 import os
 import re
@@ -11,162 +12,12 @@ from starlette.responses import JSONResponse
 
 from src.services.ean_service import send_message
 from src.services.file_service import save_json_file
-
-ureg = UnitRegistry()
-ureg.define("dni = day")
-Q_ = ureg.Quantity
+from src.services.fill_graph import fill_graph_single_core, convert_units, process_specification, apply_changes
 
 
-def convert_units(numerical: dict) -> dict:
-    """
-    Przekształca wartości z jednostkami na postać ujednoliconą.
-
-    Args:
-        numerical (dict): np. {"length": "12,5cm", "height": "5\""}
-
-    Returns:
-        dict: {"length": {"value": 0.125, "unit": "m"}, "height": {"value": 0.127, "unit": "m"}}
-    """
-    response = {}
-    for key, value in numerical.items():
-        value = value.replace(",", ".", 1)
-        match = re.search(r'(\d+(?:\.\d+)?)(\")?', value)
-        if match and match.group(2) == '"':
-            value = value.replace('"', ' in', 1)
-
-        try:
-            q = Q_(value)
-            v = q.m  # wartość w jednostce bazowej
-            u = q.u  # jednostka
-            logging.debug(f"Processing {key}: value = {v}, unit = {u}")
-            response[key] = {
-                'value': v,
-                'unit': f"{u:~}"
-            }
-        except Exception as e:
-            logging.warning(f"Error processing {key}: {e}")
-
-    return response
 
 
-ALLOWED_COLUMNS = ["category"]
 
-
-def process_specification(panel_data, specification_languages):
-    panel_data_specification = panel_data.get("specification", [])
-    specification = {}
-    errors = []
-    specification["EAN"] = panel_data.get("product_ean", "")
-    specification["action"] = panel_data.get("product_dax_index", "")
-    specification["common"] = {
-        "Nazwa": panel_data.get("product_supplier_name", ""),
-        "Product number": panel_data.get("product_part_number", ""),
-        "Producent": panel_data.get("producer_name", "")
-    }
-
-    for lang in specification_languages:
-        specification[lang] = []
-
-    for section in panel_data_specification:
-        section_name = section.get("section_name", {})
-        section_name = {key: section_name[key] for key in specification_languages if key in section_name}
-        section_sort = section.get("section_sort", 0)
-        attributes = section.get("attributes", [])
-
-        section_by_lang = {}
-        for lang in specification_languages:
-            section_by_lang[lang] = {
-                "section_name": section_name[lang],
-                "section_sort": section_sort,
-                "attributes": {},
-                "attributes_types": {}
-            }
-
-        for attribute in attributes:
-            attribute_sort = attribute.get("attribute_sort", 0)
-            attribute_type = attribute.get("attribute_type", "")
-            attribute_name = attribute.get("attribute_name", {})
-            attribute_name = {key: attribute_name[key] for key in specification_languages if key in attribute_name}
-            values = attribute.get("values", [])
-            if values:
-                if len(values) == 1:
-                    values = values[0].get("attribute_value_name", {})
-                    values = {key: values[key] for key in specification_languages if key in values}
-                else:
-                    multiple_values = {key: [] for key in specification_languages}
-                    for value in values:
-                        attribute_value_name = value.get("attribute_value_name", {})
-                        for lang in specification_languages:
-                            if lang in attribute_value_name:
-                                multiple_values[lang].append(attribute_value_name[lang])
-                    values = multiple_values
-
-            else:
-                value = attribute.get("value", {})
-                if value:
-                    values = {key: value[key] for key in specification_languages if key in value}
-                else:
-                    errors.append(f"attribute_name: {attribute_name} , Values: {values}")
-                    values = {}
-
-            for lang in specification_languages:
-                name = attribute_name.get(lang)
-                value = values.get(lang)
-                if name and value:
-                    section_by_lang[lang]["attributes"][name] = value
-                    section_by_lang[lang]["attributes_types"][name] = attribute_type
-                else:
-                    errors.append(f"name: {name}, value: {value}")
-
-        for lang in specification_languages:
-            specification[lang].append(section_by_lang[lang])
-    return specification, errors
-
-
-specification_languages = ["PL", "EN", "DE"]
-
-
-def get_form_data(column: str, value: str) -> dict:
-    """
-    Pobiera dane formularza z bazy danych PostgreSQL dla podanej kolumny.
-
-    Args:
-        column (str): nazwa kolumny w tabeli forms
-        value (str): wartość do wyszukania w kolumnie
-
-    Returns:
-        dict: rekord z tabeli forms jako słownik
-
-    Raises:
-        ValueError: jeśli nie znaleziono danych lub kolumna jest niedozwolona
-        psycopg2.Error: w przypadku błędu połączenia lub zapytania
-    """
-    if column not in ALLOWED_COLUMNS:
-        raise ValueError(f"Niedozwolona kolumna: {column}")
-
-    try:
-        with psycopg2.connect(
-                host="172.16.10.3",
-                port=30008,
-                database="postgres",
-                user="postgres",
-                password="CQ15V1xNC9"
-        ) as conn:
-            with conn.cursor(cursor_factory=extras.RealDictCursor) as cursor:
-                query = sql.SQL("SELECT * FROM forms WHERE {field} = %s LIMIT 1").format(
-                    field=sql.Identifier(column)
-                )
-                cursor.execute(query, [value])
-                result = cursor.fetchone()
-
-                if not result:
-                    raise ValueError(f"Brak danych w tabeli forms dla {column} = '{value}'")
-
-                return dict(result)
-
-    except Exception as e:
-        print(f"Błąd podczas pobierania danych z bazy: {e}")
-        raise
 
 
 def create_output_directory():
@@ -201,197 +52,128 @@ async def fill_graph(request):
 
     # ean = "8806087072013"
     # ean = "6942351406268"
-    pim_data = {
-        "body": {
-            "ProductNumber": "TVASA1LCD0722",
-            "ProductVersion": "1.0",
-            "ProductType": "Telewizory",
-            "Brand": "Samsung",
-            "TranslationCollection": [
-                {
-                    "Language": "pl",
-                    "ProductName": "Telewizor 55\" Samsung QE55Q7F",
-                    "ProductDescription": None
-                },
-                {
-                    "Language": "en-US",
-                    "ProductName": "Telewizor 55\" Samsung QE55Q7F",
-                    "ProductDescription": None
-                },
-                {
-                    "Language": "de",
-                    "ProductName": "Telewizor 55\" Samsung QE55Q7F",
-                    "ProductDescription": None
-                }
-            ],
-            "RelatedProductCollection": [],
-            "ComponentCollection": [],
-            "BarcodeCollection": [
-                {
-                    "BarCodeType": "GTIN-13",
-                    "BarCode": "8806097118565"
-                }
-            ],
-            "BundleType": "",
-            "CNCode": "85287240",
-            "DirectoryGTIN": "",
-            "ProducerNumber": None,
-            "Weight": 15500.0,
-            "Height": 820.0,
-            "Width": 1360.0,
-            "Depth": 120.0,
-            "Battery100Wh": False,
-            "LooseBattery": False,
-            "InstalledBattery": False,
-            "PKWiU": "26.40.20.0",
-            "CountryOfOrigin": None,
-            "CategoryMapCollection": [
-                {
-                    "SalesChannelId": 1,
-                    "CategoryCollection": [
-                        {
-                            "CategoryId": 53984
-                        }
-                    ]
-                },
-                {
-                    "SalesChannelId": 2,
-                    "CategoryCollection": [
-                        {
-                            "CategoryId": 54810
-                        }
-                    ]
-                }
-            ],
-            "PIMProductId": "100080221",
-            "Large": True,
-            "ImporterGPSR": None,
-            "Piktograms": None,
-            "ProducerGPSR": None,
-            "SferisName": "Telewizor Samsung QE55Q7FAAUXXH QLED 55'' 4K Ultra HD Tizen Q-Symphony DVB-T2 Czarny (MODEL 2025)"
-        },
-        "properties": {
-            "message_id": "3ae8c632-2413-4ecf-aec1-03ac28bc186b",
-            "session_id": "0",
-            "content_type": "application/json",
-            "correlation_id": None,
-            "subject": "Product",
-            "application_properties": {
-                "Company": "b'ACT'",
-                "CreationDate": "b'2025-06-02T16:03:27Z'",
-                "ModificationDate": None,
-                "Source": "b'PIM'",
-                "Version": "b'1.0'",
-                "SourceId": "b'TVASA1LCD0722'"
-            },
-            "enqueued_time_utc": "2025-09-29 11:55:49.465000+00:00",
-            "sequence_number": 9835
-        }
-    }
-    ean_category = "TVA-LCD"
-    connector = aiohttp.TCPConnector(limit=30)
-    async with aiohttp.ClientSession(connector=connector) as session:
-        element = await send_message(session, "get_ean", pim_data['body']['BarcodeCollection'][0]['BarCode'])
-        panel_data = element.get("panel_data", {})
-        specification, errors = process_specification(panel_data, ["PL"])
-        spec_data = get_form_data('category', ean_category)
 
-        translates = spec_data['translates']
-        save_to_output_dir(specification, 'specification')
+    results = []
 
-        # TUTAJ PROCES PODMIANY PARAMETRÓW
-        # Wynik zwrócić do zmiennej specification
-        specification = apply_changes(specification, translates)
-        save_to_output_dir(specification, 'specification2')
+    with open("pim_by_type/Grzejniki.json", "r", encoding="utf-8") as f:
+        # wczytanie całego pliku JSON
+        pim_list = json.load(f).get("pim", [])
+        print(f"Wczytano {len(pim_list)} elementów z pliku Telewizory.json")
+    for iddx, pim_data in enumerate(pim_list):
 
-        correct_values = spec_data['values_map']
-        for i, section in enumerate(specification.get("PL", [])):
-            attributes = section.get("attributes")
-            if section['section_name'] in correct_values:
-                for key, value in attributes.items():
-                    if key in correct_values[section['section_name']]:
-                        for correct_key, correct_value in correct_values[section['section_name']][key][
-                            'values'].items():
-                            if value in correct_value:
-                                attributes[key] = correct_key
-                                break
+        print(f"\n--- Przetwarzanie obiektu {iddx + 1}/{len(pim_list)} ---")
+        ean_category = "AGD-GDU"
+        connector = aiohttp.TCPConnector(limit=30)
+        async with aiohttp.ClientSession(connector=connector) as session:
+            if not len(pim_data['body']['BarcodeCollection']):
+                print(f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber', '')}")
+                continue
+            element = await send_message(session, "get_ean", pim_data['body']['BarcodeCollection'][0]['BarCode'])
 
-        numerical = {}
+            if not element or element.get("ean_response_is_empty", False):
+                print(f"przeskok: {pim_data['body']['BarcodeCollection'][0]['BarCode']}")
+                continue
+            panel_data = element.get("panel_data", {})
+            print(f"Przetwarzanie EAN: {panel_data.get('product_ean', '')} dla typu {ean_category}")
+            specification, errors = process_specification(panel_data, ["PL"])
+            spec_data = get_form_data('category', ean_category)
 
-        for i, section in enumerate(specification.get("PL", [])):
-            attributes = section.get("attributes")
-            attributes_types = section.get("attributes_types")
-            for key, value in attributes_types.items():
-                if value == "numerical":
-                    numerical[key] = attributes[key]
+            translates = spec_data['translates']
+            save_to_output_dir(specification, 'specification')
 
-        units = convert_units(numerical)
-        for i, section in enumerate(specification.get("PL", [])):
-            attributes = section.get("attributes")
-            attributes_types = section.get("attributes_types")
-            for key, value in attributes_types.items():
-                if value == "numerical" and key in units:
-                    attributes[key] = units[key]
-        add_nodes_data = {
-            "type": ean_category,
-            "properties": specification,
-            "pim_data": pim_data['body']
-        }
-        try:
-            async with session.post(
-                    "http://172.16.10.3:30383/add_product",
-                    json=add_nodes_data,
-                    headers={"Content-Type": "application/json"}
-            ) as response:
-                if response.status == 200:
-                    result = await response.json()
-                    save_to_output_dir(result, "add_product_response.json")
-                    return JSONResponse({
-                        "success": True,
-                        "specification": specification,
-                        "graph_response": result
-                    })
-                else:
-                    error_text = await response.text()
-                    save_to_output_dir({"error": error_text, "status": response.status}, "add_product_error.json")
-                    return JSONResponse({
-                        "success": False,
-                        "error": f"Błąd podczas dodawania do grafu: {response.status}",
-                        "details": error_text
-                    }, status_code=500)
-        except Exception as e:
-            logging.error(f"Błąd podczas komunikacji z API grafu: {str(e)}")
-            return JSONResponse({
-                "success": False,
-                "error": f"Błąd podczas komunikacji z API grafu: {str(e)}"
-            }, status_code=500)
-        return JSONResponse(specification)
+            specification = apply_changes(specification, translates)
+            save_to_output_dir(specification, 'specification2')
+
+            correct_values = spec_data['values_map']
+            for i, section in enumerate(specification.get("PL", [])):
+                attributes = section.get("attributes")
+                if section['section_name'] in correct_values:
+                    for key, value in attributes.items():
+                        if key in correct_values[section['section_name']]:
+                            for correct_key, correct_value in correct_values[section['section_name']][key][
+                                'values'].items():
+                                if value in correct_value:
+                                    if correct_values[section['section_name']][key]['unit']:
+                                        attributes[key] = correct_key + " " + correct_values[section['section_name']][key]['unit']
+                                    else:
+                                        attributes[key] = correct_key
+                                    break
+
+            numerical = {}
+
+            for i, section in enumerate(specification.get("PL", [])):
+                attributes = section.get("attributes")
+                attributes_types = section.get("attributes_types")
+                for key, value in attributes_types.items():
+                    if value == "numerical":
+                        numerical[key] = attributes[key]
+
+            units = convert_units(numerical)
+            for i, section in enumerate(specification.get("PL", [])):
+                attributes = section.get("attributes")
+                attributes_types = section.get("attributes_types")
+                for key, value in attributes_types.items():
+                    if value == "numerical" and key in units:
+                        attributes[key] = units[key]
+            for trans in pim_data.get('body', {}).get('TranslationCollection', []):
+                lang = trans.get('Language', '').split('-')[0].upper() or 'un'
+                product_name = trans.get('ProductName', '')
+                product_desc = trans.get('ProductDescription', '')
+                print(f"  Przetwarzanie tłumaczenia: {lang} - {product_name}")
+                if lang not in ['pl', 'un']:
+                    specification['common'][f'Name{lang}'] = product_name
+                    print(f"    Dodano common Name{lang}: {product_name}")
+                if lang == 'pl':
+                    specification["common"]['Nazwa'] = product_name
 
 
-def apply_changes(data, changes):
-    for section in data.get("PL", []):
-        section_name = section["section_name"]
+                trans.update({
+                    'ProductName': product_desc or '',
+                })
+                trans.pop('ProductDescription', None)
 
-        # jeśli są mapowania dla tej sekcji
-        if section_name in changes:
-            mapping = changes[section_name]
+            add_nodes_data = {
+                "type": ean_category,
+                "properties": specification,
+                "pim_data": pim_data['body']
+            }
+            try:
+                async with session.post(
+                        "http://172.16.10.3:30383/add_product",
+                        json=add_nodes_data,
+                        headers={"Content-Type": "application/json"}
+                ) as response:
+                    if response.status == 200:
+                        result = await response.json()
+                        results.append({
+                            "ean": panel_data.get('product_ean', ''),
+                            "status": "ok",
+                            "response": result
+                        })
+                    else:
+                        results.append({
+                            "ean": panel_data.get('product_ean', ''),
+                            "status": "error",
+                            "code": response.status,
+                            "details": await response.text()
+                        })
+            except Exception as e:
+                logging.error(f"Błąd podczas komunikacji z API grafu: {str(e)}")
+                results.append({
+                    "ean": panel_data.get('product_ean', ''),
+                    "status": "exception",
+                    "error": str(e)
+                })
+    return JSONResponse({
+        "success": True,
+        "count": len(results),
+        "results": results
+    })
 
-            new_attributes = {}
-            new_types = {}
 
-            for attr, val in section["attributes"].items():
-                # sprawdzamy czy attr jest w mapowaniu
-                new_attr = mapping.get(attr, attr)
-                if new_attr != attr:
-                    print(f"Section '{section_name}': '{attr}' -> '{new_attr}'")
-                new_attributes[new_attr] = val
 
-                # poprawiamy też typ atrybutu
-                if attr in section["attributes_types"]:
-                    new_types[new_attr] = section["attributes_types"][attr]
 
-            # podmieniamy całość
-            section["attributes"] = new_attributes
-            section["attributes_types"] = new_types
-
-    return data
+async def fill_graph_single(request):
+    pim_data = await request.json()
+    output = await fill_graph_single_core(pim_data)
+    return JSONResponse(output)

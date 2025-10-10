@@ -66,7 +66,7 @@ def convert_units(numerical: dict) -> dict:
     return response
 
 
-ALLOWED_COLUMNS = ["category"]
+ALLOWED_COLUMNS = ["category", "categoryid_level3"]
 
 
 def process_specification(panel_data, specification_languages):
@@ -143,7 +143,7 @@ def process_specification(panel_data, specification_languages):
 specification_languages = ["PL", "EN", "DE"]
 
 
-def get_form_data(column: str, value: str) -> dict:
+def get_pg_data(column: str, value: str, table: str='forms') -> dict:
     """
     Pobiera dane formularza z bazy danych PostgreSQL dla podanej kolumny.
 
@@ -170,14 +170,14 @@ def get_form_data(column: str, value: str) -> dict:
                 password="CQ15V1xNC9"
         ) as conn:
             with conn.cursor(cursor_factory=extras.RealDictCursor) as cursor:
-                query = sql.SQL("SELECT * FROM forms WHERE {field} = %s LIMIT 1").format(
-                    field=sql.Identifier(column)
+                query = sql.SQL("SELECT * FROM {forms} WHERE {field} = %s LIMIT 1").format(
+                    field=sql.Identifier(column), forms=sql.Identifier(table)
                 )
                 cursor.execute(query, [value])
                 result = cursor.fetchone()
 
                 if not result:
-                    raise ValueError(f"Brak danych w tabeli forms dla {column} = '{value}'")
+                    raise ValueError(f"Brak danych w tabeli {table} dla {column} = '{value}'")
 
                 return dict(result)
 
@@ -193,7 +193,7 @@ async def fill_graph_single_core(pim_data):
     Zwraca: dict z output.
     """
 
-    ean_category = "AGD-GDU"
+    ean_category = []
     connector = aiohttp.TCPConnector(limit=30)
     async with aiohttp.ClientSession(connector=connector) as session:
         if not len(pim_data['body'].get('BarcodeCollection', [])):
@@ -210,9 +210,28 @@ async def fill_graph_single_core(pim_data):
                 "error": f"Brak danych dla EAN: {pim_data['body']['BarcodeCollection'][0]['BarCode']}"
             }
 
+        if not "CategoryMapCollection" in pim_data['body'] or not len(pim_data['body']['CategoryMapCollection']):
+            return {
+                "success": False,
+                "error": f"Brak CategoryMapCollection dla ProductNumber: {pim_data['body'].get('ProductNumber', '')}"
+            }
+        for cat in pim_data['body']['CategoryMapCollection']:
+            if cat.get("SalesChannelId", 0) == 1 :
+                ean_category = {category.get("CategoryId") for category in cat.get("CategoryCollection", [])}
+                break
+        print(ean_category)
+
+        ean_category = list({get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level3'] for cat in ean_category if cat and cat != "0"})
+
+        print(ean_category)
+        if True:
+            return {
+                "success": True,
+                "error": f"TEST"
+            }
         panel_data = element.get("panel_data", {})
         specification, errors = process_specification(panel_data, ["PL"])
-        spec_data = get_form_data('category', ean_category)
+        spec_data = get_pg_data('category', ean_category)
 
         translates = spec_data['translates']
         specification = apply_changes(specification, translates)
@@ -289,12 +308,15 @@ async def fill_graph_single_core(pim_data):
         for idx, section in enumerate(specification.get("PL", [])):
             attributes = section.get("attributes", {})
             for attr_idx, (key, value) in enumerate(attributes.items(), start=1):
-                speccollection.append({
+                spec = {
                     "sectionId": idx + 1,
                     "atributeId": attr_idx,
-                    "value": value,
+                    "value": value['value'] if type(value) is dict else value,
+                    "unit": value['unit'] if type(value) is dict and 'unit' in value else "",
                     "languageId": "pl"
-                })
+                }
+
+                speccollection.append(spec)
 
         output = {
             "PIMProductId": pim_data['body'].get("PIMProductId"),

@@ -22,6 +22,5 @@ COPY pyproject.toml /sanic/
 RUN poetry install --no-interaction --no-root
 
 COPY . /sanic
-RUN mkdir -p /sanic/database
 
-CMD ["python3", "main.py"]
+CMD ["python3", "start.py"]

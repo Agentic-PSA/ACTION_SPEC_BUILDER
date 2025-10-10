@@ -23,4 +23,4 @@ RUN poetry install --no-interaction --no-root
 
 COPY . /sanic
 
-CMD ["python3", "start.py"]
+CMD ["python3", "main.py"]

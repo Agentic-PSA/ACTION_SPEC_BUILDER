@@ -13,10 +13,10 @@ TOPIC_NAME = "product"
 SUBSCRIPTION_NAME = "BazaGrafowa"
 SESSION_ID = "0"
 
-DOWNLOAD_FOLDER = Path("downloaded_messages")
-OLD_FOLDER = Path("old_downloaded_messages")
-OUTPUT_FOLDER = Path("pim_data")
-BY_TYPE_FOLDER = Path("pim_by_type")
+DOWNLOAD_FOLDER = Path("database/downloaded_messages")
+OLD_FOLDER = Path("database/old_downloaded_messages")
+OUTPUT_FOLDER = Path("database/pim_data")
+BY_TYPE_FOLDER = Path("database/pim_by_type")
 
 for folder in [DOWNLOAD_FOLDER, OLD_FOLDER, OUTPUT_FOLDER, BY_TYPE_FOLDER]:
     folder.mkdir(exist_ok=True)
@@ -231,7 +231,7 @@ def fetch_and_process():
 
     # od razu przetwarzamy i filtrujemy do PIM po ProductType
     process_new_messages_by_type(fetched_messages)
-    send_to_pim_endpoint(fetched_messages)
+    # send_to_pim_endpoint(fetched_messages)
 
 
 

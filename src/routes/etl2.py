@@ -9,7 +9,7 @@ from src.services.specification_service import merge_specifications, combine_spe
 from src.services.ai_service import analyze_and_save, ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order, ai_sugest_section_names
 from src.services.file_service import save_json_file
 from src.services.form_service import build_form
-from src.services.db_service import form_save
+from src.services.db_service import form_save, get_category_by_id
 
 import datetime
 import os
@@ -290,26 +290,95 @@ async def etl2_create_spec_aka(request):
     #     'data/AGD-GRO.json',
     # ]
     # golarki
-    category_desc = "Golarki"
+    # category_desc = "Golarki"
+    # files = [
+    #     'data/AGD-GOL.json',
+    #     'data/AGD-GDU.json',
+    #     'data/AGD-STR.json',
+    # ]
+    limit = 10000
+    category_id = 53984
+    category = get_category_by_id(category_id)
+    print(category)
+    category_desc = f"{category.get('categoryname_level2') or ''} / {category.get('categoryname_level3') or ''}".strip(' /')
+    folder_path = 'data/pim_data'
     files = [
-        'data/AGD-GOL.json',
-        'data/AGD-GDU.json',
-        'data/AGD-STR.json',
+        os.path.join(folder_path, f)
+        for f in os.listdir(folder_path)
+        if f.endswith('.json')
     ]
+    #print(files)
 
     # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
     def save_to_output_dir(data, filename):
-        file_path = os.path.join(output_dir, f'{category_desc}_{filename}')
+        file_path = os.path.join(output_dir, f'{category_id}_{filename}')
         save_json_file(data, file_path)
         return file_path
 
 
     data = {}
+    tt = 0
     for file_path in files:
         records = await read_eans_from_file(file_path)
-        data.update({d['gtin']: d for d in records})
-        # for d in records[:5]:
-        #     data[d['gtin']] = d
+        # data.update({d['gtin']: d for d in records})
+        for record in records.get("pim", []):
+            if not isinstance(record, dict):
+                print("⚠️ Pominięto rekord — nie jest słownikiem:", record)
+                continue
+
+            body = record.get("body") or {}
+            if not isinstance(body, dict):
+                print("⚠️ Pominięto rekord — body to None lub nie dict")
+                continue
+
+
+            print('---------------------------------------------')
+            print(body.get("ProductNumber"))
+
+            category_maps = body.get("CategoryMapCollection") or []
+            if not isinstance(category_maps, list):
+                print(f"⚠️ Pominięto produkt {body.get('ProductNumber')} — CategoryMapCollection nie jest listą")
+                continue
+
+            found = False
+            for mapping in category_maps:
+                if not isinstance(mapping, dict):
+                    continue
+
+                if mapping.get("SalesChannelId") == 1:
+                    for cat in (mapping.get("CategoryCollection") or []):
+                        if not isinstance(cat, dict):
+                            continue
+
+                        if cat.get("CategoryId") == category_id:
+                            found = True
+                            break
+                if found:
+                    break
+            if not found:
+                print(f"ℹ️ Pominięto produkt {body.get('ProductNumber')} — brak CategoryId={category_id} w SalesChannelId=1")
+                continue
+
+            barcodes = body.get("BarcodeCollection", [])
+            gtin = None
+            for b in barcodes:
+                if b.get("BarCodeType") == "GTIN-13":
+                    gtin = b.get("BarCode")
+                    break
+
+            if gtin:
+                record["gtin"] = gtin
+                data[gtin] = record
+                tt = tt+1
+            else:
+                print(f"⚠️ Brak GTIN dla produktu {body.get('ProductNumber')}")
+
+            if tt > limit:
+                break
+        if tt > limit:
+            break
+
+
 
     connector = aiohttp.TCPConnector(limit=30)
 
@@ -342,8 +411,10 @@ async def etl2_create_spec_aka(request):
                     trans_lang[attr["PL"]] = attr
             #print("panel", params)
             products[v['gtin']] = params
-            if v['groupId'] not in categories:
-                categories.append(v['groupId'])
+            #if v['groupId'] not in categories:
+            #    categories.append(v['groupId'])
+            if category_desc not in categories:
+                categories.append(category_desc)
 
             array_params = {
                 category: {k: [v] for k, v in specs.items()}
@@ -369,8 +440,11 @@ async def etl2_create_spec_aka(request):
                                 all_params[category][key_to_use].extend(new_vals)
                             if key_to_use not in params_for_categories[category]:
                                 params_for_categories[category][key_to_use] = []
-                            if v['groupId'] not in params_for_categories[category][key_to_use]:
-                                params_for_categories[category][key_to_use].append(v['groupId'])
+                            #if v['groupId'] not in params_for_categories[category][key_to_use]:
+                            #    params_for_categories[category][key_to_use].append(v['groupId'])
+                            if category_desc not in params_for_categories[category][key_to_use]:
+                                params_for_categories[category][key_to_use].append(category_desc)
+
                         else:
                             # nowy klucz w istniejącej kategorii (nie dodajemy)
                             if category not in potential_new:
@@ -396,8 +470,10 @@ async def etl2_create_spec_aka(request):
                                 all_params[category][par] = potential_new[category][par]
                                 if par not in params_for_categories[category]:
                                     params_for_categories[category][par] = []
-                                if v['groupId'] not in params_for_categories[category][par]:
-                                    params_for_categories[category][par].append(v['groupId'])
+                                #if v['groupId'] not in params_for_categories[category][par]:
+                                #    params_for_categories[category][par].append(v['groupId'])
+                                if category_desc not in params_for_categories[category][par]:
+                                    params_for_categories[category][par].append(category_desc)
 
                             else:
                                 #val - to co juz istnieje
@@ -420,8 +496,11 @@ async def etl2_create_spec_aka(request):
 
                                 if par not in params_for_categories[category]:
                                     params_for_categories[category][par] = []
-                                if v['groupId'] not in params_for_categories[category][par]:
-                                    params_for_categories[category][par].append(v['groupId'])
+
+                                #if v['groupId'] not in params_for_categories[category][par]:
+                                #    params_for_categories[category][par].append(v['groupId'])
+                                if category_desc not in params_for_categories[category][par]:
+                                    params_for_categories[category][par].append(category_desc)
                                 if par_old in params_for_categories[category]:
                                     for gid in params_for_categories[category][par_old]:
                                         if gid not in params_for_categories[category][par]:
@@ -493,6 +572,8 @@ async def etl2_create_spec_aka(request):
         # ustal kolejność
         print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Ustalam kolejność (AI)")
         ordered = ai_set_order(category_desc, all_params, f'ordered', save_to_output_dir)
+        if not ordered:
+            ordered = all_params
         save_to_output_dir(ordered, f'zz_all_params_with_order')
 
         # stwórz dane podstawowe i oczyść z danych przykładowych

@@ -2,6 +2,7 @@
 import os
 import json
 import psycopg2
+from psycopg2.extras import RealDictCursor
 
 def form_save(categories, llm_form, form, form_with_values, translates, form_categories):
     # połączenie
@@ -39,4 +40,22 @@ def form_save(categories, llm_form, form, form_with_values, translates, form_cat
                     )
                 )
 
-    
+def get_category_by_id(category_id):
+    conn_params = {
+        "dbname": "postgres",
+        "user": "postgres",
+        "password": "CQ15V1xNC9",
+        "host": "172.16.10.3",
+        "port": 30008
+    }  
+    query = """
+        SELECT *
+        FROM iserwis_categories
+        WHERE categoryid_level3 = %s;
+    """
+    with psycopg2.connect(**conn_params) as conn:
+        with conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute(query, (str(category_id),))
+            category = cur.fetchone()
+
+    return category

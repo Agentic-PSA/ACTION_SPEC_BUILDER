@@ -189,7 +189,7 @@ def ask_gpt_aka(question, prompt, api_key=GPT_KEY):
                 }
             ],
             temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
-            max_tokens=20000,  # Maksymalna długość odpowiedzi
+            max_tokens=30000,  # Maksymalna długość odpowiedzi
             timeout=600 # max 10 minut
         )
         #print(prompt)

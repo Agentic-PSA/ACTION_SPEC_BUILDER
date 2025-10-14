@@ -45,7 +45,12 @@ pim_categories = [
     'RelatedProductCollection','Speccollection','Photocollection'
 ]
 import requests
-
+def json_safe(obj):
+    if isinstance(obj, bytes):
+        return obj.decode("utf-8", errors="replace")
+    if isinstance(obj, (datetime, timedelta)):
+        return str(obj)
+    return obj
 def send_to_pim_endpoint(new_messages):
     url = "http://0.0.0.0:7001/pim"
     for obj in new_messages:
@@ -82,6 +87,11 @@ def safe_dict(d):
 
 def message_to_dict(msg):
     body = message_body_to_str_or_b64(msg)
+    if isinstance(body, bytes):
+        try:
+            body = body.decode("utf-8")
+        except Exception:
+            body = {"base64": base64.b64encode(body).decode("ascii")}
     props = {
         "message_id": getattr(msg, "message_id", None),
         "session_id": getattr(msg, "session_id", None),
@@ -153,7 +163,8 @@ def process_new_messages_by_type(new_messages):
         all_items = existing_items + [obj]
 
         with open(output_path, "w", encoding="utf-8") as f_out:
-            json.dump({"pim": all_items}, f_out, ensure_ascii=False, indent=2)
+            json.dump({"pim": all_items}, f_out, ensure_ascii=False, indent=2, default=json_safe)
+
 
 def process_by_type():
     all_files = glob(str(OUTPUT_FOLDER / "pim_*.json"))
@@ -179,7 +190,8 @@ def process_by_type():
         all_items = existing_items + items
 
         with open(output_path, "w", encoding="utf-8") as f_out:
-            json.dump({"pim": all_items}, f_out, ensure_ascii=False, indent=2)
+            json.dump({"pim": all_items}, f_out, ensure_ascii=False, indent=2, default=json_safe)
+
         print(f"[info] zapisano {len(items)} nowych elementów dla ProductType={product_type} -> {output_path} (total {len(all_items)})")
 
 def fetch_and_process():

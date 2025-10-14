@@ -195,6 +195,7 @@ async def map_values(request):
         8. Jeśli analizowany parametr to funkcyjny wymiar np. "długość przekątnej ekranu" lub  "pojemność powerbanka" należy je zmapować.
         9. Dla kolorów, odcieni i barw: traktuj każdą wartość jako unikalną. Nigdy nie łącz wartości, nawet jeśli są podobne, tłumaczone czy zawierają dodatkowe przymiotniki (np. "Titan Black" ≠ "Black").
         10. Jeśli w wartości parametru pojawią się widoczny błąd np "erfect" lub "podsawowy", zmapuj na wartość bez błędu "perfect" lub "podstawowy".
+        11. Nigdy nie łącz różnych przedziałów wartości w jeden klucz, krytycznym błedem jest zrobienie takiego układu: {{"unit": "W", "values": {{"30/1000/1500/2000/2200/2500/3000/3500": ["1000 W", "2500 W", "2000 W", "3500 W", "2200 W", "30/2000/3000W", "25/1000/2000W", "1500 W", "30/2000W"]}}}}
         Wynik ma zawierać:
         - wszystkie atrybuty i ich strukturę identyczną jak w danych wejściowych,
         - przy każdej znormalizowanej wartości listę wartości oryginalnych, które zostały zmapowane/usunięte.
@@ -240,6 +241,7 @@ async def map_values(request):
         save_json_file(llm_block, os.path.join(output_dir, f'block_mapped_{idx}.json'))
 
         for section, params in llm_block.items():
+            print(section)
             if section not in llm_map:
                 llm_map[section] = {}
             for param, mappings in params.items():
@@ -249,6 +251,7 @@ async def map_values(request):
                     if norm_val not in llm_map[section][param]:
                         llm_map[section][param][norm_val] = {"values": set(), 'unit': orig_vals.get('unit', '')}
                     llm_map[section][param][norm_val]["values"].update(orig_vals['values'])
+    print('C')
     print(llm_map)
     # Konwersja zbiorów na listy przed zapisem
     def convert_sets_to_lists(obj):

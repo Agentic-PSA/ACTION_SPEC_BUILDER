@@ -44,13 +44,12 @@ async def fill_graph(request):
 
     results = []
 
-    with open("pim_by_type/Grzejniki.json", "r", encoding="utf-8") as f:
+    with open("pim_by_type/Telewizory.json", "r", encoding="utf-8") as f:
         pim_list = json.load(f).get("pim", [])
         print(f"Wczytano {len(pim_list)} elementów z pliku Grzejniki.json")
 
     for idx, pim_data in enumerate(pim_list):
         print(f"\n--- Przetwarzanie obiektu {idx + 1}/{len(pim_list)} ---")
-
         # można tu zrobić drobną wstępną weryfikację
         if not pim_data['body'].get('BarcodeCollection'):
             print(f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber')}")

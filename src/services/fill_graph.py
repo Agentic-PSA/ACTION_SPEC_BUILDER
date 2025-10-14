@@ -1,3 +1,4 @@
+import json
 import logging
 import re
 
@@ -5,6 +6,7 @@ import aiohttp
 import psycopg2
 from pint import UnitRegistry
 from psycopg2 import extras, sql
+from starlette.responses import JSONResponse
 
 from src.services.ean_service import send_message
 
@@ -33,18 +35,9 @@ PIKTOGRAMY = {
 }
 
 def convert_units(numerical: dict) -> dict:
-    """
-    Przekształca wartości z jednostkami na postać ujednoliconą.
-
-    Args:
-        numerical (dict): np. {"length": "12,5cm", "height": "5\""}
-
-    Returns:
-        dict: {"length": {"value": 0.125, "unit": "m"}, "height": {"value": 0.127, "unit": "m"}}
-    """
     response = {}
     for key, value in numerical.items():
-        if type(value) is list:
+        if isinstance(value, list):
             value = value[0]
         value = value.replace(",", ".", 1)
         match = re.search(r'(\d+(?:\.\d+)?)(\")?', value)
@@ -52,18 +45,27 @@ def convert_units(numerical: dict) -> dict:
             value = value.replace('"', ' in', 1)
 
         try:
+            # Jeśli °C lub °F – pomijamy Pint
+            if "°C" in value or "oC" in value:
+                num = float(re.search(r'[-+]?\d+(?:\.\d+)?', value).group(0))
+                response[key] = {'value': num, 'unit': '°C'}
+                continue
+            elif "°F" in value:
+                num = float(re.search(r'[-+]?\d+(?:\.\d+)?', value).group(0))
+                response[key] = {'value': num, 'unit': '°F'}
+                continue
+
+            # Wszystko inne normalnie przez Pint
             q = Q_(value)
-            v = q.m  # wartość w jednostce bazowej
-            u = q.u  # jednostka
-            logging.debug(f"Processing {key}: value = {v}, unit = {u}")
-            response[key] = {
-                'value': v,
-                'unit': f"{u:~}"
-            }
+            v = q.to_base_units().magnitude  # wartości w jednostkach bazowych
+            u = q.to_base_units().units
+            response[key] = {'value': v, 'unit': f"{u:~}"}
+
         except Exception as e:
             logging.warning(f"Error processing {key}: {e}")
 
     return response
+
 
 
 ALLOWED_COLUMNS = ["category", "categoryid_level3"]
@@ -215,23 +217,27 @@ async def fill_graph_single_core(pim_data):
                 "success": False,
                 "error": f"Brak CategoryMapCollection dla ProductNumber: {pim_data['body'].get('ProductNumber', '')}"
             }
-        for cat in pim_data['body']['CategoryMapCollection']:
-            if cat.get("SalesChannelId", 0) == 1 :
-                ean_category = {category.get("CategoryId") for category in cat.get("CategoryCollection", [])}
-                break
-        print(ean_category)
+        # pobieramy tylko ID
+        category_ids = {category.get("CategoryId") for cat in pim_data['body']['CategoryMapCollection']
+                        if cat.get("SalesChannelId", 0) == 1
+                        for category in cat.get("CategoryCollection", [])}
+        # konwertujemy ID na nazwy level3
+        level3_names = [get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level3']
+                        for cat in category_ids if cat and cat != "0"]
 
-        ean_category = list({get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level3'] for cat in ean_category if cat and cat != "0"})
+        # konwertujemy ID na level2 / level3
+        level2_3_names = [
+            get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level3'] + " / " +
+            get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level2']
+            for cat in category_ids if cat and cat != "0"]
 
-        print(ean_category)
-        if True:
-            return {
-                "success": True,
-                "error": f"TEST"
-            }
+        # łączymy wynik
+        ean_category = level3_names + level2_3_names
+
+        ean_type = pim_data['body'].get("ProductType", "")
         panel_data = element.get("panel_data", {})
         specification, errors = process_specification(panel_data, ["PL"])
-        spec_data = get_pg_data('category', ean_category)
+        spec_data = get_pg_data('category', ean_type)
 
         translates = spec_data['translates']
         specification = apply_changes(specification, translates)
@@ -256,7 +262,7 @@ async def fill_graph_single_core(pim_data):
             for key, value in attributes_types.items():
                 if value == "numerical":
                     numerical[key] = attributes[key]
-
+        print(json.dumps(numerical, indent=1))
         units = convert_units(numerical)
         for section in specification.get("PL", []):
             attributes = section.get("attributes")
@@ -273,7 +279,7 @@ async def fill_graph_single_core(pim_data):
                 specification['common'][f'Name{lang}'] = product_name
             if lang == 'PL':
                 specification['common']['Nazwa'] = product_name
-            trans.update({'ProductName': product_desc or ''})
+            trans.update({'ProductName': product_desc or trans.get('ProductName', '')})
             trans.pop('ProductDescription', None)
 
         if "TranslationCollection" not in pim_data['body']:
@@ -285,7 +291,8 @@ async def fill_graph_single_core(pim_data):
 
         # wysyłka do API grafu
         add_nodes_data = {
-            "type": ean_category,
+            "type": ean_type,
+            "additional_types": ean_category,
             "properties": specification,
             "pim_data": pim_data['body']
         }
@@ -322,7 +329,7 @@ async def fill_graph_single_core(pim_data):
             "PIMProductId": pim_data['body'].get("PIMProductId"),
             "Brand": pim_data['body'].get("Brand"),
             "CategoryMapCollection": pim_data['body'].get("CategoryMapCollection"),
-            "ProductType": "",
+            "ProductType": pim_data['body'].get("ProductType"),
             "NameEN": specification['common'].get("NameEN", pim_data['body'].get("Name", "") + " EN"),
             "NameDE": specification['common'].get("NameDE", pim_data['body'].get("Name", "") + " DE"),
             "TranslationCollection": pim_data['body'].get("TranslationCollection", []),

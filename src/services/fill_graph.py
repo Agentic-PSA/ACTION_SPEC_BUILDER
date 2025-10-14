@@ -166,7 +166,7 @@ def get_pg_data(column: str, value: str, table: str='forms') -> dict:
     try:
         with psycopg2.connect(
                 host=os.environ.get("POSTGRES_HOST"),
-                port=os.environ.get("POSTGRES_PORT")
+                port=os.environ.get("POSTGRES_PORT"),
                 database=os.environ.get("POSTGRES_DB"),
                 user=os.environ.get("POSTGRES_USER"),
                 password=os.environ.get("POSTGRES_PASSWORD")

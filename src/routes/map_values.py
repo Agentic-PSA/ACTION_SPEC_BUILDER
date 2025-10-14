@@ -24,7 +24,7 @@ def get_form_data(category: str):
     try:
         conn = psycopg2.connect(
             host=os.environ.get("POSTGRES_HOST"),
-            port=os.environ.get("POSTGRES_PORT")
+            port=os.environ.get("POSTGRES_PORT"),
             database=os.environ.get("POSTGRES_DB"),
             user=os.environ.get("POSTGRES_USER"),
             password=os.environ.get("POSTGRES_PASSWORD")
@@ -65,7 +65,7 @@ def update_form_values_map(form_id, final_map):
     try:
         conn = psycopg2.connect(
             host=os.environ.get("POSTGRES_HOST"),
-            port=os.environ.get("POSTGRES_PORT")
+            port=os.environ.get("POSTGRES_PORT"),
             database=os.environ.get("POSTGRES_DB"),
             user=os.environ.get("POSTGRES_USER"),
             password=os.environ.get("POSTGRES_PASSWORD")

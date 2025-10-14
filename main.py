@@ -144,26 +144,26 @@ def process_pim_files():
 def process_new_messages_by_type(new_messages):
     """
     new_messages: lista słowników {"body": {...}, "properties": {...}}
+    Zapisuje każdy rekord w formacie JSONL, aby uniknąć dużych plików i błędów JSONDecodeError.
     """
     for obj in new_messages:
-        obj_body = json.loads(obj['body'])
+        # filtrujemy tylko potrzebne pola
+        try:
+            obj_body = json.loads(obj['body'])
+        except (TypeError, json.JSONDecodeError):
+            # jeśli body jest dict już, zostawiamy
+            obj_body = obj['body'] if isinstance(obj['body'], dict) else {}
         filtered_obj = {k: v for k, v in obj_body.items() if k in kp_categories or k in pim_categories}
         obj['body'] = filtered_obj
 
         product_type = filtered_obj.get("ProductType", "UNKNOWN")
         safe_type = "".join(c if c.isalnum() else "_" for c in str(product_type))
-        output_path = BY_TYPE_FOLDER / f"{safe_type}.json"
+        output_path = BY_TYPE_FOLDER / f"{safe_type}.jsonl"
 
-        if output_path.exists():
-            with open(output_path, "r", encoding="utf-8") as f_in:
-                existing_items = json.load(f_in).get("pim", [])
-        else:
-            existing_items = []
-
-        all_items = existing_items + [obj]
-
-        with open(output_path, "w", encoding="utf-8") as f_out:
-            json.dump({"pim": all_items}, f_out, ensure_ascii=False, indent=2, default=json_safe)
+        # jeśli plik istnieje, dopisujemy w trybie "a", jeśli nie - tworzymy
+        with open(output_path, "a", encoding="utf-8") as f_out:
+            json.dump(obj, f_out, ensure_ascii=False, default=json_safe)
+            f_out.write("\n")
 
 
 def process_by_type():

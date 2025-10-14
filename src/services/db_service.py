@@ -6,7 +6,6 @@ from psycopg2.extras import RealDictCursor
 
 def form_save(product_type, llm_form, form, form_with_values, translates, form_categories):
     # połączenie
-    POSTGRES_DB
     conn_params = {
         "dbname": os.environ.get("POSTGRES_DB"),
         "user": os.environ.get("POSTGRES_USER"),

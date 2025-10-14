@@ -23,11 +23,11 @@ def get_form_data(category: str):
     """
     try:
         conn = psycopg2.connect(
-            host="172.16.10.3",
-            port=30008,
-            database="postgres",
-            user="postgres",
-            password="CQ15V1xNC9"
+            host=os.environ.get("POSTGRES_HOST"),
+            port=os.environ.get("POSTGRES_PORT")
+            database=os.environ.get("POSTGRES_DB"),
+            user=os.environ.get("POSTGRES_USER"),
+            password=os.environ.get("POSTGRES_PASSWORD")
         )
 
         cursor = conn.cursor(cursor_factory=psycopg2.extras.RealDictCursor)
@@ -64,11 +64,11 @@ def update_form_values_map(form_id, final_map):
     """
     try:
         conn = psycopg2.connect(
-            host="172.16.10.3",
-            port=30008,
-            database="postgres",
-            user="postgres",
-            password="CQ15V1xNC9"
+            host=os.environ.get("POSTGRES_HOST"),
+            port=os.environ.get("POSTGRES_PORT")
+            database=os.environ.get("POSTGRES_DB"),
+            user=os.environ.get("POSTGRES_USER"),
+            password=os.environ.get("POSTGRES_PASSWORD")
         )
         cursor = conn.cursor()
 

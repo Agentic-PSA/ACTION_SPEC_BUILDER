@@ -6,12 +6,13 @@ from psycopg2.extras import RealDictCursor
 
 def form_save(product_type, llm_form, form, form_with_values, translates, form_categories):
     # połączenie
+    POSTGRES_DB
     conn_params = {
-        "dbname": "postgres",
-        "user": "postgres",
-        "password": "CQ15V1xNC9",
-        "host": "172.16.10.3",
-        "port": 30008
+        "dbname": os.environ.get("POSTGRES_DB"),
+        "user": os.environ.get("POSTGRES_USER"),
+        "password": os.environ.get("POSTGRES_PASSWORD"),
+        "host": os.environ.get("POSTGRES_HOST"),
+        "port": os.environ.get("POSTGRES_PORT")
     }    
     query = """
         INSERT INTO forms (category, form, form_with_values, translates, llm_form, categories)
@@ -41,11 +42,11 @@ def form_save(product_type, llm_form, form, form_with_values, translates, form_c
 
 def get_category_by_id(category_id):
     conn_params = {
-        "dbname": "postgres",
-        "user": "postgres",
-        "password": "CQ15V1xNC9",
-        "host": "172.16.10.3",
-        "port": 30008
+        "dbname": os.environ.get("POSTGRES_DB"),
+        "user": os.environ.get("POSTGRES_USER"),
+        "password": os.environ.get("POSTGRES_PASSWORD"),
+        "host": os.environ.get("POSTGRES_HOST"),
+        "port": os.environ.get("POSTGRES_PORT")
     }  
     query = """
         SELECT *

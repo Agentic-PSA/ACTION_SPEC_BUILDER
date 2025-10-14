@@ -165,11 +165,11 @@ def get_pg_data(column: str, value: str, table: str='forms') -> dict:
 
     try:
         with psycopg2.connect(
-                host="172.16.10.3",
-                port=30008,
-                database="postgres",
-                user="postgres",
-                password="CQ15V1xNC9"
+                host=os.environ.get("POSTGRES_HOST"),
+                port=os.environ.get("POSTGRES_PORT")
+                database=os.environ.get("POSTGRES_DB"),
+                user=os.environ.get("POSTGRES_USER"),
+                password=os.environ.get("POSTGRES_PASSWORD")
         ) as conn:
             with conn.cursor(cursor_factory=extras.RealDictCursor) as cursor:
                 query = sql.SQL("SELECT * FROM {forms} WHERE {field} = %s LIMIT 1").format(

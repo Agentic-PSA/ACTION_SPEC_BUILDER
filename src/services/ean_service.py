@@ -63,6 +63,7 @@ async def get_panel_data(ean: str):
         "requestType": "GetProduct",
         "product_ean": ean
     }
+    print('DATA PANEL: ', data)
     url = "https://icecat.action.pl/api/GetProduct"
     headers = {'Content-Type': 'application/json'}
     async with aiohttp.ClientSession() as session:
@@ -70,8 +71,10 @@ async def get_panel_data(ean: str):
             try:
                 panel_response = await response.json()
                 panel_data = panel_response.get("product", {})
-            except Exception:
+            except Exception as e:
+                print(f"Error parsing JSON response: {e}")
                 panel_data = {}
+    print(panel_data)
     return panel_data
 
 def get_specification(panel_data):
@@ -80,7 +83,7 @@ def get_specification(panel_data):
 
     specification = []
     specification_values = {lang: {} for lang in specification_languages}
-
+    print('SPEC: ', specification_values)
     for section in panel_data_specification:
         section_name = section.get("section_name", {})
         section_name = {key: section_name[key] for key in specification_languages if key in section_name}
@@ -120,7 +123,9 @@ def get_specification(panel_data):
         if key in panel_data:
             del panel_data[key]
     return specification
+
 async def send_message(session, message, data):
+    print('SEND_MESSAGE')
     panel_output_data = await get_panel_data(data)
     specification = get_specification(panel_output_data)
     # Request

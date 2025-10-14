@@ -1,8 +1,9 @@
 # src/services/ai_service.py
 import json
-import requests
-from functools import lru_cache
 import os
+from functools import lru_cache
+import aiohttp
+import requests
 from openai import OpenAI
 from httpx import ReadTimeout
 
@@ -10,79 +11,38 @@ from httpx import ReadTimeout
 SONOMA_KEY = "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"
 GPT_KEY = "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"
 
+
 @lru_cache(maxsize=1)
 def get_system_prompt(final: bool = False):
-    return f"""
-    You are an assistant that analyzes structured product specifications and groups only real duplicates / equivalent attribute names **within the same section**.
+    return f"""You are an assistant that groups only real duplicates of attribute names in structured product specifications.  
+Work strictly within the same section.
 
-INPUT: JSON with section -> list of attributes, each attribute has "name" and "examples" (list of example values).
-
-OUTPUT: **Only** a valid JSON object with format:
+INPUT: JSON with {{section -> list of {{name, examples}}}}.  
+OUTPUT: JSON with format:  
 {{
   "SectionName": {{
-    "Canonical attribute name": ["duplicate name A", "duplicate name B", ...],
+    "Canonical attribute name": ["duplicate1", "duplicate2", ...],
     ...
-  }},
-  ...
-}}
-
-Hard rules (follow strictly):
-0. Examples provided in the prompt are for illustration only. They are never part of the actual INPUT. You must only consider attributes present in the user's JSON. Do not introduce or copy attributes from the examples.
-1. Use **attribute names primarily** for grouping decisions. Do not treat example values as attribute names.
-1a. Examples are used only to prevent false grouping, not to justify grouping.
-   - If two attribute names look like duplicates, you may consult examples to check whether their values clearly differ (in which case, do not group).
-   - Never group attributes solely because their examples look similar or identical.
-2. Ignore any attribute that has **fewer than {1 if final else 2} examples** – treat it as unique and do not attempt to group it.
-3. Do NOT group attributes that explicitly reference **different connector/types**. Connector keywords (case-insensitive) include at least: hdmi, usb, ethernet, rj-45, rj45, rf, scart, vga, displayport, optical, coaxial, jack, audio, aux. If two names mention different connector words, they must NOT be grouped.
-4. For **count-like attributes** (examples are numeric or integer strings): group only when the connector/type token matches (see rule 3) and names are near-synonyms (e.g., "Ilość portów HDMI" ↔ "Liczba złącz HDMI"). Do not group counts of different connector types.
-5. Do NOT merge attributes that differ by qualifiers in parentheses (e.g., "(z podstawą)" vs "(bez podstawy)"). Treat them as distinct parameters, even if the base name looks similar.
-5a. If attributes differ by the content inside parentheses (e.g., "(vertical)" vs "(horizontal)", "(min)" vs "(max)"), always treat them as distinct attributes. The text inside parentheses is part of the semantic meaning and must not be ignored.
-6. Prefer **conservative grouping**: if uncertain, do NOT group. Minimal false positives > minimal false negatives.
-7. Choose canonical name using this priority:
-   - shortest name without parentheses,
-   - if tied: the most generic (no brand/model tokens),
-   - if tied: the most frequent occurrence in input.
-8. Output must be **valid JSON only**, no explanations, no extra text, no trailing commas.
-9. Keep result deterministic.
-
-Example (how you must behave):
-
-INPUT:
-{{
-  "Zawartość opakowania": [
-    {{"name": "W zestawie pilot zdalnego sterowania", "examples": ["Tak", "Nie"]}},
-    {{"name": "Pilot zdalnego sterowania", "examples": ["TM2361E", "MR24", "TM2360E", "RC833A"]}},
-    {{"name": "Podstawa biurkowa", "examples": ["Tak", "Nie"]}}
-  ]
-}}
-EXPECTED OUTPUT:
-{{
-  "Zawartość opakowania": {{
-    "W zestawie pilot zdalnego sterowania": ["Pilot zdalnego sterowania"],
-    "Podstawa biurkowa": []
   }}
 }}
-Example (how you must behave with few examples):
 
-INPUT:
-{{
-  "Wyświetlacz": [
-    {{"name": "Przekątna ekranu", "examples": ["43\\"", "50\\"", "51\\"", "75\\""]}},
-    {{"name": "Długość przekątnej ekranu (cm)", "examples": ["108 cm"]}},
-    {{"name": "Przekątna (inch)", "examples": ["43\\"", "50\\"", "55\\"", "65\\""]}},
-    {{"name": "Typ HD", "examples": ["Full HD", "HD", "FHD"]}}
-  ]
-}}
-EXPECTED OUTPUT:
-{{
-  "Wyświetlacz": {{
-    "Typ HD": [],
-    "Przekątna ekranu": ["Przekątna (inch)"],
-    "Długość przekątnej ekranu (cm)": []
-  }}
-}}
-Now process the user input (JSON) and return only the required JSON output.
-
+Rules:
+0. Use only attribute names from input. Never invent or copy from examples.  
+1. Grouping is based on names. Examples are used only to prevent false merges (if values clearly differ, do not group).  
+2. Skip attributes with < {{1 if final else 2}} examples.  
+3. Do not merge names that mention different connector types (hdmi, usb, ethernet, rj-45, rj45, rf, scart, vga, displayport, optical, coaxial, jack, audio, aux).  
+4. For numeric/count attributes: group only if connector type matches and names are synonyms.  
+5. Do not merge attributes with qualifiers that change meaning:  
+   - (z podstawą) vs (bez podstawy), (min) vs (max), (vertical) vs (horizontal).  
+   - Directional words like "pionowy/poziomy" or "w pionie/w poziomie" must be treated as distinct.  
+   - "Kąt widzenia" vs "Kąt widzenia w pionie" vs "Kąt widzenia (poziomy)" are different.  
+6. Be conservative: if unsure, keep separate.  
+7. Canonical name priority:  
+   - most descriptive/self-explanatory (even if longer),  
+   - if tie: without parentheses,  
+   - if tie: most generic (no brand/model tokens),  
+   - if tie: most frequent in input.  
+8. Output must be valid JSON only, with no comments, no markdown, no trailing commas.  
 """
 
 def ask_sonoma(question, api_key=SONOMA_KEY):
@@ -114,13 +74,46 @@ def ask_sonoma(question, api_key=SONOMA_KEY):
     return resp.json()["choices"][0]["message"]["content"]
 
 
-def ask_gpt(question, final=False, api_key=GPT_KEY):
+async def ask_sonoma_custom(system_prompt=None, user_prompt=None, api_key=SONOMA_KEY):
     """
-    Wysyła zapytanie do modelu GPT-4.1 przez OpenAI API i zwraca odpowiedź.
+    Wysyła zapytanie do modelu AI i zwraca odpowiedź.
 
     Args:
-        question: Treść zapytania w formacie JSON
-        final: Czy to jest ostateczne zapytanie (wpływa na liczbę wymaganych przykładów)
+        system_prompt: Treść promptu systemowego
+        user_prompt: Treść promptu użytkownika
+        api_key: Klucz API do serwisu OpenRouter
+
+    Returns:
+        str: Odpowiedź modelu AI
+    """
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "HTTP-Referer": "http://localhost",
+        "X-Title": "MyApp"
+    }
+
+    data = {
+        "model": "openrouter/sonoma-dusk-alpha",
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+    }
+
+    async with aiohttp.ClientSession() as session:
+        async with session.post("https://openrouter.ai/api/v1/chat/completions",
+                               headers=headers, json=data) as resp:
+            response_json = await resp.json()
+            return response_json["choices"][0]["message"]["content"]
+
+def ask_gpt_custom(system_prompt, content, model="gpt-4.1", api_key=GPT_KEY):
+    """
+    Wysyła zapytanie do modelu GPT z niestandardowym promptem systemowym i treścią.
+
+    Args:
+        system_prompt: Własny prompt systemowy
+        content: Treść zapytania do modelu
+        model: Model OpenAI do użycia (domyślnie gpt-5)
         api_key: Klucz API do serwisu OpenAI
 
     Returns:
@@ -135,14 +128,15 @@ def ask_gpt(question, final=False, api_key=GPT_KEY):
     client = OpenAI(api_key=api_key)
 
     response = client.chat.completions.create(
-        model="gpt-4.1",  # Używamy modelu GPT-4.1
+        model=model,
         messages=[
-            {"role": "system", "content": get_system_prompt(final)},
-            {"role": "user",
-             "content": f"Here is the input specification data:\n\n{question}\n\nIMPORTANT: Your response must be a valid, complete JSON object. Don't include markdown formatting like ```json or ``` in your response."}
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": content}
         ],
-        temperature=0.0,  # Ustawiamy niską temperaturę dla bardziej deterministycznych wyników
-        max_tokens=30000  # Maksymalna długość odpowiedzi
+        temperature=0.00,  # Niska temperatura dla deterministycznych wyników
+        seed= 4944116822809979520,
+        max_tokens=32000,  # Maksymalna długość odpowiedzi
+        response_format = {"type": "json_object"}
     )
 
     raw_response = response.choices[0].message.content
@@ -211,6 +205,46 @@ def ask_gpt_aka(question, prompt, api_key=GPT_KEY):
     except ReadTimeout:
         print("⏳ Timeout - serwer nie odpowiedział na czas (5 minut)")
         return "⏳ Timeout - serwer nie odpowiedział na czas (5 minut)"
+
+def ask_gpt(question, final=False, model="gpt-4.1", api_key=GPT_KEY):
+    if not api_key:
+        api_key = os.environ.get("OPENAI_API_KEY", "")
+        if not api_key:
+            raise ValueError("Brak klucza API OpenAI.")
+
+    client = OpenAI(api_key=api_key)
+
+    system_prompt = "You are a precise assistant for grouping duplicates of attribute names in product specifications."
+
+    full_prompt = f"""{get_system_prompt(final)}
+
+Here is the input specification data:
+
+{question}
+
+IMPORTANT: Your response must be a valid, complete JSON object. 
+Don't include markdown formatting like ```json or ``` in your response.
+"""
+
+    response = client.chat.completions.create(
+        model=model,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": full_prompt},
+        ],
+        temperature=0.0,
+        max_tokens=30000
+    )
+
+    raw_response = response.choices[0].message.content.strip()
+
+    # Czyścimy ewentualne ```json
+    if raw_response.startswith("```"):
+        raw_response = raw_response.split("```", 1)[-1].strip()
+        if raw_response.endswith("```"):
+            raw_response = raw_response[:-3].strip()
+
+    return raw_response
 
 
 def analyze_and_save(data, filename_prefix, save_function, final=False, max_attempts=2):

@@ -59,9 +59,8 @@ async def process_single_ean(session, idx, total, k, v):
 
 def clean_duplicate_mapping(duplicate_mapping):
     """
-    Usuwa z listy duplikatów nazwy identyczne z kluczami kanonicznymi,
-    rozwija łańcuchy duplikatów do najwyższego kanonicznego
-    oraz zachowuje puste klucze.
+    Usuwa z listy duplikatów nazwy identyczne z kluczami kanonicznymi
+    oraz rozwiązuje problem hierarchii duplikatów, zachowując puste klucze.
 
     Args:
         duplicate_mapping (dict): Mapa duplikatów do oczyszczenia
@@ -69,43 +68,52 @@ def clean_duplicate_mapping(duplicate_mapping):
     Returns:
         dict: Oczyszczona mapa duplikatów
     """
-    # Budujemy odwrotną mapę: duplikat -> kanoniczny
+    # Najpierw budujemy odwrotną mapę: duplikat -> nazwa kanoniczna
     reverse_mapping = {}
     for section, mappings in duplicate_mapping.items():
         for canonical_name, duplicates in mappings.items():
             for dup in duplicates:
                 reverse_mapping.setdefault(section, {})[dup] = canonical_name
 
-    def resolve_target(section, name):
-        """Znajdź najwyższy kanoniczny klucz dla danego duplikatu."""
-        seen = set()
-        while name in reverse_mapping.get(section, {}) and name not in seen:
-            seen.add(name)
-            name = reverse_mapping[section][name]
-        return name
-
+    # Przygotowujemy nową mapę
     cleaned_mapping = {}
+    print(reverse_mapping)
+    # Rozwiązujemy problem hierarchii duplikatów
     for section, mappings in duplicate_mapping.items():
         cleaned_mapping[section] = {}
+        section_reverse = reverse_mapping.get(section, {})
+
         for canonical_name, duplicates in mappings.items():
-            target = resolve_target(section, canonical_name)
+            # Pomijamy wpisy, gdzie nazwa kanoniczna jest duplikatem
+            if canonical_name in section_reverse:
 
-            # przerzucamy wszystkie duplikaty do najwyższego kanonicznego
-            for dup in duplicates:
-                dup_target = resolve_target(section, dup)
-                if dup_target != target and dup != target:
-                    cleaned_mapping[section].setdefault(target, []).append(dup_target)
+                higher_canonical = section_reverse[canonical_name]
 
-            # dopilnuj, żeby kanoniczny klucz istniał w mapie
-            cleaned_mapping[section].setdefault(target, [])
 
-    # deduplikacja i zachowanie kolejności
+                # Przekazujemy "osierocone" duplikaty do wyższego poziomu
+                for dup in duplicates:
+                    if dup != canonical_name and dup != higher_canonical:
+
+                        cleaned_mapping[section].setdefault(higher_canonical, []).append(dup)
+                if duplicates:
+                    cleaned_mapping[section].setdefault(higher_canonical, []).append(canonical_name)
+
+                continue
+
+            # Usuwamy z listy duplikatów sam klucz kanoniczny
+            cleaned_duplicates = [dup for dup in duplicates if dup != canonical_name]
+
+        # Dodajemy zawsze, nawet jeśli lista duplikatów jest pusta
+            if canonical_name not in cleaned_mapping[section]:
+                cleaned_mapping[section][canonical_name] = cleaned_duplicates
+            # cleaned_mapping[section][canonical_name] = cleaned_duplicates
+
+    # Usuwamy potencjalne duplikaty w listach duplikatów po przekierowaniu
     for section, mappings in cleaned_mapping.items():
         for canonical_name, duplicates in mappings.items():
             cleaned_mapping[section][canonical_name] = list(dict.fromkeys(duplicates))
 
     return cleaned_mapping
-
 
 async def etl2_create_spec(request):
     # Utworzenie katalogu wyjściowego
@@ -252,8 +260,33 @@ async def etl2_create_spec(request):
     save_to_output_dir(global_duplicate_mapping, 'final_duplicate_mapping.json')
 
     # Finalna analiza AI
-    final_ai_analysis = analyze_and_save(final_spec, 'final', save_to_output_dir, final=True)
+    # Definiujemy system prompt dla GPT
+    system_prompt = """Przeanalizuj poniższe dane specyfikacji produktów i sprawdź, czy jakieś klucze nie zostały nadmiarowo połączone.
+    Twoim zadaniem jest znalezienie atrybutów, które powinny być rozdzielone, ponieważ dotyczą różnych cech produktu.
+    Zwróć finalną mapę duplikatów, ale usuń z niej wszelkie pary, które Twoim zdaniem nie powinny być łączone.
+    Odpowiedź zwróć w formie JSON bez żadnych dodatkowych komentarzy czy formatowania."""
 
+    # Przygotowujemy treść zapytania z finalną specyfikacją i mapą duplikatów
+    content = f"""Oto specyfikacja produktu z przykładami:
+    {json.dumps(final_spec, ensure_ascii=False, indent=2)}
+
+    Oraz aktualna mapa duplikatów:
+    {json.dumps(cleaned_duplicate_mapping, ensure_ascii=False, indent=2)}
+
+    Jeśli uważasz, że jakieś atrybuty zostały nieprawidłowo połączone jako duplikaty, usuń je z mapy.
+    Zwróć finalną, poprawioną mapę duplikatów."""
+
+    # Wywołujemy funkcję ask_gpt_custom
+    final_ai_analysis = ask_gpt_custom(system_prompt, content)
+
+    # Próbujemy przekonwertować odpowiedź na JSON
+    try:
+        final_ai_mapping = json.loads(final_ai_analysis)
+        save_to_output_dir(final_ai_mapping, 'final_duplicate_mapping_verified.json')
+    except json.JSONDecodeError:
+        print("Odpowiedź AI nie była poprawnym JSONem")
+        save_to_output_dir({"raw_response": final_ai_analysis}, 'final_ai_verification_raw.json')
+        final_ai_mapping = cleaned_duplicate_mapping  # Używamy oryginalnej mapy jako fallback
     # Zwracamy finalny wynik z przykładami
     return JSONResponse({
         "final_specification": final_spec,

@@ -1,7 +1,7 @@
 import json
 import logging
 import re
-
+import os
 import aiohttp
 import psycopg2
 from pint import UnitRegistry
@@ -245,6 +245,7 @@ async def fill_graph_single_core(pim_data):
         correct_values = spec_data['values_map']
         for section in specification.get("PL", []):
             attributes = section.get("attributes")
+            attributes_types = section.get("attributes_types", {})  # dodaj dla bezpieczeństwa
             if section['section_name'] in correct_values:
                 for key, value in attributes.items():
                     if key in correct_values[section['section_name']]:
@@ -252,7 +253,15 @@ async def fill_graph_single_core(pim_data):
                             'values'].items():
                             if value in correct_value:
                                 unit = correct_values[section['section_name']][key]['unit']
-                                attributes[key] = f"{correct_key} {unit}" if unit else correct_key
+                                if unit:
+                                    if attributes_types.get(key) == "numerical":
+                                        # numerical - zostaje stary format, bo potem konwersja jednostek
+                                        attributes[key] = f"{correct_key} {unit}"
+                                    else:
+                                        # nie-numerical - zapis jako obiekt {value, unit}
+                                        attributes[key] = {"value": correct_key, "unit": unit}
+                                else:
+                                    attributes[key] = correct_key
                                 break
 
         numerical = {}

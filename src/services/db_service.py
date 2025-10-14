@@ -4,7 +4,7 @@ import json
 import psycopg2
 from psycopg2.extras import RealDictCursor
 
-def form_save(categories, llm_form, form, form_with_values, translates, form_categories):
+def form_save(product_type, llm_form, form, form_with_values, translates, form_categories):
     # połączenie
     conn_params = {
         "dbname": "postgres",
@@ -27,18 +27,17 @@ def form_save(categories, llm_form, form, form_with_values, translates, form_cat
 
     with psycopg2.connect(**conn_params) as conn:
         with conn.cursor() as cur:
-            for category in categories:
-                cur.execute(
-                    query,
-                    (
-                        category,
-                        json.dumps(form, ensure_ascii=False),
-                        json.dumps(form_with_values, ensure_ascii=False),
-                        json.dumps(translates, ensure_ascii=False),
-                        json.dumps(llm_form, ensure_ascii=False),
-                        json.dumps(form_categories, ensure_ascii=False)            
-                    )
+            cur.execute(
+                query,
+                (
+                    product_type,
+                    json.dumps(form, ensure_ascii=False),
+                    json.dumps(form_with_values, ensure_ascii=False),
+                    json.dumps(translates, ensure_ascii=False),
+                    json.dumps(llm_form, ensure_ascii=False),
+                    json.dumps(form_categories, ensure_ascii=False)            
                 )
+            )
 
 def get_category_by_id(category_id):
     conn_params = {

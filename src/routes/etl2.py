@@ -297,10 +297,15 @@ async def etl2_create_spec_aka(request):
     #     'data/AGD-STR.json',
     # ]
     limit = 10000
-    category_id = 53984
-    category = get_category_by_id(category_id)
-    print(category)
-    category_desc = f"{category.get('categoryname_level2') or ''} / {category.get('categoryname_level3') or ''}".strip(' /')
+    #limit = 1
+    
+    product_type = 'Telewizory'
+    #product_type = 'Grzejniki'
+    #product_type = 'Golarki/Maszynki do strzyżenia'
+    category_desc = product_type
+    #category = get_category_by_id(category_id)
+    #print(category)
+    #category_desc = f"{category.get('categoryname_level2') or ''} / {category.get('categoryname_level3') or ''}".strip(' /')
     folder_path = 'data/pim_data'
     files = [
         os.path.join(folder_path, f)
@@ -311,7 +316,7 @@ async def etl2_create_spec_aka(request):
 
     # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
     def save_to_output_dir(data, filename):
-        file_path = os.path.join(output_dir, f'{category_id}_{filename}')
+        file_path = os.path.join(output_dir, f'{filename}')
         save_json_file(data, file_path)
         return file_path
 
@@ -335,29 +340,30 @@ async def etl2_create_spec_aka(request):
             print('---------------------------------------------')
             print(body.get("ProductNumber"))
 
+            type = body.get("ProductType") or ''
+            if type != product_type:
+                continue
+
             category_maps = body.get("CategoryMapCollection") or []
             if not isinstance(category_maps, list):
                 print(f"⚠️ Pominięto produkt {body.get('ProductNumber')} — CategoryMapCollection nie jest listą")
                 continue
-
-            found = False
+            category_ids = []
             for mapping in category_maps:
                 if not isinstance(mapping, dict):
                     continue
 
-                if mapping.get("SalesChannelId") == 1:
+                if mapping.get("SalesChannelId") == 1: #ISERWICE
                     for cat in (mapping.get("CategoryCollection") or []):
                         if not isinstance(cat, dict):
                             continue
 
-                        if cat.get("CategoryId") == category_id:
-                            found = True
-                            break
-                if found:
-                    break
-            if not found:
-                print(f"ℹ️ Pominięto produkt {body.get('ProductNumber')} — brak CategoryId={category_id} w SalesChannelId=1")
-                continue
+                        category = get_category_by_id(cat.get("CategoryId"))
+                        category_ids.append(
+                            (category.get('categoryname_level3') if category else None)
+                            or cat.get("CategoryId")
+                        )
+                        #    category.get('categoryname_level3') or cat.get("CategoryId"))
 
             barcodes = body.get("BarcodeCollection", [])
             gtin = None
@@ -368,6 +374,7 @@ async def etl2_create_spec_aka(request):
 
             if gtin:
                 record["gtin"] = gtin
+                record["category_ids"] = category_ids
                 data[gtin] = record
                 tt = tt+1
             else:
@@ -413,8 +420,9 @@ async def etl2_create_spec_aka(request):
             products[v['gtin']] = params
             #if v['groupId'] not in categories:
             #    categories.append(v['groupId'])
-            if category_desc not in categories:
-                categories.append(category_desc)
+            for c in v['category_ids']:
+                if c not in categories:
+                    categories.append(c)
 
             array_params = {
                 category: {k: [v] for k, v in specs.items()}
@@ -442,8 +450,9 @@ async def etl2_create_spec_aka(request):
                                 params_for_categories[category][key_to_use] = []
                             #if v['groupId'] not in params_for_categories[category][key_to_use]:
                             #    params_for_categories[category][key_to_use].append(v['groupId'])
-                            if category_desc not in params_for_categories[category][key_to_use]:
-                                params_for_categories[category][key_to_use].append(category_desc)
+                            for c in v['category_ids']:
+                                if c not in params_for_categories[category][key_to_use]:
+                                    params_for_categories[category][key_to_use].append(c)
 
                         else:
                             # nowy klucz w istniejącej kategorii (nie dodajemy)
@@ -472,8 +481,10 @@ async def etl2_create_spec_aka(request):
                                     params_for_categories[category][par] = []
                                 #if v['groupId'] not in params_for_categories[category][par]:
                                 #    params_for_categories[category][par].append(v['groupId'])
-                                if category_desc not in params_for_categories[category][par]:
-                                    params_for_categories[category][par].append(category_desc)
+                                for c in v['category_ids']:
+                                    if c not in params_for_categories[category][par]:
+                                        params_for_categories[category][par].append(c)
+
 
                             else:
                                 #val - to co juz istnieje
@@ -499,8 +510,9 @@ async def etl2_create_spec_aka(request):
 
                                 #if v['groupId'] not in params_for_categories[category][par]:
                                 #    params_for_categories[category][par].append(v['groupId'])
-                                if category_desc not in params_for_categories[category][par]:
-                                    params_for_categories[category][par].append(category_desc)
+                                for c in v['category_ids']:
+                                    if c not in params_for_categories[category][par]:
+                                        params_for_categories[category][par].append(c)
                                 if par_old in params_for_categories[category]:
                                     for gid in params_for_categories[category][par_old]:
                                         if gid not in params_for_categories[category][par]:
@@ -611,7 +623,7 @@ async def etl2_create_spec_aka(request):
         form_with_values = build_form(trans_lang, ordered_with_main, categories, include_values=True)
         save_to_output_dir(form, f'zz_zz_form')
         save_to_output_dir(form_with_values, f'zz_zz_form_with_values')
-        form_save(categories, ordered, form, form_with_values, translates, params_for_categories)
+        form_save(product_type, ordered, form, form_with_values, translates, params_for_categories)
 
 
     return JSONResponse({

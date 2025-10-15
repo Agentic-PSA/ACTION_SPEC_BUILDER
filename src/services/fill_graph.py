@@ -308,7 +308,7 @@ async def fill_graph_single_core(pim_data):
 
         try:
             async with session.post(
-                    "http://172.16.10.3:30383/add_product",
+                    f"http://{os.environ.get('NEO_RETRIEVER_URL')}/add_product",
                     json=add_nodes_data,
                     headers={"Content-Type": "application/json"}
             ) as response:

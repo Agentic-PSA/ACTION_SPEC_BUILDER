@@ -22,4 +22,6 @@ RUN poetry install --no-interaction --no-root
 
 COPY . /sanic
 
+RUN mkdir /database
+
 CMD ["python3", "start.py"]

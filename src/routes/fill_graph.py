@@ -41,10 +41,10 @@ def create_output_directory():
 async def fill_graph(request):
     output_dir = create_output_directory()
     data = await request.json()  # wejście np. lista lub jakieś parametry
-
+    file = data["file"]
     results = []
 
-    with open("pim_by_type/Telewizory.json", "r", encoding="utf-8") as f:
+    with open(f"pim_by_type/{file}", "r", encoding="utf-8") as f:
         pim_list = json.load(f).get("pim", [])
         print(f"Wczytano {len(pim_list)} elementów z pliku Grzejniki.json")
 

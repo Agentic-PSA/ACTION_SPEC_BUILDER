@@ -1,0 +1,178 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SURJAIOCZ0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Oczyszczacze wody",
+        "Brand": "JAI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tabletki do odkażania wody Javel Aqua 20szt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tabletki do odkażania wody Javel Aqua 20szt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tabletki do odkażania wody Javel Aqua 20szt",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906735210057"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "38089490",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BUJATB20",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "20.20.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56078
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56193
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092129",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9eed564d-e3bb-49a2-8966-4c137b0699dd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-24T15:38:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURJAIOCZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:59.924000+00:00",
+        "sequence_number": 168395
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDMB5",
+        "ProductVersion": "1.2",
+        "ProductType": "Oczyszczacze wody",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Słomka filtrująca do wody sip-laguna teal LIFESTRAW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Słomka filtrująca do wody sip-laguna teal LIFESTRAW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Słomka filtrująca do wody sip-laguna teal LIFESTRAW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7640144289102"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0010035800042450",
+        "Weight": 500.0,
+        "Height": 251.0,
+        "Width": 150.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56193
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56078
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092217",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9554eefa-06f2-4e49-b30d-0af112a788c3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-25T07:21:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDMB5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:01.870000+00:00",
+        "sequence_number": 168474
+      }
+    }
+  ]
+}

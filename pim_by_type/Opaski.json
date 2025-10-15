@@ -1,0 +1,173 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDM82",
+        "ProductVersion": "1.2",
+        "ProductType": "Opaski",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Opaska performance dry 2.0-storm blue-3010-uni",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Opaska performance dry 2.0-storm blue-3010-uni",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Opaska performance dry 2.0-storm blue-3010-uni",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866416535"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "62171000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0001841000031939",
+        "Weight": 30.0,
+        "Height": 10.0,
+        "Width": 120.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.19.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54264
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045627",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "93a07a31-21bd-4885-ad6f-2f200ca98cd7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-20T07:19:23Z'",
+          "ModificationDate": "b'2025-06-04T12:20:55Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDM82'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:01.607000+00:00",
+        "sequence_number": 148746
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCLU4",
+        "ProductVersion": "1.2",
+        "ProductType": "Opaski",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra Z-Band Direct Wristband",
+            "ProductDescription": "Zebra Z-Band Direct Wristband Biały Rolka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra Z-Band Direct Wristband",
+            "ProductDescription": "Zebra Z-Band Direct Wristband White Roll"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra Z-Band Direct Wristband",
+            "ProductDescription": "Zebra Z-Band Direct Wristband Weiß Rolle"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10003852",
+        "Weight": 184.0,
+        "Height": 368.0,
+        "Width": 138.0,
+        "Depth": 116.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54264
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043511",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ca7d0e67-2cc9-48c8-b394-cacce394c352",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-01T10:48:27Z'",
+          "ModificationDate": "b'2025-06-04T12:19:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCLU4'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:44.570000+00:00",
+        "sequence_number": 114944
+      }
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRITMP",
+        "ProductVersion": "1.1",
+        "ProductType": "Sterowniki, programatory",
+        "Brand": "BRADAS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bradas WL-3100 Część do sytemu nawadniającego",
+            "ProductDescription": "Bradas WL-3100 Część i akcesorium do systemu nawadniającego Łącznik rurowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bradas WL-3100 Część do sytemu nawadniającego",
+            "ProductDescription": "Bradas WL-3100 irrigation system part/accessory Pipe coupling"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bradas WL-3100 Część do sytemu nawadniającego",
+            "ProductDescription": "Bradas WL-3100 Bewässerungssystemteil & -Zubehör Rohrverbindung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907544421764"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84248210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WL-3100",
+        "Weight": 105.0,
+        "Height": 100.0,
+        "Width": 195.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.30.60.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55243
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064552",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b83e9ae8-7c76-4639-9f02-bc5e230ebce3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-08T14:59:01Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRITMP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:29.699000+00:00",
+        "sequence_number": 130235
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFP90",
+        "ProductVersion": "1.2",
+        "ProductType": "Sterowniki, programatory",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME DMX 192 MKII-Suwakowy sterownik DMX",
+            "ProductDescription": "LIGHT4ME DMX 192 MKII - suwakowy kontroler DMX"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME DMX 192 MKII-Suwakowy sterownik DMX",
+            "ProductDescription": "LIGHT4ME DMX 192 MKII - DMX slide controller"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME DMX 192 MKII-Suwakowy sterownik DMX",
+            "ProductDescription": "LIGHT4ME DMX 192 MKII - DMX-Schieberegler"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907780147817"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371091",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780147817",
+        "Weight": 1615.0,
+        "Height": 149.0,
+        "Width": 524.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56313
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067280",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "465c5a41-c011-450b-8a9f-172471a775ad",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T22:00:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFP90'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:34.435000+00:00",
+        "sequence_number": 130487
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWGRBSTP0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Sterowniki, programatory",
+        "Brand": "GreenBlue",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GREENBLUE ELEKTRONICZNY STEROWNIK NAWADNIANIA GB391",
+            "ProductDescription": "Elektroniczny sterownik nawadniania GreenBlue, programator, zasilanie 2x 1,5V AA, GB391"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GREENBLUE ELEKTRONICZNY STEROWNIK NAWADNIANIA GB391",
+            "ProductDescription": "GreenBlue electronic irrigation controller, programmer, power 2x 1.5V AA, GB391"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GREENBLUE ELEKTRONICZNY STEROWNIK NAWADNIANIA GB391",
+            "ProductDescription": "GreenBlue elektronische Bewässerungssteuerung, Programmierer, Stromversorgung 2x 1,5V AA, GB391"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211135333"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB391",
+        "Weight": 360.0,
+        "Height": 120.0,
+        "Width": 70.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55243
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073624",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "461ef579-88e6-42d4-9cde-cae3e6e2f684",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-13T09:18:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWGRBSTP0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145189
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOT6",
+        "ProductVersion": "1.2",
+        "ProductType": "Sterowniki, programatory",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CHROMATEQ CLUB 512 sterownik DMX interfejs + pilot",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CHROMATEQ CLUB 512 sterownik DMX interfejs + pilot",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CHROMATEQ CLUB 512 sterownik DMX interfejs + pilot",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3770014041067"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371091",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3770014041067",
+        "Weight": 166.0,
+        "Height": 52.0,
+        "Width": 93.0,
+        "Depth": 146.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": "FR",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56313
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055341",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "79e616fb-116b-4215-97ca-d051b3adbc88",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-18T13:16:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOT6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:01.546000+00:00",
+        "sequence_number": 140327
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWGRBSTP0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Sterowniki, programatory",
+        "Brand": "GreenBlue",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GREENBLUE ELEKTRONICZ. STEROWNIK NAWADNIANIA GB390",
+            "ProductDescription": "Elektroniczny sterownik nawadniania GreenBlue, programator, zasilanie 2x1,5V AA, GB390"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GREENBLUE ELEKTRONICZ. STEROWNIK NAWADNIANIA GB390",
+            "ProductDescription": "GreenBlue electronic irrigation controller, programmer, 2x1.5V AA power supply, GB390"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GREENBLUE ELEKTRONICZ. STEROWNIK NAWADNIANIA GB390",
+            "ProductDescription": "GreenBlue elektronische Bewässerungssteuerung, Programmiergerät, Stromversorgung 2x1,5V AA, GB390"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211135326"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB390",
+        "Weight": 401.0,
+        "Height": 120.0,
+        "Width": 80.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55243
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051603",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "912708b3-f854-4c46-b8e5-15bb93af1305",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-13T09:19:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWGRBSTP0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:42.481000+00:00",
+        "sequence_number": 125895
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHLY",
+        "ProductVersion": "1.2",
+        "ProductType": "Sterowniki, programatory",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "C.CELLPRO STEROWNIK NAWADNIANIA CYFROWY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "C.CELLPRO STEROWNIK NAWADNIANIA CYFROWY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "C.CELLPRO STEROWNIK NAWADNIANIA CYFROWY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901828858819"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84818099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CF52095N",
+        "Weight": 450.0,
+        "Height": 130.0,
+        "Width": 160.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.14.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55243
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070944",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fc268670-77f5-4b33-af5f-a943a62ec706",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-03T18:15:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHLY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:15.313000+00:00",
+        "sequence_number": 127671
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISER",
+        "ProductVersion": "1.1",
+        "ProductType": "Sterowniki, programatory",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME XSPLIT 4 rozdzielacz sygnału DMX splitter",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME XSPLIT 4 rozdzielacz sygnału DMX splitter",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME XSPLIT 4 rozdzielacz sygnału DMX splitter",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85371091",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249825888",
+        "Weight": 1200.0,
+        "Height": 269.0,
+        "Width": 111.0,
+        "Depth": 189.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56313
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084238",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c6d0298-e082-4f80-a595-aa4bd42e2a13",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T21:51:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISER'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:09.441000+00:00",
+        "sequence_number": 156912
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPCH",
+        "ProductVersion": "1.2",
+        "ProductType": "Sterowniki, programatory",
+        "Brand": "Fiskars",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fiskars 1054792 Czarny Elektroniczny regulator",
+            "ProductDescription": "Fiskars 1054792 Czarny Elektroniczny regulator nawadniania"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fiskars 1054792 Czarny Elektroniczny regulator",
+            "ProductDescription": "Fiskars 1054792 Black Digital watering timer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fiskars 1054792 Czarny Elektroniczny regulator",
+            "ProductDescription": "Fiskars 1054792 Schwarz Digitaler Bewässerungstimer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6411501511782"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84818099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1054792",
+        "Weight": 715.0,
+        "Height": 80.0,
+        "Width": 260.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.14.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55243
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087276",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ede7ccba-21f5-4022-a9ec-ee1121be933a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-17T10:43:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPCH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:34.990000+00:00",
+        "sequence_number": 158019
+      }
+    }
+  ]
+}

@@ -1,0 +1,2256 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0011",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL MICRA MKP-300 Bezprzewodowa klawiatura",
+            "ProductDescription": "Satel MKP-300 system ochrony dostępu 433.05/434.79 Mhz Czarny, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL MICRA MKP-300 Bezprzewodowa klawiatura",
+            "ProductDescription": "Satel MKP-300 security access control system 433.05/434.79 MHz Black, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL MICRA MKP-300 Bezprzewodowa klawiatura",
+            "ProductDescription": "Satel MKP-300 Sicherheitszugangskontrollsystem 433.05/434.79 MHz Schwarz, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330344"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MKP-300",
+        "Weight": 189.0,
+        "Height": 85.0,
+        "Width": 150.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066209",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b7fdc2f4-b3a9-4be6-b3d9-8a35377bebdb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-16T15:02:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:46.561000+00:00",
+        "sequence_number": 164401
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0001",
+        "ProductVersion": "1.3",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL INT-KLCDS-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL INT-KLCDS-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL INT-KLCDS-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330795"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-KLCDS-BL",
+        "Weight": 165.0,
+        "Height": 35.0,
+        "Width": 120.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068108",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5e2c20cd-b452-477b-a168-9303a428d6af",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-09-03T18:28:57Z'",
+          "ModificationDate": "b'2025-07-24T10:55:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107385
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0017",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL INT-TSI-SSW Manipulator z ekranem dotykowym",
+            "ProductDescription": "Satel INT-TSI-SSW inteligentny dom - jednostka sterująca Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL INT-TSI-SSW Manipulator z ekranem dotykowym",
+            "ProductDescription": "Satel INT-TSI-SSW smart home central control unit White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL INT-TSI-SSW Manipulator z ekranem dotykowym",
+            "ProductDescription": "Satel INT-TSI-SSW zentrale Smart Home Steuereinheit Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033331532"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-TSI-SSW",
+        "Weight": 595.0,
+        "Height": 150.0,
+        "Width": 223.0,
+        "Depth": 41.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068109",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ec0fbf13-7343-490d-9cfd-bec402cdf92e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-01-27T12:05:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107386
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0030",
+        "ProductVersion": "1.3",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MANIPULATOR SATEL VERSA-LCDM-WH",
+            "ProductDescription": "MANIPULATOR SATEL VERSA-LCDM-WH"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MANIPULATOR SATEL VERSA-LCDM-WH",
+            "ProductDescription": "MANIPULATOR SATEL VERSA-LCDM-WH"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MANIPULATOR SATEL VERSA-LCDM-WH",
+            "ProductDescription": "MANIPULATOR SATEL VERSA-LCDM-WH"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330665"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VERSA-LCDM-WH",
+        "Weight": 266.0,
+        "Height": 30.0,
+        "Width": 148.0,
+        "Depth": 134.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068110",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b5aaaa36-d4dc-46a4-9990-0bea4b82f751",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-08-02T10:59:10Z'",
+          "ModificationDate": "b'2025-07-24T10:55:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0030'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107387
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0002",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL INT-KLCDL-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": "Satel INT-KLCDL-BL system ochrony dostępu Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL INT-KLCDL-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": "Satel INT-KLCDL-BL security access control system White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL INT-KLCDL-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": "Satel INT-KLCDL-BL Sicherheitszugangskontrollsystem Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": " INT-KLCDL-BL",
+        "Weight": 246.0,
+        "Height": 120.0,
+        "Width": 155.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056383",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a0359c56-55e1-4f50-b06f-3860802c86fc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-09-03T18:34:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.921000+00:00",
+        "sequence_number": 101927
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0009",
+        "ProductVersion": "1.3",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL Integra INT-KLCDS-GR Manipulator LCD (Zielone",
+            "ProductDescription": "Satel INT-KLCDS-GR akcesorium do detektorów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL Integra INT-KLCDS-GR Manipulator LCD (Zielone",
+            "ProductDescription": "Satel INT-KLCDS-GR alarm / detector accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL Integra INT-KLCDS-GR Manipulator LCD (Zielone",
+            "ProductDescription": "Satel INT-KLCDS-GR Alarm- und Detektor-Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330788"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-KLCDS-GR",
+        "Weight": 167.0,
+        "Height": 105.0,
+        "Width": 125.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056384",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "068a4593-4e20-4c00-a3d5-0df74af8f40a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-15T15:06:43Z'",
+          "ModificationDate": "b'2025-07-24T10:50:48Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.921000+00:00",
+        "sequence_number": 101928
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0031",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MANIPULATOR SATEL INT-KSG-B SENSORYCZNY CIEMNY",
+            "ProductDescription": "MANIPULATOR SATEL INT-KSG-B SENSORYCZNY CIEMNY"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MANIPULATOR SATEL INT-KSG-B SENSORYCZNY CIEMNY",
+            "ProductDescription": "SATEL INT-KSG-B SENSOR KEYPAD DARK"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MANIPULATOR SATEL INT-KSG-B SENSORYCZNY CIEMNY",
+            "ProductDescription": "SATEL INT-KSG-B TASTENFELD DUNKEL"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033337473"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-KSG-B",
+        "Weight": 420.0,
+        "Height": 160.0,
+        "Width": 185.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056385",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2b121508-dafa-4497-baa1-b41d204f1e99",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-09-28T14:47:16Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0031'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.921000+00:00",
+        "sequence_number": 101929
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCODH",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL Manipulator z ekranem dotykowym 7\"",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL Manipulator z ekranem dotykowym 7\"",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL Manipulator z ekranem dotykowym 7\"",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033338906"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "47412",
+        "Weight": 487.0,
+        "Height": 40.0,
+        "Width": 225.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047359",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b9d8b756-7b8b-4d96-b3ce-a671f5aaad47",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-12T00:01:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCODH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:56.476000+00:00",
+        "sequence_number": 115558
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCOYN",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL Manipulator z ekranem 4,3\" INT-TSG2R-W biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL Manipulator z ekranem 4,3\" INT-TSG2R-W biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL Manipulator z ekranem 4,3\" INT-TSG2R-W biały",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033338937"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "47411",
+        "Weight": 280.0,
+        "Height": 39.0,
+        "Width": 185.0,
+        "Depth": 161.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079198",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "509481f7-af67-477d-8a10-2610d00f4d25",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T15:16:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCOYN'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:27.346000+00:00",
+        "sequence_number": 104238
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0022",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL INT-TSG-WSW Manipulator graficzny",
+            "ProductDescription": "Satel INT-TSG-WSW inteligentny dom - jednostka sterująca Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL INT-TSG-WSW Manipulator graficzny",
+            "ProductDescription": "Satel INT-TSG-WSW smart home central control unit White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL INT-TSG-WSW Manipulator graficzny",
+            "ProductDescription": "Satel INT-TSG-WSW zentrale Smart Home Steuereinheit Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033331693"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-TSG-WSW",
+        "Weight": 320.0,
+        "Height": 190.0,
+        "Width": 160.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051288",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f3ddab52-cbd1-437c-868c-50068aa5f9d7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-06-19T16:35:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.152000+00:00",
+        "sequence_number": 138610
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0025",
+        "ProductVersion": "1.1",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel PRF-LCD manipulator LCD",
+            "ProductDescription": "Satel PRF-LCD akcesorium do detektorów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel PRF-LCD manipulator LCD",
+            "ProductDescription": "Satel PRF-LCD alarm / detector accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel PRF-LCD manipulator LCD",
+            "ProductDescription": "Satel PRF-LCD Alarm- und Detektor-Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033332287"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 260.0,
+        "Height": 135.0,
+        "Width": 150.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100138541",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e3824c40-398a-4f1c-a81d-5b8b0135c14c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-08-08T12:54:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:15.668000+00:00",
+        "sequence_number": 169157
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIO2",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bez. klawiatura LED Hikvision DS-PK1-E-WE",
+            "ProductDescription": "Bezprzewodowa klawiatura LED Hikvision DS-PK1-E-WE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bez. klawiatura LED Hikvision DS-PK1-E-WE",
+            "ProductDescription": "Wireless LED Keyboard Hikvision DS-PK1-E-WE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bez. klawiatura LED Hikvision DS-PK1-E-WE",
+            "ProductDescription": "Kabellose LED-Tastatur Hikvision DS-PK1-E-WE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941264054139"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS-PK1-E-WE",
+        "Weight": 330.0,
+        "Height": 125.0,
+        "Width": 185.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036406",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "87516a03-405b-48e6-bc85-6021c9e9fc11",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-11T12:48:59Z'",
+          "ModificationDate": "b'2025-07-24T10:35:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIO2'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:15.201000+00:00",
+        "sequence_number": 111458
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIPB",
+        "ProductVersion": "1.5",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Manipulator SATEL INT-TSH2-W Biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Manipulator SATEL INT-TSH2-W Biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Manipulator SATEL INT-TSH2-W Biały",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033337923"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-TSH2-W",
+        "Weight": 490.0,
+        "Height": 150.0,
+        "Width": 220.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036421",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7eab60ae-fa91-4d22-882f-fe0ea7d7f6a0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-17T10:27:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIPB'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:16.028000+00:00",
+        "sequence_number": 111473
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0029",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KLAWIATURA STREF. SATEL INT-SF-BSB CIEMNY",
+            "ProductDescription": "Satel INT-SF-BSB system ochrony dostępu Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KLAWIATURA STREF. SATEL INT-SF-BSB CIEMNY",
+            "ProductDescription": "Satel INT-SF-BSB security access control system Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KLAWIATURA STREF. SATEL INT-SF-BSB CIEMNY",
+            "ProductDescription": "Satel INT-SF-BSB Sicherheitszugangskontrollsystem Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334182"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SATEL INT-SF-BSB",
+        "Weight": 230.0,
+        "Height": 40.0,
+        "Width": 100.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047980",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "33eb381d-daf1-4b6f-9b98-daff0a6ed13b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-08-20T12:48:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0029'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:01.197000+00:00",
+        "sequence_number": 115834
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0027",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL INT-KSG-BSB Manipulator sensoryczny",
+            "ProductDescription": "Satel INT-KSG-BSB Pół-inteligentny czytnik kontroli dostępu Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL INT-KSG-BSB Manipulator sensoryczny",
+            "ProductDescription": "Satel INT-KSG-BSB Semi-intelligent access control reader Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL INT-KSG-BSB Manipulator sensoryczny",
+            "ProductDescription": "Satel INT-KSG-BSB Halbintelligenter Zugangskontrollleser Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033331341"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-KSG-BSB",
+        "Weight": 422.0,
+        "Height": 160.0,
+        "Width": 190.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051792",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f1c86f0c-c025-458c-9135-6aa4144af8a1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-09-04T14:14:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:43.638000+00:00",
+        "sequence_number": 125933
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0117",
+        "ProductVersion": "1.5",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL MANIPULATOR 7\" INT-TSH2-B CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL MANIPULATOR 7\" INT-TSH2-B CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL MANIPULATOR 7\" INT-TSH2-B CZARNY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033337909"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-TSH2-B",
+        "Weight": 486.0,
+        "Height": 47.0,
+        "Width": 223.0,
+        "Depth": 149.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100032874",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "678dd810-acae-4d7b-9ee0-3fc99102fcc6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-06T12:56:11Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0117'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:43.326000+00:00",
+        "sequence_number": 141058
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0125",
+        "ProductVersion": "1.5",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL MANIPULATOR INT-TSI-B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL MANIPULATOR INT-TSI-B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL MANIPULATOR INT-TSI-B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033337558"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-TSI-B",
+        "Weight": 585.0,
+        "Height": 40.0,
+        "Width": 220.0,
+        "Depth": 147.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100032877",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3daed6e7-6ce2-4518-a718-a78eb02dc911",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-20T18:31:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0125'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:43.326000+00:00",
+        "sequence_number": 141061
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0007",
+        "ProductVersion": "1.3",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL Integra INT-KLCD-GR Manipulator LCD (Zielone",
+            "ProductDescription": "Satel INT-KLCD-GR akcesorium do detektorów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL Integra INT-KLCD-GR Manipulator LCD (Zielone",
+            "ProductDescription": "Satel INT-KLCD-GR alarm / detector accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL Integra INT-KLCD-GR Manipulator LCD (Zielone",
+            "ProductDescription": "Satel INT-KLCD-GR Alarm- und Detektor-Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330825"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-KLCD-GR",
+        "Weight": 259.0,
+        "Height": 135.0,
+        "Width": 150.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062295",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cb99f5f9-0367-4a6a-bac9-bf28a979b16b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-15T14:56:10Z'",
+          "ModificationDate": "b'2025-07-24T10:53:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:45.049000+00:00",
+        "sequence_number": 155920
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0012",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL Integra INT-TSI-WSW Manipulator dotykowy",
+            "ProductDescription": "Satel INT-TSI-WSW inteligentny dom - jednostka sterująca Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL Integra INT-TSI-WSW Manipulator dotykowy",
+            "ProductDescription": "Satel INT-TSI-WSW smart home central control unit White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL Integra INT-TSI-WSW Manipulator dotykowy",
+            "ProductDescription": "Satel INT-TSI-WSW zentrale Smart Home Steuereinheit Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-TSI-WSWBiały",
+        "Weight": 589.0,
+        "Height": 150.0,
+        "Width": 220.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072086",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "430b4007-a556-4fda-aaa6-a5f71faf5f6f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-21T14:00:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:09.985000+00:00",
+        "sequence_number": 142454
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6824",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel INT-SF-W inteligentny element smart",
+            "ProductDescription": "Satel INT-SF-W inteligentny element smart kontroli centralnej domu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel INT-SF-W inteligentny element smart",
+            "ProductDescription": "Satel INT-SF-W smart home central control unit accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel INT-SF-W inteligentny element smart",
+            "ProductDescription": "Satel INT-SF-W Smart Home zentrale Steuereinheit Zubehörteil"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033337541"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-SF-W",
+        "Weight": 214.0,
+        "Height": 38.0,
+        "Width": 155.0,
+        "Depth": 98.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074718",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d9624aff-79f6-413a-a271-c40e6589962d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T05:03:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6824'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:18.408000+00:00",
+        "sequence_number": 142885
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCOD4",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL SO-MF5-B Klawiatura z czytnikiem kart czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL SO-MF5-B Klawiatura z czytnikiem kart czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL SO-MF5-B Klawiatura z czytnikiem kart czarna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033338258"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "47414",
+        "Weight": 143.0,
+        "Height": 45.0,
+        "Width": 165.0,
+        "Depth": 88.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074973",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9140a295-a147-47b6-8d4b-d3136458d1d0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T05:03:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCOD4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:23.284000+00:00",
+        "sequence_number": 143125
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0019",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL INT-S-GR Klawiatura strefowa",
+            "ProductDescription": "Satel INT-S-GR klawiatura numeryczna RS-485 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL INT-S-GR Klawiatura strefowa",
+            "ProductDescription": "Satel INT-S-GR numeric keypad RS-485 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL INT-S-GR Klawiatura strefowa",
+            "ProductDescription": "Satel INT-S-GR Numerische Tastatur RS-485 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330733"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-S-GR",
+        "Weight": 139.0,
+        "Height": 135.0,
+        "Width": 30.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076047",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "418ab46e-456c-489c-99b1-8baa138c2dff",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-03-15T14:25:20Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:30.802000+00:00",
+        "sequence_number": 143555
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALMAN0028",
+        "ProductVersion": "1.3",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL PERFECTA MPT-350 Pilot zdalnego sterowania",
+            "ProductDescription": "Satel MPT-350 pilot Naciśnij przyciski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL PERFECTA MPT-350 Pilot zdalnego sterowania",
+            "ProductDescription": "Satel MPT-350 remote control Press buttons"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL PERFECTA MPT-350 Pilot zdalnego sterowania",
+            "ProductDescription": "Satel MPT-350 Fernbedienung Drucktasten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333215"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PERFECTAMPT-350",
+        "Weight": 40.0,
+        "Height": 30.0,
+        "Width": 80.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088056",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e565e0d3-059f-4d98-9da9-da13906bcd35",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-09-12T10:18:55Z'",
+          "ModificationDate": "b'2025-07-24T11:10:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALMAN0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:40.412000+00:00",
+        "sequence_number": 158284
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCODJ",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL Manipulator z ekranem dotykowym 7\"",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL Manipulator z ekranem dotykowym 7\"",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL Manipulator z ekranem dotykowym 7\"",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033338913"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "47413",
+        "Weight": 500.0,
+        "Height": 40.0,
+        "Width": 225.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088345",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0b6384ec-7c20-43a7-93c4-4bb50900dd65",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-11T11:49:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCODJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:42.523000+00:00",
+        "sequence_number": 158374
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIO3",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL VERSA-LCD-GR Manipulator",
+            "ProductDescription": "Satel VERSA-LCD-GR inteligentny element smart kontroli centralnej domu Moduł rozszerzający"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL VERSA-LCD-GR Manipulator",
+            "ProductDescription": "SATEL VERSA-LCD-GR KEYPAD"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL VERSA-LCD-GR Manipulator",
+            "ProductDescription": "SATEL VERSA-LCD-GR TASTATUR"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330870"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VERSA-LCD-GR",
+        "Weight": 148.0,
+        "Height": 37.0,
+        "Width": 125.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088421",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4d30ea6c-13a3-4674-a56d-5c03a4830d74",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-13T09:57:24Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIO3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:43.617000+00:00",
+        "sequence_number": 158410
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBXY",
+        "ProductVersion": "1.4",
+        "ProductType": "Manipulatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL INT-KLCDR-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL INT-KLCDR-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL INT-KLCDR-BL Manipulator LCD (Niebieskie)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330856"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INT-KLCDR-BL",
+        "Weight": 266.0,
+        "Height": 135.0,
+        "Width": 151.0,
+        "Depth": 38.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54907
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067005",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "993a9acb-f95d-481d-aa31-9390808cb371",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-28T18:01:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBXY'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:05.047000+00:00",
+        "sequence_number": 103103
+      }
+    }
+  ]
+}

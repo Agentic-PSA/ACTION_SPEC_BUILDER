@@ -1,0 +1,439 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "NELGRHBRU0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Bruzdownice",
+        "Brand": "GRAPHITE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bruzdownica 2400W Graphite tarcza 150mm z walizką",
+            "ProductDescription": "Bruzdownica 2400W Graphite tarcza 150mm z walizką"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bruzdownica 2400W Graphite tarcza 150mm z walizką",
+            "ProductDescription": "Paving machine 2400W Graphite disc 150mm with case"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bruzdownica 2400W Graphite tarcza 150mm z walizką",
+            "ProductDescription": "Pflastermaschine 2400W Graphite 150mm Klinge mit Koffer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902062503596"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672951",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "59G371",
+        "Weight": 55000.0,
+        "Height": 200.0,
+        "Width": 200.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52991
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048425",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bruzdownica 2400W Graphite tarcza 150mm z walizką"
+      },
+      "properties": {
+        "message_id": "5787d26b-f49e-4641-bb95-3becff03297c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-18T14:06:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NELGRHBRU0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:56.091000+00:00",
+        "sequence_number": 108377
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0392",
+        "ProductVersion": "1.3",
+        "ProductType": "Bruzdownice",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bruzdownica 54V body TSTAK DEWALT DCG200NT",
+            "ProductDescription": "DeWALT DCG200NT-XJ bruzdownica 12,5 cm 9000 RPM"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bruzdownica 54V body TSTAK DEWALT DCG200NT",
+            "ProductDescription": "DEWALT FLEXVOLT BRUZDOWNICA 54V 125mm DCG200NT"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bruzdownica 54V body TSTAK DEWALT DCG200NT",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5035048705438"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DCG200NT-XJ",
+        "Weight": 7900.0,
+        "Height": 310.0,
+        "Width": 440.0,
+        "Depth": 340.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52991
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100032974",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1b38b5fd-2d77-410c-8c5f-845b03b41b04",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-14T13:58:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0392'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:44.186000+00:00",
+        "sequence_number": 141150
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0409",
+        "ProductVersion": "1.3",
+        "ProductType": "Bruzdownice",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO BRUZDOWNICA ELEKTRYCZNA 1700W 125mm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO BRUZDOWNICA ELEKTRYCZNA 1700W 125mm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO BRUZDOWNICA ELEKTRYCZNA 1700W 125mm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083065828"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-82015",
+        "Weight": 4000.0,
+        "Height": 330.0,
+        "Width": 410.0,
+        "Depth": 480.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52991
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100032981",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "00cecf2d-58c5-439e-9337-b934213301e0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-18T18:34:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0409'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:45.046000+00:00",
+        "sequence_number": 141157
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIJT",
+        "ProductVersion": "1.2",
+        "ProductType": "Bruzdownice",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bruzdownica 1400W MAKITA MACPAC SG1251J",
+            "ProductDescription": "Makita SG1251J bruzdownica 12,5 cm 10000 RPM 1400 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bruzdownica 1400W MAKITA MACPAC SG1251J",
+            "ProductDescription": "Makita SG1251J wall chaser 12.5 cm 10000 RPM 1400 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bruzdownica 1400W MAKITA MACPAC SG1251J",
+            "ProductDescription": "Makita SG1251J Wandschlitzfräse 12,5 cm 10000 RPM 1400 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381682060"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SG1251J",
+        "Weight": 7900.0,
+        "Height": 320.0,
+        "Width": 400.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52991
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070795",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9b30b543-e7f6-4d59-b6e3-87b25935a720",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-05T15:43:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIJT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:14.438000+00:00",
+        "sequence_number": 127599
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NELGRHBRU0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Bruzdownice",
+        "Brand": "GRAPHITE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bruzdownica 1320W Graphite tarcza 125 x 22,2 mm",
+            "ProductDescription": "Bruzdownica 1320W Graphite tarcza 125 x 22,2 mm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bruzdownica 1320W Graphite tarcza 125 x 22,2 mm",
+            "ProductDescription": "Paving machine 1320W Graphite disc 125 x 22.2 mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bruzdownica 1320W Graphite tarcza 125 x 22,2 mm",
+            "ProductDescription": "Pflastermaschine 1320W Graphite Klinge 125 x 22,2 mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902062593702"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "59G370",
+        "Weight": 6815.0,
+        "Height": 290.0,
+        "Width": 390.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52991
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077536",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bruzdownica 1320W Graphite tarcza 125 x 22,2 mm"
+      },
+      "properties": {
+        "message_id": "40ebea04-a504-4dc6-9fdc-2584317214f9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-05T08:32:37Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NELGRHBRU0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:03.284000+00:00",
+        "sequence_number": 156681
+      }
+    }
+  ]
+}

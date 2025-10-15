@@ -1,0 +1,5505 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0037",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVO Max Series Battery (packing:28pcs/carton)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVO Max Series Battery (packing:28pcs/carton)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVO Max Series Battery (packing:28pcs/carton)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991142515"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102003667",
+        "Weight": 620.0,
+        "Height": 95.0,
+        "Width": 170.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052298",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "EVO Max Series Battery (packing:28pcs/carton)"
+      },
+      "properties": {
+        "message_id": "d6f1eefb-16a7-4514-a895-78d24614318a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-22T09:09:43Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0037'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:53.242000+00:00",
+        "sequence_number": 117411
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZASBLOAKU0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BLOW AKUMULATOR R20 NI-MH 10000MAH XTREME",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BLOW AKUMULATOR R20 NI-MH 10000MAH XTREME",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BLOW AKUMULATOR R20 NI-MH 10000MAH XTREME",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804061021"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "82-604#",
+        "Weight": 322.0,
+        "Height": 100.0,
+        "Width": 135.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064669",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ba3cb221-4471-4461-9514-3698e11539b3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-08-26T10:31:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZASBLOAKU0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:29.699000+00:00",
+        "sequence_number": 130242
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZASWHEAKU0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "WHE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WHITENERGY AKUMULATOR AAA 1100mAh Ni-MH 2szt BLISTR",
+            "ProductDescription": "Whitenergy 08349 bateria do użytku domowego Bateria do ponownego naładowania Niklowo-metalowo-wodorkowa (NiMH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WHITENERGY AKUMULATOR AAA 1100mAh Ni-MH 2szt BLISTR",
+            "ProductDescription": "Whitenergy 08349 household battery Rechargeable battery Nickel-Metal Hydride (NiMH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WHITENERGY AKUMULATOR AAA 1100mAh Ni-MH 2szt BLISTR",
+            "ProductDescription": "Whitenergy 08349 Haushaltsbatterie Wiederaufladbarer Akku Nickel-Metallhydrid (NiMH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908214353279"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "08349",
+        "Weight": 29.0,
+        "Height": 85.0,
+        "Width": 105.0,
+        "Depth": 12.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049562",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fafdd610-5c74-43a1-9a89-5fea3102ca5a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-09-07T14:48:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZASWHEAKU0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149359
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHX6",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "ENERGIZER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumaulator Energizer HR6/4 2300 EXTREME",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumaulator Energizer HR6/4 2300 EXTREME",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumaulator Energizer HR6/4 2300 EXTREME",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7638900416893"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85078000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HR6/4 2300 EXTREME",
+        "Weight": 112.0,
+        "Height": 75.0,
+        "Width": 115.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040230",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ee8314d3-da45-4b06-babe-5b76405a86ba",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-09T16:05:10Z'",
+          "ModificationDate": "b'2025-06-04T12:17:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHX6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:25.709000+00:00",
+        "sequence_number": 120966
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZASWHEAKU0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "WHE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WHITENERGY AKUMULATOR AAA 1100mAh Ni-MH 4SZT.",
+            "ProductDescription": "Whitenergy 08351 bateria do użytku domowego Bateria do ponownego naładowania Niklowo-metalowo-wodorkowa (NiMH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WHITENERGY AKUMULATOR AAA 1100mAh Ni-MH 4SZT.",
+            "ProductDescription": "Whitenergy 08351 household battery Rechargeable battery Nickel-Metal Hydride (NiMH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WHITENERGY AKUMULATOR AAA 1100mAh Ni-MH 4SZT.",
+            "ProductDescription": "Whitenergy 08351 Haushaltsbatterie Wiederaufladbarer Akku Nickel-Metallhydrid (NiMH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908214353293"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "08351",
+        "Weight": 49.0,
+        "Height": 70.0,
+        "Width": 115.0,
+        "Depth": 15.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047536",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c111dad0-7589-4fc1-82a1-c9b5e8e8efa3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-11-14T15:39:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZASWHEAKU0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:57.351000+00:00",
+        "sequence_number": 115619
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP AAA 800mAh 4 szt + box",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP AAA 800 mAh 4 szt + box (BK-4MCDE/4CP+CASE)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP AAA 800mAh 4 szt + box",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP AAA 800 mAh 4 szt + case (BK-4MCDE/4CP+CASE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP AAA 800mAh 4 szt + box",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP AAA 800 mAh 4 szt + Koffer (BK-4MCDE/4CP+CASE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853065067"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4MCDE/4CP+CASE",
+        "Weight": 70.0,
+        "Height": 20.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063497",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP AAA 800mAh 4 szt + box"
+      },
+      "properties": {
+        "message_id": "5726553a-44d5-4dc7-aa8c-831a735bfa03",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:10.454000+00:00",
+        "sequence_number": 135938
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALDRCBAT0034",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Duracell",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria DURACELL Akumulatorki AAA 800/850mAh B4",
+            "ProductDescription": "Duracell Turbo AAA Bateria do ponownego naładowania Niklowo-metalowo-wodorkowa (NiMH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria DURACELL Akumulatorki AAA 800/850mAh B4",
+            "ProductDescription": "Duracell Turbo AAA Rechargeable battery Nickel-Metal Hydride (NiMH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria DURACELL Akumulatorki AAA 800/850mAh B4",
+            "ProductDescription": "Duracell Turbo AAA Wiederaufladbarer Akku Nickel-Metallhydrid (NiMH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5000394045118"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 55.0,
+        "Height": 20.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100113207",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "34dbb674-7070-45b7-88ac-4282a1966305",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-06-08T16:04:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALDRCBAT0034'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:37.688000+00:00",
+        "sequence_number": 165562
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALDRCBAT0035",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Duracell",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria DURACELL Akumulatorki AA 1300mAh B4",
+            "ProductDescription": "Duracell HR6-B bateria do użytku domowego Bateria do ponownego naładowania Niklowo-metalowo-wodorkowa (NiMH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria DURACELL Akumulatorki AA 1300mAh B4",
+            "ProductDescription": "Duracell HR6-B household battery Rechargeable battery Nickel-Metal Hydride (NiMH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria DURACELL Akumulatorki AA 1300mAh B4",
+            "ProductDescription": "Duracell HR6-B Haushaltsbatterie Wiederaufladbarer Akku Nickel-Metallhydrid (NiMH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5000394044982"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 94.0,
+        "Height": 120.0,
+        "Width": 85.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100113208",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1bfd57a2-a9f0-46a7-a252-334efeff7a6f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-06-08T16:04:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALDRCBAT0035'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:37.688000+00:00",
+        "sequence_number": 165563
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALDRCBAT0036",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Duracell",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria DURACELL Akumulatorki AA 2400/2500mAhB4",
+            "ProductDescription": "Duracell HR6 AA 4-pack Bateria do ponownego naładowania Niklowo-metalowo-wodorkowa (NiMH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria DURACELL Akumulatorki AA 2400/2500mAhB4",
+            "ProductDescription": "Duracell HR6 AA 4-pack Rechargeable battery Nickel-Metal Hydride (NiMH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria DURACELL Akumulatorki AA 2400/2500mAhB4",
+            "ProductDescription": "Duracell HR6 AA 4-pack Wiederaufladbarer Akku Nickel-Metallhydrid (NiMH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5000394057203"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 124.0,
+        "Height": 20.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100113209",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "523b82a0-b29b-450a-ae1f-e41cce69ad5a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-06-08T16:04:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALDRCBAT0036'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:37.688000+00:00",
+        "sequence_number": 165564
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Battery for Lite series/Gray",
+            "ProductDescription": "Bateria do drona Autel EVO Lite series Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Battery for Lite series/Gray",
+            "ProductDescription": "Battery for Autel EVO Lite series drone Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Battery for Lite series/Gray",
+            "ProductDescription": "Akku für Autel EVO Lite Serie Drohne Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991102922"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102001177",
+        "Weight": 380.0,
+        "Height": 83.0,
+        "Width": 66.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064831",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bateria szara do drona Battery for Lite series/Gray"
+      },
+      "properties": {
+        "message_id": "7f06b39d-490a-402c-8c94-56e6a9218f50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-12-22T14:38:01Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:35.854000+00:00",
+        "sequence_number": 121422
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROHVRAKK0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria HOVERAir zł. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria HOVERAir zł. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria HOVERAir zł. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "198715510270"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP16H006",
+        "Weight": 90.0,
+        "Height": 23.0,
+        "Width": 120.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064833",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bateria HOVERAir złote logo X1 PRO/PROMAX Smart Battery"
+      },
+      "properties": {
+        "message_id": "3bb1b94d-f095-4437-b42b-503ed3c3817a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-30T13:52:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRAKK0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:35.854000+00:00",
+        "sequence_number": 121424
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRITDR",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Ledlenser",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator Ledlenser 21700 Li-ion o pojemności 4800",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator Ledlenser 21700 Li-ion o pojemności 4800",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator Ledlenser 21700 Li-ion o pojemności 4800",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4058205022958"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "502262",
+        "Weight": 90.0,
+        "Height": 25.0,
+        "Width": 162.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047469",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b996d844-b553-4176-b82c-3ebf244e5818",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-05T09:00:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRITDR'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:47.653000+00:00",
+        "sequence_number": 107900
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALVERAKM0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Verbatim",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VERBATIM AKUMULATOR NIMH HR03 AAA 950MAH (4 SZT.)",
+            "ProductDescription": "Verbatim 49514 bateria do użytku domowego Bateria do ponownego naładowania AAA Niklowo-metalowo-wodorkowa (NiMH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VERBATIM AKUMULATOR NIMH HR03 AAA 950MAH (4 SZT.)",
+            "ProductDescription": "Verbatim 49514 household battery Rechargeable battery AAA Nickel-Metal Hydride (NiMH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VERBATIM AKUMULATOR NIMH HR03 AAA 950MAH (4 SZT.)",
+            "ProductDescription": "Verbatim 49514 Haushaltsbatterie Wiederaufladbarer Akku AAA Nickel-Metallhydrid (NiMH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "023942495147"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85073020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "49514",
+        "Weight": 59.0,
+        "Height": 15.0,
+        "Width": 120.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063504",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1a22045d-b066-49b0-8d52-fb563ddf4ecd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-02-03T10:51:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALVERAKM0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:03.994000+00:00",
+        "sequence_number": 150681
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0039",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Autel Battery for Smart Controller V3 EU 7.9' DT3S1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Autel Battery for Smart Controller V3 EU 7.9' DT3S1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Autel Battery for Smart Controller V3 EU 7.9' DT3S1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "501006914",
+        "Weight": 250.0,
+        "Height": 85.0,
+        "Width": 120.0,
+        "Depth": 15.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048570",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Autel Battery for Smart Controller V3 EU 7.9'"
+      },
+      "properties": {
+        "message_id": "c0d54d8c-713f-4c19-9538-aca9ebe1d3a2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-22T09:19:54Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0039'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:56.872000+00:00",
+        "sequence_number": 108443
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP LITE AAA 550mAh 2 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP LITE AAA 550 mAh 2 szt (BK-4LCCE/2CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP LITE AAA 550mAh 2 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP LITE AAA 550 mAh 2 szt (BK-4LCCE/2CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP LITE AAA 550mAh 2 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP LITE AAA 550 mAh 2 szt (BK-4LCCE/2CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064336"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4LCCE/2CP",
+        "Weight": 20.0,
+        "Height": 10.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048639",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP LITE AAA 550mAh 2 szt"
+      },
+      "properties": {
+        "message_id": "5e18ce9e-83b4-406c-864e-3570586cdd1c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:57.970000+00:00",
+        "sequence_number": 108472
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP ZESTAW 4x AA + 4x AAA",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP 4x AA 2000 mAh + 4x AAA 800 mAh 8 szt (BK-3MCDE+4MCDE/8CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP ZESTAW 4x AA + 4x AAA",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP 4x AA 2000 mAh + 4x AAA 800 mAh 8 szt (BK-3MCDE+4MCDE/8CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP ZESTAW 4x AA + 4x AAA",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP 4x AA 2000 mAh + 4x AAA 800 mAh 8 szt (BK-3MCDE+4MCDE/8CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064879"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-3MCDE+4MCDE/8CP",
+        "Weight": 170.0,
+        "Height": 11.0,
+        "Width": 175.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54554
+              },
+              {
+                "CategoryId": 53493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069278",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP ZESTAW 4x AA 2000mAh + 4x AAA 800mAh"
+      },
+      "properties": {
+        "message_id": "52a35326-3037-497a-9aff-28bb1446259b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:04.424000+00:00",
+        "sequence_number": 108841
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP AAA 800 mAh 4 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP AAA 800 mAh 4 szt (BK-4MCDE/4CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP AAA 800 mAh 4 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP AAA 800 mAh 4 szt (BK-4MCDE/4CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP AAA 800 mAh 4 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP AAA 800 mAh 4 szt (BK-4MCDE/4CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064305"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4MCDE/4CP",
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069279",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP AAA 800 mAh 4 szt"
+      },
+      "properties": {
+        "message_id": "bd7225ee-e554-4f68-a206-c516417400ba",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:04.424000+00:00",
+        "sequence_number": 108842
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROHVRAKK0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria HOVERAir zł. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": "HOVERAir Smart Battery - bateria ze złotym logo do dronów HOVERAir PRO i HOVERAir PROMAX"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria HOVERAir zł. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": "HOVERAir Smart Battery - Battery with golden logo for HOVERAir PRO and HOVERAir PROMAX drones"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria HOVERAir zł. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": "HOVERAir Smart Battery - Gold-Logo-Akku für HOVERAir PRO und HOVERAir PROMAX Drohnen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6977791920128"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP16H006",
+        "Weight": 80.0,
+        "Height": 24.0,
+        "Width": 120.0,
+        "Depth": 67.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069655",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bateria HOVERAir złote logo X1 PRO/PROMAX Smart Battery"
+      },
+      "properties": {
+        "message_id": "e333d657-9d74-4b9a-96e1-4043b6e39ad2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-22T16:09:43Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRAKK0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:08.362000+00:00",
+        "sequence_number": 109018
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROHVRAKK0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria HOVERAir Thermo Smart Battery",
+            "ProductDescription": "HOVERAir Thermo Smart Battery - bateria do dronów HOVERAir PRO i HOVERAir PROMAX"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria HOVERAir Thermo Smart Battery",
+            "ProductDescription": "HOVERAir Thermo Smart Battery - Battery for HOVERAir PRO and HOVERAir PROMAX drones"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria HOVERAir Thermo Smart Battery",
+            "ProductDescription": "HOVERAir Thermo Smart Battery - Batterie für HOVERAir PRO und HOVERAir PROMAX Drohnen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6977791920135"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP16H002",
+        "Weight": 90.0,
+        "Height": 24.0,
+        "Width": 120.0,
+        "Depth": 68.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069656",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bateria HOVERAir Thermo Smart Battery"
+      },
+      "properties": {
+        "message_id": "4a6ad47b-c892-45d8-9029-bdf92b751c16",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-22T16:09:46Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRAKK0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:08.362000+00:00",
+        "sequence_number": 109019
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Autel EVO Max Series Battery",
+            "ProductDescription": "Autel EVO Max Series Battery"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Autel EVO Max Series Battery",
+            "ProductDescription": "Autel EVO Max Series Battery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Autel EVO Max Series Battery",
+            "ProductDescription": "Autel EVO Max Serie Batterie"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991123750"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 630.0,
+        "Height": 95.0,
+        "Width": 170.0,
+        "Depth": 60.0,
+        "Battery100Wh": true,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100118397",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Autel EVO Max Series Battery"
+      },
+      "properties": {
+        "message_id": "475bd0d6-614c-4364-9b24-af0215ae8c8f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-15T13:39:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:06.770000+00:00",
+        "sequence_number": 167082
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0027",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Autel EVO MAX Battery",
+            "ProductDescription": "Autel EVO Max Series Battery"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Autel EVO MAX Battery",
+            "ProductDescription": "Autel EVO Max Series Battery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Autel EVO MAX Battery",
+            "ProductDescription": "Autel EVO Max Serie Batterie"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991130628"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 620.0,
+        "Height": 60.0,
+        "Width": 170.0,
+        "Depth": 95.0,
+        "Battery100Wh": true,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100118399",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Autel EVO MAX Battery"
+      },
+      "properties": {
+        "message_id": "09ad51c2-636c-44ef-bcd3-e14c90c27a63",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-06T12:07:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:06.770000+00:00",
+        "sequence_number": 167083
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0029",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Autel EVO MAX Battery",
+            "ProductDescription": "Autel EVO Max Series Battery"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Autel EVO MAX Battery",
+            "ProductDescription": "Autel EVO Max Series Battery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Autel EVO MAX Battery",
+            "ProductDescription": "Autel EVO Max Serie Batterie"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991132349"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 620.0,
+        "Height": 60.0,
+        "Width": 170.0,
+        "Depth": 95.0,
+        "Battery100Wh": true,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100118400",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Autel EVO MAX Battery"
+      },
+      "properties": {
+        "message_id": "68c6f78a-d0c9-44ec-897e-589f507c3b76",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-04T14:34:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0029'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:06.770000+00:00",
+        "sequence_number": 167084
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROHVRAKK0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria HOVERAir sr. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": "HOVERAir Smart Battery - bateria ze srebrnym logo do dronów HOVERAir PRO i HOVERAir PROMAX"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria HOVERAir sr. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": "HOVERAir Smart Battery - Battery with silver logo for HOVERAir PRO and HOVERAir PROMAX drones"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria HOVERAir sr. X1 PRO/PROMAX Smart Battery",
+            "ProductDescription": "HOVERAir Smart Battery - Akku mit silbernem Logo für HOVERAir PRO und HOVERAir PROMAX Drohnen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6977791920111"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP16H004",
+        "Weight": 90.0,
+        "Height": 24.0,
+        "Width": 120.0,
+        "Depth": 68.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047685",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bateria HOVERAir srebrne logo X1 PRO/PROMAX Smart Battery"
+      },
+      "properties": {
+        "message_id": "83079316-154c-4a98-aa5d-b6d70fccd222",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-22T16:09:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRAKK0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:58.195000+00:00",
+        "sequence_number": 115692
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBMSZ",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "NITECORE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator Nitecore NL2150RX 3.6V 5000mAh",
+            "ProductDescription": "Akumulator Nitecore NL2150RX 3.6V 5000mAh"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator Nitecore NL2150RX 3.6V 5000mAh",
+            "ProductDescription": "Nitecore NL2150RX 3.6V 5000mAh battery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator Nitecore NL2150RX 3.6V 5000mAh",
+            "ProductDescription": "Nitecore NL2150RX 3.6V 5000mAh Akku"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952506495535"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT-NL2150RX",
+        "Weight": 90.0,
+        "Height": 30.0,
+        "Width": 140.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040792",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "23f20d58-fefe-48d6-a015-bb50e8a5515b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T13:56:08Z'",
+          "ModificationDate": "b'2025-06-04T12:18:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBMSZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:30.853000+00:00",
+        "sequence_number": 123076
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBT69",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "NITECORE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator Nitecore NL2150 21700 3.6V 5000mAh",
+            "ProductDescription": "Akumulator Nitecore NL2150 21700 3.6V 5000mAh"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator Nitecore NL2150 21700 3.6V 5000mAh",
+            "ProductDescription": "Nitecore NL2150 21700 3.6V 5000mAh battery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator Nitecore NL2150 21700 3.6V 5000mAh",
+            "ProductDescription": "Nitecore NL2150 21700 3.6V 5000mAh Akku"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952506492848"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT-NL2150",
+        "Weight": 85.0,
+        "Height": 40.0,
+        "Width": 140.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041659",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2f6d1b62-811c-42e3-9304-57650a3998e7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-03T09:19:44Z'",
+          "ModificationDate": "b'2025-06-04T12:18:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBT69'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:38.276000+00:00",
+        "sequence_number": 123500
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBIS4",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "everActive",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Everactive EVHRL20-10000 bateria do użytku domowego",
+            "ProductDescription": "Akumulatorki everActive R20/D Ni-MH 10000 mAh ready to use"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Everactive EVHRL20-10000 bateria do użytku domowego",
+            "ProductDescription": "Rechargeable Batteries everActive R20/D Ni-MH 10000 mAh ready to use"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Everactive EVHRL20-10000 bateria do użytku domowego",
+            "ProductDescription": "Wiederaufladbare Akkus everActive R20/D Ni-MH 10000 mAh ready to use"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EVHRL20-10000",
+        "Weight": 310.0,
+        "Height": 35.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089979",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4425d0c5-c114-4e4c-bae0-81cd28971439",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-16T07:10:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBIS4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:51.517000+00:00",
+        "sequence_number": 167999
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0040",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVO Max Series Battery (packing:1pcs/carton)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVO Max Series Battery (packing:1pcs/carton)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVO Max Series Battery (packing:1pcs/carton)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991142485"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102003061",
+        "Weight": 620.0,
+        "Height": 60.0,
+        "Width": 170.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051412",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "EVO Max Series Battery (packing:1pcs/carton)"
+      },
+      "properties": {
+        "message_id": "8647b3b0-07e6-4d01-aaa6-974778a2ccd0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T12:52:35Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0040'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:30.121000+00:00",
+        "sequence_number": 138724
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0036",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Autel Alpha battery - testy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Autel Alpha battery - testy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Autel Alpha battery - testy",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102002556",
+        "Weight": 2460.0,
+        "Height": 142.0,
+        "Width": 260.0,
+        "Depth": 222.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076638",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Autel Alpha battery - testy"
+      },
+      "properties": {
+        "message_id": "4faab4aa-9451-421f-a392-f08a22ebdbe6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-15T15:51:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0036'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:19.444000+00:00",
+        "sequence_number": 153109
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0038",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVO Max Series Battery (packing:1pcs/carton)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVO Max Series Battery (packing:1pcs/carton)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVO Max Series Battery (packing:1pcs/carton)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991136408"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102003061",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076639",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "EVO Max Series Battery (packing:1pcs/carton)"
+      },
+      "properties": {
+        "message_id": "0a170d57-4072-4c1b-9b3c-46ef51a3b450",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-22T09:09:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0038'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:19.444000+00:00",
+        "sequence_number": 153110
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALANRAKM0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "ANKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria do Anker Solix Solarbank 2 Pro/ Plus  1600W",
+            "ProductDescription": "Bateria do Anker Solix Solarbank 2 Pro/ Plus 1600Wh"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria do Anker Solix Solarbank 2 Pro/ Plus  1600W",
+            "ProductDescription": "Bateria do Anker Solix Solarbank 2 Pro/ Plus 1600Wh"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria do Anker Solix Solarbank 2 Pro/ Plus  1600W",
+            "ProductDescription": "Akku für Anker Solix Solarbank 2 Pro/ Plus 1600Wh"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "194644036041"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85078000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "A17C13Z1-85",
+        "Weight": 20500.0,
+        "Height": 350.0,
+        "Width": 560.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54554
+              },
+              {
+                "CategoryId": 53493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059575",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bateria do Anker Solix Solarbank 2 Pro/ Plus  1600Wh"
+      },
+      "properties": {
+        "message_id": "f9992388-e64e-4b01-9ae2-ee6f6ed16b71",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T11:31:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALANRAKM0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:50.730000+00:00",
+        "sequence_number": 124173
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 4 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP AA 2000 mAh 4 szt (BK-3MCDE/4CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 4 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP AA 2000 mAh 4 szt (BK-3MCDE/4CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 4 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP AA 2000 mAh 4 szt (BK-3MCDE/4CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064190"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-3MCDE/4CP",
+        "Weight": 110.0,
+        "Height": 10.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059581",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP AA 2000mAh 4 szt"
+      },
+      "properties": {
+        "message_id": "1677a174-d406-4f24-9673-6bb211c886dc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:50.730000+00:00",
+        "sequence_number": 124179
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 4 szt + CASE",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP AA 2000 mAh 4 szt + box (BK-3MCDE/4CP+CASE)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 4 szt + CASE",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP AA 2000 mAh 4 szt + case (BK-3MCDE/4CP+CASE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 4 szt + CASE",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP AA 2000 mAh 4 szt + Koffer (BK-3MCDE/4CP+CASE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853065043"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-3MCDE/4CP+CASE",
+        "Weight": 130.0,
+        "Height": 20.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059582",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP AA 2000mAh 4 szt + CASE"
+      },
+      "properties": {
+        "message_id": "4b74db7f-4f34-413c-bfb5-5f4e3973e8ad",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:50.730000+00:00",
+        "sequence_number": 124180
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP PRO AA 2500mAh 4 szt + box",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP PRO AA 2500 mAh 4 szt + box (BK-3HCDE/4CP+CASE)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP PRO AA 2500mAh 4 szt + box",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP PRO AA 2500 mAh 4 szt + case (BK-3HCDE/4CP+CASE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP PRO AA 2500mAh 4 szt + box",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP PRO AA 2500 mAh 4 szt + Koffer (BK-3HCDE/4CP+CASE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853065036"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-3HCDE/4CP+CASE",
+        "Weight": 140.0,
+        "Height": 20.0,
+        "Width": 120.0,
+        "Depth": 84.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078218",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP PRO AA 2500mAh 4 szt + box"
+      },
+      "properties": {
+        "message_id": "dcf44c9c-f7b3-48ef-83bb-9f423d2b1d14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:27.588000+00:00",
+        "sequence_number": 153528
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP AAA 800 mAh 8 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP AAA 800 mAh 8 szt (BK-4MCDE/8HH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP AAA 800 mAh 8 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP AAA 800 mAh 8 szt (BK-4MCDE/8HH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP AAA 800 mAh 8 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP AAA 800 mAh 8 szt (BK-4MCDE/8HH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064329"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4MCDE/8HH",
+        "Weight": 100.0,
+        "Height": 11.0,
+        "Width": 92.0,
+        "Depth": 87.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074320",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP AAA 800 mAh 8 szt"
+      },
+      "properties": {
+        "message_id": "ed409c90-b05d-4f7c-9792-8036b2118648",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:56.699000+00:00",
+        "sequence_number": 124474
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALEAVAKM0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "everActive",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVERACTIVE AKUMULATORKI 6F22 EVHRL22-320",
+            "ProductDescription": "Akumulatorki everActive Ni-MH 6F22 9V 320 mAh Professional Line"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVERACTIVE AKUMULATORKI 6F22 EVHRL22-320",
+            "ProductDescription": "Rechargeable batteries everActive Ni-MH 6F22 9V 320 mAh Professional Line"
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVERACTIVE AKUMULATORKI 6F22 EVHRL22-320",
+            "ProductDescription": "Akkus everActive Ni-MH 6F22 9V 320 mAh Professional Line"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902020523741"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EVHRL22-320",
+        "Weight": 62.0,
+        "Height": 21.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54554
+              },
+              {
+                "CategoryId": 53493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053773",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1d059e60-5d41-4188-a7d4-1ff49b430a40",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-05-15T13:28:51Z'",
+          "ModificationDate": "b'2025-09-30T13:40:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALEAVAKM0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:52.452000+00:00",
+        "sequence_number": 139866
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIABB",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POTENSIC BATERIA ATOM SE 2500MAH",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POTENSIC BATERIA ATOM SE 2500MAH",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POTENSIC BATERIA ATOM SE 2500MAH",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "850045729172"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85078000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SE-BA",
+        "Weight": 122.0,
+        "Height": 104.0,
+        "Width": 62.0,
+        "Depth": 46.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079789",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "43a36a37-6f87-4028-aa56-ec092d9f480a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-30T09:16:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIABB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:41.104000+00:00",
+        "sequence_number": 154208
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALEAVAKM0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "everActive",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVERACTIVE AKUMULATORKI LR20 5500MAH EVHRL20-5500",
+            "ProductDescription": "Akumulatorki everActive R20/D Ni-MH 5500 mAh ready to use"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVERACTIVE AKUMULATORKI LR20 5500MAH EVHRL20-5500",
+            "ProductDescription": "Rechargeable batteries everActive R20/D Ni-MH 5500 mAh ready to use"
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVERACTIVE AKUMULATORKI LR20 5500MAH EVHRL20-5500",
+            "ProductDescription": "Wiederaufladbare Akkus everActive R20/D Ni-MH 5500 mAh ready to use"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902020523734"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EVHRL20-5500",
+        "Weight": 220.0,
+        "Height": 120.0,
+        "Width": 85.0,
+        "Depth": 133.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54554
+              },
+              {
+                "CategoryId": 53493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057538",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0a3b375d-1f33-4c68-9c98-3657393a0012",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-05-15T13:24:33Z'",
+          "ModificationDate": "b'2025-09-30T13:40:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALEAVAKM0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:53.172000+00:00",
+        "sequence_number": 102482
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALFLIAKM0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "FLIR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLIR AKUMULATOR DO KAMERY TERMOWIZYJNEJ T199362ACC",
+            "ProductDescription": "FLIR T199362ACC część/akcesorium do kamery termowizyjnej Bateria"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLIR AKUMULATOR DO KAMERY TERMOWIZYJNEJ T199362ACC",
+            "ProductDescription": "FLIR T199362ACC thermal imaging camera part/accessory Battery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLIR AKUMULATOR DO KAMERY TERMOWIZYJNEJ T199362ACC",
+            "ProductDescription": "FLIR T199362ACC Wärmebildkamerateil/-zubehör Akku"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4743254002432"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "T199362ACC",
+        "Weight": 150.0,
+        "Height": 69.0,
+        "Width": 161.0,
+        "Depth": 134.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "SE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057543",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0af217fa-60cf-4739-b965-c576fa00954f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-01-19T12:16:45Z'",
+          "ModificationDate": "b'2025-09-30T13:40:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALFLIAKM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:53.172000+00:00",
+        "sequence_number": 102487
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAODT",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "NITECORE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BATTERY RECH. LI-ION 3.6V/NL1836R(3600MAH) NITECORE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BATTERY RECH. LI-ION 3.6V/NL1836R(3600MAH) NITECORE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BATTERY RECH. LI-ION 3.6V/NL1836R(3600MAH) NITECORE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952506495993"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NL1836R(3600MAH)",
+        "Weight": 58.0,
+        "Height": 30.0,
+        "Width": 140.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54554
+              },
+              {
+                "CategoryId": 53493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037406",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6e02c8fa-61b2-4ff1-8dfc-966b39697053",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-25T11:51:58Z'",
+          "ModificationDate": "b'2025-06-04T12:16:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAODT'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:24.716000+00:00",
+        "sequence_number": 111942
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAOE1",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "NITECORE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator Nitecore NL2153HP 21700 5300mAh LI-ION 3",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator Nitecore NL2153HP 21700 5300mAh LI-ION 3",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator Nitecore NL2153HP 21700 5300mAh LI-ION 3",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952506495894"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NL2153HP(5300MAH)",
+        "Weight": 240.0,
+        "Height": 140.0,
+        "Width": 80.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037407",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "53c5a9e9-b3d2-4dff-a44d-2ea39c12afcc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-18T14:33:48Z'",
+          "ModificationDate": "b'2025-06-04T12:16:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAOE1'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:24.716000+00:00",
+        "sequence_number": 111943
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0041",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVO Nest EVO Max Series Batt. For EVO Nest Demo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVO Nest EVO Max Series Batt. For EVO Nest Demo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVO Nest EVO Max Series Batt. For EVO Nest Demo",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102003431",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079981",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "EVO Nest (with EVO MAX 4T V2) EVO Max Series Battery Only For EVO Nest Demo"
+      },
+      "properties": {
+        "message_id": "fe3ef6c4-c935-4b91-9cc7-683a7fee6fc6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-30T15:53:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0041'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:34.660000+00:00",
+        "sequence_number": 104622
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0042",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVO Nest EVO Max Series Batt. For EVO Nest Demo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVO Nest EVO Max Series Batt. For EVO Nest Demo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVO Nest EVO Max Series Batt. For EVO Nest Demo",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991140146"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102003431",
+        "Weight": 610.0,
+        "Height": 60.0,
+        "Width": 175.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079991",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "EVO Nest (with EVO MAX 4T V2) EVO Max Series Battery Only For EVO Nest Demo"
+      },
+      "properties": {
+        "message_id": "c8b41d13-6ade-4c73-ad5f-24e80e594fce",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-30T16:43:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0042'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:34.660000+00:00",
+        "sequence_number": 104632
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYT4",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator Panasonic Eneloop Pro R6/AA 2500mAh",
+            "ProductDescription": "Panasonic eneloop pro Bateria do ponownego naładowania AA"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator Panasonic Eneloop Pro R6/AA 2500mAh",
+            "ProductDescription": "Panasonic eneloop pro BK-3HCDE batteri"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator Panasonic Eneloop Pro R6/AA 2500mAh",
+            "ProductDescription": "Panasonic eneloop pro BK-3HCDE Akku"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064152"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85078000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-3HCDE/4BE",
+        "Weight": 125.0,
+        "Height": 120.0,
+        "Width": 75.0,
+        "Depth": 15.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039024",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "72784212-b02c-4a1d-a31c-4393b52b4a4c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-09T14:48:40Z'",
+          "ModificationDate": "b'2025-06-04T12:17:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYT4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:08.652000+00:00",
+        "sequence_number": 162568
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 2 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP PRO AAA 930 mAh 2 szt (BK-4HCDE/2CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 2 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP PRO AAA 930 mAh 2 szt (BK-4HCDE/2CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 2 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP PRO AAA 930 mAh 2 szt (BK-4HCDE/2CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064237"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4HCDE/2CP",
+        "Weight": 30.0,
+        "Height": 10.0,
+        "Width": 120.0,
+        "Depth": 83.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052929",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP PRO AAA 930mAh 2 szt"
+      },
+      "properties": {
+        "message_id": "71566059-85ca-4d07-8cf9-9494e6f3322a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:48.044000+00:00",
+        "sequence_number": 126192
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHK5",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PULSAR IPS 7 akumulator (Li-Ion) 6400 mAh 3,7 V",
+            "ProductDescription": "PULSAR IPS 7 akumulator przemysłowy Litowo-jonowa (Li-Ion) 6400 mAh 3,7 V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PULSAR IPS 7 akumulator (Li-Ion) 6400 mAh 3,7 V",
+            "ProductDescription": "PULSAR IPS 7 industrial rechargeable battery Lithium-Ion (Li-Ion) 6400 mAh 3.7 V"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PULSAR IPS 7 akumulator (Li-Ion) 6400 mAh 3,7 V",
+            "ProductDescription": "PULSAR IPS 7 Industrieakku Lithium-Ion (Li-Ion) 6400 mAh 3,7 V"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022924163"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "79166",
+        "Weight": 190.0,
+        "Height": 57.0,
+        "Width": 105.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "RU",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060284",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "29db5291-064c-4f16-8611-6eccba276b49",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-01T10:57:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHK5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.951000+00:00",
+        "sequence_number": 126272
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHK8",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator Pulsar APS 5T",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator Pulsar APS 5T",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator Pulsar APS 5T",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022925979"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "79188",
+        "Weight": 130.0,
+        "Height": 40.0,
+        "Width": 160.0,
+        "Depth": 57.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "LT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060285",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9675beea-bfbd-4fea-8811-4d1920583f9a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-25T13:23:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHK8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.951000+00:00",
+        "sequence_number": 126273
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZAS4WOAKU0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "WHE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WHITENERGY AKUMULATORY AAA 1100mAh 10szt",
+            "ProductDescription": "Whitenergy 06778 bateria do użytku domowego Bateria do ponownego naładowania Niklowo-metalowo-wodorkowa (NiMH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WHITENERGY AKUMULATORY AAA 1100mAh 10szt",
+            "ProductDescription": "Whitenergy 06778 household battery Rechargeable battery Nickel-Metal Hydride (NiMH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WHITENERGY AKUMULATORY AAA 1100mAh 10szt",
+            "ProductDescription": "Whitenergy 06778 Haushaltsbatterie Wiederaufladbarer Akku Nickel-Metallhydrid (NiMH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908214330744"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "06778",
+        "Weight": 116.0,
+        "Height": 50.0,
+        "Width": 110.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067655",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0b18233d-57a0-4480-9b90-1c7a0dc0109d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2010-06-18T14:39:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZAS4WOAKU0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:01.687000+00:00",
+        "sequence_number": 126915
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALEAVAKM0019",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "everActive",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVERACTIVE AKUMULATORKI R03/AAA NI-MH EVHRL03-1000",
+            "ProductDescription": "Akumulatorki everActive R03/AAA Ni-MH 1000 mAh ready to use - 4 sztuki, edycja limitowana"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVERACTIVE AKUMULATORKI R03/AAA NI-MH EVHRL03-1000",
+            "ProductDescription": "Rechargeable batteries everActive Ni-MH R03 AAA 1000 mAh Professional Line, limited edition"
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVERACTIVE AKUMULATORKI R03/AAA NI-MH EVHRL03-1000",
+            "ProductDescription": "Wiederaufladbare Batterien everActive R03/AAA Ni-MH 1000 mAh gebrauchsfertig - 4 Stück, limitierte Auflage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903205771698"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EVHRL03-1000",
+        "Weight": 60.0,
+        "Height": 85.0,
+        "Width": 120.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074311",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b6105be0-fa3a-4d97-a9ac-518b4de5cc3c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-10-06T13:51:50Z'",
+          "ModificationDate": "b'2025-09-30T13:40:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALEAVAKM0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:11.736000+00:00",
+        "sequence_number": 142546
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP PRO AA 2500mAh 2 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP PRO AA 2500 mAh 2 szt (BK-3HCDE/2CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP PRO AA 2500mAh 2 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP PRO AA 2500 mAh 2 szt (BK-3HCDE/2CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP PRO AA 2500mAh 2 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP PRO AA 2500 mAh 2 szt (BK-3HCDE/2CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064145"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-3HCDE/2CP",
+        "Weight": 60.0,
+        "Height": 15.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074317",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP PRO AA 2500mAh 2 szt"
+      },
+      "properties": {
+        "message_id": "a8464324-6080-4b1a-84ee-7a4d00574c32",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:33:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:11.736000+00:00",
+        "sequence_number": 142552
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 8 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP AA 2000 mAh 8 szt (BK-3MCDE/8HH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 8 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP AA 2000 mAh 8 szt (BK-3MCDE/8HH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 8 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP AA 2000 mAh 8 szt (BK-3MCDE/8HH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064213"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-3MCDE/8HH",
+        "Weight": 220.0,
+        "Height": 15.0,
+        "Width": 118.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074318",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP AA 2000mAh 8 szt"
+      },
+      "properties": {
+        "message_id": "2b9bcc8c-393e-4600-ba53-9ac8990ccce9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:11.736000+00:00",
+        "sequence_number": 142553
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 4 szt + box",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP PRO AAA 930 mAh 4 szt + box (BK-4HCDE/4CP+CASE)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 4 szt + box",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP PRO AAA 930 mAh 4 szt + case (BK-4HCDE/4CP+CASE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 4 szt + box",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP PRO AAA 930 mAh 4 szt + Koffer (BK-4HCDE/4CP+CASE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853065050"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4HCDE/4CP+CASE",
+        "Weight": 70.0,
+        "Height": 20.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074319",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP PRO AAA 930mAh 4 szt + box"
+      },
+      "properties": {
+        "message_id": "5f11a146-0b97-46e1-a4b0-ac369daa53f8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:11.736000+00:00",
+        "sequence_number": 142554
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDFR9",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "TP-LINK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TP-Link Tapo A100 Bateria",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TP-Link Tapo A100 Bateria",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "TP-Link Tapo A100 Bateria",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4897098685143"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TAPO A100",
+        "Weight": 160.0,
+        "Height": 85.0,
+        "Width": 85.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045190",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a521c8db-0ab4-4988-aaf7-5b073fea1e69",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-16T15:55:18Z'",
+          "ModificationDate": "b'2025-06-04T12:20:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDFR9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:12.793000+00:00",
+        "sequence_number": 162778
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZAS4WOAKU0015",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "WHE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WHITENERGY AKUMULATORY AA 2800mAh 10szt",
+            "ProductDescription": "Whitenergy 06779 bateria do użytku domowego Bateria do ponownego naładowania Niklowo-metalowo-wodorkowa (NiMH)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WHITENERGY AKUMULATORY AA 2800mAh 10szt",
+            "ProductDescription": "Whitenergy 06779 household battery Rechargeable battery Nickel-Metal Hydride (NiMH)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WHITENERGY AKUMULATORY AA 2800mAh 10szt",
+            "ProductDescription": "Whitenergy 06779 Haushaltsbatterie Wiederaufladbarer Akku Nickel-Metallhydrid (NiMH)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908214330751"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "06779",
+        "Weight": 290.0,
+        "Height": 50.0,
+        "Width": 150.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071575",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c0596068-3bce-43a6-b64a-84d2e63f3929",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2010-06-18T14:34:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZAS4WOAKU0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:19.954000+00:00",
+        "sequence_number": 127917
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZASBLOAKU0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BLOW AKUMULATOR R14 NI-MH 5000MAH XTREME",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BLOW AKUMULATOR R14 NI-MH 5000MAH XTREME",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BLOW AKUMULATOR R14 NI-MH 5000MAH XTREME",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804061014"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "82-603#",
+        "Weight": 166.0,
+        "Height": 80.0,
+        "Width": 115.0,
+        "Depth": 25.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071579",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f794bcbb-cb6a-42c3-a781-ad9ee97a8c59",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-08-26T11:02:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZASBLOAKU0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:19.954000+00:00",
+        "sequence_number": 127921
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROHVRAKK0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria HOVERAir Thermo Smart Battery",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria HOVERAir Thermo Smart Battery",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria HOVERAir Thermo Smart Battery",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "198715128734"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP16H002",
+        "Weight": 90.0,
+        "Height": 23.0,
+        "Width": 120.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057954",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bateria HOVERAir Thermo Smart Battery"
+      },
+      "properties": {
+        "message_id": "837e632f-d32f-447e-98ce-4157aa4031f5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-30T13:53:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRAKK0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:56.844000+00:00",
+        "sequence_number": 102698
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALNICAKM0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "NITECORE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator Nitecore NL1840HP 3.6V 4000mAh",
+            "ProductDescription": "Akumulator Nitecore NL1840HP 3.6V 4000mAh"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator Nitecore NL1840HP 3.6V 4000mAh",
+            "ProductDescription": "Nitecore NL1840HP 3.6V 4000mAh battery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator Nitecore NL1840HP 3.6V 4000mAh",
+            "ProductDescription": "Nitecore NL1840HP 3.6V 4000mAh Akku"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952506496402"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT-NL1840HP",
+        "Weight": 64.0,
+        "Height": 30.0,
+        "Width": 142.0,
+        "Depth": 84.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086910",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "493be8a7-197b-4a13-8d10-f2350526f777",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-22T12:44:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALNICAKM0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:02.030000+00:00",
+        "sequence_number": 160824
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP LITE AAA 550mAh 4 szt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP LITE AAA 550mAh 4 szt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP LITE AAA 550mAh 4 szt",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064350"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4LCCE/4CP",
+        "Weight": 40.0,
+        "Height": 10.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054411",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP LITE AAA 550mAh 4 szt"
+      },
+      "properties": {
+        "message_id": "71e4a118-8f3d-4ef7-b69f-94da956c2a21",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:13.212000+00:00",
+        "sequence_number": 129446
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 4 szt.",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP PRO AAA 930 mAh 4 szt (BK-4HCDE/4CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 4 szt.",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP PRO AAA 930 mAh 4 szt (BK-4HCDE/4CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP PRO AAA 930mAh 4 szt.",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP PRO AAA 930 mAh 4 szt (BK-4HCDE/4CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064244"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4HCDE/4CP",
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 120.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049334",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP PRO AAA 930mAh 4 szt."
+      },
+      "properties": {
+        "message_id": "6c8dc33c-0bd9-4dc4-9bc1-31b3f674fee2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:12.495000+00:00",
+        "sequence_number": 116459
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALEAVAKM0018",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "everActive",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVERACTIVE AKUMULATORKI AA/R6 NI-MH EVHRL6-2500",
+            "ProductDescription": "Akumulatorki AA / R6 everActive Ni-MH 2500 mAh ready to use - 4 sztuki, edycja limitowana"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVERACTIVE AKUMULATORKI AA/R6 NI-MH EVHRL6-2500",
+            "ProductDescription": "Rechargeable batteries everActive Ni-MH R6 AA 2500 mAh ready to use - 4 sztuki, limited edition"
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVERACTIVE AKUMULATORKI AA/R6 NI-MH EVHRL6-2500",
+            "ProductDescription": "Wiederaufladbare Batterien AA / R6 everActive Ni-MH 2500 mAh einsatzbereit - 4 Stück, limitierte Auflage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903205771681"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EVHRL6-2500",
+        "Weight": 125.0,
+        "Height": 120.0,
+        "Width": 85.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54554
+              },
+              {
+                "CategoryId": 53493
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049339",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "63108eaf-92bb-4624-8aa5-8e91a765e848",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-10-06T13:51:31Z'",
+          "ModificationDate": "b'2025-09-30T13:40:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALEAVAKM0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:13.339000+00:00",
+        "sequence_number": 116464
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLAKK0032",
+        "ProductVersion": "1.2",
+        "ProductType": "Akumulatorki",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Autel Battery for Smart Controller SE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Autel Battery for Smart Controller SE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Autel Battery for Smart Controller SE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102001796",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53444
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049494",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Autel Battery for Smart Controller SE"
+      },
+      "properties": {
+        "message_id": "a4235692-bc33-4d3e-8ab4-c82e1c297d30",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-17T10:15:00Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLAKK0032'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:14.214000+00:00",
+        "sequence_number": 116543
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 2 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP AA 2000 mAh 2 szt (BK-3MCDE/2CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 2 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP AA 2000 mAh 2 szt (BK-3MCDE/2CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP AA 2000mAh 2 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP AA 2000 mAh 2 szt (BK-3MCDE/2CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064176"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-3MCDE/2CP",
+        "Weight": 60.0,
+        "Height": 15.0,
+        "Width": 125.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063495",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP AA 2000mAh 2 szt"
+      },
+      "properties": {
+        "message_id": "a686ed99-2e45-47a2-8075-822eb137180e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:21.231000+00:00",
+        "sequence_number": 163197
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BALPANAKM0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Akumulatorki",
+        "Brand": "Panasonic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PANASONIC ENELOOP AAA 800mAh 2 szt",
+            "ProductDescription": "Akumulatory PANASONIC ENELOOP AAA 800 mAh 2 szt (BK-4MCDE/2CP)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PANASONIC ENELOOP AAA 800mAh 2 szt",
+            "ProductDescription": "Rechargeable batteries PANASONIC ENELOOP AAA 800 mAh 2 szt (BK-4MCDE/2CP)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PANASONIC ENELOOP AAA 800mAh 2 szt",
+            "ProductDescription": "Wiederaufladbare Batterien PANASONIC ENELOOP AAA 800 mAh 2 szt (BK-4MCDE/2CP)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5410853064268"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85075000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BK-4MCDE/2CP",
+        "Weight": 30.0,
+        "Height": 10.0,
+        "Width": 120.0,
+        "Depth": 83.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53493
+              },
+              {
+                "CategoryId": 54554
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55208
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063496",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PANASONIC ENELOOP AAA 800mAh 2 szt"
+      },
+      "properties": {
+        "message_id": "a126ccce-69ff-4b36-bfc3-8bd68b35dd7a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T15:34:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BALPANAKM0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:21.231000+00:00",
+        "sequence_number": 163198
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIHED",
+        "ProductVersion": "1.0",
+        "ProductType": "Wahacze",
+        "Brand": "DELPHI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wahacz zawieszenia koła przód L pasuje do: FORD CA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wahacz zawieszenia koła przód L pasuje do: FORD CA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wahacz zawieszenia koła przód L pasuje do: FORD CA",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5012759859131"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87088099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TC82",
+        "Weight": 2000.0,
+        "Height": 120.0,
+        "Width": 50.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "29.32.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57933
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53726
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156542",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8e9f99e5-ebcb-4eef-9c3a-aed288ec4348",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T10:36:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIHED'"
+        },
+        "enqueued_time_utc": "2025-10-06 15:06:51.472000+00:00",
+        "sequence_number": 173959
+      }
+    }
+  ]
+}

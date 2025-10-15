@@ -1,0 +1,3571 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3008",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zwilling Zestaw podróżny Classic Inox 5 ele. czarny",
+            "ProductDescription": "ZWILLING 97437-004-0 zestaw do pielęgnacji paznokci Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zwilling Zestaw podróżny Classic Inox 5 ele. czarny",
+            "ProductDescription": "Zwilling Classic Inox Manicure Set - Black Leather Case, 5 Pieces - Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zwilling Zestaw podróżny Classic Inox 5 ele. czarny",
+            "ProductDescription": "Zwilling 97437-004-0 Classic Inox Etui aus Rindleder 5-teilig schwarz (97437-004-0)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839285974"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97437-004-0",
+        "Weight": 280.0,
+        "Height": 35.0,
+        "Width": 205.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033467",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cd022236-a9d5-47ce-9343-38a6ed993e6f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-14T10:55:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3008'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:39.221000+00:00",
+        "sequence_number": 105526
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3012",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox – czerwone,",
+            "ProductDescription": "ZWILLING 97655-003-0 zestaw do pielęgnacji paznokci Stal nierdzewna Czerwony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox – czerwone,",
+            "ProductDescription": "Zwilling Classic Inox Travel Set – Red Leather Case, 5 Pieces - Red"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox – czerwone,",
+            "ProductDescription": "Zwilling CLASSIC INOX Maniküre Set 5-teilig Rot (97655-003-0)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839362453"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97655-003-0",
+        "Weight": 260.0,
+        "Height": 35.0,
+        "Width": 202.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033468",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ed5c3383-008d-46a2-87a2-d8c124c88835",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-27T13:42:57Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3012'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:39.221000+00:00",
+        "sequence_number": 105527
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBLX3",
+        "ProductVersion": "1.1",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Narzędzie wielofunkcyjne ZWILLING 42450-014-0",
+            "ProductDescription": "ZWILLING 42450-014-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Narzędzie wielofunkcyjne ZWILLING 42450-014-0",
+            "ProductDescription": "ZWILLING 42450-014-0 manicure/pedicure gift set"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Narzędzie wielofunkcyjne ZWILLING 42450-014-0",
+            "ProductDescription": "ZWILLING 42450-014-0 Maniküre-/Pediküre-Geschenk-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839375996"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82119300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "42450-014-0",
+        "Weight": 56.0,
+        "Height": 30.0,
+        "Width": 126.0,
+        "Depth": 61.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060085",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "76ae48b1-76df-4b47-968c-50813c023220",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T09:16:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBLX3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:00.797000+00:00",
+        "sequence_number": 135439
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLMAN0024",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97698-005-0",
+            "ProductDescription": "ZWILLING 97698-005-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97698-005-0",
+            "ProductDescription": "ZWILLING 97698-005-0 manicure/pedicure gift set"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97698-005-0",
+            "ProductDescription": "ZWILLING 97698-005-0 Maniküre-/Pediküre-Geschenk-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839391095"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97698-005-0",
+        "Weight": 170.0,
+        "Height": 35.0,
+        "Width": 98.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065401",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e23ffe9c-e5f6-429a-901a-955105ef7385",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-05T16:04:19Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLMAN0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:38.932000+00:00",
+        "sequence_number": 121566
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLMAN0026",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97720-008-0",
+            "ProductDescription": "ZWILLING 97720-008-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97720-008-0",
+            "ProductDescription": "ZWILLING 97720-008-0 manicure/pedicure gift set"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97720-008-0",
+            "ProductDescription": "ZWILLING 97720-008-0 Maniküre-/Pediküre-Geschenk-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839413803"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97720-008-0",
+        "Weight": 160.0,
+        "Height": 14.0,
+        "Width": 35.0,
+        "Depth": 14.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065402",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5be6f637-fdc7-41fa-b1a7-b8fd9c5c3fdb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-05T16:04:22Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLMAN0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:38.932000+00:00",
+        "sequence_number": 121567
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLMAN0047",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97505-004-0",
+            "ProductDescription": "Zestaw podróżny ZWILLING Classic Inox 97505-004-0 – czarne pudełko 3 elementy - czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97505-004-0",
+            "ProductDescription": "ZWILLING Classic Inox travel set 97505-004-0 - black box 3 pieces - black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97505-004-0",
+            "ProductDescription": "ZWILLING Classic Inox Reiseset 97505-004-0 - schwarzer Kasten 3 Stück - schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839306587"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97505-004-0",
+        "Weight": 1800.0,
+        "Height": 35.0,
+        "Width": 140.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "IN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065403",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw podróżny ZWILLING Classic Inox 97505-004-0 – czarne pudełko 3 elementy - czarny"
+      },
+      "properties": {
+        "message_id": "39f2838a-fa03-4c5d-b996-a5a5b2a930e0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-20T09:50:39Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLMAN0047'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:38.932000+00:00",
+        "sequence_number": 121568
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLMAN0018",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97091-002-0",
+            "ProductDescription": "Zestaw do manicure ZWILLING 97091-002-0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97091-002-0",
+            "ProductDescription": "Manicure set ZWILLING 97091-002-0"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97091-002-0",
+            "ProductDescription": "Maniküreset ZWILLING 97091-002-0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839186493"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97091-002-0",
+        "Weight": 110.0,
+        "Height": 70.0,
+        "Width": 120.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "IN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070201",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f5a0a27d-80eb-4f91-9d9c-0a50ae308a32",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-05T16:04:10Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLMAN0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:12.980000+00:00",
+        "sequence_number": 109286
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFIAX",
+        "ProductVersion": "1.1",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Frezarka do paznokci ADLER AD 2181",
+            "ProductDescription": "Adler AD 2181 Frezarka do paznokci – zestaw 11 w 1 Różowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Frezarka do paznokci ADLER AD 2181",
+            "ProductDescription": "Adler AD 2181 Nail milling machine - 11-in-1 set Pink"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Frezarka do paznokci ADLER AD 2181",
+            "ProductDescription": "Adler AD 2181 Nagelfräse - 11-in-1-Set Rosa"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905575904836"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 2181",
+        "Weight": 310.0,
+        "Height": 41.0,
+        "Width": 235.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071175",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "37b4324e-2c2f-43a7-857e-d6d274e8146d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:23:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFIAX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:31.455000+00:00",
+        "sequence_number": 152143
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLMAN0019",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97119-002-0",
+            "ProductDescription": "ZWILLING 97119-002-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97119-002-0",
+            "ProductDescription": "ZWILLING 97119-002-0 manicure/pedicure gift set"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97119-002-0",
+            "ProductDescription": "ZWILLING 97119-002-0 Maniküre-/Pediküre-Geschenk-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839190988"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97119-002-0",
+        "Weight": 120.0,
+        "Height": 140.0,
+        "Width": 105.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "ID",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073255",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2ec4c101-e1d8-4711-b0da-9f3ae38d86f8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-05T16:04:12Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLMAN0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:25.318000+00:00",
+        "sequence_number": 144978
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLMAN0044",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING Twinox Gold 97746-004-0",
+            "ProductDescription": "Zestaw do manicure ZWILLING Twinox Gold Edition 97746-004-0 – czarne skórzane etui 3 elementy - czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING Twinox Gold 97746-004-0",
+            "ProductDescription": "ZWILLING Twinox Gold Edition manicure set 97746-004-0 - black leather case 3 pieces - black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING Twinox Gold 97746-004-0",
+            "ProductDescription": "ZWILLING Twinox Gold Edition Maniküreset 97746-004-0 - schwarzes Lederetui 3-teilig - schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493522"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97746-004-0",
+        "Weight": 174.0,
+        "Height": 36.0,
+        "Width": 165.0,
+        "Depth": 89.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "IN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058498",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw do manicure ZWILLING Twinox Gold Edition 97746-004-0 – czarne skórzane etui 3 elementy - czarny"
+      },
+      "properties": {
+        "message_id": "95c6f3ba-5f85-4f95-9a51-dbce9538c5cc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-20T09:49:59Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLMAN0044'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:41.604000+00:00",
+        "sequence_number": 123656
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAED4",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97092-002-0",
+            "ProductDescription": "ZWILLING Snap fastener case, 5 pcs"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97092-002-0",
+            "ProductDescription": "Zwilling Twinox Manicure Set – 5 pcs Leather Pouch - Red"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97092-002-0",
+            "ProductDescription": "Zwilling Twinox Maniküre-Set – 5-teiliges Lederetui - Rot"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839186509"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97092-002-0",
+        "Weight": 220.0,
+        "Height": 35.0,
+        "Width": 165.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035457",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0dfa485f-98eb-42b7-bb14-7d113a7e39f6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-25T14:41:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAED4'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:32.075000+00:00",
+        "sequence_number": 110299
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAEES",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97718-001-0",
+            "ProductDescription": "ZWILLING 97718-001-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97718-001-0",
+            "ProductDescription": "Zwilling Twinox Travel Kit – Aluminium Case, 5 Pieces"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97718-001-0",
+            "ProductDescription": "Zwilling Twinox Travel Kit – Aluminiumkoffer, 5-teilig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839413872"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97718-001-0",
+        "Weight": 360.0,
+        "Height": 35.0,
+        "Width": 204.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035478",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e6ce6212-1799-471b-81d3-c1a53c3fbb13",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-31T16:15:58Z'",
+          "ModificationDate": "b'2025-06-04T12:15:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAEES'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:32.872000+00:00",
+        "sequence_number": 110320
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAEM1",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97712-004-0",
+            "ProductDescription": "ZWILLING 97712-004-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97712-004-0",
+            "ProductDescription": "ZWILLING 97712-004-0 manicure/pedicure gift set"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97712-004-0",
+            "ProductDescription": "ZWILLING 97712-004-0 Maniküre-/Pediküre-Geschenk-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839403972"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97712-004-0",
+        "Weight": 189.0,
+        "Height": 35.0,
+        "Width": 200.0,
+        "Depth": 137.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035560",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3b373f7f-c7a4-48b7-8d9e-798b3ab64f02",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-31T14:29:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAEM1'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:33.685000+00:00",
+        "sequence_number": 110365
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAECX",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97700-008-0",
+            "ProductDescription": "ZWILLING 97700-008-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97700-008-0",
+            "ProductDescription": "ZWILLING 97700-008-0 manicure/pedicure gift set"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97700-008-0",
+            "ProductDescription": "ZWILLING 97700-008-0 Maniküre-/Pediküre-Geschenk-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839391118"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97700-008-0",
+        "Weight": 170.0,
+        "Height": 36.0,
+        "Width": 142.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059979",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "be1b6188-4390-48cd-8fe5-d80aca0fc51c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-14T16:18:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAECX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:54.714000+00:00",
+        "sequence_number": 124377
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGJF",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw 2 narzędzi Zwilling Twinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw 2 narzędzi Zwilling Twinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw 2 narzędzi Zwilling Twinox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493089"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "88326-094-0",
+        "Weight": 50.0,
+        "Height": 27.0,
+        "Width": 153.0,
+        "Depth": 62.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035848",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d9e770e6-8a99-405d-82cd-b4cde591aa92",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-14T12:44:30Z'",
+          "ModificationDate": "b'2025-06-04T12:15:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGJF'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:10.512000+00:00",
+        "sequence_number": 111196
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSMENMAN0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 940",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 940",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 940",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588851575"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "85157",
+        "Weight": 290.0,
+        "Height": 195.0,
+        "Width": 120.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079243",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "926a4d60-a178-4963-9874-6c2a871405b0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-28T09:16:26Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSMENMAN0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:35.526000+00:00",
+        "sequence_number": 153943
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAECN",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97438-004-0",
+            "ProductDescription": "ZWILLING 97438-004-0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97438-004-0",
+            "ProductDescription": "ZWILLING 97438-004-0"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97438-004-0",
+            "ProductDescription": "ZWILLING 97438-004-0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839286001"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97438-004-0",
+        "Weight": 180.0,
+        "Height": 35.0,
+        "Width": 142.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079463",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1a591148-761d-4da5-8276-8fd5b97d756f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T07:20:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAECN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:37.885000+00:00",
+        "sequence_number": 154042
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGIS",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ZWILLING CLASSIC INOX Zestaw podróżny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ZWILLING CLASSIC INOX Zestaw podróżny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ZWILLING CLASSIC INOX Zestaw podróżny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493867"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97682-005-0",
+        "Weight": 120.0,
+        "Height": 35.0,
+        "Width": 141.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052825",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1bfc7a02-9344-47f7-bc14-bfd0bcd04485",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-10T16:12:57Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGIS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:52.703000+00:00",
+        "sequence_number": 141513
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSMENMAN0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 815",
+            "ProductDescription": "Urządzenie do manicure/pedicure Medisana MP 815"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 815",
+            "ProductDescription": "Manicure/pedicure device Medisana MP 815"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 815",
+            "ProductDescription": "Maniküre-/Pediküregerät Medisana MP 815"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588851537"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "85153",
+        "Weight": 520.0,
+        "Height": 210.0,
+        "Width": 132.0,
+        "Depth": 94.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077162",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Urządzenie do manicure/pedicure Medisana MP 815"
+      },
+      "properties": {
+        "message_id": "efd93796-5a2e-4285-9982-0fbdc7822bb6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T13:17:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSMENMAN0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:00.050000+00:00",
+        "sequence_number": 156520
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSMENMAN0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 840",
+            "ProductDescription": "Urządzenie do manicure/pedicure Medisana MP 840"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 840",
+            "ProductDescription": "Manicure/pedicure device Medisana MP 840"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Urządzenie do manicure/pedicure Medisana MP 840",
+            "ProductDescription": "Maniküre-/Pediküregerät Medisana MP 840"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588851551"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "85155",
+        "Weight": 820.0,
+        "Height": 226.0,
+        "Width": 150.0,
+        "Depth": 64.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077163",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Urządzenie do manicure/pedicure Medisana MP 840"
+      },
+      "properties": {
+        "message_id": "b9f73c55-5aee-4fc2-b899-dd0f772e0748",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T13:18:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSMENMAN0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:00.050000+00:00",
+        "sequence_number": 156521
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAEAI",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97434-004-0",
+            "ProductDescription": "ZWILLING 97434-004-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97434-004-0",
+            "ProductDescription": "Zwilling Classic Inox Travel Kit - Black Leather Case, 3 Pieces - Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97434-004-0",
+            "ProductDescription": "Zwilling Classic Inox Travel Kit - Schwarzes Lederetui, 3-teilig - Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839285882"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97434-004-0",
+        "Weight": 130.0,
+        "Height": 35.0,
+        "Width": 140.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035427",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eedb04dd-b3ca-460c-830b-21fdf6f53b9c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-13T15:28:24Z'",
+          "ModificationDate": "b'2025-06-04T12:15:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAEAI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:51.708000+00:00",
+        "sequence_number": 133127
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAEGB",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING 97119-004-0",
+            "ProductDescription": "ZWILLING 97119-004-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING 97119-004-0",
+            "ProductDescription": "ZWILLING 97119-004-0 manicure/pedicure gift set"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING 97119-004-0",
+            "ProductDescription": "ZWILLING 97119-004-0 Maniküre-/Pediküre-Geschenk-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839202056"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97119-004-0",
+        "Weight": 117.0,
+        "Height": 35.0,
+        "Width": 140.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035498",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8b512586-ba29-4b76-8370-c0ae3d4c730a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-06T19:43:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAEGB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:52.599000+00:00",
+        "sequence_number": 133163
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAEN4",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure ZWILLING Twinox Gold 97748-004-0",
+            "ProductDescription": "Zestaw do manicure ZWILLING Twinox Gold Edition 97748-004-0 – czarne skórzane etui 5 elementów - czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure ZWILLING Twinox Gold 97748-004-0",
+            "ProductDescription": "ZWILLING Twinox Gold Edition manicure set 97748-004-0 - black leather case 5 pieces - black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure ZWILLING Twinox Gold 97748-004-0",
+            "ProductDescription": "ZWILLING Twinox Gold Edition Maniküreset 97748-004-0 - schwarzes Lederetui 5 Teile - schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493546"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97748-004-0",
+        "Weight": 260.0,
+        "Height": 35.0,
+        "Width": 203.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035568",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "185496ab-66c3-4cad-ab65-8d38e035e26b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-26T13:00:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAEN4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:52.833000+00:00",
+        "sequence_number": 133198
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3063",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ZWILLING Twinox 5 el. - zestaw do paznokci ze stali",
+            "ProductDescription": "Zwilling Twinox 5 elementów - zestaw do paznokci ze stali"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ZWILLING Twinox 5 el. - zestaw do paznokci ze stali",
+            "ProductDescription": "Zwilling Twinox Travel Set - Black Leather Case, 5 Pieces - Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ZWILLING Twinox 5 el. - zestaw do paznokci ze stali",
+            "ProductDescription": "Zwilling Twinox Travel Set - Schwarz Lederetui, 5-teilig - Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839117046"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "98680-004-0",
+        "Weight": 180.0,
+        "Height": 35.0,
+        "Width": 140.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033487",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "82f354bf-2b0e-4bf7-a00d-b7dcf9796348",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-03T23:37:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3063'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147606
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3070",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure Zwilling Twinox Spa 5 elementów",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure Zwilling Twinox Spa 5 elementów",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure Zwilling Twinox Spa 5 elementów",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839233692"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97242-000-0",
+        "Weight": 390.0,
+        "Height": 80.0,
+        "Width": 175.0,
+        "Depth": 122.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033489",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ad0fc671-5c41-49a2-8973-a20756293ce2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T13:39:46Z'",
+          "ModificationDate": "b'2025-06-04T12:13:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3070'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147608
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3009",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ZWILLING 97546-003-0 zestaw do pielęgnacji paznokci",
+            "ProductDescription": "ZWILLING 97546-003-0 zestaw do pielęgnacji paznokci Stal nierdzewna Czerwony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ZWILLING 97546-003-0 zestaw do pielęgnacji paznokci",
+            "ProductDescription": "ZWILLING 97546-003-0 manicure/pedicure implement Set Stainless steel Red"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ZWILLING 97546-003-0 zestaw do pielęgnacji paznokci",
+            "ProductDescription": "ZWILLING 97546-003-0 Maniküre-/Pediküre-Gerät Set Edelstahl Rot"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839320194"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97546-003-0",
+        "Weight": 264.0,
+        "Height": 47.0,
+        "Width": 201.0,
+        "Depth": 143.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074707",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fde91c65-e84e-46e0-89af-54b67d1e943d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-28T09:54:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:18.408000+00:00",
+        "sequence_number": 142877
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGFO",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny Zwilling Twinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny Zwilling Twinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny Zwilling Twinox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839109003"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "98642-004-0",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035807",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "95d3dd73-1f28-40ff-9446-e5a688523f62",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-04T20:29:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGFO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:55.442000+00:00",
+        "sequence_number": 133332
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGFW",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493812"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97438-003-0",
+        "Weight": 250.0,
+        "Height": 35.0,
+        "Width": 202.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035809",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ea7f7f31-a2bc-4b69-9cd5-9df0a41d6947",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-22T09:00:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGFW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:55.442000+00:00",
+        "sequence_number": 133334
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGJR",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493263"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97440-004-0",
+        "Weight": 140.0,
+        "Height": 30.0,
+        "Width": 70.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035850",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5d2b7d4b-ddd6-433d-a703-66110439b38d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-25T16:46:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGJR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:55.442000+00:00",
+        "sequence_number": 133340
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGKB",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny Zwilling Elemental",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny Zwilling Elemental",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny Zwilling Elemental",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839343643"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97563-007-9",
+        "Weight": 110.0,
+        "Height": 26.0,
+        "Width": 315.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035855",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "28d315f4-14ae-4a31-ab3c-36811820d788",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-10T07:20:39Z'",
+          "ModificationDate": "b'2025-06-04T12:15:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGKB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:55.442000+00:00",
+        "sequence_number": 133345
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGKK",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839320200"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97546-004-0",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035858",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "715a86be-393b-4f0b-bee1-a116369230f6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-19T23:43:34Z'",
+          "ModificationDate": "b'2025-06-04T12:15:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGKK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:55.442000+00:00",
+        "sequence_number": 133348
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3074",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satynowy nożyk do skórek Zwilling Twinox - 12.5 cm",
+            "ProductDescription": "ZWILLING 88343-101-0 zestaw do pielęgnacji paznokci"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satynowy nożyk do skórek Zwilling Twinox - 12.5 cm",
+            "ProductDescription": "Zwilling Twinox Satin Cuticle Cutter - 12.5 cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satynowy nożyk do skórek Zwilling Twinox - 12.5 cm",
+            "ProductDescription": "Zwilling Twinox Satin Nagelhautschneider - 12,5 cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839267802"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "88343-101-0",
+        "Weight": 50.0,
+        "Height": 30.0,
+        "Width": 150.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033492",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "695e8a1e-2ccf-4cca-9bd8-ff9268c09bee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-03T23:37:34Z'",
+          "ModificationDate": "b'2025-06-04T12:13:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3074'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147611
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3077",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zwilling Zestaw podróżny Twinox 5 elementów brązowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zwilling Zestaw podróżny Twinox 5 elementów brązowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zwilling Zestaw podróżny Twinox 5 elementów brązowy",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839272783"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97407-007-0",
+        "Weight": 360.0,
+        "Height": 180.0,
+        "Width": 260.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033493",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ab9862f0-f1d1-4b6d-b451-92dfff465e81",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-12T09:39:13Z'",
+          "ModificationDate": "b'2025-06-04T12:13:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3077'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147612
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3081",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure Zwilling Twinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure Zwilling Twinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure Zwilling Twinox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839291296"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97444-005-0",
+        "Weight": 150.0,
+        "Height": 30.0,
+        "Width": 85.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033496",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59c928a5-0232-481b-866b-209f3a841454",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-29T07:16:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3081'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147615
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3084",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ZESTAW DO MANICURE Zwilling Classic Inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ZESTAW DO MANICURE Zwilling Classic Inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ZESTAW DO MANICURE Zwilling Classic Inox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839306839"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97509-004-0",
+        "Weight": 554.0,
+        "Height": 45.0,
+        "Width": 255.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033497",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b78356d-2493-4391-aa63-2bed553da482",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-01T10:41:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3084'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147616
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3110",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox - Czarny",
+            "ProductDescription": "Zwilling Classic Inox zestaw podróżny do pielęgnacji paznokci Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox - Czarny",
+            "ProductDescription": "Zwilling Classic Inox Travel Set – 7-piece leather case - Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny Zwilling Classic Inox - Czarny",
+            "ProductDescription": "Zwilling Classic Inox Travel Set – 7-teiliges Lederetui - Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493287"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97682-004-0",
+        "Weight": 345.0,
+        "Height": 35.0,
+        "Width": 200.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033502",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "252654d4-9630-4753-88e8-3189dc78577a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-03T23:40:32Z'",
+          "ModificationDate": "b'2025-06-04T12:13:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3110'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147621
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3115",
+        "ProductVersion": "1.3",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny Zwilling Twinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny Zwilling Twinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny Zwilling Twinox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493782"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97374-007-0",
+        "Weight": 314.0,
+        "Height": 33.0,
+        "Width": 200.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033504",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "68c111be-daad-4c88-a269-e4e00594b321",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-17T16:07:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3115'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147623
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3522",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zwilling Premium Ścinak do pięt 15 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zwilling Premium Ścinak do pięt 15 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zwilling Premium Ścinak do pięt 15 cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839494529"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "78702-001-0",
+        "Weight": 63.0,
+        "Height": 25.0,
+        "Width": 151.0,
+        "Depth": 61.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033567",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "148d4b8e-1ac4-448b-9575-0ae8c3375b12",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-12T09:09:38Z'",
+          "ModificationDate": "b'2025-06-04T12:14:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3522'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147649
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3066",
+        "ProductVersion": "1.1",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny Zwilling Twinox 8 elementów Czarny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny Zwilling Twinox 8 elementów Czarny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny Zwilling Twinox 8 elementów Czarny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839186639"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97103-004-3",
+        "Weight": 372.0,
+        "Height": 41.0,
+        "Width": 202.0,
+        "Depth": 151.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062860",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4a2a5dc5-13fe-4558-b7ab-27c61c1f2632",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-23T18:31:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3066'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:15.715000+00:00",
+        "sequence_number": 162906
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLMAN0049",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97646-008-0",
+            "ProductDescription": "Zestaw podróżny ZWILLING Classic Inox 97646-008-0 - fioletowe etui 7 elementów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97646-008-0",
+            "ProductDescription": "ZWILLING Classic Inox travel set 97646-008-0 - purple case 7 items"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw podróżny ZWILLING Classic Inox 97646-008-0",
+            "ProductDescription": "ZWILLING Classic Inox Reiseset 97646-008-0 - lila Koffer 7 Teile"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839345371"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97646-008-0",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": "IN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061472",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw podróżny ZWILLING Classic Inox 97646-008-0 - fioletowe etui 7 elementów"
+      },
+      "properties": {
+        "message_id": "d7be8ff7-49b7-47af-9521-51c4a7085db3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-20T09:50:51Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLMAN0049'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:19.979000+00:00",
+        "sequence_number": 118758
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBSY5",
+        "ProductVersion": "1.2",
+        "ProductType": "Manicure / Pedicure",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": "ZWILLING 97654-003-0 zestaw upominkowy do manicure/pedicure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": "Zwilling Classic Inox Manicure Set – Leather Case, 10 Pieces - Red"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do manicure Zwilling Classic Inox",
+            "ProductDescription": "Zwilling Classic Inox Maniküre-Set – Lederetui, 10-teilig - Rot"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839362446"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97654-003-0",
+        "Weight": 545.0,
+        "Height": 41.0,
+        "Width": 255.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54703
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041641",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3d31d9de-7afd-474e-827c-6fbf60c1dadd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-15T07:16:50Z'",
+          "ModificationDate": "b'2025-06-04T12:18:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBSY5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:45.606000+00:00",
+        "sequence_number": 147893
+      }
+    }
+  ]
+}

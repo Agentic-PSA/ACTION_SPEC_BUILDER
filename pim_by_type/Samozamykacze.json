@@ -1,0 +1,162 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAE09",
+        "ProductVersion": "1.1",
+        "ProductType": "Samozamykacze",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrozaczep HARTTE XS00U-C",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrozaczep HARTTE XS00U-C",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrozaczep HARTTE XS00U-C",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903857581836"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "37898",
+        "Weight": 168.0,
+        "Height": 32.0,
+        "Width": 35.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55538
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089393",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cc4034b2-87be-4c65-9a99-47f325e2e047",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-06T14:26:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAE09'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:32.762000+00:00",
+        "sequence_number": 119459
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYRP",
+        "ProductVersion": "1.1",
+        "ProductType": "Samozamykacze",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrozaczep HARTTE S12UP seria S 12V AC/DC",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrozaczep HARTTE S12UP seria S 12V AC/DC",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrozaczep HARTTE S12UP seria S 12V AC/DC",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903857580013"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "36385",
+        "Weight": 190.0,
+        "Height": 33.0,
+        "Width": 37.0,
+        "Depth": 101.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55538
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055128",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "11920bd9-32ba-4458-a8b3-97e603cd51e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T14:52:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYRP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:01.376000+00:00",
+        "sequence_number": 142006
+      }
+    }
+  ]
+}

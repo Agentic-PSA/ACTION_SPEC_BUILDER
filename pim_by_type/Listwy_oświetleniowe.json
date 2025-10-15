@@ -1,0 +1,178 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "OSWACJLIR0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Listwy oświetleniowe",
+        "Brand": "Activejet",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Reflektor AJE-GIZEL 1P E14 1x40W",
+            "ProductDescription": "Activejet Kinkiet pojedynczy sufitowy ścienny chrom GIZEL reflektor E14 do salonu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Reflektor AJE-GIZEL 1P E14 1x40W",
+            "ProductDescription": "Activejet GIZEL single ceiling wall lamp chrome E14 spotlight for living room"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Reflektor AJE-GIZEL 1P E14 1x40W",
+            "ProductDescription": "Activejet GIZEL Einzeldecke Wandleuchte Chrom E14 Strahler für Wohnzimmer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443120971"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94051190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AJE-GIZEL 1P",
+        "Weight": 265.0,
+        "Height": 95.0,
+        "Width": 130.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.25.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55094
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55186
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087994",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kinkiet pojedynczy sufitowy ścienny chrom Activejet GIZEL reflektor E14 do salonu"
+      },
+      "properties": {
+        "message_id": "e3c9d11d-9ce5-4c3f-a489-f24f5452a46e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-04T09:24:36Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWACJLIR0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:12.969000+00:00",
+        "sequence_number": 161309
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR2661",
+        "ProductVersion": "1.2",
+        "ProductType": "Listwy oświetleniowe",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Reflektor podwójny 2x100W SMD LED 2 x 8500lm",
+            "ProductDescription": "Reflektor podwójny 2x100W SMD LED 2 x 8500lm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Reflektor podwójny 2x100W SMD LED 2 x 8500lm",
+            "ProductDescription": "Double spotlight 2x100W SMD LED 2 x 8500lm on tripod 1.8m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Reflektor podwójny 2x100W SMD LED 2 x 8500lm",
+            "ProductDescription": "Doppelstrahler 2x100W SMD LED 2 x 8500lm auf Stativ 1.8m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558469578"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94051190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TOP-99-096",
+        "Weight": 6640.0,
+        "Height": 225.0,
+        "Width": 720.0,
+        "Depth": 385.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55094
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55186
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033393",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9e9e1e36-b77f-4cc1-895d-ce137462b8e3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-09T07:14:59Z'",
+          "ModificationDate": "b'2025-06-04T12:13:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR2661'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:38.377000+00:00",
+        "sequence_number": 105489
+      }
+    }
+  ]
+}

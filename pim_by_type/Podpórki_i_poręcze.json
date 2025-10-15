@@ -1,0 +1,710 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LITSU2PDN0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "SUNDO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przyrząd do skracania długości wanny",
+            "ProductDescription": "Przyrząd do skracania długości wanny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przyrząd do skracania długości wanny",
+            "ProductDescription": "Bath length shortening device"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przyrząd do skracania długości wanny",
+            "ProductDescription": "Vorrichtung zur Verkürzung der Badelänge"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250629305079"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "11800",
+        "Weight": 965.0,
+        "Height": 450.0,
+        "Width": 310.0,
+        "Depth": 290.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56395
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077298",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ec0de657-4c35-444b-88be-da9aec6be3ea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-18T13:37:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITSU2PDN0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:01.237000+00:00",
+        "sequence_number": 156570
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMLXPDN0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 30cm",
+            "ProductDescription": "Poręcz, uchwyt łazienkowy metalowy 30cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 30cm",
+            "ProductDescription": "Handrail, metal bathroom handle 30cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 30cm",
+            "ProductDescription": "Handlauf, Badezimmergriff aus Metall 30cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001406207"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83025000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 505.0,
+        "Height": 80.0,
+        "Width": 380.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56395
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018235",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d730b107-0add-48b7-9b04-8877ce5929c9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-16T13:36:38Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMLXPDN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147567
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMLXPDN0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 40cm",
+            "ProductDescription": "Poręcz, uchwyt łazienkowy metalowy 40cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 40cm",
+            "ProductDescription": "Handrail, metal bathroom handle 40cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 40cm",
+            "ProductDescription": "Handlauf, Badezimmergriff aus Metall 40cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001406214"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83025000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 595.0,
+        "Height": 80.0,
+        "Width": 485.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56395
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018236",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f68adcc6-ce73-418c-a7af-270d8142749d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-16T13:39:41Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMLXPDN0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147568
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMLXPDN0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 45cm",
+            "ProductDescription": "Poręcz, uchwyt łazienkowy metalowy 45cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 45cm",
+            "ProductDescription": "Handrail, metal bathroom handle 45cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poręcz, uchwyt łazienkowy metalowy 45cm",
+            "ProductDescription": "Handlauf, Badezimmergriff aus Metall 45cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001406221"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83025000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 630.0,
+        "Height": 80.0,
+        "Width": 530.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56395
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018237",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f64a4519-0e1b-4832-9257-67b08ad3e8d5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-16T13:41:54Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMLXPDN0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147569
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMLXPDN0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poręcz łazienkowa metalowa 60cm",
+            "ProductDescription": "Poręcz łazienkowa prosta 60cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poręcz łazienkowa metalowa 60cm",
+            "ProductDescription": "Bathroom handrail straight 60cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poręcz łazienkowa metalowa 60cm",
+            "ProductDescription": "Handlauf für Badezimmer gerade 60cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001406238"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83025000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 775.0,
+        "Height": 680.0,
+        "Width": 80.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56395
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018238",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "49486833-b283-4c82-b462-5f121810f29d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-20T13:24:56Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMLXPDN0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147570
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMLXPDN0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poręcz uchwyt łazienkowy metalowy 80cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poręcz uchwyt łazienkowy metalowy 80cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poręcz uchwyt łazienkowy metalowy 80cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001406245"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83025000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 945.0,
+        "Height": 875.0,
+        "Width": 65.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56395
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018239",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "625c3b73-4903-4826-9713-8338f22a725f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T13:24:45Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMLXPDN0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147571
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITTM2PWS0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rama asekuracyjna do sedesu i wc - podpórka",
+            "ProductDescription": "Rama asekuracyjna do sedesu i wc - podpórka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rama asekuracyjna do sedesu i wc - podpórka",
+            "ProductDescription": "Belay frame for toilet - support"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rama asekuracyjna do sedesu i wc - podpórka",
+            "ProductDescription": "Sicherungsrahmen für Toilettenstütze"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983720966"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83025000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3572.0,
+        "Height": 621.0,
+        "Width": 926.0,
+        "Depth": 337.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56389
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018324",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2d8e1095-fb05-4cca-ba2f-d0183ecefa7d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-27T15:10:22Z'",
+          "ModificationDate": "b'2025-06-04T12:05:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITTM2PWS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147576
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITWLYPWS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "WELLYS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Uniwersalna podpórka do wstawania 014026",
+            "ProductDescription": "Uniwersalna podpórka do wstawania 014026"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Uniwersalna podpórka do wstawania 014026",
+            "ProductDescription": "Universal stand up support 014026"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Uniwersalna podpórka do wstawania 014026",
+            "ProductDescription": "Universal-Aufstehhilfe 014026"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3574590140264"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 2690.0,
+        "Height": 655.0,
+        "Width": 340.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56389
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018334",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3987705e-83db-4a36-b1b7-36f3daf90e6c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-15T11:59:38Z'",
+          "ModificationDate": "b'2025-06-04T12:05:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITWLYPWS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147582
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVPDN0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Podpórki i poręcze",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poręcz przyłóżkowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poręcz przyłóżkowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poręcz przyłóżkowa",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P300AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56395
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090993",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poręcz przyłóżkowa"
+      },
+      "properties": {
+        "message_id": "fbcfd78a-7eb1-4591-9e58-49dedf0e615f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:32:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVPDN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131654
+      }
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SPDVI1SCI0028",
+        "ProductVersion": "1.2",
+        "ProductType": "Ścierki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ściereczka z enzymami Vileda Pro Clean 2szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ściereczka z enzymami Vileda Pro Clean 2szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ściereczka z enzymami Vileda Pro Clean 2szt.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103256590"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63071010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "179229",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.29.0",
+        "CountryOfOrigin": "VN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53230
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54914
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092938",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ściereczka z mikrofibry z enzymami Vileda Pro Clean 2szt."
+      },
+      "properties": {
+        "message_id": "b86fd05c-a1f8-4f9e-9295-e7e7bbaba092",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T14:29:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1SCI0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:14.465000+00:00",
+        "sequence_number": 169072
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1SCI0027",
+        "ProductVersion": "1.2",
+        "ProductType": "Ścierki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ściereczka z enzymami Vileda Pro Clean 4szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ściereczka z enzymami Vileda Pro Clean 4szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ściereczka z enzymami Vileda Pro Clean 4szt.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "63071010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "179370",
+        "Weight": 70.0,
+        "Height": 40.0,
+        "Width": 180.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.29.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53230
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54914
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084652",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ściereczka uniwersalna z enzymami Vileda Pro Clean 4szt."
+      },
+      "properties": {
+        "message_id": "c42688b1-8da9-45a1-8bfc-5316e578c5c9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T09:26:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1SCI0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:03.577000+00:00",
+        "sequence_number": 124850
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1SCI0025",
+        "ProductVersion": "1.1",
+        "ProductType": "Ścierki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ściereczka mikroaktywna Vileda Style  20szt GR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ściereczka mikroaktywna Vileda Style  20szt GR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ściereczka mikroaktywna Vileda Style  20szt GR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103201408"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63071010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "173728",
+        "Weight": 95.0,
+        "Height": 40.0,
+        "Width": 160.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53230
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54914
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072216",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "31521265-95a6-43de-9b7b-b6f60ac78bdf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-11T11:43:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1SCI0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.499000+00:00",
+        "sequence_number": 112446
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDGRBSCI0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Ścierki",
+        "Brand": "GreenBlue",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GREENBLUE ŚCIERKA Z MIKROFIBRY 40X30CM GB840",
+            "ProductDescription": "Ściereczka, ścierka z mikrofibry 40x30cm zielona GreenBlue GB840 Shine Glass bezsmugowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GREENBLUE ŚCIERKA Z MIKROFIBRY 40X30CM GB840",
+            "ProductDescription": "GreenBlue GB840 Microfibre Cloth Ultra Shine Absorbent for Kitchen, Bathroom, Glass, Mirror, Window, 40x30 cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GREENBLUE ŚCIERKA Z MIKROFIBRY 40X30CM GB840",
+            "ProductDescription": "Universal Mikrofasertuch Reinigungstuch Universaltuch Streifenfrei 40x30cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211112709"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "56039390",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB840",
+        "Weight": 25.0,
+        "Height": 155.0,
+        "Width": 210.0,
+        "Depth": 3.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.95.10.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53230
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54914
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076166",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "30491e1e-86e7-4274-95ba-c5385447353b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-06-06T11:58:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDGRBSCI0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:31.693000+00:00",
+        "sequence_number": 143594
+      }
+    }
+  ]
+}

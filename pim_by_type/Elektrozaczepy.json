@@ -1,0 +1,178 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4987",
+        "ProductVersion": "1.3",
+        "ProductType": "Elektrozaczepy",
+        "Brand": "CDI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrozaczep symetryczny 10- 24V AC/DC CDVI SR1024",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrozaczep symetryczny 10- 24V AC/DC CDVI SR1024",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrozaczep symetryczny 10- 24V AC/DC CDVI SR1024",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3662211018648"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85051910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "38601",
+        "Weight": 170.0,
+        "Height": 25.0,
+        "Width": 80.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "23.44.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54120
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033911",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d793a2a6-ed31-46b3-bdb9-482ae887f107",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-28T11:36:52Z'",
+          "ModificationDate": "b'2025-08-07T08:17:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4987'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:48.989000+00:00",
+        "sequence_number": 132964
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYSX",
+        "ProductVersion": "1.3",
+        "ProductType": "Elektrozaczepy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrozaczep HARTTE S12UW seria S 12V AC/DC",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrozaczep HARTTE S12UW seria S 12V AC/DC",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrozaczep HARTTE S12UW seria S 12V AC/DC",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903857580020"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85051910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "36384",
+        "Weight": 190.0,
+        "Height": 35.0,
+        "Width": 100.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "23.44.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54120
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039022",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d1d5c976-74dd-470e-acf7-47fd8306d7d7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-29T12:55:53Z'",
+          "ModificationDate": "b'2025-08-07T08:20:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYSX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:08.652000+00:00",
+        "sequence_number": 162566
+      }
+    }
+  ]
+}

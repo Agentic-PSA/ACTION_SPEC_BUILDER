@@ -1,0 +1,162 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFSFI",
+        "ProductVersion": "1.2",
+        "ProductType": "Kontrolery Wi-Fi",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kontroler Ubiquiti UniFi UCK-G2-SSD",
+            "ProductDescription": "Ubiquiti CloudKey+ gateway/kontroler 10, 100, 1000 Mbit/s"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kontroler Ubiquiti UniFi UCK-G2-SSD",
+            "ProductDescription": "Ubiquiti CloudKey+ gateway/controller 10, 100, 1000 Mbit/s"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kontroler Ubiquiti UniFi UCK-G2-SSD",
+            "ProductDescription": "Ubiquiti CloudKey+ Gateway/Controller 10, 100, 1000 Mbit/s"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084698426"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UCK-G2-SSD",
+        "Weight": 700.0,
+        "Height": 65.0,
+        "Width": 195.0,
+        "Depth": 185.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56666
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067296",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1eaa0b84-c0d3-496f-b6d3-12e4dd361db5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-16T17:49:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFSFI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:34.435000+00:00",
+        "sequence_number": 130503
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQKWF0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery Wi-Fi",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kontroler Ubiquiti UniFi CK-Enterprise",
+            "ProductDescription": "Ubiquiti Instant Cloud Key Enterprise gateway/kontroler 10000 Mbit/s"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kontroler Ubiquiti UniFi CK-Enterprise",
+            "ProductDescription": "Ubiquiti Instant Cloud Key Enterprise gateway/controller 10000 Mbit/s"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kontroler Ubiquiti UniFi CK-Enterprise",
+            "ProductDescription": "Ubiquiti Instant Cloud Key Enterprise Gateway/Controller 10000 Mbit/s"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084691861"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CK-Enterprise",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56666
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076320",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kontroler UniFi Ubiquiti UniFi CloudKey Enterprise (CK-Enterprise-EU)"
+      },
+      "properties": {
+        "message_id": "b0cc14bb-7cda-4335-adb9-181e22775f27",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-05T16:26:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQKWF0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:37.268000+00:00",
+        "sequence_number": 152419
+      }
+    }
+  ]
+}

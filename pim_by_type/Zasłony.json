@@ -1,0 +1,265 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADBR",
+        "ProductVersion": "1.4",
+        "ProductType": "Zasłony",
+        "Brand": "deante",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Deante Kerria Plus KTSXN41P drzwi prysznicowe",
+            "ProductDescription": "Drzwi prysznicowe DEANTE Kerria Plus (KTSXN41P) składane 90 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Deante Kerria Plus KTSXN41P drzwi prysznicowe",
+            "ProductDescription": "Kerria Plus shower door 90 cm - foldable"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Deante Kerria Plus KTSXN41P drzwi prysznicowe",
+            "ProductDescription": "Kerria Plus Duschtür 90 cm - faltbar"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908212087541"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63039290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTSXN41P",
+        "Weight": 31000.0,
+        "Height": 2090.0,
+        "Width": 490.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55469
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54928
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035254",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d04cd779-ad9b-40f2-8b82-a64a9cb776d3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-26T14:07:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADBR'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:30.356000+00:00",
+        "sequence_number": 110207
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADBT",
+        "ProductVersion": "1.4",
+        "ProductType": "Zasłony",
+        "Brand": "deante",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Deante Kerria Plus KTSXN42P drzwi prysznicow",
+            "ProductDescription": "Drzwi prysznicowe DEANTE Kerria Plus (KTSXN42P) składane 80 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Deante Kerria Plus KTSXN42P drzwi prysznicow",
+            "ProductDescription": "Kerria Plus shower door 80 cm - foldable"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Deante Kerria Plus KTSXN42P drzwi prysznicow",
+            "ProductDescription": "Kerria Plus Duschtür 80 cm - faltbar"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908212087626"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63039290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTSXN42P",
+        "Weight": 27000.0,
+        "Height": 2090.0,
+        "Width": 440.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54928
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55469
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035256",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ec25123a-5e73-4f97-9f42-0a671428a73e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-26T14:07:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADBT'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:30.356000+00:00",
+        "sequence_number": 110209
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFXGZ",
+        "ProductVersion": "1.2",
+        "ProductType": "Zasłony",
+        "Brand": "deante",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Parawan nawannowy 100x140 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Parawan nawannowy 100x140 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Parawan nawannowy 100x140 cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907650837312"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63039290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTJ_073R",
+        "Weight": 21800.0,
+        "Height": 620.0,
+        "Width": 80.0,
+        "Depth": 1470.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55469
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54928
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071267",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f78c0993-e704-47ad-895f-365cd7211f94",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-09T10:43:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFXGZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:17.344000+00:00",
+        "sequence_number": 127801
+      }
+    }
+  ]
+}

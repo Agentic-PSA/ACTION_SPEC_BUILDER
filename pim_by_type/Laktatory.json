@@ -1,0 +1,260 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "DIKESPLAK0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Laktatory",
+        "Brand": "Esperanza",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ESPERANZA LAKTATOR ELEKTRYCZNY/RĘCZNY 2W1 NIEBIESK",
+            "ProductDescription": "Esperanza LAKTATOR ELEKTRYCZNY/RĘCZNY 2W1 GEMELOS NIEBIESKI"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ESPERANZA LAKTATOR ELEKTRYCZNY/RĘCZNY 2W1 NIEBIESK",
+            "ProductDescription": "Esperanza ECM003B breast pump 150 ml Electronic"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ESPERANZA LAKTATOR ELEKTRYCZNY/RĘCZNY 2W1 NIEBIESK",
+            "ProductDescription": "Esperanza ECM003B Milchpumpe 150 ml Elektronisch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901299954164"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "40149000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ECM003B",
+        "Weight": 600.0,
+        "Height": 100.0,
+        "Width": 360.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.19.71.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53300
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55087
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074509",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54388292-01d5-4442-99de-89445d9a128c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-12-19T12:32:28Z'",
+          "ModificationDate": "b'2025-09-30T13:40:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIKESPLAK0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:14.346000+00:00",
+        "sequence_number": 142695
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIA73",
+        "ProductVersion": "1.2",
+        "ProductType": "Laktatory",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laktator Momcozy M9 pojedynczy szary",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laktator Momcozy M9 pojedynczy szary",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laktator Momcozy M9 pojedynczy szary",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "762765368268"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "40149000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BP223-GR70BA-A",
+        "Weight": 900.0,
+        "Height": 165.0,
+        "Width": 180.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.19.71.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53300
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55087
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071416",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6af47efa-41ea-420a-a835-0c79857a35da",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-09T21:31:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIA73'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:18.235000+00:00",
+        "sequence_number": 127834
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJHO5",
+        "ProductVersion": "1.1",
+        "ProductType": "Laktatory",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pojemnik na mleko matki Momcozy MS005-NA00NB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pojemnik na mleko matki Momcozy MS005-NA00NB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pojemnik na mleko matki Momcozy MS005-NA00NB",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "40149000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MS005-NA00NB-B",
+        "Weight": 640.0,
+        "Height": 125.0,
+        "Width": 135.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.19.71.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53300
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55087
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086023",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c9c8f0bd-5c86-4040-beb5-0f7b6284dcb6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-02T21:46:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJHO5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:23.146000+00:00",
+        "sequence_number": 157468
+      }
+    }
+  ]
+}

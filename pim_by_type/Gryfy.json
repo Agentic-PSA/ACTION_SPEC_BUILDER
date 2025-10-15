@@ -1,0 +1,1898 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDYDU",
+        "ProductVersion": "1.2",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf prosty 9.1kg gwint i zacisk 1650mm HMS GPR165",
+            "ProductDescription": "GRYF PROSTY Z GWINTEM I ZACISKAMI HMS GPR165 1650MM 9,1KG"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf prosty 9.1kg gwint i zacisk 1650mm HMS GPR165",
+            "ProductDescription": "STANDARD BARBELL BAR WITH THREAD AND CLAMPS HMS GPR165 1650MM 9.1KG"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf prosty 9.1kg gwint i zacisk 1650mm HMS GPR165",
+            "ProductDescription": "STANDARD-HANTELSTANGE MIT GEWINDE UND KLEMMEN HMS GPR165 1650MM 9,1KG"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695516388"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-60-032",
+        "Weight": 10200.0,
+        "Height": 1700.0,
+        "Width": 90.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046123",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "89019191-f8c3-45a7-8de3-2e241232bba4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-05T07:16:43Z'",
+          "ModificationDate": "b'2025-06-04T12:21:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDYDU'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:52.711000+00:00",
+        "sequence_number": 115373
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDYG1",
+        "ProductVersion": "1.3",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sztanga / talerze kompozytowe 42kg HMS GSP40",
+            "ProductDescription": "Sztanga / talerze kompozytowe 42 kg HMS GSP40"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sztanga / talerze kompozytowe 42kg HMS GSP40",
+            "ProductDescription": "Composite barbells / plates 42 kg HMS GSP40"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sztanga / talerze kompozytowe 42kg HMS GSP40",
+            "ProductDescription": "Komposit-Hanteln / Platten 42 kg HMS GSP40"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695539752"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-57-025",
+        "Weight": 41000.0,
+        "Height": 360.0,
+        "Width": 560.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046130",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "506f93bb-d6df-4ee7-8921-407a595706f2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-25T07:19:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDYG1'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:52.711000+00:00",
+        "sequence_number": 115380
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWGS",
+        "ProductVersion": "1.2",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sztanga/Gryf stały gumowany łamany 50 kg HMS GSL50",
+            "ProductDescription": "HMS Fitness GSL50 Pokręcona sztanga"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sztanga/Gryf stały gumowany łamany 50 kg HMS GSL50",
+            "ProductDescription": "HMS GSL50 fixed barbell/rubberised broken bar 50 kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sztanga/Gryf stały gumowany łamany 50 kg HMS GSL50",
+            "ProductDescription": "HMS GSL50 feste Langhantel/gummierte gebrochene Stange 50 kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695509038"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-58-020",
+        "Weight": 50100.0,
+        "Height": 180.0,
+        "Width": 180.0,
+        "Depth": 1320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064188",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c75b64eb-b096-4851-8356-b92333ee9ecd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-28T11:21:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWGS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:27.372000+00:00",
+        "sequence_number": 163504
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWGD",
+        "ProductVersion": "1.3",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf prosty 9.75kg z gwintem 1800mm HMS GPR180",
+            "ProductDescription": "GRYF PROSTY Z GWINTEM I ZACISKAMI HMS GPR180 1800MM 9,75KG"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf prosty 9.75kg z gwintem 1800mm HMS GPR180",
+            "ProductDescription": "STANDARD BARBELL BAR WITH THREAD AND CLAMPS HMS GPR180 1800MM 9.75KG"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf prosty 9.75kg z gwintem 1800mm HMS GPR180",
+            "ProductDescription": "STANDARD-HANTELSTANGE MIT GEWINDE UND KLEMMEN HMS GPR180 1800MM 9,75KG"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695516371"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-60-031",
+        "Weight": 11130.0,
+        "Height": 90.0,
+        "Width": 1850.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045969",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b8635d7c-0f61-4444-866d-b59d02a47327",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-28T07:20:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWGD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148866
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWH1",
+        "ProductVersion": "1.3",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf prosty olimp 16,2kg/2000mm + zacisk HMS GOP200",
+            "ProductDescription": "Gryf prosty olimpijski 16,2kg/2000mm + zaciski sprężynowe HMS GOP200"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf prosty olimp 16,2kg/2000mm + zacisk HMS GOP200",
+            "ProductDescription": "Olympic straight barbell 16.2kg/2000mm + spring clamps HMS GOP200"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf prosty olimp 16,2kg/2000mm + zacisk HMS GOP200",
+            "ProductDescription": "Gerade olympische Langhantel 16.2kg/2000mm + Federklemmen HMS GOP200"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695590272"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-60-020",
+        "Weight": 17400.0,
+        "Height": 80.0,
+        "Width": 2030.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045973",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2840776f-b42d-4255-a334-4f9953fb2559",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-28T16:49:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWH1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148870
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWHG",
+        "ProductVersion": "1.3",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf prosty olimpijski HMS GOP150 12,9kg/1500mm",
+            "ProductDescription": "Gryf prosty olimpijski 12,9kg/1500mm + zaciski sprężynowe HMS GOP150"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf prosty olimpijski HMS GOP150 12,9kg/1500mm",
+            "ProductDescription": "Olympic straight barbell 12.9kg/1500mm + spring clamps HMS GOP150"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf prosty olimpijski HMS GOP150 12,9kg/1500mm",
+            "ProductDescription": "Gerade olympische Langhantel 12.9kg/1500mm + Federklemmen HMS GOP150"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695590227"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-60-022",
+        "Weight": 13060.0,
+        "Height": 100.0,
+        "Width": 100.0,
+        "Depth": 15400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045978",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d49ba811-8c7f-4b8d-b233-f188b9136ac6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-01T07:15:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWHG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148875
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWIJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf prosty olimpijski HMS GO320 16kg 1830mm",
+            "ProductDescription": "HMS Fitness GO320 1830 mm Prosta sztanga"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf prosty olimpijski HMS GO320 16kg 1830mm",
+            "ProductDescription": "GO320 + ZG1000 BLACK OLYMPIC BAR 14.8KG 1830MM HMS WITH JAW BLACK LOCK CLAMPS"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf prosty olimpijski HMS GO320 16kg 1830mm",
+            "ProductDescription": "GO320 + ZG1000 BLACK OLYMPIC BAR 14.8KG 1830MM HMS MIT BACKE BLACK LOCK KLEMMEN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695509663"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-60-013",
+        "Weight": 18278.0,
+        "Height": 170.0,
+        "Width": 110.0,
+        "Depth": 1860.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045982",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "baaee9a2-b0cb-4d1f-94e1-a549cc25747b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-24T08:46:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWIJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148879
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIFHMSGRY0024",
+        "ProductVersion": "1.2",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sztanga Body Pump HMS SBP21",
+            "ProductDescription": "Sztanga Training Pump HMS SBP21"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sztanga Body Pump HMS SBP21",
+            "ProductDescription": "Training Pump HMS SBP21 barbell"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sztanga Body Pump HMS SBP21",
+            "ProductDescription": "Training Pump HMS SBP21 Langhantel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695592177"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-57-011",
+        "Weight": 19028.0,
+        "Height": 233.0,
+        "Width": 948.0,
+        "Depth": 286.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066273",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Sztanga Training Pump HMS SBP21"
+      },
+      "properties": {
+        "message_id": "b633b3cd-1471-43d1-b929-e3b4ae7baa85",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-07-04T13:38:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIFHMSGRY0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:46.561000+00:00",
+        "sequence_number": 164422
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMA9",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf olimpijski prosty z łożyskami, 150cm 12.5kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf olimpijski prosty z łożyskami, 150cm 12.5kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf olimpijski prosty z łożyskami, 150cm 12.5kg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2214",
+        "Weight": 13950.0,
+        "Height": 1520.0,
+        "Width": 90.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083606",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "243cdebc-f0dc-4e08-9931-713eab32c33c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T07:23:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMA9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:16.267000+00:00",
+        "sequence_number": 136256
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWNC",
+        "ProductVersion": "1.2",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sztanga Body Pump HMS SBP22",
+            "ProductDescription": "HMS Fitness SBP22 Regulowane hantle"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sztanga Body Pump HMS SBP22",
+            "ProductDescription": "HMS Fitness SBP22 Adjustable dumbbell"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sztanga Body Pump HMS SBP22",
+            "ProductDescription": "HMS Fitness SBP22 Verstellbare Kurzhantel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-57-012",
+        "Weight": 21300.0,
+        "Height": 240.0,
+        "Width": 1460.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085412",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "57f4b146-60c3-4e7f-85db-22fcaf3095ae",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T07:24:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWNC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:23.005000+00:00",
+        "sequence_number": 136586
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASTO",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf prosty, sztanga 25mm 150cm 5.6kg REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf prosty, sztanga 25mm 150cm 5.6kg REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf prosty, sztanga 25mm 150cm 5.6kg REBEL ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2207",
+        "Weight": 5700.0,
+        "Height": 170.0,
+        "Width": 90.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088894",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0a5bc146-ae68-4f19-b8a4-20e73fc677f7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-09T22:26:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASTO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:32.008000+00:00",
+        "sequence_number": 137074
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFM98",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf olimpijski łamany z łożyskami, 120cm 9kg REBEL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf olimpijski łamany z łożyskami, 120cm 9kg REBEL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf olimpijski łamany z łożyskami, 120cm 9kg REBEL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890108928"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2216",
+        "Weight": 5000.0,
+        "Height": 1200.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071207",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "82c08ec6-2d4c-45c9-86e5-b04f8f0f5ee1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-12T11:20:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFM98'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:22.918000+00:00",
+        "sequence_number": 109774
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMCS",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf olimpijski prosty, 220cm 20kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf olimpijski prosty, 220cm 20kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf olimpijski prosty, 220cm 20kg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2200",
+        "Weight": 20500.0,
+        "Height": 2230.0,
+        "Width": 120.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051381",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8dfd7eb7-6729-4fc4-8ed8-3ec7435fd371",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-10T10:52:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMCS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.996000+00:00",
+        "sequence_number": 138695
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAS98",
+        "ProductVersion": "1.2",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf prosty, sztanga 180cm 6.8kg REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf prosty, sztanga 180cm 6.8kg REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf prosty, sztanga 180cm 6.8kg REBEL ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890100540"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2206",
+        "Weight": 7000.0,
+        "Height": 1800.0,
+        "Width": 60.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037963",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "551d65d3-c3b7-44e1-8d1b-5afcc6692327",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-04T20:46:23Z'",
+          "ModificationDate": "b'2025-06-04T12:16:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAS98'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:04.495000+00:00",
+        "sequence_number": 162379
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASA7",
+        "ProductVersion": "1.2",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf lekko łamany, sztanga 120cm 5kg REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf lekko łamany, sztanga 120cm 5kg REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf lekko łamany, sztanga 120cm 5kg REBEL ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890100601"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2209",
+        "Weight": 5600.0,
+        "Height": 1195.0,
+        "Width": 65.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037966",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "60fd07c1-bb52-48ad-9811-35e42baf99b3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-16T10:49:57Z'",
+          "ModificationDate": "b'2025-06-04T12:16:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASA7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:04.495000+00:00",
+        "sequence_number": 162382
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWH8",
+        "ProductVersion": "1.2",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sztanga Training Pump HMS SBP15",
+            "ProductDescription": "HMS Fitness SBP-15 Regulowane hantle 2,5 kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sztanga Training Pump HMS SBP15",
+            "ProductDescription": "HMS Fitness SBP-15 Adjustable dumbbell 2.5 kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sztanga Training Pump HMS SBP15",
+            "ProductDescription": "HMS Fitness SBP-15 Verstellbare Kurzhantel 2,5 kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695519747"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-57-005",
+        "Weight": 21500.0,
+        "Height": 580.0,
+        "Width": 160.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092572",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "abca37d1-10b5-4a11-a721-eabfc92802b5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-25T14:37:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWH8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:06.620000+00:00",
+        "sequence_number": 168725
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWSX",
+        "ProductVersion": "1.2",
+        "ProductType": "Gryfy",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sztanga/Gryf stały gumowany łamany 35 kg HMS GSL35",
+            "ProductDescription": "Sztanga/gryf stały gumowany łamany 35 kg HMS GSL35"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sztanga/Gryf stały gumowany łamany 35 kg HMS GSL35",
+            "ProductDescription": "HMS GSL35 fixed barbell/grip rubberised broken 35kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sztanga/Gryf stały gumowany łamany 35 kg HMS GSL35",
+            "ProductDescription": "HMS GSL35 feste Langhantel/Griff gummiert gebrochen 35kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695564631"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-58-029",
+        "Weight": 35500.0,
+        "Height": 1230.0,
+        "Width": 200.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054429",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "be6038ba-f126-45e9-97be-69e3ca15a787",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-06T13:12:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWSX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:57.421000+00:00",
+        "sequence_number": 140140
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMA8",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf olimpijski prosty, sztanga olimpijska",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf olimpijski prosty, sztanga olimpijska",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf olimpijski prosty, sztanga olimpijska",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890108881"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2212",
+        "Weight": 20500.0,
+        "Height": 2230.0,
+        "Width": 95.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080335",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f8163885-fb37-4acb-858d-3c9a252e6dc4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-03T13:02:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMA8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:47.231000+00:00",
+        "sequence_number": 154474
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMCU",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf olimpijski prosty, sztanga olimpijska 220cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf olimpijski prosty, sztanga olimpijska 220cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf olimpijski prosty, sztanga olimpijska 220cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890100441"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2201",
+        "Weight": 19000.0,
+        "Height": 150.0,
+        "Width": 100.0,
+        "Depth": 2230.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060430",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ca8b16e3-2ea0-4d13-9a2f-ac02aaeb01fa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-24T13:05:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMCU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:50.780000+00:00",
+        "sequence_number": 126340
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMCW",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf olimpijski prosty,180cm 11.5kg REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf olimpijski prosty,180cm 11.5kg REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf olimpijski prosty,180cm 11.5kg REBEL ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890100465"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2202",
+        "Weight": 11500.0,
+        "Height": 70.0,
+        "Width": 1800.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060431",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1eb3f3f3-7163-4957-91a5-62283262dd52",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-07T11:07:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMCW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:50.780000+00:00",
+        "sequence_number": 126341
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMCZ",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf olimpijski prosty, 150cm 9kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf olimpijski prosty, 150cm 9kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf olimpijski prosty, 150cm 9kg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890100489"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2203",
+        "Weight": 9000.0,
+        "Height": 1500.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075203",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b3b60dc-d03a-4f37-853f-86620eaf8128",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-14T10:55:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMCZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:27.081000+00:00",
+        "sequence_number": 143338
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMDG",
+        "ProductVersion": "1.1",
+        "ProductType": "Gryfy",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gryf olimpijski prosty 120cm 6kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gryf olimpijski prosty 120cm 6kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gryf olimpijski prosty 120cm 6kg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890100502"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2204",
+        "Weight": 6500.0,
+        "Height": 125.0,
+        "Width": 123.0,
+        "Depth": 1200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075204",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "91ed6bad-17b7-4222-ae3c-1b3126103489",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-15T07:13:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMDG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:27.081000+00:00",
+        "sequence_number": 143339
+      }
+    }
+  ]
+}

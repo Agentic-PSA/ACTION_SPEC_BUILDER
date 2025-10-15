@@ -1,0 +1,998 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "STZBRPTST0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "broń.pl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcze papierowe 17x17 cm 100 szt.",
+            "ProductDescription": "Tarcze papierowe 17x17 cm 100 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcze papierowe 17x17 cm 100 szt.",
+            "ProductDescription": "Paper discs 17x17 cm 100 pcs."
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcze papierowe 17x17 cm 100 szt.",
+            "ProductDescription": "Papierscheiben 17x17 cm 100 Stk."
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907461634865"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "49119900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3.1717",
+        "Weight": 730.0,
+        "Height": 38.0,
+        "Width": 195.0,
+        "Depth": 192.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "58.19.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088876",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcze papierowe 17x17 cm 100 szt."
+      },
+      "properties": {
+        "message_id": "af0bb1b0-0969-496c-8591-9de3e2a0445a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-05T13:01:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZBRPTST0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:21.500000+00:00",
+        "sequence_number": 161701
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZBRPTST0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "broń.pl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcza papierowa NT-23P-popiersie żołnierza-1szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcza papierowa NT-23P-popiersie żołnierza-1szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcza papierowa NT-23P-popiersie żołnierza-1szt.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "49119900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT23P2",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "58.19.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084106",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcza papierowa NT-23P - popiersie żołnierza - 1 szt."
+      },
+      "properties": {
+        "message_id": "0f2d5159-e9db-4619-aea9-f11e46caae4e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T13:56:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZBRPTST0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:03:00.463000+00:00",
+        "sequence_number": 122677
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZRZGTST0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "RazorGun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcza papierowa 60 cm JVD FIELD WA czerń (065-274)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcza papierowa 60 cm JVD FIELD WA czerń (065-274)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcza papierowa 60 cm JVD FIELD WA czerń (065-274)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.065-274",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084176",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcza papierowa 60 cm JVD FIELD WA czarna (065-274)"
+      },
+      "properties": {
+        "message_id": "a1c5bdef-8ab4-4bab-b12f-8621b2a7525a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T15:35:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZRZGTST0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:03:00.619000+00:00",
+        "sequence_number": 122707
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZRBBTST0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "RBB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcze strzeleckie sylwetk. TS-9 Francuz-kpl.50 szt",
+            "ProductDescription": "Tarcze strzeleckie sylwetkowe TS-9  Francuz-kpl.50 szt"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcze strzeleckie sylwetk. TS-9 Francuz-kpl.50 szt",
+            "ProductDescription": "TS-9 silhouette shooting targets  Frenchman - set of 50"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcze strzeleckie sylwetk. TS-9 Francuz-kpl.50 szt",
+            "ProductDescription": "TS-9 Schießscheiben für Silhouettenschießen  Franzose - Satz von 50"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902944175729"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "49119900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TS950",
+        "Weight": 1438.0,
+        "Height": 79.0,
+        "Width": 85.0,
+        "Depth": 503.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "58.19.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051956",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "53da3b4c-635d-4f6e-a2ec-0c3920c99d62",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T13:31:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZRBBTST0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:36.856000+00:00",
+        "sequence_number": 139064
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZRZGTST0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "RazorGun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cel wiatrówkowy spinner RazorGun Typ 3 (337-130)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cel wiatrówkowy spinner RazorGun Typ 3 (337-130)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cel wiatrówkowy spinner RazorGun Typ 3 (337-130)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.337-130",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084181",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Cel wiatrówkowy spinner RazorGun Typ 3 (337-130)"
+      },
+      "properties": {
+        "message_id": "b1ed43cf-9bbb-4534-9ef4-c8ad59d2792f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T15:35:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZRZGTST0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:59.357000+00:00",
+        "sequence_number": 124616
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZRZGTST0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "RazorGun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Spinner wiatrówkowy RazorGun 6 celów (TH508)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Spinner wiatrówkowy RazorGun 6 celów (TH508)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Spinner wiatrówkowy RazorGun 6 celów (TH508)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.337-086",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084185",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Spinner wiatrówkowy RazorGun 6 celów (TH508)"
+      },
+      "properties": {
+        "message_id": "46141519-df1e-49be-bdfa-f2e31f3b45da",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T15:36:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZRZGTST0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:59.357000+00:00",
+        "sequence_number": 124620
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZUMRTST0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "UMAREX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcza Dart Board Umarex 20 cm (121-195)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcza Dart Board Umarex 20 cm (121-195)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcza Dart Board Umarex 20 cm (121-195)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.121-195",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084081",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcza Dart Board Umarex 20 cm (121-195)"
+      },
+      "properties": {
+        "message_id": "0d88e5fc-5416-43b2-aab0-506c46f5d75c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T13:35:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZUMRTST0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:08.316000+00:00",
+        "sequence_number": 156874
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZCZOTST0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "Combat Zone",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcza żelowa ASG Combat Zone Gel Target (263-009)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcza żelowa ASG Combat Zone Gel Target (263-009)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcza żelowa ASG Combat Zone Gel Target (263-009)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.263-009",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086682",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcza żelowa ASG Combat Zone Gel Target (263-009)"
+      },
+      "properties": {
+        "message_id": "71fa09a8-8764-43b1-9ed1-397d2e3825e0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-07T12:58:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZCZOTST0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:29.927000+00:00",
+        "sequence_number": 157796
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZCZOTST0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "Combat Zone",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcza ASG Combat Zone Vision Targets 28x22 cm 10 s",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcza ASG Combat Zone Vision Targets 28x22 cm 10 s",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcza ASG Combat Zone Vision Targets 28x22 cm 10 s",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.263-025",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086684",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcza ASG Combat Zone Vision Targets 28x22 cm 10 szt. (263-025)"
+      },
+      "properties": {
+        "message_id": "2bb6a429-7c6b-48fc-8cdd-2e8a33081bc5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-07T12:58:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZCZOTST0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:29.927000+00:00",
+        "sequence_number": 157798
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZJVDTST0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "JVD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcza papierowa 122 cm JVD FITA WA (065-248)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcza papierowa 122 cm JVD FITA WA (065-248)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcza papierowa 122 cm JVD FITA WA (065-248)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.065-248",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088520",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcza papierowa 122 cm JVD FITA WA (065-248)"
+      },
+      "properties": {
+        "message_id": "017189af-bffe-4904-890a-b8578f61fb10",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-08T12:59:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZJVDTST0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:45.055000+00:00",
+        "sequence_number": 158469
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZJVDTST0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "JVD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcza papierowa 40cm JVD FIELD WA czarna (065-273)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcza papierowa 40cm JVD FIELD WA czarna (065-273)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcza papierowa 40cm JVD FIELD WA czarna (065-273)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.065-273",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088521",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcza papierowa 40 cm JVD FIELD WA czarna (065-273)"
+      },
+      "properties": {
+        "message_id": "505c0cdf-dc6f-4549-a65b-2de57b69a088",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-08T12:59:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZJVDTST0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:45.055000+00:00",
+        "sequence_number": 158470
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZJVDTST0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Tarcze strzeleckie",
+        "Brand": "JVD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tarcza papierowa 3x20cm JVD FIELD WA black 065-272",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tarcza papierowa 3x20cm JVD FIELD WA black 065-272",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tarcza papierowa 3x20cm JVD FIELD WA black 065-272",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.065-272",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56184
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088522",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tarcza papierowa 3x20 cm JVD FIELD WA czarna (065-272)"
+      },
+      "properties": {
+        "message_id": "3ceba505-4b72-49e1-b755-0cbfa54ed324",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-08T12:59:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZJVDTST0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:45.055000+00:00",
+        "sequence_number": 158471
+      }
+    }
+  ]
+}

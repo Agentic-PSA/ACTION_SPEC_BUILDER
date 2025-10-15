@@ -1,0 +1,1786 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SIRBKMOSW0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "BKM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7350051863707"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7350051863707",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093372",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm"
+      },
+      "properties": {
+        "message_id": "4cd2dba9-e450-4d27-8c41-531f9073068b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-30T15:16:01Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRBKMOSW0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:52.824000+00:00",
+        "sequence_number": 146439
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRGAROSW0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "Garmin",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Garmin Varia Rtl 515",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Garmin Varia Rtl 515",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Garmin Varia Rtl 515",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "753759254131"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "010-02375-00",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093641",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Garmin Varia Rtl 515"
+      },
+      "properties": {
+        "message_id": "0889c7fb-eb70-48bf-9139-35ab3cbf35a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-31T14:26:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRGAROSW0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:53.759000+00:00",
+        "sequence_number": 146461
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWPU",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "HORNIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Hornit-dB140 V3 dzwonek klakson rowerowy 467648V3",
+            "ProductDescription": " Hornit-dB140 V3 dzwonek klakson rowerowy 467648V3"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Hornit-dB140 V3 dzwonek klakson rowerowy 467648V3",
+            "ProductDescription": "HORNIT dB140 V3 bell horn 467648V3"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Hornit-dB140 V3 dzwonek klakson rowerowy 467648V3",
+            "ProductDescription": "HORNIT dB140 V3 Glockenhorn 467648V3"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5060509922468"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "467648V3",
+        "Weight": 180.0,
+        "Height": 60.0,
+        "Width": 135.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041986",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b7b76875-009f-44ba-987b-4e382aff8124",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-09T15:44:16Z'",
+          "ModificationDate": "b'2025-06-04T12:18:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWPU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:27.796000+00:00",
+        "sequence_number": 165076
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa Rockbros Q5 tylna z inteligentnym s",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa Rockbros Q5 tylna z inteligentnym s",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa Rockbros Q5 tylna z inteligentnym s",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "157347",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089863",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa Rockbros Q5 tylna z inteligentnym systemem stop - czarna"
+      },
+      "properties": {
+        "message_id": "949d18f1-d70c-4a7f-be16-52bdc10c1993",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:16:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:49.642000+00:00",
+        "sequence_number": 167890
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa przednia Rockbros 24610002001 1000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa przednia Rockbros 24610002001 1000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa przednia Rockbros 24610002001 1000",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "157353",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089879",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa przednia Rockbros 24610002001 1000 lm + kabel USB-C - USB-A - czarna"
+      },
+      "properties": {
+        "message_id": "c8bda4ae-0a51-486a-8991-0f41c189e42c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:16:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:49.642000+00:00",
+        "sequence_number": 167906
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa tylna Rockbros LKWD-R1 z laserem",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa tylna Rockbros LKWD-R1 z laserem",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa tylna Rockbros LKWD-R1 z laserem",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "157346",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089880",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa tylna Rockbros LKWD-R1 z laserem i pilotem + kabel micro USB - USB-A - czarna"
+      },
+      "properties": {
+        "message_id": "6103b740-bf3d-45db-ab8d-5457812d7f78",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:17:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:49.642000+00:00",
+        "sequence_number": 167907
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa przednia Rockbros 24710012001 800lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa przednia Rockbros 24710012001 800lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa przednia Rockbros 24710012001 800lm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "157355",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089881",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa przednia Rockbros 24710012001 800 lm + kabel USB-C - USB-A - czarna"
+      },
+      "properties": {
+        "message_id": "dac31ae3-9801-466e-a243-ed30dca7b39b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:17:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:49.642000+00:00",
+        "sequence_number": 167908
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa Rockbros V9M-1000 przednia 1000lm -",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa Rockbros V9M-1000 przednia 1000lm -",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa Rockbros V9M-1000 przednia 1000lm -",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "157350",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089882",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa Rockbros V9M-1000 przednia 1000lm - czarna"
+      },
+      "properties": {
+        "message_id": "d0581a5d-734b-4074-a8a6-7f6fb672d6b9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:17:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:49.642000+00:00",
+        "sequence_number": 167909
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa Rockbros JP008 przednia pod licznik",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa Rockbros JP008 przednia pod licznik",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa Rockbros JP008 przednia pod licznik",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "163743",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089883",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa Rockbros JP008 przednia pod licznik z powerbankiem 5000mAh 150lm IPX6 - czarna"
+      },
+      "properties": {
+        "message_id": "763ea5a8-950d-4cf3-b88b-c28f4e6264ad",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:17:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:49.642000+00:00",
+        "sequence_number": 167910
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa Rockbros RHL1500 przednia 5000mAh 1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa Rockbros RHL1500 przednia 5000mAh 1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa Rockbros RHL1500 przednia 5000mAh 1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "163742",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089884",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa Rockbros RHL1500 przednia 5000mAh 1500lm IPX6 - czarna"
+      },
+      "properties": {
+        "message_id": "63d090c3-f00a-4d3b-8538-8ff7e3c608e2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:17:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:49.642000+00:00",
+        "sequence_number": 167911
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRHRNOSW0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "HORNIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa z klaksonem HORNIT Mini BLACK",
+            "ProductDescription": "Lampka rowerowa z klaksonem Hornit Mini Black 5353BLBL czarna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa z klaksonem HORNIT Mini BLACK",
+            "ProductDescription": "Hornit Mini Black bicycle horn light 5353BLBL black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa z klaksonem HORNIT Mini BLACK",
+            "ProductDescription": "Hornit Mini Black Fahrrad-Hupenleuchte 5353BLBL schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5060509921485"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5353BLBL",
+        "Weight": 120.0,
+        "Height": 50.0,
+        "Width": 200.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051343",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa z klaksonem HORNIT Mini BLACK-BLACK 5353BLBL"
+      },
+      "properties": {
+        "message_id": "316b6d95-e4bc-4b70-8f37-3e04b6704038",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-11-07T14:37:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRHRNOSW0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.980000+00:00",
+        "sequence_number": 138660
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBZLC",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "NITECORE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampa rowerowa Nitecore BR35",
+            "ProductDescription": "Nitecore BR35 Czarny Latarka rowerowa LED"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampa rowerowa Nitecore BR35",
+            "ProductDescription": "NITECORE BR35 BICYCLE LAMP"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampa rowerowa Nitecore BR35",
+            "ProductDescription": "NITECORE BR35 FAHRRADLAMPE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952506404285"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT-BR35",
+        "Weight": 520.0,
+        "Height": 55.0,
+        "Width": 215.0,
+        "Depth": 156.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060123",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c631d98d-48e9-4190-91bf-797cce2439cb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-13T12:51:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBZLC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:55.636000+00:00",
+        "sequence_number": 124441
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRGAROSW0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "Garmin",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Garmin Varia Rtl 515",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Garmin Varia Rtl 515",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Garmin Varia Rtl 515",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "753759254117"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "010-02375-00",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093081",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Garmin Varia Rtl 515"
+      },
+      "properties": {
+        "message_id": "1befbb2b-71b6-45dd-872e-8c7ad74e0ada",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T13:56:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRGAROSW0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:15.668000+00:00",
+        "sequence_number": 169125
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka Rockbros 24310002001 850 lm czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka Rockbros 24310002001 850 lm czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka Rockbros 24310002001 850 lm czarna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907769313370"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Rockbros-24310002001",
+        "Weight": 380.0,
+        "Height": 56.0,
+        "Width": 165.0,
+        "Depth": 102.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080564",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa Rockbros 24310002001 850 lm z funkcją powerbanku + kabel USB-C - USB-A - czarna"
+      },
+      "properties": {
+        "message_id": "49842c94-bcf7-4de2-bc35-b4ac28a82bb8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T12:00:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:49.169000+00:00",
+        "sequence_number": 154583
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBOSW0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka Rockbros 24510003001 260 lm czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka Rockbros 24510003001 260 lm czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka Rockbros 24510003001 260 lm czarna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907769313424"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Rockbros-24510003001",
+        "Weight": 140.0,
+        "Height": 40.0,
+        "Width": 115.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080565",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa przednia Rockbros 24510003001 260 lm + kabel USB-C - USB-A - czarna"
+      },
+      "properties": {
+        "message_id": "1f662fa8-2b28-40b7-ae7b-4b989c874166",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T12:00:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBOSW0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:49.169000+00:00",
+        "sequence_number": 154584
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMHHF",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "877997",
+        "Weight": 80.0,
+        "Height": 80.0,
+        "Width": 115.0,
+        "Depth": 33.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086278",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f79ed774-2a00-42d7-9a1a-fcdea3c83fa5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-04T07:11:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMHHF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:18.203000+00:00",
+        "sequence_number": 125638
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMIDO",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Front Light 220lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Front Light 220lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Front Light 220lm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "877991",
+        "Weight": 80.0,
+        "Height": 80.0,
+        "Width": 115.0,
+        "Depth": 33.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086279",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f0cb50ab-876f-4b69-bddd-85c06918e5db",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-04T07:11:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMIDO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:18.203000+00:00",
+        "sequence_number": 125639
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRBKMOSW0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "BKM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7350051863707"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7350051863707",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093419",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa BOOKMAN Curve Rear Light 37lm"
+      },
+      "properties": {
+        "message_id": "cda10b43-9d19-46f3-a361-337ad5d85640",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-30T15:20:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRBKMOSW0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:29.778000+00:00",
+        "sequence_number": 171407
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRBKMOSW0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "BKM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Front Light 220lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Front Light 220lm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa BOOKMAN Curve Front Light 220lm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7350051864155"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7350051864155",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093420",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa BOOKMAN Curve Front Light 220lm"
+      },
+      "properties": {
+        "message_id": "81fa609d-457f-4999-8981-5e40476135ab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-30T15:20:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRBKMOSW0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:29.778000+00:00",
+        "sequence_number": 171408
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRHRNOSW0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "HORNIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampka rowerowa z klaksonem HORNIT Mini BLUE",
+            "ProductDescription": "Lampka rowerowa z klaksonem Hornit Mini Blue- Res 5353Bure"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampka rowerowa z klaksonem HORNIT Mini BLUE",
+            "ProductDescription": "Hornit Mini Blue- Res 5353Bure bicycle light with horn"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampka rowerowa z klaksonem HORNIT Mini BLUE",
+            "ProductDescription": "Hornit Mini Blau- Res Fahrrad Hupe Licht 5353Bure"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5060509921492"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5353BURE",
+        "Weight": 120.0,
+        "Height": 130.0,
+        "Width": 200.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072170",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampka rowerowa z klaksonem HORNIT Mini BLUE - RED 5353BURE"
+      },
+      "properties": {
+        "message_id": "a42dbad2-d152-4ef9-89fe-fbcdc5487dbc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-11-07T14:37:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRHRNOSW0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:05.161000+00:00",
+        "sequence_number": 143970
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRNICOSW0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie",
+        "Brand": "NITECORE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampa rowerowa Nitecore BR35",
+            "ProductDescription": "LAMPA ROWEROWA NITECORE BR35"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampa rowerowa Nitecore BR35",
+            "ProductDescription": "NITECORE BR35 BICYCLE LAMP"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampa rowerowa Nitecore BR35",
+            "ProductDescription": "NITECORE BR35 FAHRRADLAMPE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952506404285"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85121000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT-BR35",
+        "Weight": 510.0,
+        "Height": 50.0,
+        "Width": 212.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54334
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088076",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampa rowerowa Nitecore BR35"
+      },
+      "properties": {
+        "message_id": "3c2ff37c-dd77-4ba3-9e1e-38d4b5a7c2c3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-05T13:33:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRNICOSW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:12.969000+00:00",
+        "sequence_number": 161349
+      }
+    }
+  ]
+}

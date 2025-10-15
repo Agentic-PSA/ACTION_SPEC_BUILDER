@@ -1,0 +1,86 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJAIB",
+        "ProductVersion": "1.1",
+        "ProductType": "Izolacja",
+        "Brand": "WERA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WKŁADKA PIANKOWA ZYKLOP 3/8'' 8000 C, SET 1, 23CZ",
+            "ProductDescription": "Wera 05150111001 klucz zapadkowy 23 szt. Czarny, Zielony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WKŁADKA PIANKOWA ZYKLOP 3/8'' 8000 C, SET 1, 23CZ",
+            "ProductDescription": "Wera 05150111001 ratchet wrench 23 pc(s) Black, Green"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WKŁADKA PIANKOWA ZYKLOP 3/8'' 8000 C, SET 1, 23CZ",
+            "ProductDescription": "Wera 05150111001 Ratschenschlüssel 23 Stück(e) Schwarz, Grün"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1872519",
+        "Weight": 21850.0,
+        "Height": 200.0,
+        "Width": 800.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52884
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55291
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089720",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c19a3629-9f98-47a3-8b09-40c63b5cac3f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T08:12:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJAIB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:49.368000+00:00",
+        "sequence_number": 146226
+      }
+    }
+  ]
+}

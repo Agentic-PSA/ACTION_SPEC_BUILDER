@@ -1,0 +1,3779 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDLOJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI KARISMA Suszarka na pranie",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI KARISMA Suszarka na pranie",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI KARISMA Suszarka na pranie",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856695123"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "695 KARISMA",
+        "Weight": 802.0,
+        "Height": 1315.0,
+        "Width": 70.0,
+        "Depth": 800.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045613",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1369b624-ac15-4cb9-bca3-9a156143d901",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-04T07:17:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDLOJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:01.607000+00:00",
+        "sequence_number": 148732
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUL0018",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka pionowa Classic Tower 340",
+            "ProductDescription": "Leifheit 81455 TOWER 340 Suszarka do bielizny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka pionowa Classic Tower 340",
+            "ProductDescription": "Leifheit 81455 TOWER 340 laundry drying rack/line"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka pionowa Classic Tower 340",
+            "ProductDescription": "Leifheit 81455 TOWER 340 Wäscheständer & -leine"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501814555"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3760.0,
+        "Height": 55.0,
+        "Width": 680.0,
+        "Depth": 1400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100108146",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka pionowa Classic Tower 340 Leifheit"
+      },
+      "properties": {
+        "message_id": "5375dcfd-9e4f-4065-b7bf-1ca4aa7f1562",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-12T14:53:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUL0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:30.843000+00:00",
+        "sequence_number": 165243
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUL0020",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Leifheit Suszarka uniwersalna Quartett 42 Extenda",
+            "ProductDescription": "Leifheit Quartett Duo Stojak naścienny Czarny, Stal nierdzewna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Leifheit Suszarka uniwersalna Quartett 42 Extenda",
+            "ProductDescription": "Leifheit Quartett Duo Wall-mounted rack Black, Stainless steel"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Leifheit Suszarka uniwersalna Quartett 42 Extenda",
+            "ProductDescription": "Leifheit Quartett Duo Wand-Rack Schwarz, Edelstahl"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501814135"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "76151080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 875.0,
+        "Height": 40.0,
+        "Width": 255.0,
+        "Depth": 625.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100108147",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Leifheit Suszarka uniwersalna Quartett 42 Extenda"
+      },
+      "properties": {
+        "message_id": "bad6ccd7-b0cc-4127-b900-966b35d85af1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-29T13:09:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUL0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:30.843000+00:00",
+        "sequence_number": 165244
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE TORINO, PIONOWA,CZARNA S",
+            "ProductDescription": "PROMIS Suszarka na pranie TORINO, pionowa,czarna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE TORINO, PIONOWA,CZARNA S",
+            "ProductDescription": "PROMIS TORINO laundry dryer, vertical, black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE TORINO, PIONOWA,CZARNA S",
+            "ProductDescription": "PROMIS TORINO Wäschetrockner, vertikal, schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497553555"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SU111",
+        "Weight": 1850.0,
+        "Height": 500.0,
+        "Width": 700.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56743
+              },
+              {
+                "CategoryId": 52325
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068976",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d8607a1b-d783-4c61-bdd4-e0168de00b59",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-06T17:05:58Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:11.641000+00:00",
+        "sequence_number": 135993
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDVI1SUL0031",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka Vileda Sun-Rise",
+            "ProductDescription": "Suszarka Vileda Sun-Rise"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka Vileda Sun-Rise",
+            "ProductDescription": "Clothes Drying Rack Vileda Sun-Rise"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka Vileda Sun-Rise",
+            "ProductDescription": "Wäscheständer Vileda Sun-Rise"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103246041"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "174600",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56743
+              },
+              {
+                "CategoryId": 52325
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069056",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "be109c43-a55f-4a91-8d7f-7a2cbff83f18",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-21T08:53:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDVI1SUL0031'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:22.062000+00:00",
+        "sequence_number": 151630
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCARO",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RAYEN Suszarka na pranie pionowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RAYEN Suszarka na pranie pionowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "RAYEN Suszarka na pranie pionowa",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955301149"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0036.01",
+        "Weight": 2856.0,
+        "Height": 760.0,
+        "Width": 85.0,
+        "Depth": 665.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051069",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3c4af27f-732c-4d50-9f8c-28de5121e400",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T16:05:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCARO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:23.995000+00:00",
+        "sequence_number": 138404
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUL0019",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka pionowa Classic Tower 270",
+            "ProductDescription": "Leifheit TOWER 270 81454 Suszarka do bielizny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka pionowa Classic Tower 270",
+            "ProductDescription": "Leifheit TOWER 270 81454 laundry drying rack/line"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka pionowa Classic Tower 270",
+            "ProductDescription": "Leifheit TOWER 270 81454 Wäscheständer & -leine"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501814548"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "81454",
+        "Weight": 3055.0,
+        "Height": 1220.0,
+        "Width": 685.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56743
+              },
+              {
+                "CategoryId": 52325
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059199",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka pionowa Classic Tower 270 Leifheit"
+      },
+      "properties": {
+        "message_id": "ed3e8d24-9c62-44d2-9f6f-6e44813053ff",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-12T14:54:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUL0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:47.355000+00:00",
+        "sequence_number": 123997
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CORTONA SU102",
+            "ProductDescription": "PROMIS Suszarka na pranie CORTONA,teleskopowa,rozsuwana"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CORTONA SU102",
+            "ProductDescription": "PROMIS Clothes dryer CORTONA, telescopic, extendable"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CORTONA SU102",
+            "ProductDescription": "PROMIS Wäschetrockner CORTONA, teleskopierbar, ausziehbar"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497553265"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SU102",
+        "Weight": 3700.0,
+        "Height": 570.0,
+        "Width": 1280.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059265",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8420e000-54e1-4931-8179-1c7b481bcaff",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-21T14:57:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:48.214000+00:00",
+        "sequence_number": 124023
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUL0016",
+        "ProductVersion": "1.3",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka Pegasus 120 Solid Compact",
+            "ProductDescription": "Leifheit PEGASUS 120 Solid Compact Suszarka do bielizny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka Pegasus 120 Solid Compact",
+            "ProductDescription": "Leifheit PEGASUS 120 Solid Compact laundry drying rack/line"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka Pegasus 120 Solid Compact",
+            "ProductDescription": "Leifheit PEGASUS 120 Solid Compact Wäscheständer & -leine"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501817204"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "81720",
+        "Weight": 3105.0,
+        "Height": 60.0,
+        "Width": 430.0,
+        "Depth": 850.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100002916",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka Pegasus 120 Solid Compact Leifheit"
+      },
+      "properties": {
+        "message_id": "eda0eb01-82f4-42ee-8666-cb7d48c56ade",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-12T14:53:54Z'",
+          "ModificationDate": "b'2025-09-30T13:40:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUL0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:00.995000+00:00",
+        "sequence_number": 110723
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUL0050",
+        "ProductVersion": "1.3",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka ścienna Telegant 72 Protect",
+            "ProductDescription": "Leifheit 83305 suszarka Stojak naścienny Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka ścienna Telegant 72 Protect",
+            "ProductDescription": "Leifheit 83305 laundry drying rack/line Wall-mounted rack White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka ścienna Telegant 72 Protect",
+            "ProductDescription": "Leifheit 83305 Wäscheständer & -leine Wand-Rack Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501833051"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "83305",
+        "Weight": 1935.0,
+        "Height": 90.0,
+        "Width": 55.0,
+        "Depth": 1040.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100002918",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka ścienna Telegant 72 Protect"
+      },
+      "properties": {
+        "message_id": "9d426158-acfa-426c-a21c-673253d545b9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-01T13:20:47Z'",
+          "ModificationDate": "b'2025-09-30T13:40:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUL0050'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:00.995000+00:00",
+        "sequence_number": 110724
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUL0051",
+        "ProductVersion": "1.3",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka ścienna Telegant 30 Protect",
+            "ProductDescription": "Leifheit Telegant 30 Protect Stojak naścienny Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka ścienna Telegant 30 Protect",
+            "ProductDescription": "Leifheit Telegant 30 Protect Wall-mounted rack White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka ścienna Telegant 30 Protect",
+            "ProductDescription": "Leifheit Telegant 30 Protect Wand-Rack Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501833068"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "83306",
+        "Weight": 975.0,
+        "Height": 50.0,
+        "Width": 720.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100002919",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka ścienna Telegant 30 Protect"
+      },
+      "properties": {
+        "message_id": "2199cdcf-dc4e-4505-85ab-755321ac2e26",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-01T13:20:52Z'",
+          "ModificationDate": "b'2025-09-30T13:40:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUL0051'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:00.995000+00:00",
+        "sequence_number": 110725
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUL0057",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka Classic Extendable 230 Solid (rozsuwana)",
+            "ProductDescription": "Leifheit 81635 suszarka Suszarka do bielizny Różowy, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka Classic Extendable 230 Solid (rozsuwana)",
+            "ProductDescription": "Leifheit 81635 laundry drying rack/line Clothes horse Pink, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka Classic Extendable 230 Solid (rozsuwana)",
+            "ProductDescription": "Leifheit 81635 Wäscheständer & -leine Pink, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501816351"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 5700.0,
+        "Height": 1170.0,
+        "Width": 540.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100002920",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka Classic Extendable 230 Solid (rozsuwana)"
+      },
+      "properties": {
+        "message_id": "979f6cef-78e1-4668-859f-6d2ab3ddbbb2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-01T13:22:50Z'",
+          "ModificationDate": "b'2025-06-04T11:56:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUL0057'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:00.995000+00:00",
+        "sequence_number": 110726
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUL0062",
+        "ProductVersion": "1.3",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka ścienna Rollfix 210 Longline",
+            "ProductDescription": "Suszarka ścienna Rollfix 210 Longline"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka ścienna Rollfix 210 Longline",
+            "ProductDescription": "Rollfix 210 Longline wall-mounted dryer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka ścienna Rollfix 210 Longline",
+            "ProductDescription": "Rollfix 210 Longline Wandtrockner"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501830401"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "83040",
+        "Weight": 775.0,
+        "Height": 80.0,
+        "Width": 80.0,
+        "Depth": 480.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100002921",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka ścienna Rollfix 210 Longline"
+      },
+      "properties": {
+        "message_id": "ae803efd-071e-46c3-8e64-bf3e62a6cc14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-01T13:22:58Z'",
+          "ModificationDate": "b'2025-09-30T13:40:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUL0062'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:00.995000+00:00",
+        "sequence_number": 110727
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAUX",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "ART",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI ATRI Stojak na koszule i garnitur Biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI ATRI Stojak na koszule i garnitur Biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI ATRI Stojak na koszule i garnitur Biały",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856102027"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102 ATRI",
+        "Weight": 3570.0,
+        "Height": 970.0,
+        "Width": 71.0,
+        "Depth": 470.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079671",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cd737c47-5169-4106-a4a9-cc05cb586c35",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T16:20:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAUX'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:31.894000+00:00",
+        "sequence_number": 104472
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDL50",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI KARIM Naścienna suszarka na pranie - 63",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI KARIM Naścienna suszarka na pranie - 63",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI KARIM Naścienna suszarka na pranie - 63",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856616128"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "616 KARIM",
+        "Weight": 7000.0,
+        "Height": 700.0,
+        "Width": 70.0,
+        "Depth": 1200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092730",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0cf811f7-f226-477b-82c3-71a38c7832ab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-28T07:29:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDL50'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:09.964000+00:00",
+        "sequence_number": 168873
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCARX",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RAYEN Suszarka wisząca z 16 klipsami",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RAYEN Suszarka wisząca z 16 klipsami",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "RAYEN Suszarka wisząca z 16 klipsami",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955003371"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0337",
+        "Weight": 200.0,
+        "Height": 40.0,
+        "Width": 300.0,
+        "Depth": 290.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079560",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1ba0caaa-6ee0-443a-ba37-a2c1cf97ef55",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:20:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCARX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:38.870000+00:00",
+        "sequence_number": 154099
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDVI1SUL0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka zewnętrzna Vileda Sun Lift 50",
+            "ProductDescription": "Vileda Sun Lift 50 Czarny, Biały Aluminium 50 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka zewnętrzna Vileda Sun Lift 50",
+            "ProductDescription": "Vileda Sun Lift 50 Black, White Aluminium 50 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka zewnętrzna Vileda Sun Lift 50",
+            "ProductDescription": "Vileda Sun Lift 50 Schwarz, Weiß Aluminium 50 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103228504"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "76151080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "168252",
+        "Weight": 3450.0,
+        "Height": 2040.0,
+        "Width": 120.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057307",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka zewnętrzna Vileda Sun Lift 50"
+      },
+      "properties": {
+        "message_id": "e0d87291-e100-45f1-96da-ee454dc19899",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-09-02T11:40:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDVI1SUL0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:51.172000+00:00",
+        "sequence_number": 102371
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE PIONOWA BARI SU110",
+            "ProductDescription": "PROMIS Suszarka na pranie pionowa BARI"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE PIONOWA BARI SU110",
+            "ProductDescription": "PROMIS Vertical clothes dryer BARI"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE PIONOWA BARI SU110",
+            "ProductDescription": "PROMIS Vertikaler Wäschetrockner BARI"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497552305"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SU110",
+        "Weight": 3792.0,
+        "Height": 800.0,
+        "Width": 630.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56743
+              },
+              {
+                "CategoryId": 52325
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048005",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6e1d1652-0eff-440b-a505-2288779f3ecf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-08-16T23:01:13Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:02.072000+00:00",
+        "sequence_number": 115859
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCAS2",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Teleskopowa suszarka na pranie Rayen - 85 cm, Biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Teleskopowa suszarka na pranie Rayen - 85 cm, Biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Teleskopowa suszarka na pranie Rayen - 85 cm, Biały",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0027.01",
+        "Weight": 1320.0,
+        "Height": 67.0,
+        "Width": 815.0,
+        "Depth": 97.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56743
+              },
+              {
+                "CategoryId": 52325
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086043",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8eff1790-5212-412a-b534-9d0320b86e33",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T07:22:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCAS2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125523
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDL88",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI GABBIANO Suszarka na pranie",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI GABBIANO Suszarka na pranie",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI GABBIANO Suszarka na pranie",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856600127"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "600 GABBIANO",
+        "Weight": 9840.0,
+        "Height": 125.0,
+        "Width": 1010.0,
+        "Depth": 700.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055326",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "606a8c89-f6e8-4598-bbf8-621e2d3c541a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:28:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDL88'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:01.546000+00:00",
+        "sequence_number": 140312
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAW1",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI MAXI Stojak na koszule i garnitur",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI MAXI Stojak na koszule i garnitur",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI MAXI Stojak na koszule i garnitur",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856107091"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "107 MAXI",
+        "Weight": 4920.0,
+        "Height": 100.0,
+        "Width": 1015.0,
+        "Depth": 455.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082571",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8dab2975-6640-4932-a17c-44e759dbf919",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T09:21:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAW1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:01.500000+00:00",
+        "sequence_number": 155191
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDKZ7",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI KEVIN Naścienna suszarka na pranie 64x",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI KEVIN Naścienna suszarka na pranie 64x",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI KEVIN Naścienna suszarka na pranie 64x",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856648129"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "648 KEVIN CILIEGO",
+        "Weight": 4280.0,
+        "Height": 60.0,
+        "Width": 965.0,
+        "Depth": 695.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060293",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "de47da99-84f0-4021-b4f6-3b3b0734d680",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:27:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDKZ7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.951000+00:00",
+        "sequence_number": 126281
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDL87",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI AIRONE Suszarka na pranie",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI AIRONE Suszarka na pranie",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI AIRONE Suszarka na pranie",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856999122"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "999 AIRONE",
+        "Weight": 10000.0,
+        "Height": 720.0,
+        "Width": 135.0,
+        "Depth": 1040.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060294",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "edb12983-6da3-42dd-bde8-d7700eee725c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T10:12:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDL87'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.951000+00:00",
+        "sequence_number": 126282
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRINBC",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "stojak na ubrania i garnitury",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "stojak na ubrania i garnitury",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "stojak na ubrania i garnitury",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856018120"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "18 ANTIMO",
+        "Weight": 4580.0,
+        "Height": 1015.0,
+        "Width": 80.0,
+        "Depth": 410.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081376",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "40cbb373-4860-4a63-96d4-93df3fc3de05",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-10T07:11:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRINBC'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:49.223000+00:00",
+        "sequence_number": 113079
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAFPI",
+        "ProductVersion": "1.3",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Składana elektryczna suszarka do ubrań",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Składana elektryczna suszarka do ubrań",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Składana elektryczna suszarka do ubrań",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887809641"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 7821",
+        "Weight": 2840.0,
+        "Height": 1140.0,
+        "Width": 530.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035666",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9503e8e2-d0d7-4b55-b1f5-258bc6a6e859",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-25T07:11:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAFPI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:54.645000+00:00",
+        "sequence_number": 133261
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDFSB",
+        "ProductVersion": "1.3",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RAYEN Ogrzewany pokrowiec na suszarkę do prania",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RAYEN Ogrzewany pokrowiec na suszarkę do prania",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "RAYEN Ogrzewany pokrowiec na suszarkę do prania",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955061753"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6175",
+        "Weight": 1930.0,
+        "Height": 126.0,
+        "Width": 485.0,
+        "Depth": 266.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045197",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6198a1a1-8819-430d-aede-07d842f35a37",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-26T18:09:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDFSB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:12.793000+00:00",
+        "sequence_number": 162785
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDL15",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI KLEDY Naścienna suszarka na pranie 80x",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI KLEDY Naścienna suszarka na pranie 80x",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI KLEDY Naścienna suszarka na pranie 80x",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856604125"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "604 KLEDY",
+        "Weight": 2960.0,
+        "Height": 50.0,
+        "Width": 825.0,
+        "Depth": 705.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075064",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "93520eb0-8070-4695-b669-769ffd4a3c8a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:28:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDL15'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:24.440000+00:00",
+        "sequence_number": 143208
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDL17",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI KARIM Naścienna suszarka na pranie - 63",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI KARIM Naścienna suszarka na pranie - 63",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI KARIM Naścienna suszarka na pranie - 63",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856616029"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "616 KARIM",
+        "Weight": 5070.0,
+        "Height": 1210.0,
+        "Width": 65.0,
+        "Depth": 700.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075065",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8a99873a-9163-4a9d-8cbf-ea9419def6a6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:28:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDL17'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:24.440000+00:00",
+        "sequence_number": 143209
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDLFO",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "ARQUIVET",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI AQUILONE Suszarka na pranie",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI AQUILONE Suszarka na pranie",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI AQUILONE Suszarka na pranie",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856602121"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "602 AQUILONE",
+        "Weight": 11180.0,
+        "Height": 120.0,
+        "Width": 1305.0,
+        "Depth": 800.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56743
+              },
+              {
+                "CategoryId": 52325
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075066",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "91c34f0c-3ad9-4a49-9080-20986a7b28fc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T07:30:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDLFO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:25.237000+00:00",
+        "sequence_number": 143210
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCARJ",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompaktowa suszarka na pranie Rayen - 90 cm, Biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompaktowa suszarka na pranie Rayen - 90 cm, Biały",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompaktowa suszarka na pranie Rayen - 90 cm, Biały",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955300647"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0033.11",
+        "Weight": 1200.0,
+        "Height": 1125.0,
+        "Width": 40.0,
+        "Depth": 535.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042420",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c3cfc85e-b08f-4bc9-8cbc-2719f5011579",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T10:42:27Z'",
+          "ModificationDate": "b'2025-06-04T12:19:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCARJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:02.302000+00:00",
+        "sequence_number": 143844
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCARP",
+        "ProductVersion": "1.3",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka na pranie z uchwytami na buty Rayen",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka na pranie z uchwytami na buty Rayen",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka na pranie z uchwytami na buty Rayen",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955300616"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6116.01",
+        "Weight": 3970.0,
+        "Height": 60.0,
+        "Width": 610.0,
+        "Depth": 1080.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042423",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5cc1655f-c368-4146-a3aa-d8191f6cac44",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-02T19:26:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCARP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:02.302000+00:00",
+        "sequence_number": 143847
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCAS3",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wyciągana suszarka na pranie Rayen",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wyciągana suszarka na pranie Rayen",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wyciągana suszarka na pranie Rayen",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955000264"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0026",
+        "Weight": 400.0,
+        "Height": 65.0,
+        "Width": 305.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042425",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5873141e-6cdd-4c4e-a922-33520db4790f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-16T17:29:09Z'",
+          "ModificationDate": "b'2025-06-04T12:19:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCAS3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:02.302000+00:00",
+        "sequence_number": 143849
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE MILANO SU115",
+            "ProductDescription": "PROMIS Suszarka na pranie MILANO,rozkładana, dodatkowe 4 skrzydła"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE MILANO SU115",
+            "ProductDescription": "PROMIS MILANO clothes dryer, extendable, additional 4 wings"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE MILANO SU115",
+            "ProductDescription": "Wäschetrockner PROMIS MILANO, ausziehbar, zusätzlich 4 Flügel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497553272"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SU115",
+        "Weight": 3450.0,
+        "Height": 965.0,
+        "Width": 70.0,
+        "Depth": 595.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073987",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2addaa56-b953-4197-9cf7-9c7d87f0b117",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-21T14:54:53Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:35.538000+00:00",
+        "sequence_number": 145530
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE ROZSUWANA + 2 SKRZYDŁA,C",
+            "ProductDescription": "PROMIS Suszarka na pranie SORRENTO,rozsuwana + 2 skrzydła,czarna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE ROZSUWANA + 2 SKRZYDŁA,C",
+            "ProductDescription": "PROMIS SORRENTO laundry dryer, extendable + 2 wings, black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE ROZSUWANA + 2 SKRZYDŁA,C",
+            "ProductDescription": "PROMIS SORRENTO Wäschetrockner, ausziehbar + 2 Flügel, schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497553562"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SU116",
+        "Weight": 5500.0,
+        "Height": 80.0,
+        "Width": 1320.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073988",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c34d4ab6-3c49-404a-a496-9959f5b76f23",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-06T17:06:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:35.538000+00:00",
+        "sequence_number": 145531
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGE1",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nierdzewiejąca suszarka do ubrań z żywicy Rayen",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nierdzewiejąca suszarka do ubrań z żywicy Rayen",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nierdzewiejąca suszarka do ubrań z żywicy Rayen",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955301293"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0029.07",
+        "Weight": 4040.0,
+        "Height": 1210.0,
+        "Width": 96.0,
+        "Depth": 535.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56743
+              },
+              {
+                "CategoryId": 52325
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035795",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c236876-2548-4d93-8085-7c70cc0c81b1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-14T16:20:27Z'",
+          "ModificationDate": "b'2025-06-04T12:15:17Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGE1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:55.442000+00:00",
+        "sequence_number": 133320
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLEHSUZ0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SuszarkaLeifheit Pegasus200 Solid DeluxeMobile81517",
+            "ProductDescription": "Leifheit Pegasus 200 Deluxe Mobile Stojak podłogowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SuszarkaLeifheit Pegasus200 Solid DeluxeMobile81517",
+            "ProductDescription": "Leifheit Pegasus 200 Deluxe Mobile Floor-standing rack"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SuszarkaLeifheit Pegasus200 Solid DeluxeMobile81517",
+            "ProductDescription": "Leifheit Pegasus 200 Deluxe Mobile Wäscheständer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501815170"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "81517",
+        "Weight": 4400.0,
+        "Height": 950.0,
+        "Width": 670.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063102",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1101c06e-4203-4172-81d7-a290f6a1bc28",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-08-19T11:54:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLEHSUZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:17.809000+00:00",
+        "sequence_number": 163019
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CZARNA AMALFI SU120",
+            "ProductDescription": "PROMIS Suszarka na pranie AMALFI,rozkładana,czarna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CZARNA AMALFI SU120",
+            "ProductDescription": "AMALFI foldable laundry drying rack, black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CZARNA AMALFI SU120",
+            "ProductDescription": "AMALFI faltbarer Wäscheständer, schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497553289"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SU120",
+        "Weight": 3300.0,
+        "Height": 80.0,
+        "Width": 990.0,
+        "Depth": 610.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56743
+              },
+              {
+                "CategoryId": 52325
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063168",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "67c514e0-fb19-4600-9cff-83cb19f5ea4d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-21T14:56:54Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:17.809000+00:00",
+        "sequence_number": 163042
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE MILANO,ROZKŁADANA, DODAT",
+            "ProductDescription": "PROMIS Suszarka na pranie MILANO,rozkładana, dodatkowe 4 skrzydła,czarn"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE MILANO,ROZKŁADANA, DODAT",
+            "ProductDescription": "PROMIS MILANO laundry dryer, foldable, additional 4 wings, black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE MILANO,ROZKŁADANA, DODAT",
+            "ProductDescription": "PROMIS MILANO Wäschetrockner, faltbar, zusätzlich 4 Flügel, schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497553531"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SU115C",
+        "Weight": 3400.0,
+        "Height": 80.0,
+        "Width": 970.0,
+        "Depth": 580.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063169",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e2be34e2-628d-4cd6-9677-d88e465b082d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-06T17:06:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:17.809000+00:00",
+        "sequence_number": 163043
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CORTONA,TELESKOPOWA,ROZS",
+            "ProductDescription": "PROMIS Suszarka na pranie CORTONA,teleskopowa,rozsuwana,czarna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CORTONA,TELESKOPOWA,ROZS",
+            "ProductDescription": "PROMIS CORTONA clothes dryer, telescopic, extendable, black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE CORTONA,TELESKOPOWA,ROZS",
+            "ProductDescription": "PROMIS CORTON Wäschetrockner, teleskopierbar, ausziehbar, schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497553722"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SU102C",
+        "Weight": 3500.0,
+        "Height": 51.0,
+        "Width": 560.0,
+        "Depth": 1300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063170",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "961dd5c5-7b55-4806-bc01-afbf0d87a41b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-26T18:59:41Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:17.809000+00:00",
+        "sequence_number": 163044
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPMSSUL0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "PROMIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE ROZSUWANA SU103C",
+            "ProductDescription": "PROMIS Suszarka na pranie MONZA,rozsuwana + 2 skrzydła duża,czarna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE ROZSUWANA SU103C",
+            "ProductDescription": "PROMIS MONZA clothes dryer, extendable + 2 wings, large, black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIS SUSZARKA NA PRANIE ROZSUWANA SU103C",
+            "ProductDescription": "PROMIS Wäschetrockner MONZA, ausziehbar + 2 Flügel, groß, schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902497553753"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73239900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 4600.0,
+        "Height": 85.0,
+        "Width": 1100.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063171",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PROMIS SUSZARKA NA PRANIE ROZSUWANA CZARNA + 2 SKRZYDŁA SU103C"
+      },
+      "properties": {
+        "message_id": "70e865c6-7b2a-42bc-ad29-0eb30b053378",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-25T12:51:11Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPMSSUL0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:17.809000+00:00",
+        "sequence_number": 163045
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAUS",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ARREDAMENTI GIULIUS Stojak na ubrania Giulius",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ARREDAMENTI GIULIUS Stojak na ubrania Giulius",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ARREDAMENTI GIULIUS Stojak na ubrania Giulius",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8023856644046"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "644 GIULIUS",
+        "Weight": 11000.0,
+        "Height": 340.0,
+        "Width": 120.0,
+        "Depth": 1620.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067331",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "64ad6d7c-dbb8-4647-921e-85adcb8f15eb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-09T13:40:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAUS'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:07.922000+00:00",
+        "sequence_number": 103257
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDVI1SUL0014",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki łazienkowe i wolnostojące",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka zewnętrzna Vileda Sun Lift Plus 60",
+            "ProductDescription": "Vileda Sun Lift Plus 60 Czarny, Biały Aluminium 60 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka zewnętrzna Vileda Sun Lift Plus 60",
+            "ProductDescription": "Vileda Sun Lift Plus 60 Black, White Aluminium 60 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka zewnętrzna Vileda Sun Lift Plus 60",
+            "ProductDescription": "Vileda Sun Lift Plus 60 Schwarz, Weiß Aluminium 60 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103228511"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "76151080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "168254",
+        "Weight": 4300.0,
+        "Height": 2150.0,
+        "Width": 100.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52325
+              },
+              {
+                "CategoryId": 56743
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54895
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063248",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka zewnętrzna Vileda Sun Lift Plus 60"
+      },
+      "properties": {
+        "message_id": "3fd1f689-bf72-4ea0-a265-0ca343b17d20",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-09-02T11:39:53Z'",
+          "ModificationDate": "b'2025-09-30T13:40:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDVI1SUL0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:18.809000+00:00",
+        "sequence_number": 163079
+      }
+    }
+  ]
+}

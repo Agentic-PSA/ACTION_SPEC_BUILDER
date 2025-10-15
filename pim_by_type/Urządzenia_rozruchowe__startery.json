@@ -1,0 +1,1217 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "ESABSUROZ0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "Baseus",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BASEUS POWERBANK/ROZRUSZNIK 12000MAH,1000A, CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BASEUS POWERBANK/ROZRUSZNIK 12000MAH,1000A, CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BASEUS POWERBANK/ROZRUSZNIK 12000MAH,1000A, CZARNY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6953156229600"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CRJS03-01",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050214",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eaed47d4-cbea-4519-9ec6-104129c7764a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-11-28T10:19:04Z'",
+          "ModificationDate": "b'2025-09-30T13:40:51Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESABSUROZ0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:31.714000+00:00",
+        "sequence_number": 121237
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJAUO",
+        "ProductVersion": "1.1",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "DEDRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Urządzenie rozruchowe powerbank 12000 mAh LCD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Urządzenie rozruchowe powerbank 12000 mAh LCD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Urządzenie rozruchowe powerbank 12000 mAh LCD",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DEPP1201",
+        "Weight": 1000.0,
+        "Height": 120.0,
+        "Width": 110.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089997",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e27b587a-1ed4-4714-a69a-f366df189189",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-16T08:52:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJAUO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:52.455000+00:00",
+        "sequence_number": 168017
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADT3",
+        "ProductVersion": "1.3",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Powerbank Extralink Jump Starter Max 7",
+            "ProductDescription": "Extralink Powerbank rozruchowy do odpalania samochodu Jump Max7 Jump Starter 10000 mAh 3x LED, latarka, kompas, młotek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Powerbank Extralink Jump Starter Max 7",
+            "ProductDescription": "Extralink Jump Max7 Jump Starter 10000mAh | Starter power bank for starting the car | 3x LED, Flashlight, Compass, Hammer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Powerbank Extralink Jump Starter Max 7",
+            "ProductDescription": "Extralink Jump Max7 Starthilfe 10000mAh | Starter-Powerbank zum Starten des Autos | 3x LED, Taschenlampe, Kompass, Hammer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905090330325"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "JUMPMAX7",
+        "Weight": 900.0,
+        "Height": 150.0,
+        "Width": 220.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035342",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "43ff5169-bb80-4318-8f95-5342eb6f7a4b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-11T11:59:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADT3'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:32.075000+00:00",
+        "sequence_number": 110258
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUUN",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "KÖNNER & SÖHNEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KS URZĄDZENIE ROZRUCHOWE JS-1400",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KS URZĄDZENIE ROZRUCHOWE JS-1400",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KS URZĄDZENIE ROZRUCHOWE JS-1400",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260405366798"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KSJS-1400",
+        "Weight": 1245.0,
+        "Height": 155.0,
+        "Width": 240.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051335",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7ff56cc0-7933-4d10-9001-5a4feb2638df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-21T17:52:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUUN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.152000+00:00",
+        "sequence_number": 138652
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPKNE2OO0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "KÖNNER & SÖHNEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE JSP-1200(WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE JSP-1200(WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE JSP-1200(WYP)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260405366774"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KSJSP-1200",
+        "Weight": 1650.0,
+        "Height": 111.0,
+        "Width": 255.0,
+        "Depth": 185.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079552",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7a5affba-3261-4e5d-aa33-8a93102cabe1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T13:59:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPKNE2OO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:38.870000+00:00",
+        "sequence_number": 154091
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUW2",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "KÖNNER & SÖHNEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260405366774"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KSJSP-1200",
+        "Weight": 1670.0,
+        "Height": 90.0,
+        "Width": 220.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041891",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0574823d-34cb-4eaf-b565-57e1b832a255",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-26T10:25:54Z'",
+          "ModificationDate": "b'2025-06-04T12:18:47Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUW2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:41.652000+00:00",
+        "sequence_number": 125853
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWI1",
+        "ProductVersion": "1.3",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "KÖNNER & SÖHNEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE JS-1000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE JS-1000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KÖNNER & SÖHNEN URZĄDZENIE ROZRUCHOWE JS-1000",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260405366781"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KSJS-1000",
+        "Weight": 0.0,
+        "Height": 90.0,
+        "Width": 220.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041954",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c529745b-5372-471c-88ab-41a0b1d2e868",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-31T11:25:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWI1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:42.481000+00:00",
+        "sequence_number": 125879
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN35",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GBX155 Boost X 12V 4250A Jump Starter",
+            "ProductDescription": "NOCO GBX155 rozrusznik skoku pojazdu 4250 A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GBX155 Boost X 12V 4250A Jump Starter",
+            "ProductDescription": "NOCO GBX155 vehicle jump starter 4250 A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GBX155 Boost X 12V 4250A Jump Starter",
+            "ProductDescription": "NOCO GBX155 Fahrzeugstarthilfe 4250 A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000620095"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GBX155",
+        "Weight": 3560.0,
+        "Height": 150.0,
+        "Width": 361.0,
+        "Depth": 227.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060598",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "28cec36d-4b18-4be3-b15a-dfd4297451cb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T12:30:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN35'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:52.530000+00:00",
+        "sequence_number": 126429
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN53",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GB70 Boost 12V 2000A Jump Starter",
+            "ProductDescription": "NOCO GB70 rozrusznik skoku pojazdu 15 A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GB70 Boost 12V 2000A Jump Starter",
+            "ProductDescription": "NOCO GB70 Boost 12V 2000A Jump Starter starter device with integrated 12V/USB battery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GB70 Boost 12V 2000A Jump Starter",
+            "ProductDescription": "NOCO GB70 Boost 12V 2000A Starthilfegerät mit integrierter 12V/USB-Batterie"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000615053"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB70",
+        "Weight": 2334.0,
+        "Height": 264.0,
+        "Width": 200.0,
+        "Depth": 142.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060599",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "309504e7-d2e8-4e8f-a7a3-c1d0910d9754",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-01T10:01:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN53'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:52.530000+00:00",
+        "sequence_number": 126430
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0818",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "URZĄDZENIE ROZRUCHOWE YATO POWERBANK 7500 mAh 400A",
+            "ProductDescription": "Yato YT-83080 bank mocy Litowo-polimerowy (LiPo) 7500 mAh Czerwony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "URZĄDZENIE ROZRUCHOWE YATO POWERBANK 7500 mAh 400A",
+            "ProductDescription": "YATO POWER BANK 7500mAh WITH JUMP START"
+          },
+          {
+            "Language": "de",
+            "ProductName": "URZĄDZENIE ROZRUCHOWE YATO POWERBANK 7500 mAh 400A",
+            "ProductDescription": "YATO POWERBANK 7500mAh MIT STARTHILFE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083028830"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-83080",
+        "Weight": 710.0,
+        "Height": 72.0,
+        "Width": 174.0,
+        "Depth": 134.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033136",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "08f218de-e347-4603-be79-10af04fa3b06",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-10T19:15:03Z'",
+          "ModificationDate": "b'2025-06-04T12:13:45Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0818'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:47.999000+00:00",
+        "sequence_number": 141302
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN63",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GB500 Boost Max 12V/24V 6250A Jump Starter",
+            "ProductDescription": "GB500 Boost Max 12V/24V 6250A Jump Starter"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GB500 Boost Max 12V/24V 6250A Jump Starter",
+            "ProductDescription": "GB500 Boost Max 12V/24V 6250A Jump Starter"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GB500 Boost Max 12V/24V 6250A Jump Starter",
+            "ProductDescription": "GB500 Boost Max 12V/24V 6250A Jump Starter"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000617316"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB500",
+        "Weight": 15688.0,
+        "Height": 318.0,
+        "Width": 512.0,
+        "Depth": 361.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075361",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0f2b12c0-b374-44eb-8ee2-ac5c7406b436",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-09T12:11:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN63'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:29.943000+00:00",
+        "sequence_number": 143482
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN28",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GB20 Boost 12V 500A Jump Starter",
+            "ProductDescription": "NOCO GB20 rozrusznik skoku pojazdu 500 A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GB20 Boost 12V 500A Jump Starter",
+            "ProductDescription": "NOCO GB20 vehicle jump starter 500 A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GB20 Boost 12V 500A Jump Starter",
+            "ProductDescription": "NOCO GB20 Fahrzeugstarthilfe 500 A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000615015"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB20",
+        "Weight": 1125.0,
+        "Height": 105.0,
+        "Width": 225.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055626",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f944cefd-4734-4c6b-8e10-48fe79273230",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-16T15:23:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN28'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:15.524000+00:00",
+        "sequence_number": 129543
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGMIT",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "OSRAM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Urządzenie Osram BatteryStart 200",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Urządzenie Osram BatteryStart 200",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Urządzenie Osram BatteryStart 200",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4052899620476"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7058853",
+        "Weight": 770.0,
+        "Height": 99.0,
+        "Width": 218.0,
+        "Depth": 134.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067412",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "97dd49ed-4a96-4ad1-a089-e7d6631edd14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-24T09:18:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGMIT'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:08.844000+00:00",
+        "sequence_number": 103298
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ESABSUROZ0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia rozruchowe, startery",
+        "Brand": "Baseus",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BASEUS CAR JUMP STARTER 12000MAH CRJS03-09 CZERWON",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BASEUS CAR JUMP STARTER 12000MAH CRJS03-09 CZERWON",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BASEUS CAR JUMP STARTER 12000MAH CRJS03-09 CZERWON",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6953156229617"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CRJS03-09",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53751
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060948",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a1572d86-5b1a-4c45-8df3-a85ea546d817",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-08-16T14:40:58Z'",
+          "ModificationDate": "b'2025-09-30T13:40:51Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESABSUROZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:17.947000+00:00",
+        "sequence_number": 118660
+      }
+    }
+  ]
+}

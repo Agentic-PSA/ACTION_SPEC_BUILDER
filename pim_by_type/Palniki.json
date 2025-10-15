@@ -1,0 +1,3213 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBZFB",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka micromo-tamale JETBOIL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka micromo-tamale JETBOIL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka micromo-tamale JETBOIL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006816"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0001873000020621",
+        "Weight": 576.0,
+        "Height": 135.0,
+        "Width": 220.0,
+        "Depth": 142.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CA",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064043",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "70e0416f-b6e8-4901-8c84-b8606d776cb5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-20T11:29:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBZFB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:27.995000+00:00",
+        "sequence_number": 119193
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCYT2",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ELICO PALNIK LUTOWNICZY PIEZO 190G+4 NAB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ELICO PALNIK LUTOWNICZY PIEZO 190G+4 NAB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ELICO PALNIK LUTOWNICZY PIEZO 190G+4 NAB",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906190206541"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "500402",
+        "Weight": 1660.0,
+        "Height": 180.0,
+        "Width": 280.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044457",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9ad0dc48-679a-4d6e-be99-e058014690d0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-28T10:35:33Z'",
+          "ModificationDate": "b'2025-06-04T12:20:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCYT2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:55.700000+00:00",
+        "sequence_number": 148419
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD928",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka fms-x1 FIRE-MAPLE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka fms-x1 FIRE-MAPLE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka fms-x1 FIRE-MAPLE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490127147"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0001246200000035",
+        "Weight": 650.0,
+        "Height": 185.0,
+        "Width": 145.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044751",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3c9aebfd-c8ba-46af-8c55-0ac16ce77556",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-15T19:24:40Z'",
+          "ModificationDate": "b'2025-06-04T12:20:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD928'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:58.685000+00:00",
+        "sequence_number": 148560
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURJTBPGA0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "JTB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Jetboil Pot Support 2.0 nakładka na kuchenkę",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Jetboil Pot Support 2.0 nakładka na kuchenkę",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Jetboil Pot Support 2.0 nakładka na kuchenkę",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSPT2-EU",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091216",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "43438a3d-b3ac-4300-9209-ef06bc44442f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-21T10:28:01Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURJTBPGA0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:16.586000+00:00",
+        "sequence_number": 134434
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD527",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podstawka pot support JETBOIL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podstawka pot support JETBOIL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podstawka pot support JETBOIL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006410"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSUP-EU",
+        "Weight": 50.0,
+        "Height": 31.0,
+        "Width": 120.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044718",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3a503395-8a89-4399-869e-507410aa4fa7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-28T07:22:30Z'",
+          "ModificationDate": "b'2025-06-04T12:20:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD527'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:53.537000+00:00",
+        "sequence_number": 106305
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD768",
+        "ProductVersion": "1.3",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka fms-x5 polaris system-red FIRE-MAPLE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka fms-x5 polaris system-red FIRE-MAPLE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka fms-x5 polaris system-red FIRE-MAPLE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490127192"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005539100003070",
+        "Weight": 860.0,
+        "Height": 140.0,
+        "Width": 220.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044732",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "749fb22f-e660-4a39-a031-7c7d7daee402",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-04T16:16:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD768'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106319
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDC04",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Patelnia portable grill FIRE-MAPLE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Patelnia portable grill FIRE-MAPLE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Patelnia portable grill FIRE-MAPLE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490125303"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002778800000035",
+        "Weight": 898.0,
+        "Height": 335.0,
+        "Width": 330.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044794",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cb4dc135-a58b-42b5-8595-0ea20a8f130c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-26T18:00:20Z'",
+          "ModificationDate": "b'2025-06-04T12:20:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDC04'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106344
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDC32",
+        "ProductVersion": "1.3",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka turystyczna Fire Maple FMS-X5 Polaris nieb",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka turystyczna Fire Maple FMS-X5 Polaris nieb",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka turystyczna Fire Maple FMS-X5 Polaris nieb",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490125655"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005539100002993",
+        "Weight": 810.0,
+        "Height": 140.0,
+        "Width": 220.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044795",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1ef49a41-f622-4719-a4f3-f9d98737ed59",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-13T14:09:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDC32'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106345
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBYLD",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka MSR Pocket Rocket Deluxe Kit",
+            "ProductDescription": "MSR PocketRocket Kuchenka z kanistrem"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka MSR Pocket Rocket Deluxe Kit",
+            "ProductDescription": "MSR PocketRocket Canister stove"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka MSR Pocket Rocket Deluxe Kit",
+            "ProductDescription": "MSR PocketRocket Camping-Herd"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "040818130995"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002687600000035",
+        "Weight": 570.0,
+        "Height": 135.0,
+        "Width": 155.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042120",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5d154de4-fe35-4234-b716-0d61d7ac180d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-22T12:00:33Z'",
+          "ModificationDate": "b'2025-06-04T12:18:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBYLD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:27.796000+00:00",
+        "sequence_number": 165083
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCJY9",
+        "ProductVersion": "1.3",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fire-Maple Kuchenka turystyczna FMS-X3",
+            "ProductDescription": "Fire- maple kuchenka turystyczna FMS-X3"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fire-Maple Kuchenka turystyczna FMS-X3",
+            "ProductDescription": "Fire-maple camping stove FMS-X3"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fire-Maple Kuchenka turystyczna FMS-X3",
+            "ProductDescription": "Ahorn-Campingkocher FMS-X3"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490126270"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FMS X-3",
+        "Weight": 730.0,
+        "Height": 195.0,
+        "Width": 135.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043234",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a4b495a5-eadd-41be-8a8c-07687b065d96",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-20T16:19:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCJY9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:42.404000+00:00",
+        "sequence_number": 159910
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURFEPPGA0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka turystyczna typu Jetboli FIRE-MAPLE X2 cz",
+            "ProductDescription": "Kuchenka turystyczna typu Jetboli FIRE-MAPLE X2 cz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka turystyczna typu Jetboli FIRE-MAPLE X2 cz",
+            "ProductDescription": "Tourist cooker Jetboli FIRE-MAPLE X2 cz"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka turystyczna typu Jetboli FIRE-MAPLE X2 cz",
+            "ProductDescription": "Touristenkocher Jetboli FIRE-MAPLE X2 cz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490126249"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FMS-X2",
+        "Weight": 820.0,
+        "Height": 140.0,
+        "Width": 140.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068335",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka turystyczna typu Jetboli FIRE-MAPLE X2 cz"
+      },
+      "properties": {
+        "message_id": "a5d9a5c5-71ba-4bf6-b39f-1e8168847322",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-24T12:31:44Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURFEPPGA0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:17.695000+00:00",
+        "sequence_number": 107492
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFOX7",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka Fire Maple FMS-300T BLACK",
+            "ProductDescription": "Fire- maple kuchenka turystyczna FMS-300 Titanium"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka Fire Maple FMS-300T BLACK",
+            "ProductDescription": "Fire-maple camping stove FMS-300 Titanium"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka Fire Maple FMS-300T BLACK",
+            "ProductDescription": "Ahorn-Campingkocher FMS-300 Titanium"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490123057"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6971490123057",
+        "Weight": 110.0,
+        "Height": 85.0,
+        "Width": 90.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071225",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9b1e34c7-348a-446f-a553-f494517c6e39",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-20T13:21:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFOX7'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:22.918000+00:00",
+        "sequence_number": 109792
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBZHU",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka fms-125",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka fms-125",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka fms-125",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490125884"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6971490125884",
+        "Weight": 500.0,
+        "Height": 150.0,
+        "Width": 251.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092369",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c272021c-39c2-465d-bb2e-fba205c3dae8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-25T09:23:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBZHU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:03.777000+00:00",
+        "sequence_number": 168562
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURFEPPGA0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka turystyczna Fire-Maple FMS-300 Black titan",
+            "ProductDescription": "Fire- maple kuchenka turystyczna FMS-300 Titanium"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka turystyczna Fire-Maple FMS-300 Black titan",
+            "ProductDescription": "Fire-maple camping stove FMS-300 Titanium"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka turystyczna Fire-Maple FMS-300 Black titan",
+            "ProductDescription": "Ahorn-Campingkocher FMS-300 Titanium"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490123057"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 100.0,
+        "Height": 89.0,
+        "Width": 90.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027978",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka turystyczna Fire-Maple FMS-300 Black titanium"
+      },
+      "properties": {
+        "message_id": "674cf01a-9c16-4678-b3f7-a7bd148714d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T15:52:06Z'",
+          "ModificationDate": "b'2025-06-04T12:10:51Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURFEPPGA0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:37.823000+00:00",
+        "sequence_number": 140787
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRC252",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "Trangia",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Palnik Trangia spirit burner B25 z osłoną",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Palnik Trangia spirit burner B25 z osłoną",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Palnik Trangia spirit burner B25 z osłoną",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7315081002816"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TRA-100281",
+        "Weight": 189.0,
+        "Height": 65.0,
+        "Width": 100.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042287",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7a1ca2c6-27ca-42fb-aae4-a1971953cee9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-04T07:20:10Z'",
+          "ModificationDate": "b'2025-06-04T12:19:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRC252'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:16.699000+00:00",
+        "sequence_number": 170724
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURFEPPGA0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka star x2 pro FIRE-MAPLE",
+            "ProductDescription": "Kuchenka turystyczna star x2 pro FIRE-MAPLE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka star x2 pro FIRE-MAPLE",
+            "ProductDescription": "Tourist cooker star x2 pro FIRE-MAPLE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka star x2 pro FIRE-MAPLE",
+            "ProductDescription": "Touristenkocher star x2 pro FIRE-MAPLE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490125846"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1021850000003",
+        "Weight": 740.0,
+        "Height": 133.0,
+        "Width": 215.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052763",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka turystyczna star x2 pro FIRE-MAPLE"
+      },
+      "properties": {
+        "message_id": "200985e2-e40c-4200-8e80-3c236f4d9815",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-19T12:21:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURFEPPGA0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:51.812000+00:00",
+        "sequence_number": 141460
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURFEPPGA0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka Fire Maple FMS-105",
+            "ProductDescription": "Kuchenka Fire Maple FMS-105"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka Fire Maple FMS-105",
+            "ProductDescription": "Fire-maple camping stove FMS-105"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka Fire Maple FMS-105",
+            "ProductDescription": "Ahorn-Campingkocher FMS-105"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490127048"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6971490127048",
+        "Weight": 330.0,
+        "Height": 105.0,
+        "Width": 120.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048541",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka Fire Maple FMS-105"
+      },
+      "properties": {
+        "message_id": "9f514503-d1a0-4c2a-8b34-8746ba13e213",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-28T11:32:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURFEPPGA0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:05.806000+00:00",
+        "sequence_number": 116087
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBXYC",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Palnik polaris optifuel OPTIMUS",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Palnik polaris optifuel OPTIMUS",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Palnik polaris optifuel OPTIMUS",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7612013192295"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1645183",
+        "Weight": 870.0,
+        "Height": 96.0,
+        "Width": 185.0,
+        "Depth": 142.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074913",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "adb4ba0f-712d-4a5f-b2cc-dda6c34371a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T17:00:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBXYC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:22.315000+00:00",
+        "sequence_number": 143068
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBX36",
+        "ProductVersion": "1.3",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stash Cooking System - Jetboil",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stash Cooking System - Jetboil",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stash Cooking System - Jetboil",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006939"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "STASH-EU",
+        "Weight": 400.0,
+        "Height": 130.0,
+        "Width": 145.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042050",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "99865eb5-7135-408b-9fef-3c68e132ebb6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-16T07:22:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBX36'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:42.132000+00:00",
+        "sequence_number": 114776
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBXDH",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka Flash Cooking System Jetboil FLCBN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka Flash Cooking System Jetboil FLCBN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka Flash Cooking System Jetboil FLCBN",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006557"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0000523200009075",
+        "Weight": 586.0,
+        "Height": 150.0,
+        "Width": 240.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042063",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "951f440f-78e0-4d04-8053-1e2849fcca12",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-09T07:16:54Z'",
+          "ModificationDate": "b'2025-06-04T12:18:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBXDH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:42.132000+00:00",
+        "sequence_number": 114789
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURJTBPGA0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "JTB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stash Cooking System - Jetboil",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stash Cooking System - Jetboil",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stash Cooking System - Jetboil",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006939"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "STASH-EU",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081971",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stash Cooking System - Jetboil"
+      },
+      "properties": {
+        "message_id": "ea5e6499-ffcc-4b3d-b297-ace8dc13ab11",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T16:51:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURJTBPGA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:30.626000+00:00",
+        "sequence_number": 128490
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURJTBPGA0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "JTB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka micromo-tamale JETBOIL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka micromo-tamale JETBOIL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka micromo-tamale JETBOIL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006816"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "187300002062",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081972",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka micromo-tamale JETBOIL"
+      },
+      "properties": {
+        "message_id": "3484871d-45d4-4a67-86b3-1a2ac2fc2048",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T16:51:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURJTBPGA0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:30.626000+00:00",
+        "sequence_number": 128491
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURJTBPGA0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "JTB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka MiniMo Cooking System Jetboil Carbon 1l",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka MiniMo Cooking System Jetboil Carbon 1l",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka MiniMo Cooking System Jetboil Carbon 1l",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006366"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MNMCB-EU",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081973",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka MiniMo Cooking System Jetboil Carbon 1l"
+      },
+      "properties": {
+        "message_id": "50770a71-326d-4fd5-86b5-0cd088a8ea94",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T16:51:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURJTBPGA0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:30.626000+00:00",
+        "sequence_number": 128492
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURJTBPGA0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "JTB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka MiniMo Cooking System - Jetboil",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka MiniMo Cooking System - Jetboil",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka MiniMo Cooking System - Jetboil",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006397"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "163600001099",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081974",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka MiniMo Cooking System - Jetboil"
+      },
+      "properties": {
+        "message_id": "4e034187-3a18-44a7-a803-9c09515b587e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T16:51:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURJTBPGA0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:30.626000+00:00",
+        "sequence_number": 128493
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURJTBPGA0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "JTB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podstawka pot support JETBOIL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podstawka pot support JETBOIL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podstawka pot support JETBOIL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006410"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSUP-EU",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081975",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Podstawka pot support JETBOIL"
+      },
+      "properties": {
+        "message_id": "82f895dc-012c-4dde-921d-58a3cbf4f5e0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T16:51:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURJTBPGA0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:30.626000+00:00",
+        "sequence_number": 128494
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBYTJ",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fire-Maple Kuchenka turystyczna FMS-X3 limited edit",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fire-Maple Kuchenka turystyczna FMS-X3 limited edit",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fire-Maple Kuchenka turystyczna FMS-X3 limited edit",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490127376"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005086500000035",
+        "Weight": 865.0,
+        "Height": 140.0,
+        "Width": 200.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042129",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ebfeda3d-14a7-4cb1-807f-f011a46770ea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-10T09:26:19Z'",
+          "ModificationDate": "b'2025-06-04T12:18:55Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBYTJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:00.473000+00:00",
+        "sequence_number": 143734
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBYY3",
+        "ProductVersion": "1.3",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Palnik turystyczny Fire Maple FMS-X2",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Palnik turystyczny Fire Maple FMS-X2",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Palnik turystyczny Fire Maple FMS-X2",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490126249"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0001775700003067",
+        "Weight": 815.0,
+        "Height": 210.0,
+        "Width": 130.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042139",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "902faf3a-6ed1-40b2-b8a2-b8b696609574",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-14T13:43:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBYY3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:00.473000+00:00",
+        "sequence_number": 143744
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBYY4",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka turystyczna FireMaple FMS-X2",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka turystyczna FireMaple FMS-X2",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka turystyczna FireMaple FMS-X2",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490127369"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005086400000035",
+        "Weight": 930.0,
+        "Height": 145.0,
+        "Width": 215.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042140",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "43b87e4b-d5bd-4a47-94f0-5c8bb107ccf5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-26T18:00:11Z'",
+          "ModificationDate": "b'2025-06-04T12:18:55Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBYY4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:00.473000+00:00",
+        "sequence_number": 143745
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBZ90",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Primus - Kuchenka wielopaliwowa MultiFuel III",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Primus - Kuchenka wielopaliwowa MultiFuel III",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Primus - Kuchenka wielopaliwowa MultiFuel III",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7330033901627"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0000321600000035",
+        "Weight": 940.0,
+        "Height": 106.0,
+        "Width": 231.0,
+        "Depth": 222.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042147",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "834bbd80-8ae4-4dca-8468-e3c2136d5bc7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-25T07:18:41Z'",
+          "ModificationDate": "b'2025-06-04T12:18:55Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBZ90'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:00.473000+00:00",
+        "sequence_number": 143752
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBZRR",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "Trangia",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka turystyczna Trangia Micro Original",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka turystyczna Trangia Micro Original",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka turystyczna Trangia Micro Original",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7315081005008"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TRA-100500",
+        "Weight": 295.0,
+        "Height": 92.0,
+        "Width": 115.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042217",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7adeda15-b3a1-4665-9f12-1a3e76b24ba7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-25T07:19:33Z'",
+          "ModificationDate": "b'2025-06-04T12:18:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBZRR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:01.411000+00:00",
+        "sequence_number": 143773
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDN48",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ELICO PALNIK GAZOWY DO CHWASTÓW I TRAW WIELOFUNKCYJ",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ELICO PALNIK GAZOWY DO CHWASTÓW I TRAW WIELOFUNKCYJ",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ELICO PALNIK GAZOWY DO CHWASTÓW I TRAW WIELOFUNKCYJ",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GZ-202284",
+        "Weight": 820.0,
+        "Height": 290.0,
+        "Width": 30.0,
+        "Depth": 830.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088442",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b9f2fc1a-faf9-43bc-a16c-2d40998bce07",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-08T11:41:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDN48'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:43.617000+00:00",
+        "sequence_number": 158431
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBXYH",
+        "ProductVersion": "1.3",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka MiniMo Cooking System Jetboil Carbon 1l",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka MiniMo Cooking System Jetboil Carbon 1l",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka MiniMo Cooking System Jetboil Carbon 1l",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006366"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MNMCB-EU",
+        "Weight": 665.0,
+        "Height": 210.0,
+        "Width": 160.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042094",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "429d1837-0b23-454f-aefb-352d19939668",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-13T13:00:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBXYH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:31.247000+00:00",
+        "sequence_number": 159407
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBYD7",
+        "ProductVersion": "1.3",
+        "ProductType": "Palniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka MiniMo Cooking System - Jetboil",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka MiniMo Cooking System - Jetboil",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka MiniMo Cooking System - Jetboil",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "858941006397"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0001636000010995",
+        "Weight": 660.0,
+        "Height": 150.0,
+        "Width": 200.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042107",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "37f1d6a1-ff11-4d07-bec7-a0efa80ddf5d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-16T07:21:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBYD7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:31.247000+00:00",
+        "sequence_number": 159420
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBZHP",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka turystyczna Fire-Maple",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka turystyczna Fire-Maple",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka turystyczna Fire-Maple",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490127864"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0008440100000035",
+        "Weight": 970.0,
+        "Height": 140.0,
+        "Width": 210.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042165",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6e55f71f-fd3f-4dcc-b930-b82e82bdef8d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-17T16:29:16Z'",
+          "ModificationDate": "b'2025-06-04T12:18:56Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBZHP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:31.778000+00:00",
+        "sequence_number": 159438
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURFEPPGA0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka Fire Maple Buzz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka Fire Maple Buzz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka Fire Maple Buzz",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490125792"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6971490125792",
+        "Weight": 150.0,
+        "Height": 70.0,
+        "Width": 95.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087137",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka Fire Maple Buzz"
+      },
+      "properties": {
+        "message_id": "2687d0de-d6ce-41e9-896e-e45778a2d257",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-28T11:32:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURFEPPGA0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:03.968000+00:00",
+        "sequence_number": 160923
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURFEPPGA0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka Fire Maple FMS-103",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka Fire Maple FMS-103",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka Fire Maple FMS-103",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490127031"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6971490127031",
+        "Weight": 190.0,
+        "Height": 70.0,
+        "Width": 120.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087138",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kuchenka Fire Maple FMS-103"
+      },
+      "properties": {
+        "message_id": "c7d38ecd-7a01-46b0-8628-ee6dc8eeba95",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-28T11:32:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURFEPPGA0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:03.968000+00:00",
+        "sequence_number": 160924
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCJYG",
+        "ProductVersion": "1.1",
+        "ProductType": "Palniki",
+        "Brand": "FIREMAPLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kuchenka Fire Maple FMS-118",
+            "ProductDescription": "Fire- maple kuchenka turystyczna FMS-118"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kuchenka Fire Maple FMS-118",
+            "ProductDescription": "Fire-maple camping stove FMS-118"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kuchenka Fire Maple FMS-118",
+            "ProductDescription": "Ahorn-Campingkocher FMS-118"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971490127208"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6971490127208",
+        "Weight": 220.0,
+        "Height": 80.0,
+        "Width": 100.0,
+        "Depth": 92.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56196
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56057
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064088",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "50d60bf8-16a8-47b7-90a6-01a4941fbf8e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-20T13:22:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCJYG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:26.293000+00:00",
+        "sequence_number": 163446
+      }
+    }
+  ]
+}

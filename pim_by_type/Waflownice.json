@@ -1,0 +1,1051 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMPCH",
+        "ProductVersion": "1.0",
+        "ProductType": "Waflownice",
+        "Brand": "GAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gofrownica GRAEF WA 80",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gofrownica GRAEF WA 80",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gofrownica GRAEF WA 80",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001627010003"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WA 80",
+        "Weight": 3031.0,
+        "Height": 110.0,
+        "Width": 255.0,
+        "Depth": 305.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57507
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156697",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ef6175a3-a2a6-4149-9a79-578f7177411f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-07T07:13:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMPCH'"
+        },
+        "enqueued_time_utc": "2025-10-07 14:10:13.897000+00:00",
+        "sequence_number": 174111
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCZNB",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "teesa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gofrownica TEESA , 4 gofry, 1600W, inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gofrownica TEESA , 4 gofry, 1600W, inox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gofrownica TEESA , 4 gofry, 1600W, inox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890105071"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TSA3236",
+        "Weight": 3000.0,
+        "Height": 150.0,
+        "Width": 265.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044537",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "10515a10-7f86-4df1-934c-3ca07b0fa4c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-28T08:26:16Z'",
+          "ModificationDate": "b'2025-06-04T12:20:17Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCZNB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:56.747000+00:00",
+        "sequence_number": 148462
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRARMH",
+        "ProductVersion": "1.1",
+        "ProductType": "Waflownice",
+        "Brand": "TRISTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tristar WF-1160 vaffeljern 5 vaffel/va",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tristar WF-1160 vaffeljern 5 vaffel/va",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tristar WF-1160 vaffeljern 5 vaffel/va",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WF-1160",
+        "Weight": 1670.0,
+        "Height": 130.0,
+        "Width": 280.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089676",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dde2f6d6-4746-4175-a6a2-30142c618fd1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T17:27:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRARMH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:37.855000+00:00",
+        "sequence_number": 119704
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSBTWAF0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "SBT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "STEBA URZĄDZENIE DO PRZYGOTOWANIA CIASTEK 3W1 CM 3",
+            "ProductDescription": "Steba CM3 urządzenie do wyrobu babeczek & pączków Donut/cupcake maker 12 ciast. 7 donuts 800 W Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "STEBA URZĄDZENIE DO PRZYGOTOWANIA CIASTEK 3W1 CM 3",
+            "ProductDescription": "Steba CM3 cupcake/donut maker Donut/cupcake maker 12 cakes 7 donuts 800 W Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "STEBA URZĄDZENIE DO PRZYGOTOWANIA CIASTEK 3W1 CM 3",
+            "ProductDescription": "Steba CM3 Cupcake- & Donut-Maker Donut/cupcake maker 12 Kuchen 7 donuts 800 W Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4011833302557"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CM 3",
+        "Weight": 2740.0,
+        "Height": 275.0,
+        "Width": 275.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063199",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dfdc7644-5128-4983-bc49-f0286748741a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-04-03T09:59:58Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSBTWAF0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:01.384000+00:00",
+        "sequence_number": 150536
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSBTWAF0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "SBT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "STEBA GOFROWNICA WE 20 VOLCANO BLACK",
+            "ProductDescription": "Steba WE 20 VOLCANO (black) 4 gof. 700 W Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "STEBA GOFROWNICA WE 20 VOLCANO BLACK",
+            "ProductDescription": "Steba WE 20 VOLCANO (black) 4 waffle(s) 700 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "STEBA GOFROWNICA WE 20 VOLCANO BLACK",
+            "ProductDescription": "Steba WE 20 VOLCANO (black) 4 Waffel(n) 700 W Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4011833302830"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WE 20",
+        "Weight": 2385.0,
+        "Height": 300.0,
+        "Width": 230.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069012",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "289b274c-eb2f-45bb-b13a-a42b7fbc70d8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-04-02T14:56:38Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSBTWAF0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:22.062000+00:00",
+        "sequence_number": 151626
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSEVWAF0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "SEV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEVERIN WAFLOWNICA GOFRY SERCE, STAL, 1300W WA2103",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEVERIN WAFLOWNICA GOFRY SERCE, STAL, 1300W WA2103",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEVERIN WAFLOWNICA GOFRY SERCE, STAL, 1300W WA2103",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4008146210303"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WA 2103",
+        "Weight": 1954.0,
+        "Height": 312.0,
+        "Width": 140.0,
+        "Depth": 239.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077965",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c48c13c-6067-409a-bbea-c00617769948",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-12T14:59:37Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSEVWAF0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:25.304000+00:00",
+        "sequence_number": 153395
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSEVWAF0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "SEV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEVERIN WAFLOWNICA PODWÓJNA, STAL, 1200W WA2106",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEVERIN WAFLOWNICA PODWÓJNA, STAL, 1200W WA2106",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEVERIN WAFLOWNICA PODWÓJNA, STAL, 1200W WA2106",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4008146010156"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WA 2106",
+        "Weight": 2496.0,
+        "Height": 255.0,
+        "Width": 112.0,
+        "Depth": 374.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053720",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "89c42121-a246-4e76-abe6-881b4041d00e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-12T15:02:13Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSEVWAF0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:51.280000+00:00",
+        "sequence_number": 139819
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSBTWAF0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "SBT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "STEBA GOFROWNICA WE 16",
+            "ProductDescription": "Steba WE 16 gofrownica 5 wafel(e) Srebrny, Biały 1000 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "STEBA GOFROWNICA WE 16",
+            "ProductDescription": "Steba WE 16 waffle iron 5 waffle(s) Silver,White 1000 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "STEBA GOFROWNICA WE 16",
+            "ProductDescription": "Steba Waffeleisen WE 16"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4011833303202"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WE 16",
+        "Weight": 1720.0,
+        "Height": 280.0,
+        "Width": 240.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057254",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9b95531b-4f61-43eb-9528-52255ac5895c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-04-02T14:57:14Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSBTWAF0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:51.172000+00:00",
+        "sequence_number": 102358
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSBTWAF0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "SBT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "STEBA GOFROWNICA Z PODWÓJNĄ PLATFORMĄ GOFRÓW WE 30",
+            "ProductDescription": "Steba WE 30 gofrownica 2 wafel(e) Czarny, Srebrny 1300 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "STEBA GOFROWNICA Z PODWÓJNĄ PLATFORMĄ GOFRÓW WE 30",
+            "ProductDescription": "Steba WE 30 waffle iron 2 waffle(s) Black,Silver 1300 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "STEBA GOFROWNICA Z PODWÓJNĄ PLATFORMĄ GOFRÓW WE 30",
+            "ProductDescription": "Steba WE 30 Waffeleisen 2 Waffel(n) Schwarz, Silber 1300 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4011833302212"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WE 30",
+        "Weight": 3820.0,
+        "Height": 310.0,
+        "Width": 395.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057255",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a5d78076-4ded-4c80-b789-3b52fa7fcb47",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-04-02T14:57:34Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSBTWAF0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:51.172000+00:00",
+        "sequence_number": 102359
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSBTWAF0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "SBT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "STEBA GOFROWNICA WE 2",
+            "ProductDescription": "STEBA PODWÓJNA GOFROWNICA WE 2 1400W CZARNA"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "STEBA GOFROWNICA WE 2",
+            "ProductDescription": "STEBA DOUBLE WAFFLE MAKER WE 2 1400W BLACK"
+          },
+          {
+            "Language": "de",
+            "ProductName": "STEBA GOFROWNICA WE 2",
+            "ProductDescription": "STEBA DOPPELWAFFELMASCHINE WE 2 1400W SCHWARZ"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4011833303714"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WE 2",
+        "Weight": 2495.0,
+        "Height": 372.0,
+        "Width": 283.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052944",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c7180880-2f90-4032-a35a-3e289dd154c4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-05-05T10:37:11Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSBTWAF0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:54.484000+00:00",
+        "sequence_number": 141623
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBRR1",
+        "ProductVersion": "1.2",
+        "ProductType": "Waflownice",
+        "Brand": "Lafe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LAFE GOFROWNICA GFB-002",
+            "ProductDescription": "LAFE GFB-002 gofrownica"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LAFE GOFROWNICA GFB-002",
+            "ProductDescription": "LAFE GFB-002 waffle iron"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LAFE GOFROWNICA GFB-002",
+            "ProductDescription": "LAFE GFB-002 Waffeleisen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907512866627"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LAFGOF46819",
+        "Weight": 2440.0,
+        "Height": 290.0,
+        "Width": 350.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041486",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5f205cda-158e-4e1e-84a0-7dd181d64d40",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-29T17:30:18Z'",
+          "ModificationDate": "b'2025-06-04T12:18:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBRR1'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:41.194000+00:00",
+        "sequence_number": 114751
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDMEOWAF0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Waflownice",
+        "Brand": "Maestro",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wafelnica MR-716 Maestro",
+            "ProductDescription": "Wafelnica MR-716 Maestro"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wafelnica MR-716 Maestro",
+            "ProductDescription": "MR-716 Maestro waffle maker"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wafelnica MR-716 Maestro",
+            "ProductDescription": "MR-716 Maestro Waffeleisen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4820177145177"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MR-716",
+        "Weight": 1800.0,
+        "Height": 115.0,
+        "Width": 300.0,
+        "Depth": 262.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54844
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52339
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087689",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9a714aff-f64f-41a7-9fd4-760a6f49b720",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-09-12T13:52:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDMEOWAF0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:09.671000+00:00",
+        "sequence_number": 161174
+      }
+    }
+  ]
+}

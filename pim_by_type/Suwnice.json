@@ -1,0 +1,265 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWST",
+        "ProductVersion": "1.2",
+        "ProductType": "Suwnice",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suwnica Smitha HMS X2 17-51-002",
+            "ProductDescription": "HMS Fitness X2 ABS, Tylne, Biceps, Hamstrings, Czworogłowy, Trapezius, Triceps"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suwnica Smitha HMS X2 17-51-002",
+            "ProductDescription": "HMS X2 Smith crane"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suwnica Smitha HMS X2 17-51-002",
+            "ProductDescription": "HMS X2 Smith-Kran"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695500813"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069110",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-51-002",
+        "Weight": 175000.0,
+        "Height": 550.0,
+        "Width": 580.0,
+        "Depth": 2020.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55648
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54958
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064194",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ff4dba19-19cf-45ac-93e6-3f746cbae9ca",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-07T12:46:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWST'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:28.310000+00:00",
+        "sequence_number": 163510
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWGT",
+        "ProductVersion": "1.2",
+        "ProductType": "Suwnice",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suwnica Smitha HMS X1",
+            "ProductDescription": "HMS Fitness Atlas X1 ABS, Tylne, Biceps, Klatka piersiowa, Czworogłowy, Trapezius, Triceps"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suwnica Smitha HMS X1",
+            "ProductDescription": "HMS Fitness Atlas X1 ABS, Back, Biceps, Chest, Quadriceps, Trapezius, Triceps"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suwnica Smitha HMS X1",
+            "ProductDescription": "HMS Fitness Atlas X1 ABS, Rücken, Bizeps, Brust, Quadrizeps, Trapezius, Trizeps"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695500806"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069110",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-51-001",
+        "Weight": 110500.0,
+        "Height": 610.0,
+        "Width": 410.0,
+        "Depth": 2020.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54958
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55648
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047913",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "df948076-4927-4149-b2df-f3098cf99880",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-04T08:38:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWGT'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:01.197000+00:00",
+        "sequence_number": 115805
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWNP",
+        "ProductVersion": "1.1",
+        "ProductType": "Suwnice",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suwnica Smitha HMS X3",
+            "ProductDescription": "HMS Fitness Atlas X3 ABS, Czworogłowy, Trapezius, Triceps"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suwnica Smitha HMS X3",
+            "ProductDescription": "HMS Fitness Atlas X3 ABS, Quadriceps, Trapezius, Triceps"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suwnica Smitha HMS X3",
+            "ProductDescription": "HMS Fitness Atlas X3 ABS, Quadrizeps, Trapezius, Trizeps"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695588491"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069110",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-51-003",
+        "Weight": 53500.0,
+        "Height": 2000.0,
+        "Width": 210.0,
+        "Depth": 350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55648
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54958
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087343",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7a9504aa-c6c7-42c3-bae5-7a48fce439a7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-01T12:00:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWNP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:34.990000+00:00",
+        "sequence_number": 158046
+      }
+    }
+  ]
+}

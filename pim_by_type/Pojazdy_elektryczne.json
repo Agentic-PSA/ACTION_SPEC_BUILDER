@@ -1,0 +1,869 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBDSR",
+        "ProductVersion": "1.2",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Enero",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Quad elektryczny micron żółty 1032764",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Quad elektryczny micron żółty 1032764",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Quad elektryczny micron żółty 1032764",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902431032764"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1032764",
+        "Weight": 5800.0,
+        "Height": 640.0,
+        "Width": 295.0,
+        "Depth": 340.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039616",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "97c31ec6-9974-48e5-8d41-b5bc1621586b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-11T10:47:00Z'",
+          "ModificationDate": "b'2025-06-04T12:17:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBDSR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:23.904000+00:00",
+        "sequence_number": 164873
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRERZOPOJ0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Razor",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Razor-Gokart do driftu dla dziecka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Razor-Gokart do driftu dla dziecka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Razor-Gokart do driftu dla dziecka",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "25173840",
+        "Weight": 14000.0,
+        "Height": 340.0,
+        "Width": 800.0,
+        "Depth": 540.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083722",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Razor-Gokart do driftu dla dziecka"
+      },
+      "properties": {
+        "message_id": "3f294e79-8b8f-4e91-ad13-febb917a5503",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T13:41:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRERZOPOJ0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:56.697000+00:00",
+        "sequence_number": 122492
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD416",
+        "ProductVersion": "1.2",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Quad Micron na akumulator niebieski 1039107",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Quad Micron na akumulator niebieski 1039107",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Quad Micron na akumulator niebieski 1039107",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902431039107"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "198287",
+        "Weight": 5830.0,
+        "Height": 650.0,
+        "Width": 345.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050596",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9df456dd-8ddf-47f2-94d8-45f52d0ae468",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-13T19:25:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD416'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:15.276000+00:00",
+        "sequence_number": 137978
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRERZOPOJ0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Razor",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gokart elektryczny RAZOR Grand Force",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gokart elektryczny RAZOR Grand Force",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gokart elektryczny RAZOR Grand Force",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "845423026622"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "25173803",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092674",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "RAZOR gokart elektryczny GF Rad Rod 25173803"
+      },
+      "properties": {
+        "message_id": "bbcb4110-a687-49e3-b3ec-e526c91ede5a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-26T10:08:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRERZOPOJ0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:08.855000+00:00",
+        "sequence_number": 168822
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAM60",
+        "ProductVersion": "1.2",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Segway",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Segway - Gokart Electric Pro",
+            "ProductDescription": "Ninebot by Segway Kart GoKart Gokart do jeżdżenia"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Segway - Gokart Electric Pro",
+            "ProductDescription": "Ninebot Gokart PRO, Green Segway"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Segway - Gokart Electric Pro",
+            "ProductDescription": "Ninebot Gokart PRO, Grüner Segway"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8720254406503"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AA.04.01.02.0023",
+        "Weight": 64000.0,
+        "Height": 1140.0,
+        "Width": 910.0,
+        "Depth": 510.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037038",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8200f0f9-3cc4-4f10-96de-077ec3042aac",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-22T09:40:01Z'",
+          "ModificationDate": "b'2025-06-04T12:16:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAM60'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:21.669000+00:00",
+        "sequence_number": 111759
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMAN4PS0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Manta Multimedia Sp. z o.o.",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "XRIDER Kids' Electric Bike Cruiser 12 (WYPRZEDAŻ)",
+            "ProductDescription": "Pojazd elektryczny dziecięcy motocykl XRIDER Cruiser 12 Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "XRIDER Kids' Electric Bike Cruiser 12 (WYPRZEDAŻ)",
+            "ProductDescription": "Electric vehicle children's motorcycle XRIDER Cruiser 12 Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "XRIDER Kids' Electric Bike Cruiser 12 (WYPRZEDAŻ)",
+            "ProductDescription": "XRIDER Cruiser 12 Kinder-Elektromotorrad Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902510678746"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 21000.0,
+        "Height": 530.0,
+        "Width": 240.0,
+        "Depth": 1080.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100150118",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Motorek elektryczny XRIDER Cruiser 12 Plus Aplikacja Pomarańczowo-czarny"
+      },
+      "properties": {
+        "message_id": "0177d093-6fbf-4e0c-b391-ba97ebc0fef8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-19T14:39:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMAN4PS0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:39.063000+00:00",
+        "sequence_number": 170218
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SREMANPOJ0001",
+        "ProductVersion": "1.3",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Manta Multimedia Sp. z o.o.",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "XRIDER Kids' Electric Bike Cruiser 12",
+            "ProductDescription": "Pojazd elektryczny dziecięcy motocykl XRIDER Cruiser 12"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "XRIDER Kids' Electric Bike Cruiser 12",
+            "ProductDescription": "Electric vehicle children's motorcycle XRIDER Cruiser 12"
+          },
+          {
+            "Language": "de",
+            "ProductName": "XRIDER Kids' Electric Bike Cruiser 12",
+            "ProductDescription": "XRIDER Cruiser 12 Kinder-Elektromotorrad"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902510678746"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 21000.0,
+        "Height": 530.0,
+        "Width": 240.0,
+        "Depth": 1080.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027217",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Motorek elektryczny XRIDER Cruiser 12 Plus Aplikacja Pomarańczowo-czarny"
+      },
+      "properties": {
+        "message_id": "91e3777c-c0d2-44b7-9409-9c36f6fdd335",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-12T12:05:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SREMANPOJ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:37.823000+00:00",
+        "sequence_number": 140786
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRERZOPOJ0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Razor",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Razor CRAZY CART 20173861 Lithium",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Razor CRAZY CART 20173861 Lithium",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Razor CRAZY CART 20173861 Lithium",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "845423028060"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "20173861",
+        "Weight": 31000.0,
+        "Height": 940.0,
+        "Width": 650.0,
+        "Depth": 510.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082575",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Razor CRAZY CART 20173861 Lithium"
+      },
+      "properties": {
+        "message_id": "5e405600-6ba8-4ff5-8a07-3e779e8a2e7b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T09:36:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRERZOPOJ0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:01.500000+00:00",
+        "sequence_number": 155195
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRERZOPOJ0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Razor",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Razor CRAZY CART XL Pro 25173808",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Razor CRAZY CART XL Pro 25173808",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Razor CRAZY CART XL Pro 25173808",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "845423023591"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "25173808",
+        "Weight": 61300.0,
+        "Height": 840.0,
+        "Width": 1160.0,
+        "Depth": 640.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082576",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Razor CRAZY CART XL Pro 25173808"
+      },
+      "properties": {
+        "message_id": "dcf919e9-e64a-4202-9550-65fb1bffb9a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T09:36:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRERZOPOJ0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:01.500000+00:00",
+        "sequence_number": 155196
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DIDRZOPOJ0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Pojazdy elektryczne",
+        "Brand": "Razor",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RAZOR-motocykl elektryczny Pecket Mod Petite Blue",
+            "ProductDescription": "Razor Pocket Mod Petite skuter elektryczny 1 siedz. 13 km/h"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RAZOR-motocykl elektryczny Pecket Mod Petite Blue",
+            "ProductDescription": "Razor Pocket Mod Petite electric scooter 1 seat(s) 13 km/h"
+          },
+          {
+            "Language": "de",
+            "ProductName": "RAZOR-motocykl elektryczny Pecket Mod Petite Blue",
+            "ProductDescription": "Razor Pocket Mod Petite  Elektroroller 1 Sitz(e) 13 km/h"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "845423023256"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "15173839",
+        "Weight": 16320.0,
+        "Height": 520.0,
+        "Width": 260.0,
+        "Depth": 960.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55899
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059761",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8f5ea2d8-6fd0-4db8-9f81-48287b896a6a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-04-22T10:10:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIDRZOPOJ0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:12.838000+00:00",
+        "sequence_number": 118407
+      }
+    }
+  ]
+}

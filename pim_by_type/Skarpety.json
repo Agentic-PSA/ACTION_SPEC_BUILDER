@@ -1,0 +1,4604 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD918",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety no pain no gain-storm blue-3010-l (43-46)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety no pain no gain-storm blue-3010-l (43-46)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety no pain no gain-storm blue-3010-l (43-46)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866494618"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005434300032094",
+        "Weight": 50.0,
+        "Height": 15.0,
+        "Width": 170.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064145",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d2a63782-dc49-4629-a4b2-b6797f801d4c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-16T12:06:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD918'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:28.980000+00:00",
+        "sequence_number": 119257
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREA61",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety DYNAFIT Tour Warm Merino Różowe (35-38)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety DYNAFIT Tour Warm Merino Różowe (35-38)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety DYNAFIT Tour Warm Merino Różowe (35-38)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866417204"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002842600032084",
+        "Weight": 90.0,
+        "Height": 100.0,
+        "Width": 250.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064217",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "70204a05-a57d-4669-b784-9c30ae9ce738",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-03T11:26:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREA61'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:29.917000+00:00",
+        "sequence_number": 119290
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT Work 42-44",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT Work 42-44",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT Work 42-44",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284426179"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9639/31/42-44",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047437",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT Work 42-44"
+      },
+      "properties": {
+        "message_id": "9fe75f0a-f41e-4620-a3d9-a67d351568f7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:11.758000+00:00",
+        "sequence_number": 134195
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD863",
+        "ProductVersion": "1.3",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety ultra cushion DYNAFIT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety ultra cushion DYNAFIT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety ultra cushion DYNAFIT",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866095198"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002060900020849",
+        "Weight": 60.0,
+        "Height": 50.0,
+        "Width": 170.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044740",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d1c513e6-1975-4113-93f3-6a13c7aa198b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-28T16:20:37Z'",
+          "ModificationDate": "b'2025-08-07T08:27:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD863'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:57.825000+00:00",
+        "sequence_number": 148549
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDAG9",
+        "ProductVersion": "1.3",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety live to ride-burgundy-8070-m (39-42)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety live to ride-burgundy-8070-m (39-42)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety live to ride-burgundy-8070-m (39-42)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866662239"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0008109500040429",
+        "Weight": 45.0,
+        "Height": 100.0,
+        "Width": 150.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53860
+              },
+              {
+                "CategoryId": 54308
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044772",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fea66890-28e3-48f6-8398-2b474472dfee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-22T07:22:09Z'",
+          "ModificationDate": "b'2025-08-07T08:27:47Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDAG9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:58.685000+00:00",
+        "sequence_number": 148581
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREADA",
+        "ProductVersion": "1.3",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety no pain no gain-storm blue-3010-m (39-42)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety no pain no gain-storm blue-3010-m (39-42)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety no pain no gain-storm blue-3010-m (39-42)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866494601"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005434300032095",
+        "Weight": 65.0,
+        "Height": 120.0,
+        "Width": 155.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046273",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "98544ccd-fec1-4c9c-a10b-81736dd85eab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-07T07:16:27Z'",
+          "ModificationDate": "b'2025-08-07T08:28:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREADA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:06.389000+00:00",
+        "sequence_number": 148984
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NTOGVISKA0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Glovii",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE Z PILOTEM CZERWONE GQ3L",
+            "ProductDescription": "Glovii GQ3L skarpetka Unisex Skarpety sportowe Czerwony 1 par(y)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE Z PILOTEM CZERWONE GQ3L",
+            "ProductDescription": "Glovii GQ3L sock Unisex Athletic socks Red 1 pair(s)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE Z PILOTEM CZERWONE GQ3L",
+            "ProductDescription": "Glovii GQ3L Socke Unisex Sportsocken Rot 1 Paar(e)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908246727000"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GQ3L",
+        "Weight": 520.0,
+        "Height": 95.0,
+        "Width": 250.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53860
+              },
+              {
+                "CategoryId": 54308
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065826",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ebb868b3-6269-443a-a758-03b27e7c6fbf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-10-14T11:54:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NTOGVISKA0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:42.921000+00:00",
+        "sequence_number": 164233
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD539",
+        "ProductVersion": "1.3",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety stay fast-rock khaki-3010-l (43-46)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety stay fast-rock khaki-3010-l (43-46)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety stay fast-rock khaki-3010-l (43-46)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866663328"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005416800040308",
+        "Weight": 50.0,
+        "Height": 25.0,
+        "Width": 155.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56777
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044719",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cd8dd5a0-f932-40c5-af4b-9097cefc4fdb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-26T13:00:46Z'",
+          "ModificationDate": "b'2025-08-07T08:27:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD539'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106306
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD572",
+        "ProductVersion": "1.3",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety no pain no gain-pink glo-0910-s (35-38)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety no pain no gain-pink glo-0910-s (35-38)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety no pain no gain-pink glo-0910-s (35-38)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866390712"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005434300032084",
+        "Weight": 44.0,
+        "Height": 30.0,
+        "Width": 160.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56777
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "33463811-b7a6-4933-9d34-f4268d8be9fb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-20T07:20:51Z'",
+          "ModificationDate": "b'2025-08-07T08:27:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD572'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106308
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD573",
+        "ProductVersion": "1.3",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety live to ride-storm blue-3010-l (43-46)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety live to ride-storm blue-3010-l (43-46)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety live to ride-storm blue-3010-l (43-46)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866519397"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0008109500032094",
+        "Weight": 50.0,
+        "Height": 15.0,
+        "Width": 160.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53860
+              },
+              {
+                "CategoryId": 54308
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56777
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044722",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "097a9723-f4f8-437b-9f20-6c5aafa9ad24",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-24T12:58:43Z'",
+          "ModificationDate": "b'2025-08-07T08:27:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD573'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106309
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD786",
+        "ProductVersion": "1.3",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety no pain no gain-pink glo-0910-m (39-42)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety no pain no gain-pink glo-0910-m (39-42)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety no pain no gain-pink glo-0910-m (39-42)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866390729"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005434300032083",
+        "Weight": 46.0,
+        "Height": 30.0,
+        "Width": 160.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56777
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044734",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c53d6b7f-2dcd-4489-bafb-30b8f7b9cff6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T07:23:26Z'",
+          "ModificationDate": "b'2025-08-07T08:27:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD786'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106321
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAXMC",
+        "ProductVersion": "1.4",
+        "ProductType": "Skarpety",
+        "Brand": "alpinus",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bielizna termoaktywna damska Alpinus Tactical Base",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bielizna termoaktywna damska Alpinus Tactical Base",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bielizna termoaktywna damska Alpinus Tactical Base",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904555183735"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "129434_XL",
+        "Weight": 320.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038700",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9c621bba-b512-420d-b530-f0412cccc38f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-03T04:36:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAXMC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:09.879000+00:00",
+        "sequence_number": 120209
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT Jagd Lang 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT Jagd Lang 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT Jagd Lang 42",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348945"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9645/35/42",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056011",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT Jagd Lang 42"
+      },
+      "properties": {
+        "message_id": "bf416fa3-c9e7-4e6e-9d37-691ed7fc6987",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149371
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT Jagd Lang 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT Jagd Lang 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT Jagd Lang 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348938"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9645/35/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056012",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT Jagd Lang 39"
+      },
+      "properties": {
+        "message_id": "5291884e-78da-4324-8f95-7413b0156201",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149372
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0014",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 damskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 damskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 damskie 42",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348310"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9635/31/42",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056013",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 damskie 42"
+      },
+      "properties": {
+        "message_id": "4898a504-f7e0-4b8f-9459-9cddf5af2177",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:11Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149373
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0019",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348396"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9636/31/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056014",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 męskie 39"
+      },
+      "properties": {
+        "message_id": "16113db8-4ea9-42e9-a8db-5406c636cd3f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149374
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT Work 45-47",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT Work 45-47",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT Work 45-47",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284426186"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9639/31/45-47",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061938",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT Work 45-47"
+      },
+      "properties": {
+        "message_id": "94cb242e-dc6b-48a2-bb65-b57cdf1586a0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135858
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT Work 39-41",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT Work 39-41",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT Work 39-41",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284426162"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9639/31/39-41",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061939",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT Work 39-41"
+      },
+      "properties": {
+        "message_id": "f9b6abb9-9eee-4eb7-aa65-f590ecf1de44",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135859
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0017",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284577574"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9636/36/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061940",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 męskie 39"
+      },
+      "properties": {
+        "message_id": "71a437e7-4aaf-46dd-a75a-920467c0dce2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:20Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135860
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0018",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284577598"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9636/36/45",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061941",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 męskie 45"
+      },
+      "properties": {
+        "message_id": "f9354d31-8211-450b-ba26-1d7ef4225b48",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135861
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0024",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT8 damskie 39-41",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT8 damskie 39-41",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT8 damskie 39-41",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348655"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9637/31/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061942",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT8 damskie 39-41"
+      },
+      "properties": {
+        "message_id": "14f61b9a-335b-4fe2-99ac-67403987711c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135862
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0022",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 męskie 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348426"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9636/49/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050146",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 męskie 39"
+      },
+      "properties": {
+        "message_id": "4836d168-654c-43c8-a092-255429f87d08",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:30.540000+00:00",
+        "sequence_number": 121209
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMHLKSKA0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Helikon HEAVYWEIGHT - Czarne - L: 43-46",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Helikon HEAVYWEIGHT - Czarne - L: 43-46",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Helikon HEAVYWEIGHT - Czarne - L: 43-46",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218756212"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.SK-HWT-WA-01-B05",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083425",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Helikon HEAVYWEIGHT - Czarne - L: 43-46 (SK-HWT-WA-01-B05)"
+      },
+      "properties": {
+        "message_id": "d8d71a15-37ed-4af1-9f34-be28a8ed4ee1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T15:31:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMHLKSKA0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:14.267000+00:00",
+        "sequence_number": 136152
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMHLKSKA0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Helikon HEAVYWEIGHT - Czarne - M: 39-42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Helikon HEAVYWEIGHT - Czarne - M: 39-42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Helikon HEAVYWEIGHT - Czarne - M: 39-42",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218756205"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.SK-HWT-WA-01-B04",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083426",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Helikon HEAVYWEIGHT - Czarne - M: 39-42 (SK-HWT-WA-01-B04)"
+      },
+      "properties": {
+        "message_id": "a8ff5af3-c47c-46bc-bcba-95afb73e265b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T15:31:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMHLKSKA0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:14.267000+00:00",
+        "sequence_number": 136153
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT Jagd 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT Jagd 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT Jagd 42",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348907"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9644/35/42",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065871",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT Jagd 42"
+      },
+      "properties": {
+        "message_id": "7c311411-eb98-4116-b5af-39ceabdbd120",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:13.499000+00:00",
+        "sequence_number": 151164
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348334"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9635/95/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065872",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 damskie 39"
+      },
+      "properties": {
+        "message_id": "43b40cde-f10c-4cb9-9dd2-7d3e84dd1ade",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:13.499000+00:00",
+        "sequence_number": 151165
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 męskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 męskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 męskie 42",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284577581"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9636/36/42",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065873",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 męskie 42"
+      },
+      "properties": {
+        "message_id": "d06407bb-6296-4690-bd1a-d01a5da8d49c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:13.499000+00:00",
+        "sequence_number": 151166
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0025",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT8 damskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT8 damskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT8 damskie 42",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284502415"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9637/21/42",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065874",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT8 damskie 42"
+      },
+      "properties": {
+        "message_id": "ceec05a8-cc32-4c0c-88b3-66ef82fef248",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:13.499000+00:00",
+        "sequence_number": 151167
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMHLKSKA0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety HELIKON All Round - Navy Blue - M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety HELIKON All Round - Navy Blue - M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety HELIKON All Round - Navy Blue - M",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218793101"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.SK-ARS-CB-37-B04",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083420",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety HELIKON All Round -  - Navy Blue - M/Regular (SK-ARS-CB-37-B04)"
+      },
+      "properties": {
+        "message_id": "609a250b-6fea-479f-945f-8127bfd5ac67",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T15:30:44Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMHLKSKA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:53.884000+00:00",
+        "sequence_number": 122349
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMHLKSKA0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety HELIKON All Round - Czarny - L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety HELIKON All Round - Czarny - L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety HELIKON All Round - Czarny - L",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218793248"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.SK-ARS-CB-01-B05",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083421",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety HELIKON All Round -  - Czarny - L/Regular (SK-ARS-CB-01-B05)"
+      },
+      "properties": {
+        "message_id": "23a148cd-077e-42a4-b73e-8d8edc49c873",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T15:30:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMHLKSKA0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:53.884000+00:00",
+        "sequence_number": 122350
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMHLKSKA0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety HELIKON All Round - Czarny - M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety HELIKON All Round - Czarny - M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety HELIKON All Round - Czarny - M",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218793149"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.SK-ARS-CB-01-B04",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083422",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety HELIKON All Round -  - Czarny - M/Regular (SK-ARS-CB-01-B04)"
+      },
+      "properties": {
+        "message_id": "1ee4b371-eaf6-489e-9d9e-5d077ac9829a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T15:30:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMHLKSKA0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:53.884000+00:00",
+        "sequence_number": 122351
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMHLKSKA0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety HELIKON All Round - Navy Blue - L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety HELIKON All Round - Navy Blue - L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety HELIKON All Round - Navy Blue - L",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218793118"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.SK-ARS-CB-37-B05",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083423",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety HELIKON All Round -  - Navy Blue - L/Regular (SK-ARS-CB-37-B05)"
+      },
+      "properties": {
+        "message_id": "30928100-f315-4a87-be12-5282a33aef32",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T15:30:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMHLKSKA0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:53.884000+00:00",
+        "sequence_number": 122352
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMHLKSKA0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Helikon Merino - Olive Green -L:43-46",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Helikon Merino - Olive Green -L:43-46",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Helikon Merino - Olive Green -L:43-46",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902688044985"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.SK-MSC-MW-0211A-B05",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083424",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Helikon Merino - Olive Green/Coyote - L: 43-46 (SK-MSC-MW-0211A-B05)"
+      },
+      "properties": {
+        "message_id": "af9bf74f-50cd-433f-8324-11ccd2b6f18b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T15:30:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMHLKSKA0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:53.884000+00:00",
+        "sequence_number": 122353
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348303"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9635/31/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071719",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 damskie 39"
+      },
+      "properties": {
+        "message_id": "42cb8cfd-8748-4ca7-9c65-30b821f76f69",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:36.200000+00:00",
+        "sequence_number": 130599
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0027",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT8 męskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT8 męskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT8 męskie 42",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348693"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9638/31/42",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071720",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT8 męskie 42"
+      },
+      "properties": {
+        "message_id": "71b36f2b-e7cf-42d0-8129-8a897eabbd50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:36.200000+00:00",
+        "sequence_number": 130600
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0028",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT8 męskie 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT8 męskie 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT8 męskie 45",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348761"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9638/31/45",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT8 męskie 45"
+      },
+      "properties": {
+        "message_id": "cb7b9463-8322-4c7f-a121-27a8b76a320a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:36.200000+00:00",
+        "sequence_number": 130601
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "RUNADDSKA0038",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "Adidas",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety adidas 3-Stripes Ankle 3Pak GE6165",
+            "ProductDescription": "Skarpety Adidas 3-Stripes Ankle 3Pak GE6165"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety adidas 3-Stripes Ankle 3Pak GE6165",
+            "ProductDescription": "Adidas 3-Stripes Ankle Socks 3Pak GE6165"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety adidas 3-Stripes Ankle 3Pak GE6165",
+            "ProductDescription": "Adidas 3-Streifen Knöchel Socken 3Pak GE6165"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4061612246091"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GE6165",
+        "Weight": 101.0,
+        "Height": 70.0,
+        "Width": 160.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54283
+              },
+              {
+                "CategoryId": 53826
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076038",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "335d3d28-953a-4628-bff2-95e600785e45",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-10-18T05:21:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'RUNADDSKA0038'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130645
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0023",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348488"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9636/31/45",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051091",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 męskie 45"
+      },
+      "properties": {
+        "message_id": "7f29fe18-fe56-4218-9e51-891e605a19a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:23.995000+00:00",
+        "sequence_number": 138426
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT Jagd 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT Jagd 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT Jagd 45",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348914"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9644/35/45",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077655",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT Jagd 45"
+      },
+      "properties": {
+        "message_id": "e98a7aa7-195b-4a11-8a58-f6cf7ef12534",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:41.705000+00:00",
+        "sequence_number": 152666
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 damskie 36",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 damskie 36",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 damskie 36",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348266"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9635/21/36",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077656",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 damskie 36"
+      },
+      "properties": {
+        "message_id": "1711312e-2059-4bfb-952a-3e1cbe1fe76d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:41.705000+00:00",
+        "sequence_number": 152667
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 damskie 36",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 damskie 36",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 damskie 36",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348327"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9635/95/36",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077657",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 damskie 36"
+      },
+      "properties": {
+        "message_id": "28063685-3df0-42d9-96c9-c28446366510",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:41.705000+00:00",
+        "sequence_number": 152668
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 damskie 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348273"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9635/21/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077658",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 damskie 39"
+      },
+      "properties": {
+        "message_id": "e9e7bbb8-4e11-4bef-a080-969d452f6fab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:41.705000+00:00",
+        "sequence_number": 152669
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0021",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 męskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 męskie 42",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 męskie 42",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348402"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9636/31/42",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077659",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 męskie 42"
+      },
+      "properties": {
+        "message_id": "ecec35a1-f13a-4bae-be79-c796638e39b3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:41.705000+00:00",
+        "sequence_number": 152670
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0026",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT8 męskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT8 męskie 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT8 męskie 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348686"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9638/31/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077660",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT8 męskie 39"
+      },
+      "properties": {
+        "message_id": "cae66d70-dcff-419d-96dc-3ceac554b7f6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:41.705000+00:00",
+        "sequence_number": 152671
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NTOGVISKA0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Glovii",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE Z PILOTEM CZERWONE GQ3M",
+            "ProductDescription": "Glovii GQ3M skarpetka Czerwony Unisex 1 par"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE Z PILOTEM CZERWONE GQ3M",
+            "ProductDescription": "Glovii GQ3M sock Red Unisex 1 pair(s)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE Z PILOTEM CZERWONE GQ3M",
+            "ProductDescription": "Glovii GQ3M Socke Rot Unisex 1 Paar(e)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908246727017"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GQ3M",
+        "Weight": 500.0,
+        "Height": 125.0,
+        "Width": 255.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058968",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "44e4c245-5ba1-473b-ba0a-54a8dad4ad4d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-10-14T11:54:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NTOGVISKA0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:45.276000+00:00",
+        "sequence_number": 123886
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0015",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 Lang 39-41",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 Lang 39-41",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 Lang 39-41",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284502361"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9629/31/39-41",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053692",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 Lang 39-41"
+      },
+      "properties": {
+        "message_id": "f14ac485-9263-4872-a22d-7b2125db5e12",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:50.389000+00:00",
+        "sequence_number": 139794
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0020",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT6 męskie 45",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348495"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9636/49/45",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047985",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT6 męskie 45"
+      },
+      "properties": {
+        "message_id": "380a358e-c360-416f-98db-434db18de157",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:42:28Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:01.197000+00:00",
+        "sequence_number": 115839
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCPF",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Glovii",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE",
+            "ProductDescription": "Glovii GQ2M skarpetka Unisex Skarpety sportowe Czarny 1 par(y)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE",
+            "ProductDescription": "Glovii GQ2M sock Unisex Athletic socks Black 1 pair(s)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GLOVII SKARPETY OGRZEWANE",
+            "ProductDescription": "Glovii GQ2M Socke Unisex Sportsocken Schwarz 1 Paar(e)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908246725525"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159500",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GQ2M",
+        "Weight": 510.0,
+        "Height": 50.0,
+        "Width": 320.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56777
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083116",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c1bbb3de-6992-4b21-966d-0b5b0b9ebc01",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-19T23:05:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCPF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:06.781000+00:00",
+        "sequence_number": 155452
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBYP2",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "Salewa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety mtn trn am qrt-bungee cord-l (42-44)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety mtn trn am qrt-bungee cord-l (42-44)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety mtn trn am qrt-bungee cord-l (42-44)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866633635"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005324100040236",
+        "Weight": 560.0,
+        "Height": 48.0,
+        "Width": 180.0,
+        "Depth": 254.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093849",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3d634ac9-b531-4c91-8426-7a4df1b97998",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-04T07:25:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBYP2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:37.888000+00:00",
+        "sequence_number": 171806
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREA07",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety no pain no gain dawn DYNAFIT (39-42) 8560",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety no pain no gain dawn DYNAFIT (39-42) 8560",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety no pain no gain dawn DYNAFIT (39-42) 8560",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866390668"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159699",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005434300042488",
+        "Weight": 50.0,
+        "Height": 25.0,
+        "Width": 150.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54308
+              },
+              {
+                "CategoryId": 53860
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075123",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fec484b8-d564-4989-8e2e-7248fbcbe356",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-20T07:20:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREA07'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:26.190000+00:00",
+        "sequence_number": 143264
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBYCH",
+        "ProductVersion": "1.1",
+        "ProductType": "Skarpety",
+        "Brand": "Salewa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety mtn trn am low-bungee cord-l (42-44)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety mtn trn am low-bungee cord-l (42-44)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety mtn trn am low-bungee cord-l (42-44)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005323700040236",
+        "Weight": 560.0,
+        "Height": 180.0,
+        "Width": 48.0,
+        "Depth": 254.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090626",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cce967d8-5fa0-4542-a7b5-e6736018ea83",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-17T12:41:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBYCH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:51.718000+00:00",
+        "sequence_number": 131325
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMME2SKA0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Skarpety",
+        "Brand": "Meindl",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skarpety Meindl MT Jagd 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skarpety Meindl MT Jagd 39",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skarpety Meindl MT Jagd 39",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4056284348891"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61159900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9644/35/39",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.31.10.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56137
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067788",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skarpety Meindl MT Jagd 39"
+      },
+      "properties": {
+        "message_id": "563dc004-04d9-4341-aad9-1b28fe14929b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-14T11:41:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMME2SKA0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:12.627000+00:00",
+        "sequence_number": 103475
+      }
+    }
+  ]
+}

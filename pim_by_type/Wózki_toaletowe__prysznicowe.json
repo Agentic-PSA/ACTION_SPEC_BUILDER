@@ -1,0 +1,241 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LITMDHWTP0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki toaletowe, prysznicowe",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podnośnik transportowo - kąpielowy DAVID",
+            "ProductDescription": "Podnośnik transportowo - kąpielowy DAVID"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podnośnik transportowo - kąpielowy DAVID",
+            "ProductDescription": "Transport and bath lift DAVID"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podnośnik transportowo - kąpielowy DAVID",
+            "ProductDescription": "Transport und Badelift DAVID"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780447106"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DAVID",
+        "Weight": 46000.0,
+        "Height": 1290.0,
+        "Width": 640.0,
+        "Depth": 365.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56393
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054561",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Podnośnik transportowo - kąpielowy DAVID"
+      },
+      "properties": {
+        "message_id": "1b584454-75f8-451b-941d-23102b52bac8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-27T10:21:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMDHWTP0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:46.720000+00:00",
+        "sequence_number": 167741
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMDHWTP0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki toaletowe, prysznicowe",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek inwalidzki sanitarno-prysznicowy BMW02",
+            "ProductDescription": "Wózek inwalidzki sanitarno-prysznicowy BMW02"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek inwalidzki sanitarno-prysznicowy BMW02",
+            "ProductDescription": "Sanitary wheelchair and shower trolley BMW02"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek inwalidzki sanitarno-prysznicowy BMW02",
+            "ProductDescription": "Sanitärrollstuhl und Duschwagen BMW02"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952075709040"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 22000.0,
+        "Height": 885.0,
+        "Width": 570.0,
+        "Depth": 340.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56393
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018231",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c6df9a49-6721-43d1-99dc-ec349faf31e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-08T14:23:33Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMDHWTP0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147565
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMDHWTP0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki toaletowe, prysznicowe",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podnośnik transportowo-kąpielowy SAMSON + nosidł",
+            "ProductDescription": "Podnośnik transportowo - kąpielowy SAMSON marki VITEA CARE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podnośnik transportowo-kąpielowy SAMSON + nosidł",
+            "ProductDescription": "Transport and bath lift SAMSON by VITEA CARE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podnośnik transportowo-kąpielowy SAMSON + nosidł",
+            "ProductDescription": "Transport- und Badelift SAMSON von VITEA CARE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780446208"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84289090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 47000.0,
+        "Height": 365.0,
+        "Width": 1365.0,
+        "Depth": 725.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.22.18.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56393
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018232",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bff24500-69fe-4e98-9f45-9e0a0ed9631b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-27T11:11:05Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMDHWTP0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147566
+      }
+    }
+  ]
+}

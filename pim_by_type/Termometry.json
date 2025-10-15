@@ -1,0 +1,2618 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "DIOBRATDC0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "Braun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr bezdotykowy BRAUN BNT400",
+            "ProductDescription": "Braun BNT400 Teledetekcja Biały Czoło"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr bezdotykowy BRAUN BNT400",
+            "ProductDescription": "Braun BNT400 Remote sensing White Forehead"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr bezdotykowy BRAUN BNT400",
+            "ProductDescription": "Braun BNT400 Fernwarnehmung Weiß Stirn"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4022167004000"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BNT400",
+        "Weight": 270.0,
+        "Height": 60.0,
+        "Width": 205.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53335
+              },
+              {
+                "CategoryId": 56459
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063690",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3fcb416a-5ef7-49db-9260-d235fa627bf9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-04T12:35:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIOBRATDC0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:27.636000+00:00",
+        "sequence_number": 119190
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDNY8",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Terdens Elektroniczna stacja pogody Monsun",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Terdens Elektroniczna stacja pogody Monsun",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Terdens Elektroniczna stacja pogody Monsun",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901733003540"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3540",
+        "Weight": 200.0,
+        "Height": 57.0,
+        "Width": 140.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045792",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f0507090-3cc2-4eb2-92cb-351052cec1ca",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-05T13:37:25Z'",
+          "ModificationDate": "b'2025-06-04T12:21:01Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDNY8'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:03.381000+00:00",
+        "sequence_number": 106828
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPBLATEB0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr do mięsa Blaupunkt FTM501",
+            "ProductDescription": "Termometr cyfrowy do mięsa Blaupunkt FTM501"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr do mięsa Blaupunkt FTM501",
+            "ProductDescription": "Blaupunkt digital meat thermometer FTM501"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr do mięsa Blaupunkt FTM501",
+            "ProductDescription": "Blaupunkt digitales Fleischthermometer FTM501"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901750505348"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 160.0,
+        "Height": 95.0,
+        "Width": 190.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053743",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Termometr cyfrowy do mięsa Blaupunkt FTM501"
+      },
+      "properties": {
+        "message_id": "fcbd1f97-f7cb-4e82-bda6-57f1c5c79be2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-06T16:15:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPBLATEB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:46.226000+00:00",
+        "sequence_number": 149739
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBNPB",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "Govee",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Govee H5075 Termometr i higrometr Bluetooth",
+            "ProductDescription": "Govee H5075 inteligentny dom - czujnik Bezprzewodowy Bluetooth"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Govee H5075 Termometr i higrometr Bluetooth",
+            "ProductDescription": "Govee H5075 | Thermometer & Hygrometer | Bluetooth, Display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Govee H5075 Termometr i higrometr Bluetooth",
+            "ProductDescription": "Govee H5075 | Thermometer & Hygrometer | Bluetooth, Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6974316991489"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "H5075001",
+        "Weight": 105.0,
+        "Height": 30.0,
+        "Width": 100.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040892",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e5564895-0fb7-4361-ab21-70a5c86273b8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-14T09:42:04Z'",
+          "ModificationDate": "b'2025-06-04T12:18:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBNPB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:39.275000+00:00",
+        "sequence_number": 137500
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DIOMENTDC0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr bezdotykowy Medisana Infrared FTN GR",
+            "ProductDescription": "Medisana 76120 termometr elektroniczny Teledetekcja"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr bezdotykowy Medisana Infrared FTN GR",
+            "ProductDescription": "Medisana 76120 digital body thermometer Remote sensing"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr bezdotykowy Medisana Infrared FTN GR",
+            "ProductDescription": "Medisana 76120 Digitales Fieberthermometer Fernwarnehmung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588761201"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "76120 GR",
+        "Weight": 380.0,
+        "Height": 85.0,
+        "Width": 175.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53335
+              },
+              {
+                "CategoryId": 56459
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050708",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "628226db-fbe2-47b6-b6be-7d00e6ff9713",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-13T09:51:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIOMENTDC0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:17.150000+00:00",
+        "sequence_number": 138079
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAHDJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "iHealth",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr iHealth PT3 ręczny Biały F, °C 32-42,9°C",
+            "ProductDescription": "iHealth PT3 ręczny termometr Biały F, °C 32 - 42,9 °C Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr iHealth PT3 ręczny Biały F, °C 32-42,9°C",
+            "ProductDescription": "iHealth PT3 handheld thermometer White F, °C 32 - 42.9 °C Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr iHealth PT3 ręczny Biały F, °C 32-42,9°C",
+            "ProductDescription": "iHealth PT3 Handthermometer Weiß F, °C 32 - 42,9 °C Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "856362005043"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PT3-15",
+        "Weight": 146.0,
+        "Height": 172.0,
+        "Width": 66.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53335
+              },
+              {
+                "CategoryId": 56459
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051075",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0032254c-0804-429e-8703-2e709b5d522f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-13T08:56:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAHDJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:23.995000+00:00",
+        "sequence_number": 138410
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DIOBRATDC0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "Braun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr bezdotykowy do czoła Braun BNT400B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr bezdotykowy do czoła Braun BNT400B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr bezdotykowy do czoła Braun BNT400B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4022167204004"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BNT400",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56459
+              },
+              {
+                "CategoryId": 53335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091806",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4234ca69-9fbf-48ea-9c50-989636ac33e8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-23T11:28:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIOBRATDC0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:54.955000+00:00",
+        "sequence_number": 168128
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DGNHAXTBE0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "Haxe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr bezdotykowy na podczerwień HW-2",
+            "ProductDescription": "Termometr bezdotykowy na podczerwień HW-2"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr bezdotykowy na podczerwień HW-2",
+            "ProductDescription": "HW-2 non-contact infrared thermometer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr bezdotykowy na podczerwień HW-2",
+            "ProductDescription": "Berührungsloses Infrarot-Thermometer HW-2"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6959989109225"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56459
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100007641",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "78060444-04c5-421a-984f-187de6aea722",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T14:13:12Z'",
+          "ModificationDate": "b'2025-06-04T11:58:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DGNHAXTBE0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110767
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DGNHAXTBE0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "Haxe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bezdotykowy termometr na podczewień KFT22",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bezdotykowy termometr na podczewień KFT22",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bezdotykowy termometr na podczewień KFT22",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902696000072"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 114.0,
+        "Height": 53.0,
+        "Width": 185.0,
+        "Depth": 82.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56459
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100007642",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2a689ee4-a682-4a0f-b721-1387ce996741",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T14:16:54Z'",
+          "ModificationDate": "b'2025-06-04T11:58:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DGNHAXTBE0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110768
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DGNHAXTBE0004",
+        "ProductVersion": "1.3",
+        "ProductType": "Termometry",
+        "Brand": "Haxe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr bezdotykowy na podczerwień HW-2",
+            "ProductDescription": "Termometr bezdotykowy na podczerwień HW-2"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr bezdotykowy na podczerwień HW-2",
+            "ProductDescription": "HW-2 non-contact infrared thermometer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr bezdotykowy na podczerwień HW-2",
+            "ProductDescription": "Berührungsloses Infrarot-Thermometer HW-2"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6959989100024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 348.0,
+        "Height": 64.0,
+        "Width": 186.0,
+        "Depth": 131.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56459
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100007644",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6ef05efd-c0da-4b29-b034-71fd4382fa75",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-22T14:32:10Z'",
+          "ModificationDate": "b'2025-09-30T13:40:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DGNHAXTBE0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110769
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DIOHEBTDC0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "HELBO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr bezdotykowy 2 w 1 Depan",
+            "ProductDescription": " Termometr bezdotykowy  2 w 1 DEPAN PC868"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr bezdotykowy 2 w 1 Depan",
+            "ProductDescription": "Non-Contact Thermometer 2 in 1 DEPAN PC868"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr bezdotykowy 2 w 1 Depan",
+            "ProductDescription": "Berührungsloses Thermometer 2 in 1 DEPAN PC868"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902166728024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 220.0,
+        "Height": 125.0,
+        "Width": 175.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56459
+              },
+              {
+                "CategoryId": 53335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100008320",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Termometr bezdotykowy 2 w 1 Depan PC868"
+      },
+      "properties": {
+        "message_id": "83890502-9a69-4c75-a2a5-adb675393c58",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-12-15T14:58:20Z'",
+          "ModificationDate": "b'2025-06-04T11:59:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIOHEBTDC0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:39.835000+00:00",
+        "sequence_number": 125712
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPGEFTEB0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr do herbaty/mleka GEFU G-21770",
+            "ProductDescription": "GEFU SIDO termometr do żywności 0 - 110 °C Analogowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr do herbaty/mleka GEFU G-21770",
+            "ProductDescription": "GEFU SIDO food thermometer 0 - 110 °C Analog"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr do herbaty/mleka GEFU G-21770",
+            "ProductDescription": "GEFU SIDO Essensthermometer 0 - 110 °C Analog"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664217705"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21770",
+        "Weight": 80.0,
+        "Height": 40.0,
+        "Width": 190.0,
+        "Depth": 83.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056872",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Termometr do herbaty/mleka GEFU SIDO G-21770"
+      },
+      "properties": {
+        "message_id": "490febbc-f423-424b-870b-9d50308141d7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-26T12:47:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPGEFTEB0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:04.978000+00:00",
+        "sequence_number": 118044
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPGOVTEB0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "Govee",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Govee H5179 Termometr i higrometr Wi-Fi",
+            "ProductDescription": " GOVEE H5179; TERMOMETR I HIGROMETR; WI-FI, WYŚWIETLACZ"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Govee H5179 Termometr i higrometr Wi-Fi",
+            "ProductDescription": "GOVEE H5179; THERMOMETER AND HYGROMETER; WI-FI, DISPLAY"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Govee H5179 Termometr i higrometr Wi-Fi",
+            "ProductDescription": "GOVEE H5179; THERMOMETER UND HYGROMETER; WI-FI, DISPLAY"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6974316990024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "H5179001",
+        "Weight": 140.0,
+        "Height": 79.0,
+        "Width": 79.0,
+        "Depth": 36.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056873",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Govee H5179; Termometr i higrometr; Wi-Fi, wyświetlacz"
+      },
+      "properties": {
+        "message_id": "4ba46c5d-4eec-4245-a183-e578b73f9dba",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-11T10:38:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPGOVTEB0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:04.978000+00:00",
+        "sequence_number": 118045
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPGEFTEB0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr kuchenny z minutnikiem GEFU G-21790",
+            "ProductDescription": "GEFU Punto G-21790 termometr kuchenny z minutnikiem"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr kuchenny z minutnikiem GEFU G-21790",
+            "ProductDescription": "GEFU Punto G-21790 kitchen thermometer with timer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr kuchenny z minutnikiem GEFU G-21790",
+            "ProductDescription": "GEFU Punto G-21790 Küchenthermometer mit Zeitschaltuhr"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664217903"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21790",
+        "Weight": 170.0,
+        "Height": 40.0,
+        "Width": 190.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053085",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Termometr kuchenny z minutnikiem GEFU PUNTO G-21790"
+      },
+      "properties": {
+        "message_id": "ed2c3fa9-cf7c-48a5-878c-a410341dfa46",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-26T12:47:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPGEFTEB0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:48.044000+00:00",
+        "sequence_number": 126198
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJEE2",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "Braun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Braun ThermoScan 3 Kontaktowy Biały Ucho",
+            "ProductDescription": "Braun ThermoScan 3 Kontaktowy Biały Ucho"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Braun ThermoScan 3 Kontaktowy Biały Ucho",
+            "ProductDescription": "Braun ThermoScan 3 Contact White Ear"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Braun ThermoScan 3 Kontaktowy Biały Ucho",
+            "ProductDescription": "Braun ThermoScan 3 Kontakt Weiß Ohr"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IRT3030",
+        "Weight": 170.0,
+        "Height": 30.0,
+        "Width": 200.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56459
+              },
+              {
+                "CategoryId": 53335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088925",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5bd00ede-4549-4056-9d8d-aee6892260a1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-10T08:59:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJEE2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:44.373000+00:00",
+        "sequence_number": 130992
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASZS",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Miernik temperatury na podczerwień Uni-T UT309A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Miernik temperatury na podczerwień Uni-T UT309A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Miernik temperatury na podczerwień Uni-T UT309A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890028905"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0303",
+        "Weight": 584.0,
+        "Height": 320.0,
+        "Width": 154.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054126",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c4ac21c2-1dbe-430a-a5a5-a136ee13f534",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-14T21:49:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASZS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:55.421000+00:00",
+        "sequence_number": 160522
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGEW",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr do gotowania GEFU G-21780",
+            "ProductDescription": "GEFU SIDO termometr do żywności 0 - 300 °C Analogowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr do gotowania GEFU G-21780",
+            "ProductDescription": "GEFU SIDO food thermometer 0 - 300 °C Analog"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr do gotowania GEFU G-21780",
+            "ProductDescription": "GEFU SIDO Essensthermometer 0 - 300 °C Analog"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664217804"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21780",
+        "Weight": 100.0,
+        "Height": 71.0,
+        "Width": 194.0,
+        "Depth": 84.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055048",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fac6fe84-6b07-46a2-9e15-fe0cecff6410",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-12T16:17:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGEW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:00.157000+00:00",
+        "sequence_number": 141931
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DIOBRATDC0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "Braun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr douszny Braun IRT3030",
+            "ProductDescription": "Braun ThermoScan 3 Kontaktowy Biały Ucho"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr douszny Braun IRT3030",
+            "ProductDescription": "Braun ThermoScan 3 Contact White Ear"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr douszny Braun IRT3030",
+            "ProductDescription": "Braun ThermoScan 3 Kontakt Weiß Ohr"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4022167330307"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IRT3030",
+        "Weight": 170.0,
+        "Height": 30.0,
+        "Width": 200.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53335
+              },
+              {
+                "CategoryId": 56459
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059763",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2808d7f9-1332-4df9-8763-ba4e85a488d4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-12-20T11:29:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIOBRATDC0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:12.838000+00:00",
+        "sequence_number": 118409
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DIOXBLTDC0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "Xblitz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "XBLITZ XBLITZ TERMOMETR BEZDOTYKOWY T01 T01",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "XBLITZ XBLITZ TERMOMETR BEZDOTYKOWY T01 T01",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "XBLITZ XBLITZ TERMOMETR BEZDOTYKOWY T01 T01",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902479671222"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "T01",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56459
+              },
+              {
+                "CategoryId": 53335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074519",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c2f5644-ad0b-4e61-aaca-cdde84d4c645",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-28T14:42:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIOXBLTDC0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:14.658000+00:00",
+        "sequence_number": 142703
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCARN",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr do mięsa Zwilling BBQ+",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr do mięsa Zwilling BBQ+",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr do mięsa Zwilling BBQ+",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839666001"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1026120",
+        "Weight": 210.0,
+        "Height": 40.0,
+        "Width": 170.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042422",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6df6d331-c815-4c61-9a03-13f78c8a9239",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-14T18:42:19Z'",
+          "ModificationDate": "b'2025-06-04T12:19:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCARN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:02.302000+00:00",
+        "sequence_number": 143846
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DIOBRATDC0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "Braun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr douszny BRAUN ThermoScan 7 IRT6520",
+            "ProductDescription": "Braun ThermoScan 7 Teledetekcja Ucho"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr douszny BRAUN ThermoScan 7 IRT6520",
+            "ProductDescription": "Braun ThermoScan 7 Remote sensing Ear"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr douszny BRAUN ThermoScan 7 IRT6520",
+            "ProductDescription": "Braun ThermoScan 7 Fernwarnehmung Ohr"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4022167652195"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IRT6520",
+        "Weight": 355.0,
+        "Height": 210.0,
+        "Width": 60.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53335
+              },
+              {
+                "CategoryId": 56459
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087823",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Termometr Elektroniczne do ucha Braun ThermoScan 7 IRT6520 (Pomiar kontaktowy; kolor biały)"
+      },
+      "properties": {
+        "message_id": "e6d4295e-fdb0-486d-a51a-62b979e3f63d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-09-09T10:26:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIOBRATDC0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:38.381000+00:00",
+        "sequence_number": 158209
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUZM",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "STANLEY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "termometr na podczerwień",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "termometr na podczerwień",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "termometr na podczerwień",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3253560773656"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1280822",
+        "Weight": 290.0,
+        "Height": 155.0,
+        "Width": 245.0,
+        "Depth": 53.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049704",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "40bc0da0-17fd-4a41-8619-f49c47846dda",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-06T14:44:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUZM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:11.446000+00:00",
+        "sequence_number": 129334
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPGEFTEB0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr do piekarnika GEFU G-21870",
+            "ProductDescription": "TERMOMETR DO PIEKARNIKA GEFU MESSIMO G-21870"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr do piekarnika GEFU G-21870",
+            "ProductDescription": "GEFU MESSIMO OVEN THERMOMETER G-21870"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr do piekarnika GEFU G-21870",
+            "ProductDescription": "GEFU MESSIMO OFENTHERMOMETER G-21870"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664218702"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21870",
+        "Weight": 100.0,
+        "Height": 190.0,
+        "Width": 80.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072597",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Termometr do piekarnika GEFU MESSIMO G-21870"
+      },
+      "properties": {
+        "message_id": "e663c751-7aaa-422b-920f-ac01e3a22d2f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-26T12:47:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPGEFTEB0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:12.802000+00:00",
+        "sequence_number": 144365
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGID",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr do mięs i piekarnika 3w1 GEFU G-21800",
+            "ProductDescription": "GEFU MESSIMO termometr do żywności 25 - 300 °C Analogowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr do mięs i piekarnika 3w1 GEFU G-21800",
+            "ProductDescription": "GEFU MESSIMO food thermometer 25 - 300 °C Analog"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr do mięs i piekarnika 3w1 GEFU G-21800",
+            "ProductDescription": "GEFU MESSIMO Essensthermometer 25 - 300 °C Analog"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664218009"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21800",
+        "Weight": 150.0,
+        "Height": 71.0,
+        "Width": 190.0,
+        "Depth": 116.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059992",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "23c19e9f-a108-409d-b331-4729c8fd4b6d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-11T10:04:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGID'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:13.322000+00:00",
+        "sequence_number": 118444
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGM8",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "ProMedix",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr lekarski Promedix PR-960 bezdotykowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr lekarski Promedix PR-960 bezdotykowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr lekarski Promedix PR-960 bezdotykowy",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211114383"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PR-960",
+        "Weight": 205.0,
+        "Height": 60.0,
+        "Width": 170.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53335
+              },
+              {
+                "CategoryId": 56459
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035872",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b80fd26d-80ee-424a-b188-90ad08a253d1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-31T06:07:14Z'",
+          "ModificationDate": "b'2025-06-04T12:15:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGM8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:56.366000+00:00",
+        "sequence_number": 133362
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGMF",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "ProMedix",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr bezdotykowy medyczny lekarski",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr bezdotykowy medyczny lekarski",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr bezdotykowy medyczny lekarski",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211119005"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PR-638",
+        "Weight": 185.0,
+        "Height": 112.0,
+        "Width": 171.0,
+        "Depth": 51.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56459
+              },
+              {
+                "CategoryId": 53335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035875",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5823290f-e8f1-47e2-a58b-507aafe79827",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T15:21:59Z'",
+          "ModificationDate": "b'2025-06-04T12:15:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGMF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:56.366000+00:00",
+        "sequence_number": 133365
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPMCNTEB0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "Maclean",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MACLEAN PIROMETR TERMOMETR LASEROWY MCE320",
+            "ProductDescription": "Maclean MCE320 ręczny termometr Czarny, Czerwony °C -50 - 380 °C Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MACLEAN PIROMETR TERMOMETR LASEROWY MCE320",
+            "ProductDescription": "Maclean MCE320 handheld thermometer Black, Red °C -50 - 380 °C Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MACLEAN PIROMETR TERMOMETR LASEROWY MCE320",
+            "ProductDescription": "Maclean MCE320 Handthermometer Schwarz, Rot °C -50 - 380 °C Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211114444"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MCE320",
+        "Weight": 160.0,
+        "Height": 195.0,
+        "Width": 110.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062768",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "86cbbb15-dc10-4ed3-b715-b41ff5a3f289",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-02-21T09:58:54Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPMCNTEB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:14.731000+00:00",
+        "sequence_number": 162857
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPGEFTEB0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Termometry",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr do gotowania GEFU G-21780",
+            "ProductDescription": "GEFU Sido G-21780 termometr do gotowania"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr do gotowania GEFU G-21780",
+            "ProductDescription": "GEFU Sido G-21780 cooking thermometer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr do gotowania GEFU G-21780",
+            "ProductDescription": "GEFU Sido G-21780 Kochthermometer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664217804"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21780",
+        "Weight": 100.0,
+        "Height": 85.0,
+        "Width": 70.0,
+        "Depth": 195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088180",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Termometr do gotowania GEFU SIDO G-21780"
+      },
+      "properties": {
+        "message_id": "9e44b3f4-0628-4a64-8057-375cb915dd89",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-26T12:47:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPGEFTEB0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:15.156000+00:00",
+        "sequence_number": 161411
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPGEFTEB0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr do pieczeni GEFU G-21880",
+            "ProductDescription": "GEFU MESSIMO termometr do żywności 10 - 120 °C Analogowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr do pieczeni GEFU G-21880",
+            "ProductDescription": "GEFU MESSIMO food thermometer 10 - 120 °C Analog"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr do pieczeni GEFU G-21880",
+            "ProductDescription": "GEFU MESSIMO Essensthermometer 10 - 120 °C Analog"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664218801"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21880",
+        "Weight": 110.0,
+        "Height": 75.0,
+        "Width": 191.0,
+        "Depth": 81.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088181",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Termometr do pieczeni GEFU MESSIMO G-21880"
+      },
+      "properties": {
+        "message_id": "2f008305-5bec-4b9e-ae3e-bf6eb94ac250",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-26T12:47:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPGEFTEB0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:15.156000+00:00",
+        "sequence_number": 161412
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBSTU",
+        "ProductVersion": "1.2",
+        "ProductType": "Termometry",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termometr GEFU G-21820",
+            "ProductDescription": "GEFU 21820 termometr do żywności -45 - 200 °C Cyfrowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termometr GEFU G-21820",
+            "ProductDescription": "GEFU 21820 food thermometer -45 - 200 °C Digital"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termometr GEFU G-21820",
+            "ProductDescription": "GEFU 21820 Essensthermometer -45 - 200 °C Digital"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664218207"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90251900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21820",
+        "Weight": 109.0,
+        "Height": 30.0,
+        "Width": 290.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.51.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54472
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53263
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041624",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3a2ff34b-d337-44e3-9c26-9fee5a2cb9fd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-06T11:26:25Z'",
+          "ModificationDate": "b'2025-06-04T12:18:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBSTU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:45.606000+00:00",
+        "sequence_number": 147876
+      }
+    }
+  ]
+}

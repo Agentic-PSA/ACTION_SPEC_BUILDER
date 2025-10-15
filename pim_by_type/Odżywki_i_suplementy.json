@@ -1,0 +1,6461 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "OISNONSUP0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWERGYM Power Bomb Ampułka 10 ml",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWERGYM Power Bomb Ampułka 10 ml",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWERGYM Power Bomb Ampułka 10 ml",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8429810001168"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100095414",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c13f8c94-5ef1-4888-9462-20a8d25f89ef",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T11:17:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONSUP0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:54.696000+00:00",
+        "sequence_number": 146544
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONSUP0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWERBAR Caffeine Boost amp. 25 ml -",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWERBAR Caffeine Boost amp. 25 ml -",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWERBAR Caffeine Boost amp. 25 ml -",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4029679680951"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100095418",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "da0447bf-1c83-47f9-86b3-2008aefa8b89",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T11:08:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONSUP0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:54.696000+00:00",
+        "sequence_number": 146545
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0026",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Węgiel Aktywny 30 kapsułek",
+            "ProductDescription": "Novativ Węgiel Aktywny 30 kapsułek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Węgiel Aktywny 30 kapsułek",
+            "ProductDescription": "Novativ activated charcoal 30 capsules"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Węgiel Aktywny 30 kapsułek",
+            "ProductDescription": "Novativ Aktivkohle 30 Kapseln"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288963626"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "305632",
+        "Weight": 40.0,
+        "Height": 75.0,
+        "Width": 100.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065885",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Węgiel Aktywny 30 kapsułek"
+      },
+      "properties": {
+        "message_id": "9b30f4f1-97c1-4b50-b7ee-da21d871f725",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:38:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:42.921000+00:00",
+        "sequence_number": 164249
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0050",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Islatussan syrop 120ml",
+            "ProductDescription": "Novativ Islatussan Syrop 120ml"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Islatussan syrop 120ml",
+            "ProductDescription": "Novativ Islatussan Syrup 120ml"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Islatussan syrop 120ml",
+            "ProductDescription": "Novativ Islatussan Sirup 120ml"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961363"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "289825",
+        "Weight": 265.0,
+        "Height": 55.0,
+        "Width": 130.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065886",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Islatussan Syrop 120ml"
+      },
+      "properties": {
+        "message_id": "73da8b11-d714-4dba-b915-aa2117ec1af6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:39:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0050'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:42.921000+00:00",
+        "sequence_number": 164250
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0121",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Witamina C 1000mg z bioflawonoidami 60kaps.",
+            "ProductDescription": "Novativ Witamina C 1000 mg z bioflawonoidami, kaps.,60 szt"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Witamina C 1000mg z bioflawonoidami 60kaps.",
+            "ProductDescription": "Novativ Vitamin C 1000 mg with bioflavonoids, capsules,60 pcs."
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Witamina C 1000mg z bioflawonoidami 60kaps.",
+            "ProductDescription": "Novativ Vitamin C 1000 mg mit Bioflavonoiden, Kapseln, 60 Stk."
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288964074"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "312408",
+        "Weight": 100.0,
+        "Height": 90.0,
+        "Width": 100.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065887",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Witamina C 1000 mg z bioflawonoidami, kaps.,60 szt"
+      },
+      "properties": {
+        "message_id": "774b7e24-945e-46da-b892-ebfc6561330e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:46:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0121'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:42.921000+00:00",
+        "sequence_number": 164251
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPODB0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Whey protein czeko",
+            "ProductDescription": "Odżywka białkowa - NAMEDSPORT Whey Protein Dream / mus czekoladowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Whey protein czeko",
+            "ProductDescription": "Protein supplement - NAMEDSPORT Whey Protein Dream / chocolate mousse"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Whey protein czeko",
+            "ProductDescription": "Eiweißpräparat - NAMEDSPORT Whey Protein Dream / Mousse au Chocolat"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8058268961887"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 975.0,
+        "Height": 110.0,
+        "Width": 260.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56772
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065888",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Odżywka białkowa NAMEDSPORT Whey protein dream / mus czekoladowy 800g"
+      },
+      "properties": {
+        "message_id": "453bcd3e-1347-4d59-aaff-bf20181c4a4c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPODB0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:42.921000+00:00",
+        "sequence_number": 164252
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISUSNODB0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "USN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "USN Trust 50 protein 500 ml Strawberry",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "USN Trust 50 protein 500 ml Strawberry",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "USN Trust 50 protein 500 ml Strawberry",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6009544913375"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6009544913375",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56772
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065889",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "USN Trust 50 protein 500 ml Strawberry"
+      },
+      "properties": {
+        "message_id": "51a171ba-8fb3-4863-b4c7-6965f4637725",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T12:46:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISUSNODB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:42.921000+00:00",
+        "sequence_number": 164253
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISUSNODB0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "USN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "USN Trust 50 protein 500 m Wanilla",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "USN Trust 50 protein 500 m Wanilla",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "USN Trust 50 protein 500 m Wanilla",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6009544913405"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6009544913405",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56772
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065890",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "USN Trust 50 protein 500 m Wanilla"
+      },
+      "properties": {
+        "message_id": "8473fbfa-d150-4e66-b81a-a8cb417f7ac8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T12:46:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISUSNODB0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:42.921000+00:00",
+        "sequence_number": 164254
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0021",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Calcium 20 tabletek musujących",
+            "ProductDescription": "Novativ Calcium 20 tabletek musujących"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Calcium 20 tabletek musujących",
+            "ProductDescription": "Novativ Calcium 20 effervescent tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Calcium 20 tabletek musujących",
+            "ProductDescription": "Novativ Calcium 20 Brausetabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961066"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "279016",
+        "Weight": 100.0,
+        "Height": 35.0,
+        "Width": 150.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056030",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Calcium 20 tabletek musujących"
+      },
+      "properties": {
+        "message_id": "d3b60216-be16-458c-a794-38128a18cabe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:37:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149390
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0096",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Żurawina Complex 60 tabletek",
+            "ProductDescription": "Novativ Żurawina complex 60 tabletek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Żurawina Complex 60 tabletek",
+            "ProductDescription": "Novativ Cranberry complex 60 tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Żurawina Complex 60 tabletek",
+            "ProductDescription": "Novativ Cranberry Komplex 60 Tabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961196"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "278340",
+        "Weight": 40.0,
+        "Height": 85.0,
+        "Width": 105.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056031",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Żurawina complex 60 tabletek"
+      },
+      "properties": {
+        "message_id": "99ddd59f-af23-4007-8c1c-d086970131b9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:43:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0096'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149391
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0114",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Witamina C proszek 200 g",
+            "ProductDescription": "Novativ Witamina C Proszek 200 g"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Witamina C proszek 200 g",
+            "ProductDescription": "Novativ Vitamin C Powder 200 g"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Witamina C proszek 200 g",
+            "ProductDescription": "Novativ Vitamin C-Pulver 200 g"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288963572"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "305525",
+        "Weight": 235.0,
+        "Height": 70.0,
+        "Width": 80.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056032",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Witamina C Proszek 200 g"
+      },
+      "properties": {
+        "message_id": "d0e3f47b-a73a-4428-b5fe-fe8fc2ea82fd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:45:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0114'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149392
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0116",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Pamięć i koncentracja tabl.musuj. 20 szt",
+            "ProductDescription": "Novativ Pamięć i koncentracja tabletki musujące 20 szt"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Pamięć i koncentracja tabl.musuj. 20 szt",
+            "ProductDescription": "Novativ Memory and Concentration effervescent tablets 20 pieces"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Pamięć i koncentracja tabl.musuj. 20 szt",
+            "ProductDescription": "Novativ Gedächtnis und Konzentration Brausetabletten 20 Stück"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961110"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "312194",
+        "Weight": 100.0,
+        "Height": 35.0,
+        "Width": 150.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056033",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Pamięć i koncentracja tabletki musujące 20 szt"
+      },
+      "properties": {
+        "message_id": "ea1cefea-feed-44c0-9838-5ad99c6aea1e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:46:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0116'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149393
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONODB0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IN Protein Drink 500 ml Wanilla",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IN Protein Drink 500 ml Wanilla",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "IN Protein Drink 500 ml Wanilla",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260057660015"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4260057660015",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56772
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056034",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IN Protein Drink 500 ml Wanilla"
+      },
+      "properties": {
+        "message_id": "a36a734c-1619-4463-80fd-731a30daee84",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T12:46:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONODB0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149394
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPSUP0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suplement NAMEDSPORT ProBasic 120 tabletek",
+            "ProductDescription": "Suplement diety - NAMEDSPORT ProBasic"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suplement NAMEDSPORT ProBasic 120 tabletek",
+            "ProductDescription": "Dietary supplement - NAMEDSPORT ProBasic"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suplement NAMEDSPORT ProBasic 120 tabletek",
+            "ProductDescription": "Nahrungsergänzungsmittel - NAMEDSPORT ProBasic"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956340637"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056035",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suplement NAMEDSPORT ProBasic 120 tabletek"
+      },
+      "properties": {
+        "message_id": "ee0ebede-506d-4517-a638-0d1b912b4d47",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPSUP0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:13.468000+00:00",
+        "sequence_number": 149395
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0057",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Esselec Max 60 kapsułek",
+            "ProductDescription": "Novativ Esselec Max 60 kapsułek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Esselec Max 60 kapsułek",
+            "ProductDescription": "Novativ Esselec Max 60 capsules"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Esselec Max 60 kapsułek",
+            "ProductDescription": "Novativ Esselec Max 60 Kapseln"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288962445"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "300797",
+        "Weight": 60.0,
+        "Height": 60.0,
+        "Width": 105.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061953",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Esselec Max 60 kapsułek"
+      },
+      "properties": {
+        "message_id": "cb27ea6e-73a8-464c-a539-cfac91dcc9a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:39:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0057'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135873
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0122",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Kwas foliowy forte 90 tabletek",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Kwas foliowy forte 90 tabletek",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Kwas foliowy forte 90 tabletek",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288960939"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KwasFoli Forte",
+        "Weight": 35.0,
+        "Height": 85.0,
+        "Width": 110.0,
+        "Depth": 25.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061954",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "648d1059-57df-4d70-a7c1-a2a1ff284153",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T16:02:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0122'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135874
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPSUP0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAMEDSPORT Beta Alanina 90 tabletek",
+            "ProductDescription": "Suplement diety - NAMEDSPORT Beta Alanina"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAMEDSPORT Beta Alanina 90 tabletek",
+            "ProductDescription": "Dietary supplement - NAMEDSPORT Beta Alanine"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAMEDSPORT Beta Alanina 90 tabletek",
+            "ProductDescription": "Nahrungsergänzungsmittel - NAMEDSPORT Beta Alanin"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956342372"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 155.0,
+        "Height": 80.0,
+        "Width": 135.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061955",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "NAMEDSPORT Beta Alanina 90 tabletek"
+      },
+      "properties": {
+        "message_id": "ec0b8040-be0f-4dce-84d2-e91be0182bef",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:16Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPSUP0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135875
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISUSNODB0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "USN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "USN Trust 50 protein 500 m Banana",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "USN Trust 50 protein 500 m Banana",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "USN Trust 50 protein 500 m Banana",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6009544913436"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6009544913436",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56772
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061956",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "USN Trust 50 protein 500 m Banana"
+      },
+      "properties": {
+        "message_id": "70ec91f7-b093-4f7f-b446-7bae9374dc50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T12:46:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISUSNODB0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:09.516000+00:00",
+        "sequence_number": 135876
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0118",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Kids Żurawinka Płyn 120 ml",
+            "ProductDescription": " Novativ Kids Żurawinka, Płyn 120 ml"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Kids Żurawinka Płyn 120 ml",
+            "ProductDescription": " Novativ Kids Cranberry, Liquid 120 ml"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Kids Żurawinka Płyn 120 ml",
+            "ProductDescription": " Novativ Kinder Cranberry, Flüssigkeit 120 ml"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288964111"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "312406",
+        "Weight": 240.0,
+        "Height": 50.0,
+        "Width": 130.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050147",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Kids Żurawinka, Płyn 120 ml"
+      },
+      "properties": {
+        "message_id": "4f92c9cf-3aff-4ee3-a9aa-45c34a431bba",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:46:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0118'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:31.714000+00:00",
+        "sequence_number": 121210
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0072",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Acerola Max 60 tabletek do ssania",
+            "ProductDescription": "Novativ Acerola Max 60 tabletek do ssania"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Acerola Max 60 tabletek do ssania",
+            "ProductDescription": "Novativ Acerola Max 60 lozenges"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Acerola Max 60 tabletek do ssania",
+            "ProductDescription": "Novativ Acerola Max 60 Lutschtabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288962704"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "302653",
+        "Weight": 75.0,
+        "Height": 45.0,
+        "Width": 95.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048050",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Acerola Max 60 tabletek do ssania"
+      },
+      "properties": {
+        "message_id": "b2e99b35-3d34-4972-9091-80bbf23b11a8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:41:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0072'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:52.747000+00:00",
+        "sequence_number": 108201
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPIZO0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój izotoniczny NAMEDSPORT Isonam cytryna 480g",
+            "ProductDescription": "Napój izotoniczny - NAMEDSPORT Isonam Energy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój izotoniczny NAMEDSPORT Isonam cytryna 480g",
+            "ProductDescription": "Isotonic drink - NAMEDSPORT Isonam Energy"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój izotoniczny NAMEDSPORT Isonam cytryna 480g",
+            "ProductDescription": "Isotonisches Getränk - NAMEDSPORT Isonam Energy"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956340552"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 620.0,
+        "Height": 190.0,
+        "Width": 145.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100133478",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Napój izotoniczny NAMEDSPORT Isonam Energy cytrynowy 480g w proszku"
+      },
+      "properties": {
+        "message_id": "8b0669a2-7fa4-4855-a2a3-56aa5a9eb062",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPIZO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:12.411000+00:00",
+        "sequence_number": 167370
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPIZO0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrolity NAMEDSPORT Hydrafit Zero 20 tabletek",
+            "ProductDescription": "Napój z elektrolitami i witaminami - NAMEDSPORT HydraFit Zero"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrolity NAMEDSPORT Hydrafit Zero 20 tabletek",
+            "ProductDescription": "Drink with electrolytes and vitamins - NAMEDSPORT HydraFit Zero"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrolity NAMEDSPORT Hydrafit Zero 20 tabletek",
+            "ProductDescription": "Getränk mit Elektrolyten und Vitaminen - NAMEDSPORT HydraFit Zero"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8058268961689"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 180.0,
+        "Height": 70.0,
+        "Width": 100.0,
+        "Depth": 205.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100133479",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Elektrolity NAMEDSPORT Hydrafit Zero bez cukru 20 tabletek + bidon"
+      },
+      "properties": {
+        "message_id": "60ffe5d2-46bf-46b0-8530-ffe270f3a130",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPIZO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:12.411000+00:00",
+        "sequence_number": 167371
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPSUP0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAMEDSPORT L-glutamina 250g",
+            "ProductDescription": "Suplement diety - NAMEDSPORT L-Glutamina"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAMEDSPORT L-glutamina 250g",
+            "ProductDescription": "Dietary supplement - NAMEDSPORT L-Glutamin"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAMEDSPORT L-glutamina 250g",
+            "ProductDescription": "Nahrungsergänzungsmittel - NAMEDSPORT L-Glutamin"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956341344"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 315.0,
+        "Height": 140.0,
+        "Width": 90.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100133481",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "NAMEDSPORT L-glutamina 250g"
+      },
+      "properties": {
+        "message_id": "8db6dce4-7196-4e17-ab72-da85757fa9c7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPSUP0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:12.411000+00:00",
+        "sequence_number": 167372
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISUSNODB0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "USN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "USN Trust crunch 60g – smak: raspberry cheesecake",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "USN Trust crunch 60g – smak: raspberry cheesecake",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "USN Trust crunch 60g – smak: raspberry cheesecake",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6009544925606"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6009544925606",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56772
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047608",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b5851336-ae27-4863-928d-8d6d16f6680f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-04T14:06:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISUSNODB0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:58.195000+00:00",
+        "sequence_number": 115653
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Kids Witamina D3 w kroplach 20ml",
+            "ProductDescription": "Novativ Kids Witamina D3 w kroplach 20ml"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Kids Witamina D3 w kroplach 20ml",
+            "ProductDescription": "Novativ Kids Vitamin D3 drops 20ml"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Kids Witamina D3 w kroplach 20ml",
+            "ProductDescription": "Novativ Kinder Vitamin D3 Tropfen 20ml"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961356"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2022147",
+        "Weight": 70.0,
+        "Height": 30.0,
+        "Width": 110.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071730",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Kids Witamina D3 w kroplach 20ml"
+      },
+      "properties": {
+        "message_id": "aedda069-6091-4a70-885c-203cceda6d91",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-22T11:32:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130610
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0025",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Witamina C 200mg 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Witamina C 200MG, 60 tabletek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Witamina C 200mg 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Vitamin C 200MG 60 tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Witamina C 200mg 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Vitamin C 200MG 60 tablets"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961592"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "291322",
+        "Weight": 50.0,
+        "Height": 85.0,
+        "Width": 105.0,
+        "Depth": 25.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071731",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Witamina C 200mg, 60 tabletek powlekanych"
+      },
+      "properties": {
+        "message_id": "938f761a-c97b-41cc-9608-a382c9298c0c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:38:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130611
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0028",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Calcium + Kwercetyna 20 tabletek musujących",
+            "ProductDescription": "Novativ Calcium + Kwercetyna 20 tabletek musujących"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Calcium + Kwercetyna 20 tabletek musujących",
+            "ProductDescription": "Novativ Calcium + Quercetin 20 effervescent tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Calcium + Kwercetyna 20 tabletek musujących",
+            "ProductDescription": "Novativ Calcium + Quercetin 20 Brausetabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961394"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "290470",
+        "Weight": 100.0,
+        "Height": 35.0,
+        "Width": 150.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071732",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Calcium + Kwercetyna 20 tabletek musujących"
+      },
+      "properties": {
+        "message_id": "67f4e124-19cc-4619-8e78-a47c43c2392b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:38:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130612
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0042",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Tymianek i Podbiał 24 pastylki do ssania",
+            "ProductDescription": "Novativ Tymianek i Podbiał, 24 pastylki do ssania"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Tymianek i Podbiał 24 pastylki do ssania",
+            "ProductDescription": "Novativ Thyme and coltsfoot, 24 lozenges"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Tymianek i Podbiał 24 pastylki do ssania",
+            "ProductDescription": "Novativ Thymian und Huflattich, 24 Lutschtabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961042"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "308391",
+        "Weight": 75.0,
+        "Height": 85.0,
+        "Width": 115.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071733",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Tymianek i Podbiał, 24 pastylki do ssania"
+      },
+      "properties": {
+        "message_id": "c2bab222-1cf6-4ddb-b676-e81504ed13c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:39:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0042'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130613
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0055",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Na zatoki Hot Saszetki 10 szt.",
+            "ProductDescription": "Novativ Na zatoki hot saszetki 10 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Na zatoki Hot Saszetki 10 szt.",
+            "ProductDescription": "Novativ For sinuses hot sachets 10 pcs."
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Na zatoki Hot Saszetki 10 szt.",
+            "ProductDescription": "Novativ Für Nasennebenhöhlen heiße Beutel 10 Stück."
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288963657"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "310596",
+        "Weight": 40.0,
+        "Height": 50.0,
+        "Width": 100.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071734",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Na zatoki hot saszetki 10 szt."
+      },
+      "properties": {
+        "message_id": "0c74fbad-725e-4fca-88e4-8bd2f3fc0a72",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:39:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0055'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130614
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0098",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Multiwitamina 50+ 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Multiwitamina 50+ 60 tabletek powlekanych"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Multiwitamina 50+ 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Multivitamin 50+ 60 film-coated tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Multiwitamina 50+ 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Multivitamin 50+ 60 Filmtabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961929"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2030253",
+        "Weight": 95.0,
+        "Height": 118.0,
+        "Width": 85.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071735",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Multiwitamina 50+ 60 tabletek powlekanych"
+      },
+      "properties": {
+        "message_id": "e47c25c5-9399-4d0c-960f-44a6001b42b5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:43:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0098'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130615
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPKRE0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAMEDSPORT kreatyna 100% proszek 250g",
+            "ProductDescription": "Suplement diety - NAMEDSPORT Kreatyna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAMEDSPORT kreatyna 100% proszek 250g",
+            "ProductDescription": "Dietary supplement - NAMEDSPORT Creatine"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAMEDSPORT kreatyna 100% proszek 250g",
+            "ProductDescription": "Nahrungsergänzungsmittel - NAMEDSPORT Kreatin"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956340651"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 320.0,
+        "Height": 90.0,
+        "Width": 140.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54348
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56770
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071736",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "NAMEDSPORT kreatyna 100% proszek 250g"
+      },
+      "properties": {
+        "message_id": "fe90e882-cdee-4365-8efe-ab8fa42570f1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPKRE0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130616
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPODB0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Creamy protein banan",
+            "ProductDescription": "Odżywka białkowa - NAMEDSPORT Creamy Protein 80 / Banan"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Creamy protein banan",
+            "ProductDescription": "Protein supplement - NAMEDSPORT Creamy Protein 80 / Banana"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Creamy protein banan",
+            "ProductDescription": "Eiweißpräparat - NAMEDSPORT Cremiges Protein 80 / Banane"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956341627"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56772
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071737",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Odżywka białkowa NAMEDSPORT Creamy protein 80 / banan 500g"
+      },
+      "properties": {
+        "message_id": "0741d3f3-ef11-4342-80ee-3d8c7bdd4b30",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPODB0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130617
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISUSNODB0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "USN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "USN Trust 50 protein 500 m Czekolada",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "USN Trust 50 protein 500 m Czekolada",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "USN Trust 50 protein 500 m Czekolada",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6009544913344"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6009544913344",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56772
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071738",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "USN Trust 50 protein 500 m Czekolada"
+      },
+      "properties": {
+        "message_id": "cfcc9088-072c-4bb2-bd1f-126201758cf7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T12:46:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISUSNODB0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130618
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPSUP0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAMEDSPORT Witamina C 90 tabletek",
+            "ProductDescription": "Suplement diety - NAMEDSPORT Witamina C"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAMEDSPORT Witamina C 90 tabletek",
+            "ProductDescription": "Dietary supplement - NAMEDSPORT Vitamin C"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAMEDSPORT Witamina C 90 tabletek",
+            "ProductDescription": "Nahrungsergänzungsmittel - NAMEDSPORT Vitamin C"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956341108"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 166.0,
+        "Height": 79.0,
+        "Width": 79.0,
+        "Depth": 139.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050683",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "NAMEDSPORT Witamina C 90 tabletek"
+      },
+      "properties": {
+        "message_id": "25d8ac24-eebf-460d-9818-15d175571df6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPSUP0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:17.150000+00:00",
+        "sequence_number": 138060
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPODB0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Creamy protein ciastko",
+            "ProductDescription": "Odżywka białkowa - NAMEDSPORT Creamy Protein 80 / Ciastko"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Creamy protein ciastko",
+            "ProductDescription": "Protein supplement - NAMEDSPORT Creamy Protein 80 / Cookie"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Creamy protein ciastko",
+            "ProductDescription": "Eiweißpräparat - NAMEDSPORT Cremiges Protein 80 / Keks"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956341610"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56772
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051226",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Odżywka białkowa NAMEDSPORT Creamy protein 80 / ciastko 500g"
+      },
+      "properties": {
+        "message_id": "50116923-10ce-4b75-9a88-54697c8ea806",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPODB0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:26.198000+00:00",
+        "sequence_number": 138550
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój izotoniczny cytrynowy OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój izotoniczny cytrynowy OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój izotoniczny cytrynowy OSHEE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908260254186"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908260254186",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079565",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "463b986d-591d-44aa-b43b-420f4ca70501",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:30:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:30.894000+00:00",
+        "sequence_number": 104406
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój owocowy Witamina D + K OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój owocowy Witamina D + K OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój owocowy Witamina D + K OSHEE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905868420395"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5905868420395",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079567",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "46611259-a103-465d-a616-7f27ac431560",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:35:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:30.894000+00:00",
+        "sequence_number": 104408
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój energetyczny jabłkowy DZIK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój energetyczny jabłkowy DZIK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój energetyczny jabłkowy DZIK",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904988310326"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22029919",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5904988310326",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56771
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079569",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5608d7f5-71e1-4c88-bb1a-e8f5c3ab8a06",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:39:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:30.894000+00:00",
+        "sequence_number": 104410
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój energetyczny cytryna DZIK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój energetyczny cytryna DZIK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój energetyczny cytryna DZIK",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904988310036"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22029919",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5904988310036",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.02.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079570",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "78cd006d-5d3f-40ef-8fea-be1ce8545ab0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:43:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:30.894000+00:00",
+        "sequence_number": 104411
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój energetyczny ananas DZIK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój energetyczny ananas DZIK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój energetyczny ananas DZIK",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904988310524"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22029919",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5904988310524",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.02.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079583",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d639c250-1922-45b6-9ae3-ccc57468614f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:47:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:30.894000+00:00",
+        "sequence_number": 104424
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój izotoniczny grejfrut OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój izotoniczny grejfrut OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój izotoniczny grejfrut OSHEE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908260254216"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908260254216",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079600",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ec80a280-f67e-4eb5-8ad6-aa30440f7ebe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:49:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:30.894000+00:00",
+        "sequence_number": 104441
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPIZO0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój hipotoniczny NAMEDSPORT Hydrafit pomar 400g",
+            "ProductDescription": "Napój hipotoniczny - NAMEDSPORT Hydrafit"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój hipotoniczny NAMEDSPORT Hydrafit pomar 400g",
+            "ProductDescription": "Hypotonic drink - NAMEDSPORT Hydrafit"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój hipotoniczny NAMEDSPORT Hydrafit pomar 400g",
+            "ProductDescription": "Hypotonisches Getränk - NAMEDSPORT Hydrafit"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8058268960446"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 540.0,
+        "Height": 105.0,
+        "Width": 200.0,
+        "Depth": 175.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56771
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053751",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Napój hipotoniczny NAMEDSPORT Hydrafit pomarańczowy 400g + bidon gratis"
+      },
+      "properties": {
+        "message_id": "53326526-93f6-4c7a-9485-946a708d983d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:35:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPIZO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:51.280000+00:00",
+        "sequence_number": 139844
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Izotoniczny napój owocowy cytryna DrWitt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Izotoniczny napój owocowy cytryna DrWitt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Izotoniczny napój owocowy cytryna DrWitt",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901067410489"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5901067410489",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079555",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4a5043e2-013d-4f68-bcae-b5e9f32bde64",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:12:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:38.870000+00:00",
+        "sequence_number": 154094
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój izotoniczny mango i cytryny DRWITT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój izotoniczny mango i cytryny DRWITT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój izotoniczny mango i cytryny DRWITT",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901067410472"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5901067410472",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079562",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b0fd489-6bcd-4c06-8352-aecdc6fb6547",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:22:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:38.870000+00:00",
+        "sequence_number": 154101
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój izotoniczny zielone jabłko DRWITT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój izotoniczny zielone jabłko DRWITT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój izotoniczny zielone jabłko DRWITT",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901067410496"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5901067410496",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56771
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079564",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8527eecc-52cf-41f5-9a81-b486a1091b17",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:27:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:38.870000+00:00",
+        "sequence_number": 154103
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Energetyczna ampułka 25ml OLIMP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Energetyczna ampułka 25ml OLIMP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Energetyczna ampułka 25ml OLIMP",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901330096808"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5901330096808",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079611",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8e65872f-f8ae-47d1-b734-135e00cfaefa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T14:53:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:39.854000+00:00",
+        "sequence_number": 154110
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój izotoniczny cytryna, limonka OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój izotoniczny cytryna, limonka OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój izotoniczny cytryna, limonka OSHEE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908260259693"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908260259693",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079633",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4d923957-d59b-44fb-86fa-4608ff547064",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T15:24:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:39.854000+00:00",
+        "sequence_number": 154132
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPKRE0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAMEDSPORT kreatyna 100% proszek 250g",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAMEDSPORT kreatyna 100% proszek 250g",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAMEDSPORT kreatyna 100% proszek 250g",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8058268961757"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 320.0,
+        "Height": 92.0,
+        "Width": 92.0,
+        "Depth": 146.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56770
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54348
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081187",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "NAMEDSPORT kreatyna 100% proszek 250g"
+      },
+      "properties": {
+        "message_id": "382f64bb-ccfb-42a0-8202-7773fb828249",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-09T08:10:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPKRE0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:54.169000+00:00",
+        "sequence_number": 154847
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0119",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Witamina D3 2000 IU kaps.  60 szt",
+            "ProductDescription": "Novativ Witamina D3 2000 IU 60 szt kapsułek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Witamina D3 2000 IU kaps.  60 szt",
+            "ProductDescription": "Novativ Vitamin D3 2000 IU 60 capsules"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Witamina D3 2000 IU kaps.  60 szt",
+            "ProductDescription": "Novativ Vitamin D3 2000 IU 60 Kapseln"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288964005"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "311094",
+        "Weight": 20.0,
+        "Height": 70.0,
+        "Width": 100.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053039",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Witamina D3 2000 IU 60 szt kapsułek"
+      },
+      "properties": {
+        "message_id": "da1a1547-9b03-4f69-9027-a85b71e35e8b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:46:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0119'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:56.641000+00:00",
+        "sequence_number": 141713
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPSUP0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suplement NAMEDSPORT Omega3 double plus ++ 110 kap",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suplement NAMEDSPORT Omega3 double plus ++ 110 kap",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suplement NAMEDSPORT Omega3 double plus ++ 110 kap",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956343584"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093611",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suplement NAMEDSPORT Omega3 double plus ++ 110 kapsułek"
+      },
+      "properties": {
+        "message_id": "d520be3c-1b75-4955-8e14-37f206a52a15",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-31T12:50:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPSUP0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:33.826000+00:00",
+        "sequence_number": 171585
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1IZO0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HydroMe Elektrolity doustny preparat malinowy 10szt",
+            "ProductDescription": "HydroMe Elektrolity Doustny preparat nawadniający malinowy 10 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HydroMe Elektrolity doustny preparat malinowy 10szt",
+            "ProductDescription": "HydroMe Electrolytes Oral rehydration preparation raspberry 10 pcs."
+          },
+          {
+            "Language": "de",
+            "ProductName": "HydroMe Elektrolity doustny preparat malinowy 10szt",
+            "ProductDescription": "HydroMe Elektrolyte Oral rehydration preparation Himbeere 10 Stück"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288963497"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "310591",
+        "Weight": 75.0,
+        "Height": 70.0,
+        "Width": 110.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094159",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HydroMe Elektrolity Doustny preparat nawadniający malinowy 10 szt."
+      },
+      "properties": {
+        "message_id": "22c61492-b4b8-46f5-878a-4247a9950ad2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:37:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1IZO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:43.829000+00:00",
+        "sequence_number": 172090
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1IZO0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HydroMe Elektrolity doustny preparat pomarań. 10szt",
+            "ProductDescription": "HydroMe Elektrolity Doustny preparat nawadniający pomarańczowy 10 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HydroMe Elektrolity doustny preparat pomarań. 10szt",
+            "ProductDescription": "HydroMe Electrolytes Oral rehydration formula orange 10 pcs."
+          },
+          {
+            "Language": "de",
+            "ProductName": "HydroMe Elektrolity doustny preparat pomarań. 10szt",
+            "ProductDescription": "HydroMe Elektrolyte Mündliche Rehydrationsformel orange 10 Stück."
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288963503"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "310597",
+        "Weight": 75.0,
+        "Height": 70.0,
+        "Width": 110.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56771
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094160",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HydroMe Elektrolity Doustny preparat nawadniający pomarańczowy 10 szt."
+      },
+      "properties": {
+        "message_id": "a574b2a8-026a-4fba-b838-01f2a2b24725",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:37:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1IZO0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:43.829000+00:00",
+        "sequence_number": 172091
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0029",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Magnez + B6 20 tabletek musujących",
+            "ProductDescription": "Novativ Magnez + B6 20 tabletek musujących"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Magnez + B6 20 tabletek musujących",
+            "ProductDescription": "Novativ Magnesium + B6 20 effervescent tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Magnez + B6 20 tabletek musujących",
+            "ProductDescription": "Novativ Magnesium + B6 20 bruistabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961097"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "279018",
+        "Weight": 100.0,
+        "Height": 30.0,
+        "Width": 150.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094161",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Magnez + B6 20 tabletek musujących"
+      },
+      "properties": {
+        "message_id": "a1c647e2-ebe0-48d4-ab41-cdfbe0edfc7f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:38:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0029'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:43.829000+00:00",
+        "sequence_number": 172092
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0039",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Sylimaryna Forte 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Sylimaryna Forte 60 tabletek powlekanych"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Sylimaryna Forte 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Silymarin Forte 60 film-coated tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Sylimaryna Forte 60 tabletek powlekanych",
+            "ProductDescription": "Novativ Silymarin Forte 60 Filmtabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288962308"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "295402",
+        "Weight": 30.0,
+        "Height": 80.0,
+        "Width": 100.0,
+        "Depth": 25.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094162",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Sylimaryna Forte 60 tabletek powlekanych"
+      },
+      "properties": {
+        "message_id": "75a872c7-f09a-490d-bf90-66edc9b5cd0b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:38:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0039'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:43.829000+00:00",
+        "sequence_number": 172093
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0048",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Ferridium Chela + 30 kapsułek",
+            "ProductDescription": "Novativ Ferridium Chela+ 30 kapsułek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Ferridium Chela + 30 kapsułek",
+            "ProductDescription": "Novativ Ferridium Chela+ 30 capsules"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Ferridium Chela + 30 kapsułek",
+            "ProductDescription": "Novativ Ferridium Chela+ 30 Kapseln"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961158"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "279507",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094163",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Ferridium Chela+ 30 kapsułek"
+      },
+      "properties": {
+        "message_id": "a5d60022-8393-44c2-af9a-7b843255d721",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:39:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0048'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:43.829000+00:00",
+        "sequence_number": 172094
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONBAT0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BATON PROTEIN XPLODE CZEKO. 40G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BATON PROTEIN XPLODE CZEKO. 40G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BATON PROTEIN XPLODE CZEKO. 40G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901330093760"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 23.0,
+        "Width": 42.0,
+        "Depth": 132.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54346
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100103738",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b1ecb01a-5a39-49fa-a60f-ff5a795c597e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-15T09:14:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONBAT0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:02.941000+00:00",
+        "sequence_number": 173067
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONBAT0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BATON PROTEIN XPLODE WANIL. 40G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BATON PROTEIN XPLODE WANIL. 40G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BATON PROTEIN XPLODE WANIL. 40G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901330093821"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 23.0,
+        "Width": 42.0,
+        "Depth": 132.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54346
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100103739",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "937cc025-1d47-44b6-af30-206d32f1e98d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-15T09:23:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONBAT0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:02.941000+00:00",
+        "sequence_number": 173068
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONBAT0014",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BATON PROTEIN XPLODE KOKOS 40G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BATON PROTEIN XPLODE KOKOS 40G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BATON PROTEIN XPLODE KOKOS 40G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901330093746"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54346
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100103740",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "148f04d1-ec91-44eb-a07e-7e2afd7383b0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-15T09:30:34Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONBAT0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:02.941000+00:00",
+        "sequence_number": 173069
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONBAT0015",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DLA MNIE BOMBA BEAUTY TRUS. 30G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DLA MNIE BOMBA BEAUTY TRUS. 30G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "DLA MNIE BOMBA BEAUTY TRUS. 30G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901330093746"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54346
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100103741",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3e6b60a3-4838-48e8-a5ca-1b302788c2fb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-15T09:34:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONBAT0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:02.941000+00:00",
+        "sequence_number": 173070
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONBAT0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DLA MNIE BOMBA LODY MALN. 30G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DLA MNIE BOMBA LODY MALN. 30G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "DLA MNIE BOMBA LODY MALN. 30G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907368806273"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54346
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100103742",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6a1ec65f-db0f-4dd5-8d7a-291175fb23e6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-15T09:36:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONBAT0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:02.941000+00:00",
+        "sequence_number": 173071
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONBAT0017",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DLA MNIE BOMBA WANI-ORZECH 30G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DLA MNIE BOMBA WANI-ORZECH 30G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "DLA MNIE BOMBA WANI-ORZECH 30G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907368806433"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54346
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100103743",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "94436384-7166-457f-8e0d-251383cd681e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-15T09:37:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONBAT0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:02.941000+00:00",
+        "sequence_number": 173072
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONIZO0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Napój izotoniczny wingrono 750ml OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Napój izotoniczny wingrono 750ml OSHEE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Napój izotoniczny wingrono 750ml OSHEE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "22021000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5905868422122",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "11.07.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54349
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56771
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090413",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d6fb34c0-5ae8-4d4e-9975-9ba9cef9e508",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-16T15:39:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONIZO0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:47.639000+00:00",
+        "sequence_number": 131114
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0022",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Calcium + Witamina C 20 tabletek musujących",
+            "ProductDescription": "ovativ Calcium + Witamina C 20 tabletek musujących"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Calcium + Witamina C 20 tabletek musujących",
+            "ProductDescription": "novativ Calcium + Vitamin C 20 effervescent tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Calcium + Witamina C 20 tabletek musujących",
+            "ProductDescription": "novativ Calcium + Vitamin C 20 Brausetabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961080"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "279015",
+        "Weight": 100.0,
+        "Height": 30.0,
+        "Width": 150.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075693",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Calcium + Witamina C 20 tabletek musujących"
+      },
+      "properties": {
+        "message_id": "b9dbdbbb-4e7f-4ec6-8c5c-1eb6ab29fcd4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:37:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.258000+00:00",
+        "sequence_number": 145920
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0035",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Vocasept 24 pastylki do ssania",
+            "ProductDescription": "Novativ Halihelp 30 tabletek do ssania"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Vocasept 24 pastylki do ssania",
+            "ProductDescription": "Novativ Halihelp 30 lozenges"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Vocasept 24 pastylki do ssania",
+            "ProductDescription": "Novativ Halihelp 30 Lutschtabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288961387"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "308389",
+        "Weight": 75.0,
+        "Height": 85.0,
+        "Width": 115.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075694",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Vocasept 24 pastylki do ssania"
+      },
+      "properties": {
+        "message_id": "2678b164-10a3-423f-9d63-8b6753430ea2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:38:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0035'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.258000+00:00",
+        "sequence_number": 145921
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONODB0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IN Protein Drink 500 ml Czekolada",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IN Protein Drink 500 ml Czekolada",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "IN Protein Drink 500 ml Czekolada",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260057660077"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4260057660077",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56772
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075695",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IN Protein Drink 500 ml Czekolada"
+      },
+      "properties": {
+        "message_id": "14b330f9-c09b-45aa-9d5f-dd1def1b5f0f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T12:46:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONODB0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.258000+00:00",
+        "sequence_number": 145922
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONODB0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IN Protein Drink 500 ml Maślanka-cytryna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IN Protein Drink 500 ml Maślanka-cytryna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "IN Protein Drink 500 ml Maślanka-cytryna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260057660107"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4260057660107",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56772
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075696",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IN Protein Drink 500 ml Maślanka-cytryna"
+      },
+      "properties": {
+        "message_id": "61aa88a7-9f4e-4e54-8a46-6474c7db1270",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T12:46:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONODB0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.258000+00:00",
+        "sequence_number": 145923
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNONODB0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BLACKFRIARS Flapjack 110 g – smak: cherry coconut",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BLACKFRIARS Flapjack 110 g – smak: cherry coconut",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BLACKFRIARS Flapjack 110 g – smak: cherry coconut",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5024293000801"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5024293000801",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56772
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075697",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "abfe8629-3c2e-4b44-9283-db21c3debc9e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-04T14:12:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNONODB0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.258000+00:00",
+        "sequence_number": 145924
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISUSNODB0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "USN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "USN Trust crunch 60g – smak: triple chocolate",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "USN Trust crunch 60g – smak: triple chocolate",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "USN Trust crunch 60g – smak: triple chocolate",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6009544924647"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6009544924647",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56772
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075698",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0c953346-025d-481c-9942-e605ff6c54ed",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-04T14:03:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISUSNODB0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.258000+00:00",
+        "sequence_number": 145925
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISMD1SUP0065",
+        "ProductVersion": "1.1",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "MEDICINAE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Novativ Magnez Skurcz 50 tabletek dojelitowych",
+            "ProductDescription": "Novativ Magnez Skurcz, 50 tabletek dojelitowych"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Novativ Magnez Skurcz 50 tabletek dojelitowych",
+            "ProductDescription": "Novativ Magnesium Shrinkage, 50 enteral tablets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Novativ Magnez Skurcz 50 tabletek dojelitowych",
+            "ProductDescription": "Novativ Magnesium Schrumpfung, 50 enteralen Tabletten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908288960892"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "275221",
+        "Weight": 90.0,
+        "Height": 85.0,
+        "Width": 105.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.17.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067795",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Novativ Magnez Skurcz, 50 tabletek dojelitowych"
+      },
+      "properties": {
+        "message_id": "9c568361-7d3e-4dab-9dcf-f5a83596e2c0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T11:41:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISMD1SUP0065'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:12.627000+00:00",
+        "sequence_number": 103482
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPODB0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Whey protein orzech",
+            "ProductDescription": "Odżywka białkowa - NAMEDSPORT Whey Protein Dream / orzech laskowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Whey protein orzech",
+            "ProductDescription": "Protein supplement - NAMEDSPORT Whey Protein Dream / hazelnut"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Odżywka białkowa NAMEDSPORT Whey protein orzech",
+            "ProductDescription": "Eiweißpräparat - NAMEDSPORT Whey Protein Dream / Haselnuss"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8058268961894"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21061020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 975.0,
+        "Height": 110.0,
+        "Width": 260.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.89.19.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56772
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54350
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067796",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Odżywka białkowa NAMEDSPORT Whey protein dream / orzech laskowy 800g"
+      },
+      "properties": {
+        "message_id": "8f58986d-68bc-4214-9cee-559ae2bab421",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPODB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:12.627000+00:00",
+        "sequence_number": 103483
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPSUP0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Multiwitamina NAMEDSPORT PRO 30 tabletek",
+            "ProductDescription": "Suplement diety - NAMEDSPORT Multiwitaminy i minerały Pro"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Multiwitamina NAMEDSPORT PRO 30 tabletek",
+            "ProductDescription": "Dietary supplement - NAMEDSPORT Multivitamins and minerals Pro"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Multiwitamina NAMEDSPORT PRO 30 tabletek",
+            "ProductDescription": "Nahrungsergänzungsmittel - NAMEDSPORT Multivitamine und Mineralien Pro"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8058268961702"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 62.0,
+        "Height": 141.0,
+        "Width": 86.0,
+        "Depth": 32.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55194
+              },
+              {
+                "CategoryId": 56773
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067797",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw multiwitamin i minerałów NAMEDSPORT Pro 30 tabletek"
+      },
+      "properties": {
+        "message_id": "ac9604f9-4cd6-4c6e-9e51-a4f83d05a35e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPSUP0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:12.627000+00:00",
+        "sequence_number": 103484
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OISNSPSUP0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Odżywki i suplementy",
+        "Brand": "NAMEDSPORT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suplement NAMEDSPORT Omega3 double plus ++ 110 kap",
+            "ProductDescription": "Suplement diety - NAMEDSPORT Omega 3 Double Plus ++"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suplement NAMEDSPORT Omega3 double plus ++ 110 kap",
+            "ProductDescription": "Dietary supplement - NAMEDSPORT Omega 3 Double Plus ++"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suplement NAMEDSPORT Omega3 double plus ++ 110 kap",
+            "ProductDescription": "Nahrungsergänzungsmittel - NAMEDSPORT Omega 3 Double Plus ++"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054956343591"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "21069092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 210.0,
+        "Height": 60.0,
+        "Width": 155.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "10.83.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56773
+              },
+              {
+                "CategoryId": 55194
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54352
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067798",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suplement NAMEDSPORT Omega3 double plus ++ 110 kapsułek"
+      },
+      "properties": {
+        "message_id": "4e409f01-ecd4-48ab-9a5e-93437c9b706a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-24T15:36:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OISNSPSUP0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:12.627000+00:00",
+        "sequence_number": 103485
+      }
+    }
+  ]
+}

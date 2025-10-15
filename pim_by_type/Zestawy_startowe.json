@@ -1,0 +1,874 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4869",
+        "ProductVersion": "1.2",
+        "ProductType": "Zestawy startowe",
+        "Brand": "AJA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "AJAX Zestaw alarmowy StarterKit Cam Hub 2, Czarny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "AJAX Zestaw alarmowy StarterKit Cam Hub 2, Czarny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "AJAX Zestaw alarmowy StarterKit Cam Hub 2, Czarny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4823114015724"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "39004",
+        "Weight": 1120.0,
+        "Height": 70.0,
+        "Width": 305.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033888",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "11e05407-715c-45bc-b4d7-81f7c0c98b3c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-14T13:12:40Z'",
+          "ModificationDate": "b'2025-06-04T12:14:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4869'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:43.145000+00:00",
+        "sequence_number": 105725
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDYALZES0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Zestawy startowe",
+        "Brand": "Yale",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 5 el.",
+            "ProductDescription": "Yale AL-SK1-1A-EU system alarmowy Wi-Fi Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 5 el.",
+            "ProductDescription": "Yale AL-SK1-1A-EU security alarm system Wi-Fi White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 5 el.",
+            "ProductDescription": "Yale AL-SK1-1A-EU Sicherheitsalarmsystem WLAN Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5052847131190"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AL-SK1-1A-EU",
+        "Weight": 1500.0,
+        "Height": 110.0,
+        "Width": 260.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072922",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Yale Zestaw startowy inteligentnego alarmu 5 elementów - Centralka, Klawiatura, Pilot, Czujnik ruchu, Czujnik okno/drzwi"
+      },
+      "properties": {
+        "message_id": "b8d9da0c-8263-4569-931f-7a2ce369b1ed",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-13T15:42:11Z'",
+          "ModificationDate": "b'2025-09-30T13:40:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDYALZES0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:19.599000+00:00",
+        "sequence_number": 144667
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDYALZES0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Zestawy startowe",
+        "Brand": "Yale",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 7 el.",
+            "ProductDescription": "Yale Zestaw startowy inteligentnego alarmu 7 elementów - Centralka, Klawiatura, Pilot, 2x Czujnik ruchu, 2x Czujnik okno/drzwi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 7 el.",
+            "ProductDescription": "Yale Smart Alarm Starter Kit 7 items - Control Panel, Keypad, Remote Control, 2x Motion Sensor, 2x Window/Door Sensor"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 7 el.",
+            "ProductDescription": "Yale Smart Alarm Starter Kit 7 Teile - Bedienfeld, Tastatur, Fernbedienung, 2x Bewegungssensor, 2x Fenster-/Türsensor"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5052847131206"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AL-SK2-1A-EU",
+        "Weight": 1700.0,
+        "Height": 265.0,
+        "Width": 240.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069851",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Yale Zestaw startowy inteligentnego alarmu 7 elementów - Centralka, Klawiatura, Pilot, 2x Czujnik ruchu, 2x Czujnik okno/drzwi"
+      },
+      "properties": {
+        "message_id": "5c323acf-37a9-40f4-9ace-a795228197d7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-13T15:42:14Z'",
+          "ModificationDate": "b'2025-09-30T13:40:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDYALZES0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:27.845000+00:00",
+        "sequence_number": 151917
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDGR1ZES0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Zestawy startowe",
+        "Brand": "Grenton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Grenton Zestaw startowy GTM-004-M-01",
+            "ProductDescription": "GRENTON ZESTAW STARTOWY, CZARNY PANEL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Grenton Zestaw startowy GTM-004-M-01",
+            "ProductDescription": "GRENTON STARTER KIT, BLACK PANEL"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Grenton Zestaw startowy GTM-004-M-01",
+            "ProductDescription": "GRENTON STARTER-KIT, SCHWARZES PANEL"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983719540"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GTM-004-M-01",
+        "Weight": 1850.0,
+        "Height": 105.0,
+        "Width": 310.0,
+        "Depth": 255.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076804",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Grenton Zestaw startowy, czarny panel"
+      },
+      "properties": {
+        "message_id": "384a7fae-faf9-4a2e-af4a-81663169c6d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-08-18T15:29:15Z'",
+          "ModificationDate": "b'2025-09-30T13:40:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDGR1ZES0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:19.444000+00:00",
+        "sequence_number": 153126
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4803",
+        "ProductVersion": "1.1",
+        "ProductType": "Zestawy startowe",
+        "Brand": "Philips",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Philips Hue W Starter Kit 9,5W A60 E27 3szt.",
+            "ProductDescription": "Philips Hue White Zestaw startowy: 3 inteligentne żarówki E27 (1100) + regulator przyciemniania Hue Dimmer switch"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Philips Hue W Starter Kit 9,5W A60 E27 3szt.",
+            "ProductDescription": "Philips Hue White E27 Start Kit"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Philips Hue W Starter Kit 9,5W A60 E27 3szt.",
+            "ProductDescription": "Philips Hue White E27 3er Starter Set inkl. Dimmschalter 3x1050lm 75W [Energieklasse F] (8719514289147)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8719514289130"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85437009",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "929002469204",
+        "Weight": 935.0,
+        "Height": 140.0,
+        "Width": 220.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059953",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d6321952-8c09-43e0-9f6c-540424521bad",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-16T16:25:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4803'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:53.730000+00:00",
+        "sequence_number": 124351
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDFIBZES0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Zestawy startowe",
+        "Brand": "FIBARO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fibaro The Heat Controller Starter Pack ZW5 EU",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fibaro The Heat Controller Starter Pack ZW5 EU",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fibaro The Heat Controller Starter Pack ZW5 EU",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902701701079"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FGBHT-PACK",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093022",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "FIBARO Zestaw do sterowania ogrzewaniem The Heat Controller Starter Pack"
+      },
+      "properties": {
+        "message_id": "2443fb61-47f2-4693-9b44-ad0dea183d8c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T10:32:10Z'",
+          "ModificationDate": "b'2025-09-30T13:40:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDFIBZES0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:14.465000+00:00",
+        "sequence_number": 169111
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDYALZES0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Zestawy startowe",
+        "Brand": "Yale",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 6 el.",
+            "ProductDescription": "Yale Zestaw startowy inteligentnego alarmu 6 elementów - Centralka, Syrena, Klawiatura, Pilot, Czujnik ruchu, Czujnik okno/drzwi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 6 el.",
+            "ProductDescription": "Yale smart alarm starter kit 6 elements - Control unit, Siren, Keypad, Remote control, Motion detector, Window/door detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yale Zestaw startowy inteligentnego alarmu 6 el.",
+            "ProductDescription": "Yale smart alarm starter kit 6 Elemente - Steuereinheit, Sirene, Tastatur, Fernbedienung, Bewegungsmelder, Fenster-/Türmelder"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5052847131213"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AL-SK3-1A-EU",
+        "Weight": 3200.0,
+        "Height": 280.0,
+        "Width": 320.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054274",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Yale Zestaw startowy inteligentnego alarmu 6 elementów - Centralka, Syrena, Klawiatura, Pilot, Czujnik ruchu, Czujnik okno/drzwi"
+      },
+      "properties": {
+        "message_id": "178cfa89-21ee-4b8b-982f-a407917cfb67",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-13T15:42:17Z'",
+          "ModificationDate": "b'2025-09-30T13:40:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDYALZES0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:54.702000+00:00",
+        "sequence_number": 139995
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDGR1ZES0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Zestawy startowe",
+        "Brand": "Grenton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Grenton Zestaw startowy GTM-004-M-02",
+            "ProductDescription": "GRENTON ZESTAW STARTOWY; BIAŁY PANEL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Grenton Zestaw startowy GTM-004-M-02",
+            "ProductDescription": "GRENTON STARTER KIT; WHITE PANEL"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Grenton Zestaw startowy GTM-004-M-02",
+            "ProductDescription": "GRENTON STARTER-KIT; WEISSES PANEL"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983719694"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GTM-004-M-02",
+        "Weight": 185.0,
+        "Height": 32.0,
+        "Width": 26.0,
+        "Depth": 32.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058141",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Grenton Zestaw startowy; biały panel"
+      },
+      "properties": {
+        "message_id": "b04786c3-0e4e-4634-a74e-2128be7752ab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-08-18T15:29:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDGR1ZES0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:07.650000+00:00",
+        "sequence_number": 118185
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR5082",
+        "ProductVersion": "1.3",
+        "ProductType": "Zestawy startowe",
+        "Brand": "ORNO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw domofonowy COSMO 2 CYFRAL 2-lokatorski Czarn",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw domofonowy COSMO 2 CYFRAL 2-lokatorski Czarn",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw domofonowy COSMO 2 CYFRAL 2-lokatorski Czarn",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905669169394"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "COSMO 2 CZARNY",
+        "Weight": 1440.0,
+        "Height": 96.0,
+        "Width": 235.0,
+        "Depth": 186.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033920",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3a9357b2-9279-4370-9bf6-a0601df6e9d8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-03T12:00:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR5082'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:48.989000+00:00",
+        "sequence_number": 132973
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHBJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Zestawy startowe",
+        "Brand": "Philips",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Philips Hue White and color ambiance Zestaw",
+            "ProductDescription": "Philips Hue White and color ambiance Zestaw startowy: 3 inteligentne żarówki E27 (1100) + regulator przyciemniania Hue Dimmer switch"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Philips Hue White and color ambiance Zestaw",
+            "ProductDescription": "Philips Hue White and colour ambience Starter kit: 3 E27 smart bulbs (1100) + dimmer switch"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Philips Hue White and color ambiance Zestaw",
+            "ProductDescription": "Philips Hue White and Color ambiance Starter-Set: E27 - Lampe A60 Dreierpack + Dimmschalter"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8719514291355"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "929002468804",
+        "Weight": 980.0,
+        "Height": 145.0,
+        "Width": 170.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54910
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067014",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "52f2b808-70f2-47f1-afcb-eda93f4c9488",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-14T13:00:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHBJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:06+00:00",
+        "sequence_number": 103112
+      }
+    }
+  ]
+}

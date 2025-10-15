@@ -1,0 +1,2954 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "URPUITKTE0001",
+        "ProductVersion": "1.0",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Uni-T UTi260B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Uni-T UTi260B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Uni-T UTi260B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890074957"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0456",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": true,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57855
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100157056",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kamera termowizyjna Uni-T UTi260B"
+      },
+      "properties": {
+        "message_id": "1aa3c407-eb04-46a7-b697-61a3e3b5b5f4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-09T13:35:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPUITKTE0001'"
+        },
+        "enqueued_time_utc": "2025-10-09 11:47:05.623000+00:00",
+        "sequence_number": 174472
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPUITKTE0002",
+        "ProductVersion": "1.0",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna UTi720E",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna UTi720E",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna UTi720E",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890078467"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0474",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": true,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57855
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100157057",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kamera termowizyjna UTi720E"
+      },
+      "properties": {
+        "message_id": "f9b0ac54-0987-426d-b31d-db7db3a7ea5d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-09T13:35:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPUITKTE0002'"
+        },
+        "enqueued_time_utc": "2025-10-09 11:47:05.623000+00:00",
+        "sequence_number": 174473
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCRW",
+        "ProductVersion": "1.0",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-AAA",
+            "ProductDescription": "Seek Thermal LQ-AAA kamera termowizyjna Czarny 320 x 240 px Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-AAA",
+            "ProductDescription": "Seek Thermal LQ-AAA thermal imaging camera Black 320 x 240 pixels Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-AAA",
+            "ProductDescription": "Seek Thermal LQ-AAA Wärmebildkamera Schwarz 320 x 240 Pixel Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "855753005600"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LQ-AAA",
+        "Weight": 244.0,
+        "Height": 181.0,
+        "Width": 97.0,
+        "Depth": 52.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156484",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "08e7956b-5cac-4c92-a102-ceda16754d47",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T07:13:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCRW'"
+        },
+        "enqueued_time_utc": "2025-10-06 14:46:29.837000+00:00",
+        "sequence_number": 173901
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCP9",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Seek Thermal Compact - iOS",
+            "ProductDescription": "Seek Thermal Compact iOS Kamera termowizyjna LW-EAA"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Seek Thermal Compact - iOS",
+            "ProductDescription": "Seek Thermal Compact iOS Thermal imaging camera LW-EAA"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Seek Thermal Compact - iOS",
+            "ProductDescription": "Seek Thermal Compact iOS Wärmebildkamera LW-EAA"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "855753005181"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LW-EAA",
+        "Weight": 245.0,
+        "Height": 47.0,
+        "Width": 180.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044816",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9f60590d-d151-43ce-8941-12ccfac4c26d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-09T16:18:49Z'",
+          "ModificationDate": "b'2025-06-04T12:20:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCP9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:58.685000+00:00",
+        "sequence_number": 148588
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCPB",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA SQ-AAA",
+            "ProductDescription": "Seek Thermal SQ-AAA kamera termowizyjna Czarny 320 x 240 px Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA SQ-AAA",
+            "ProductDescription": "Seek Thermal SQ-AAA thermal imaging camera Black 320 x 240 pixels Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA SQ-AAA",
+            "ProductDescription": "Seek Thermal SQ-AAA Wärmebildkamera Schwarz 320 x 240 Pixel Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "859356006217"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SQ-AAA",
+        "Weight": 410.0,
+        "Height": 50.0,
+        "Width": 180.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044817",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7dbfe4c4-e536-48e6-a229-b0f464ba4a7e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-09T21:09:05Z'",
+          "ModificationDate": "b'2025-06-04T12:20:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCPB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:58.685000+00:00",
+        "sequence_number": 148589
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCPG",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Seek Thermal Xtra Range - iOS",
+            "ProductDescription": "Seek Thermal Compact XR iOS Kamera termowizyjna LT-EAA"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Seek Thermal Xtra Range - iOS",
+            "ProductDescription": "Seek Thermal Compact XR iOS Thermal imaging camera LT-EAA"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Seek Thermal Xtra Range - iOS",
+            "ProductDescription": "Seek Thermal Compact XR iOS Wärmebildkamera LT-EAA"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "855753005204"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LT-EAA",
+        "Weight": 248.0,
+        "Height": 51.0,
+        "Width": 96.0,
+        "Depth": 182.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044818",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6e6563f8-9435-463d-b862-17b91d53f873",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-23T16:18:51Z'",
+          "ModificationDate": "b'2025-06-04T12:20:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCPG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:58.685000+00:00",
+        "sequence_number": 148590
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCWE",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-EAA",
+            "ProductDescription": "Seek Thermal LQ-EAA kamera termowizyjna Czarny 320 x 240 px"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-EAA",
+            "ProductDescription": "Seek Thermal LQ-EAA thermal imaging camera Black 320 x 240 pixels"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-EAA",
+            "ProductDescription": "Seek Thermal LQ-EAA Wärmebildkamera Schwarz 320 x 240 Pixel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "855753005471"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LQ-EAA",
+        "Weight": 250.0,
+        "Height": 100.0,
+        "Width": 185.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044835",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eaf61c9e-86b1-4039-bec5-4df71b7b6581",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-22T11:35:16Z'",
+          "ModificationDate": "b'2025-06-04T12:20:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCWE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:59.591000+00:00",
+        "sequence_number": 148607
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRE108",
+        "ProductVersion": "1.4",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termowizor Pulsar Telos XP50",
+            "ProductDescription": "PULSAR Telos XP50 Noise equivalent temperature difference (NETD) uncooled Czarny 6400 mAh 640 x 480 px Wbudowany wyświetlacz OLED 1024 x 768 px"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termowizor Pulsar Telos XP50",
+            "ProductDescription": "Pulsar Telos XP50 Thermal Imager"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termowizor Pulsar Telos XP50",
+            "ProductDescription": "Pulsar Telos XP50 Wärmebildkamera"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022925962"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77493",
+        "Weight": 1510.0,
+        "Height": 168.0,
+        "Width": 440.0,
+        "Depth": 181.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "LT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046252",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b1f3880d-0e2f-46f9-b895-0d203e84513d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-04T09:10:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRE108'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:06.389000+00:00",
+        "sequence_number": 148963
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASGE",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna UTi730E",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna UTi730E",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna UTi730E",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890078481"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LEC-MIE0475",
+        "Weight": 2665.0,
+        "Height": 160.0,
+        "Width": 370.0,
+        "Depth": 302.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038005",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fc1b563c-a875-47ea-88d4-b2ee49564f9a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-02T16:06:54Z'",
+          "ModificationDate": "b'2025-06-04T12:16:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASGE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:04.035000+00:00",
+        "sequence_number": 119883
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASKF",
+        "ProductVersion": "1.3",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Uni-T UTi712S",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Uni-T UTi712S",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Uni-T UTi712S",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890096263"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0497",
+        "Weight": 555.0,
+        "Height": 150.0,
+        "Width": 247.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038046",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e51c79ab-d325-4a84-9231-d951498c23a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-11T07:18:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASKF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:04.035000+00:00",
+        "sequence_number": 119887
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGSEEKAT0021",
+        "ProductVersion": "1.1",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-AAA",
+            "ProductDescription": "Seek Thermal LQ-AAA kamera termowizyjna Czarny 320 x 240 px Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-AAA",
+            "ProductDescription": "Seek Thermal LQ-AAA thermal imaging camera Black 320 x 240 pixels Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA LQ-AAA",
+            "ProductDescription": "Seek Thermal LQ-AAA Wärmebildkamera Schwarz 320 x 240 Pixel Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "855753005600"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LQ-AAA",
+        "Weight": 244.0,
+        "Height": 181.0,
+        "Width": 97.0,
+        "Depth": 52.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059460",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f6e20d3-bdc7-4a3f-81e6-31555fbac643",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-04-20T13:15:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGSEEKAT0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:56.046000+00:00",
+        "sequence_number": 135198
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPFLIKTE0009",
+        "ProductVersion": "1.0",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "FLIR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLIR KOMPAKTOWA KAMERA TERMOWIZYJNA C8",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLIR KOMPAKTOWA KAMERA TERMOWIZYJNA C8",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLIR KOMPAKTOWA KAMERA TERMOWIZYJNA C8",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4743254007727"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "C8",
+        "Weight": 190.0,
+        "Height": 84.0,
+        "Width": 138.0,
+        "Depth": 34.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": true,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "EE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57855
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156995",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3795ce67-74f4-44a7-91c8-1b71e5165f8a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-09T10:31:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPFLIKTE0009'"
+        },
+        "enqueued_time_utc": "2025-10-09 08:35:00.791000+00:00",
+        "sequence_number": 174411
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPSEEKTE0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA SQ-AAA",
+            "ProductDescription": "Seek Thermal SQ-AAA kamera termowizyjna Czarny 320 x 240 px Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA SQ-AAA",
+            "ProductDescription": "Seek Thermal SQ-AAA thermal imaging camera Black 320 x 240 pixels Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA SQ-AAA",
+            "ProductDescription": "Seek Thermal SQ-AAA Wärmebildkamera Schwarz 320 x 240 Pixel Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "859356006217"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SQ-AAA",
+        "Weight": 400.0,
+        "Height": 50.0,
+        "Width": 180.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047105",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c0b9e944-ebf2-4799-b493-e6520eabd492",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-09-07T09:47:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPSEEKTE0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:43.887000+00:00",
+        "sequence_number": 107736
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPFLIMIE0018",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "FLIR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLIR DETEKTOR NAPIĘCIA Z ALARMEM I LATARKĄ VP52-2",
+            "ProductDescription": "FLIR VP52-2 Tester di tensione senza contatto CAT IV 1000 V LED, Vibrazione, Acustico Kieszeń Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLIR DETEKTOR NAPIĘCIA Z ALARMEM I LATARKĄ VP52-2",
+            "ProductDescription": "FLIR VP52-2 Tester di tensione senza contatto CAT IV 1000 V LED, Vibrazione, Acustico Pocket Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLIR DETEKTOR NAPIĘCIA Z ALARMEM I LATARKĄ VP52-2",
+            "ProductDescription": "FLIR VP52-2 Tester di tensione senza contatto CAT IV 1000 V LED, Vibrazione, Acustico Tasche Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "793950412527"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90303100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VP52-2",
+        "Weight": 115.0,
+        "Height": 40.0,
+        "Width": 245.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051446",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8f647dbf-2003-4e6d-a3d8-387f26bda993",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-01-09T16:43:54Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPFLIMIE0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:33.901000+00:00",
+        "sequence_number": 121330
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGSEEKAT0025",
+        "ProductVersion": "1.1",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Seek Thermal CW-ABAX",
+            "ProductDescription": "Seek Thermal CW-ABAX kamera termowizyjna Czarny 200 x 150 px"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Seek Thermal CW-ABAX",
+            "ProductDescription": "Seek Thermal CW-ABAX thermal imaging camera Black 200 x 150 pixels"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Seek Thermal CW-ABAX",
+            "ProductDescription": "Seek Thermal CW-ABAX Wärmebildkamera Schwarz 200 x 150 Pixel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "859356006712"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CW-ABAX",
+        "Weight": 70.0,
+        "Height": 62.0,
+        "Width": 130.0,
+        "Depth": 57.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078109",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "10936a02-51cd-4ca7-b4ec-c28bbe2fd284",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-20T12:22:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGSEEKAT0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:14.267000+00:00",
+        "sequence_number": 136122
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASRN",
+        "ProductVersion": "1.1",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Uni-T UTi720M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Uni-T UTi720M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Uni-T UTi720M",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890095242"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0487",
+        "Weight": 165.0,
+        "Height": 100.0,
+        "Width": 120.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083428",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "457b9f77-3938-4d9b-b868-c4d96df4e13e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T15:36:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASRN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:15.189000+00:00",
+        "sequence_number": 136155
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGFLIKAT0023",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "FLIR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE EDGE FOEDGE",
+            "ProductDescription": "FLIR FOEDGE kamera termowizyjna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE EDGE FOEDGE",
+            "ProductDescription": "FLIR FOEDGE thermal imaging camera"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE EDGE FOEDGE",
+            "ProductDescription": "FLIR FOEDGE Wärmebildkamera"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4743254006065"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FOEDGE",
+        "Weight": 370.0,
+        "Height": 100.0,
+        "Width": 165.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "EE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063344",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4d6d4ab3-f4f1-4f16-accd-adf9eebfda1e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-31T11:52:04Z'",
+          "ModificationDate": "b'2025-09-30T13:40:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGFLIKAT0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:03.151000+00:00",
+        "sequence_number": 150601
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGFLIKAT0024",
+        "ProductVersion": "1.1",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "FLIR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE PRO FP3IC",
+            "ProductDescription": "FLIR FP3IC kamera termowizyjna Noise equivalent temperature difference (NETD) Czarny 160 x 120 px"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE PRO FP3IC",
+            "ProductDescription": "FLIR FP3IC thermal imaging camera Noise equivalent temperature difference (NETD) Black 160 x 120 pixels"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE PRO FP3IC",
+            "ProductDescription": "FLIR FP3IC Wärmebildkamera Noise equivalent temperature difference (NETD) Schwarz 160 x 120 Pixel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4743254007390"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FP3IC",
+        "Weight": 330.0,
+        "Height": 105.0,
+        "Width": 145.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069155",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ad4f4dd6-9320-49a7-b3cf-5bb93f9c27ad",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-01T11:49:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGFLIKAT0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:15.694000+00:00",
+        "sequence_number": 152951
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASP6",
+        "ProductVersion": "1.3",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Uni-T UTi260B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Uni-T UTi260B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Uni-T UTi260B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890074957"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0456",
+        "Weight": 930.0,
+        "Height": 150.0,
+        "Width": 270.0,
+        "Depth": 97.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038097",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "60eaea99-760c-4180-8b98-c8ec792dd424",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-02T12:58:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASP6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:05.370000+00:00",
+        "sequence_number": 162437
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASP7",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna UTi720E",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna UTi720E",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna UTi720E",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890078467"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0474",
+        "Weight": 3800.0,
+        "Height": 350.0,
+        "Width": 400.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038098",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b7989d3a-70d0-4d7a-bf58-02511f989df7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-26T16:52:30Z'",
+          "ModificationDate": "b'2025-06-04T12:16:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASP7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:05.370000+00:00",
+        "sequence_number": 162438
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASPF",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Uni-T UTi720A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Uni-T UTi720A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Uni-T UTi720A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890095280"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LEC-MIE0489",
+        "Weight": 889.0,
+        "Height": 150.0,
+        "Width": 270.0,
+        "Depth": 98.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038103",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "10972f30-a9d1-4711-acb1-c074917f8ea5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-16T07:19:43Z'",
+          "ModificationDate": "b'2025-06-04T12:16:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASPF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:05.370000+00:00",
+        "sequence_number": 162443
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGFLIKAT0026",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "FLIR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA PUNKTOWA TG268",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA PUNKTOWA TG268",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA PUNKTOWA TG268",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TG268",
+        "Weight": 400.0,
+        "Height": 81.0,
+        "Width": 64.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086200",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0619f93e-cf7e-405e-8adb-51aeb4361a0d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T15:19:54Z'",
+          "ModificationDate": "b'2025-09-30T13:40:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGFLIKAT0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:17.344000+00:00",
+        "sequence_number": 125600
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGFLIKAT0027",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "FLIR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA WYSOKOTEMPERATUROWA TG298",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA WYSOKOTEMPERATUROWA TG298",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA WYSOKOTEMPERATUROWA TG298",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TG298",
+        "Weight": 400.0,
+        "Height": 81.0,
+        "Width": 64.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086201",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "89dfe42d-26ba-46af-9bfa-81d322e3be14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T15:20:15Z'",
+          "ModificationDate": "b'2025-09-30T13:40:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGFLIKAT0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:17.344000+00:00",
+        "sequence_number": 125601
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFGSA",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DS-2TD2608-2/QA Kamera termowizyjna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DS-2TD2608-2/QA Kamera termowizyjna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "DS-2TD2608-2/QA Kamera termowizyjna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6942160419879"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "305402127",
+        "Weight": 1360.0,
+        "Height": 150.0,
+        "Width": 340.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080963",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "439b13ac-98dd-419e-a8b9-7ada930752bc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-06T00:32:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFGSA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:52.278000+00:00",
+        "sequence_number": 154744
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPSEEKTE0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-AAA",
+            "ProductDescription": "PowerNeed RQ-AAA kamera termowizyjna Vanadium Oxide Uncooled Focal Plane Arrays Czarny 320 x 240 px Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-AAA",
+            "ProductDescription": "PowerNeed RQ-AAA thermal imaging camera Vanadium Oxide Uncooled Focal Plane Arrays Black 320 x 240 pixels Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-AAA",
+            "ProductDescription": "PowerNeed RQ-AAA Wärmebildkamera Vanadium Oxide Uncooled Focal Plane Arrays Schwarz 320 x 240 Pixel Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "855753005648"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RQ-AAA",
+        "Weight": 20.0,
+        "Height": 44.0,
+        "Width": 61.0,
+        "Depth": 33.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056877",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9e564511-62bc-475b-89f5-a27a0a1e3928",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-09-07T09:46:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPSEEKTE0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:04.978000+00:00",
+        "sequence_number": 118049
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASXS",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Uni-T UTi32",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Uni-T UTi32",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Uni-T UTi32",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890078030"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LEC-MIE0471",
+        "Weight": 672.0,
+        "Height": 167.0,
+        "Width": 261.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038183",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9b647c6c-853a-46a7-ab31-ba1e2e68ce2b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-10T16:10:53Z'",
+          "ModificationDate": "b'2025-06-04T12:16:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASXS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:06.620000+00:00",
+        "sequence_number": 162486
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPSEEKTE0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-AAAX",
+            "ProductDescription": "PowerNeed RQ-AAAX kamera termowizyjna Vanadium Oxide Uncooled Focal Plane Arrays Czarny 320 x 240 px Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-AAAX",
+            "ProductDescription": "PowerNeed RQ-AAAX thermal imaging camera Vanadium Oxide Uncooled Focal Plane Arrays Black 320 x 240 pixels Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-AAAX",
+            "ProductDescription": "PowerNeed RQ-AAAX Wärmebildkamera Vanadium Oxide Uncooled Focal Plane Arrays Schwarz 320 x 240 Pixel Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "855753005655"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RQ-AAAX",
+        "Weight": 395.0,
+        "Height": 46.0,
+        "Width": 180.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068621",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ed65da43-8909-470f-b4f2-4096e1048f2c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-09-07T09:46:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPSEEKTE0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:08.140000+00:00",
+        "sequence_number": 127263
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBOPW",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Obiektyw MACRO do kamer termowizyjnych UT-Z002",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Obiektyw MACRO do kamer termowizyjnych UT-Z002",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Obiektyw MACRO do kamer termowizyjnych UT-Z002",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890109260"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0502",
+        "Weight": 60.0,
+        "Height": 30.0,
+        "Width": 172.0,
+        "Depth": 122.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041041",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "27b26fde-8806-41e9-bfb2-e0c8f4e4ffe9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-18T18:00:26Z'",
+          "ModificationDate": "b'2025-06-04T12:18:17Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBOPW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:10.667000+00:00",
+        "sequence_number": 162670
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGFLIKAT0025",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "FLIR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE PRO FP3IC",
+            "ProductDescription": "FLIR FP3IC kamera termowizyjna Noise equivalent temperature difference (NETD) Czarny 160 x 120 px"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE PRO FP3IC",
+            "ProductDescription": "FLIR FP3IC thermal imaging camera Noise equivalent temperature difference (NETD) Black 160 x 120 pixels"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLIR KAMERA TERMOWIZYJNA FLIR ONE PRO FP3IC",
+            "ProductDescription": "FLIR FP3IC Wärmebildkamera Noise equivalent temperature difference (NETD) Schwarz 160 x 120 Pixel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "845188032616"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FP3IC",
+        "Weight": 330.0,
+        "Height": 70.0,
+        "Width": 145.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "EE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086899",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e6351709-9bfb-4ab6-8e85-e2dfe23cc2b1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-01T12:34:14Z'",
+          "ModificationDate": "b'2025-09-30T13:40:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGFLIKAT0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:02.030000+00:00",
+        "sequence_number": 160813
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPSEEKTE0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-LAHX",
+            "ProductDescription": "Seek Thermal RQ-LAHX kamera termowizyjna Czarny 320 x 240 px Wbudowany wyświetlacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-LAHX",
+            "ProductDescription": "Seek Thermal RQ-LAHX thermal imaging camera Black 320 x 240 pixels Built-in display"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA RQ-LAHX",
+            "ProductDescription": "Seek Thermal RQ-LAHX Wärmebildkamera Schwarz 320 x 240 Pixel Eingebautes Display"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "859356006125"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RQ-LAHX",
+        "Weight": 180.0,
+        "Height": 140.0,
+        "Width": 60.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55072
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55363
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062770",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "050ef6fe-3490-4299-a29f-d77fc61f5882",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-09T10:42:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPSEEKTE0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:14.731000+00:00",
+        "sequence_number": 162859
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGSEEKAT0028",
+        "ProductVersion": "1.1",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kamera termowizyjna Seek Thermal CQ-ABAX",
+            "ProductDescription": "Seek Thermal CQ-ABAX kamera termowizyjna Czarny 320 x 240 px"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kamera termowizyjna Seek Thermal CQ-ABAX",
+            "ProductDescription": "Seek Thermal CQ-ABAX thermal imaging camera Black 320 x 240 pixels"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kamera termowizyjna Seek Thermal CQ-ABAX",
+            "ProductDescription": "Seek Thermal CQ-ABAX Wärmebildkamera Schwarz 320 x 240 Pixel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "859356006675"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CQ-ABAX",
+        "Weight": 60.0,
+        "Height": 55.0,
+        "Width": 130.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074207",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "94e22080-1a1e-4ecb-ba4e-b0e365705de9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-20T12:22:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGSEEKAT0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:39.616000+00:00",
+        "sequence_number": 145734
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPSEE4PS0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Kamery termowizyjne",
+        "Brand": "Seek Thermal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA CQ-AAAX(WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA CQ-AAAX(WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEEK THERMAL KAMERA TERMOWIZYJNA CQ-AAAX(WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "859356006316"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90275000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CQ-AAAX",
+        "Weight": 245.0,
+        "Height": 95.0,
+        "Width": 180.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54430
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57207
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067630",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9a66c4df-2c6d-4ece-b19b-1560570f9d23",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-29T08:34:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPSEE4PS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:10.500000+00:00",
+        "sequence_number": 103396
+      }
+    }
+  ]
+}

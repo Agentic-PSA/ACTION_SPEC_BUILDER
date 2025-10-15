@@ -1,0 +1,83 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SRHHEBKZC0002",
+        "ProductVersion": "1.4",
+        "ProductType": "Kompresy żelowe ciepło-zimno",
+        "Brand": "HELBO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bardzo duży kompres żerlowy typu ciepło zimno 18x29",
+            "ProductDescription": "Bardzo duży kompres żelowy typu ciepło zimno 18x29"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bardzo duży kompres żerlowy typu ciepło zimno 18x29",
+            "ProductDescription": "Extra large foraging compress warm-cold type 18x29"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bardzo duży kompres żerlowy typu ciepło zimno 18x29",
+            "ProductDescription": "Extra große Futtersuchkompresse warm-kalt Typ 18x29"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906742630343"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "30059099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 685.0,
+        "Height": 160.0,
+        "Width": 125.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "21.20.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56444
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027315",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "89bf0126-3a05-4da6-896d-a31d5ecac78d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-29T13:34:02Z'",
+          "ModificationDate": "b'2025-07-24T10:20:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHHEBKZC0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:46.114000+00:00",
+        "sequence_number": 132854
+      }
+    }
+  ]
+}

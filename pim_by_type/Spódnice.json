@@ -1,0 +1,86 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "ODMHLKSPD0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Spódnice",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Spódnica UTL (Urban Tactical Skirt) Beż-Khaki",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Spódnica UTL (Urban Tactical Skirt) Beż-Khaki",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Spódnica UTL (Urban Tactical Skirt) Beż-Khaki",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "61045300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.ST-UTW-PR-13-G07",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086638",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Spódnica UTL (Urban Tactical Skirt) - PolyCotton Ripstop - Beż-Khaki  - 33 (ST-UTW-PR-13-G07)"
+      },
+      "properties": {
+        "message_id": "68cf0480-ce2f-4726-a553-df92f54e6fb0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-07T12:46:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMHLKSPD0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:28.693000+00:00",
+        "sequence_number": 157755
+      }
+    }
+  ]
+}

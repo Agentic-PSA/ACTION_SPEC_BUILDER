@@ -1,0 +1,621 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBOO",
+        "ProductVersion": "1.0",
+        "ProductType": "Moduły optyczne",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł Ubiquiti UISP UACC-UF-OM-XGS",
+            "ProductDescription": "Ubiquiti UISP UACC-UF-OM-XGS moduł przekaźników sieciowych Swiatłowód 10000 Mbit/s"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł Ubiquiti UISP UACC-UF-OM-XGS",
+            "ProductDescription": "Ubiquiti UISP UACC-UF-OM-XGS network transceiver module Fiber optic 10000 Mbit/s"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł Ubiquiti UISP UACC-UF-OM-XGS",
+            "ProductDescription": "Ubiquiti UISP UACC-UF-OM-XGS Netzwerk-Transceiver-Modul Faseroptik 10000 Mbit/s"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084691038"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UACC-UF-OM-XGS",
+        "Weight": 10.0,
+        "Height": 209.0,
+        "Width": 38.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55991
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54754
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57300
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156429",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bc751f3c-11b1-4c3e-a646-7a9ee66bbed6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T15:45:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBOO'"
+        },
+        "enqueued_time_utc": "2025-10-06 14:16:03.392000+00:00",
+        "sequence_number": 173846
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCXBF",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły optyczne",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Extralink SFP+ to RJ45 Module SFP+ 10G 10Gbps",
+            "ProductDescription": "Extralink SFP+ to RJ45 Module SFP+ 10G 10Gbps"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Extralink SFP+ to RJ45 Module SFP+ 10G 10Gbps",
+            "ProductDescription": "Extralink SFP Module SFP RJ45 10G 1x RJ45 10Gb/s"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Extralink SFP+ to RJ45 Module SFP+ 10G 10Gbps",
+            "ProductDescription": "Extralink SFP-Modul SFP RJ45 10G 1x RJ45 10Gb/s"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902560368444"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.8444",
+        "Weight": 40.0,
+        "Height": 20.0,
+        "Width": 78.0,
+        "Depth": 51.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55991
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54754
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055266",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7e07c8d5-f925-4bfa-8484-5d0772bc3c53",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-04T08:25:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCXBF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:59.671000+00:00",
+        "sequence_number": 140257
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADUD",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły optyczne",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Extralink SFP+ 10G | Moduł SFP+ WDM | 10Gbps",
+            "ProductDescription": "Extralink Moduł SFP+ WDM SFP+ 10G 10Gbps 1270/1330nm, single mode, 20km, LC, DOM, para, dedykowany dla HP/ARUBA"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Extralink SFP+ 10G | Moduł SFP+ WDM | 10Gbps",
+            "ProductDescription": "Extralink SFP+ 10G | SFP+ WDM Module | 10Gbps 1270/1330nm, single mode, 20km, LC, DOM, pair, dedicated to HP/ARUBA"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Extralink SFP+ 10G | Moduł SFP+ WDM | 10Gbps",
+            "ProductDescription": "Extralink SFP+ 10G | SFP+ WDM-Modul | 10 Gbit/s 1270/1330 nm, Singlemode, 20 km, LC, DOM, Paar, speziell für HP/ARUBA"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903148915111"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.15111",
+        "Weight": 70.0,
+        "Height": 90.0,
+        "Width": 110.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54754
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55991
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035356",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0847e726-80b5-4a83-90f0-5483548f1dde",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-28T13:53:59Z'",
+          "ModificationDate": "b'2025-06-04T12:15:01Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADUD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:50.739000+00:00",
+        "sequence_number": 133091
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR8986",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły optyczne",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Extralink Moduł SFP28 WDM SFP28 25G 25Gbps",
+            "ProductDescription": "Extralink Moduł SFP28 WDM SFP28 25G 25Gbps 1270/1330nm, single mode, 10km, LC, DOM, para"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Extralink Moduł SFP28 WDM SFP28 25G 25Gbps",
+            "ProductDescription": "Extralink SFP28 WDM Module SFP28 25G 25Gbps 1270/1330nm, single mode, 10km, LC, DOM, pair"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Extralink Moduł SFP28 WDM SFP28 25G 25Gbps",
+            "ProductDescription": "Extralink SFP28 WDM-Modul SFP28 25G 25Gbps 1270/1330nm, Einzelmodus, 10km, LC, DOM, Paar"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903148916538"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.16538",
+        "Weight": 56.0,
+        "Height": 20.0,
+        "Width": 80.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55991
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54754
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055010",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dfe0b71b-295d-4326-82ac-874f981713ea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-24T16:23:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR8986'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:59.234000+00:00",
+        "sequence_number": 141895
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADUY",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły optyczne",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ubiquiti U Fiber GPON, B+",
+            "ProductDescription": "Ubiquiti U Fiber GPON, B+ moduł przekaźników sieciowych Swiatłowód 2500 Mbit/s SFP 1490 nm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ubiquiti U Fiber GPON, B+",
+            "ProductDescription": "Ubiquiti U Fiber GPON, B+ network transceiver module Fiber optic 2500 Mbit/s SFP 1490 nm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ubiquiti U Fiber GPON, B+",
+            "ProductDescription": "Ubiquiti U Fiber GPON, B+ Netzwerk-Transceiver-Modul Faseroptik 2500 Mbit/s SFP 1490 nm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810010078896"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1803551",
+        "Weight": 30.0,
+        "Height": 30.0,
+        "Width": 80.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55991
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54754
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070776",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7ba4df1b-b2f6-45c8-9b6b-cdd25bef5d2c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-13T15:00:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADUY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:13.469000+00:00",
+        "sequence_number": 127580
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR9099",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły optyczne",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł MikroTik XS+31LC10D | SFP/SFP+/SFP28 | 1/10/2",
+            "ProductDescription": "Mikrotik XS+31LC10D moduł przekaźników sieciowych Swiatłowód 25000 Mbit/s SFP28 1310 nm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł MikroTik XS+31LC10D | SFP/SFP+/SFP28 | 1/10/2",
+            "ProductDescription": "Mikrotik XS+31LC10D network transceiver module Fiber optic 25000 Mbit/s SFP28 1310 nm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł MikroTik XS+31LC10D | SFP/SFP+/SFP28 | 1/10/2",
+            "ProductDescription": "Mikrotik XS+31LC10D Netzwerk-Transceiver-Modul Faseroptik 25000 Mbit/s SFP28 1310 nm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903148917962"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "XS+31LC10D",
+        "Weight": 840.0,
+        "Height": 81.0,
+        "Width": 118.0,
+        "Depth": 278.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54754
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55991
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094305",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cbfdbab6-371f-4aec-9aa0-6018e87b663b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-05T16:10:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR9099'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:46.626000+00:00",
+        "sequence_number": 172226
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAFER",
+        "ProductVersion": "1.3",
+        "ProductType": "Moduły optyczne",
+        "Brand": "Intellinet",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Intellinet 508179 moduł przekaźników sieciowych",
+            "ProductDescription": "Intellinet 508179 moduł przekaźników sieciowych Miedź 11100 Mbit/s SFP+"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Intellinet 508179 moduł przekaźników sieciowych",
+            "ProductDescription": "Intellinet Transceiver Module, 10 Gigabit Copper SFP+, 10GBase-T (RJ45) Port, 30m, up to 10 Gbps Data-Transfer Rate with Cat6a Cabling, MSA Complliant, Equivalent to Cisco MA-SFP-10G-T, Three Year Warranty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Intellinet 508179 moduł przekaźników sieciowych",
+            "ProductDescription": "Intellinet 10 Gigabit SFP+ Mini-GBIC Transceiver für RJ45-Kabel, 10GBase-T (RJ45) Port, 30 m, bis zu 10 Gbit/s Übertragungsraten mit Cat6a-Netzwerkkabeln"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "766623508179"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3777981",
+        "Weight": 40.0,
+        "Height": 30.0,
+        "Width": 121.0,
+        "Depth": 56.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54754
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55991
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035597",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c01b2e7b-12d2-45af-a86a-50a7ef7e14a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-05T00:54:24Z'",
+          "ModificationDate": "b'2025-08-07T08:18:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAFER'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:53.724000+00:00",
+        "sequence_number": 133227
+      }
+    }
+  ]
+}

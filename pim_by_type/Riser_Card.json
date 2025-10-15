@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "OIASUMRIS0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Riser Card",
+        "Brand": "Supermicro",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RISER CARD SUPERMICRO AOC-SLG3-2M2-O",
+            "ProductDescription": "Supermicro AOC-SLG3-2M2 adapter Wewnętrzny M.2"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RISER CARD SUPERMICRO AOC-SLG3-2M2-O",
+            "ProductDescription": "Supermicro AOC-SLG3-2M2 interface cards/adapter Internal M.2"
+          },
+          {
+            "Language": "de",
+            "ProductName": "RISER CARD SUPERMICRO AOC-SLG3-2M2-O",
+            "ProductDescription": "Supermicro AOC-SLG3-2M2 Schnittstellenkarte/Adapter Eingebaut M.2"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "672042229666"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84733020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AOC-SLG3-2M2-O",
+        "Weight": 215.0,
+        "Height": 70.0,
+        "Width": 255.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53388
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54487
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049202",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ebc02a6f-42c5-40ed-93d3-55b6d540d797",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-03-15T16:15:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OIASUMRIS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:40.505000+00:00",
+        "sequence_number": 116774
+      }
+    }
+  ]
+}

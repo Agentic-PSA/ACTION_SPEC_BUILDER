@@ -1,0 +1,1312 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHIX",
+        "ProductVersion": "1.3",
+        "ProductType": "Monokulary",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termowizor Pulsar Telos LRF XP50",
+            "ProductDescription": "PULSAR Telos LRF XP50 luneta 4x BK-7 Porro Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termowizor Pulsar Telos LRF XP50",
+            "ProductDescription": "Pulsar Telos LRF XP50 Thermal Imager"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termowizor Pulsar Telos LRF XP50",
+            "ProductDescription": "Pulsar Telos LRF XP50 Wärmebildkamera"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022925856"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77492",
+        "Weight": 1563.0,
+        "Height": 110.0,
+        "Width": 335.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045421",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "25e09e12-113e-40e9-ba9b-420f406b2afa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-21T08:11:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHIX'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:52.711000+00:00",
+        "sequence_number": 115354
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDIF1",
+        "ProductVersion": "1.0",
+        "ProductType": "Monokulary",
+        "Brand": "PENTAX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pentax XW 20 akcesoria optyczne",
+            "ProductDescription": "Pentax XW 20 akcesoria optyczne 2 cm Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pentax XW 20 akcesoria optyczne",
+            "ProductDescription": "Pentax XW 20 eyepiece 2 cm Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pentax XW 20 akcesoria optyczne",
+            "ProductDescription": "Pentax XW 20 Okular 2 cm Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "027075075245"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "70516",
+        "Weight": 1720.0,
+        "Height": 278.0,
+        "Width": 307.0,
+        "Depth": 395.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 58110
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156502",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "af3d18c5-e999-4edb-b3d7-863190c38325",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T07:13:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDIF1'"
+        },
+        "enqueued_time_utc": "2025-10-06 14:56:41.514000+00:00",
+        "sequence_number": 173919
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHS1",
+        "ProductVersion": "1.3",
+        "ProductType": "Monokulary",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termowizor Pulsar Telos XL50",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termowizor Pulsar Telos XL50",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termowizor Pulsar Telos XL50",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022926082"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77516",
+        "Weight": 1498.0,
+        "Height": 110.0,
+        "Width": 335.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "LT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045459",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4cd33ad2-bff8-40a9-9af8-5dc8966030ff",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-07T12:41:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHS1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:00.544000+00:00",
+        "sequence_number": 148652
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHKP",
+        "ProductVersion": "1.3",
+        "ProductType": "Monokulary",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termowizor Pulsar Axion XQ30 PRO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termowizor Pulsar Axion XQ30 PRO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termowizor Pulsar Axion XQ30 PRO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022926068"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77506",
+        "Weight": 718.0,
+        "Height": 110.0,
+        "Width": 289.0,
+        "Depth": 119.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045425",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "df388d84-1490-4b07-8b7b-87a2cd70fa61",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-13T13:45:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHKP'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:59.585000+00:00",
+        "sequence_number": 106645
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHMF",
+        "ProductVersion": "1.3",
+        "ProductType": "Monokulary",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termowizor Pulsar Telos LRF XL50",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termowizor Pulsar Telos LRF XL50",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termowizor Pulsar Telos LRF XL50",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022926075"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77515",
+        "Weight": 1620.0,
+        "Height": 110.0,
+        "Width": 336.0,
+        "Depth": 122.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045437",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b4a17ad-f462-44e3-9c31-b2b47bee489d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-09T20:55:28Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHMF'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:00.460000+00:00",
+        "sequence_number": 106657
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHMI",
+        "ProductVersion": "1.2",
+        "ProductType": "Monokulary",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termowizor Pulsar Axion 2 LRF XQ35 PRO",
+            "ProductDescription": "PULSAR Axion-2 LRF XQ35 PRO luneta 4x Abbe–Koenig Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termowizor Pulsar Axion 2 LRF XQ35 PRO",
+            "ProductDescription": "Pulsar Axion 2 LRF XQ35 PRO Thermal Imager"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termowizor Pulsar Axion 2 LRF XQ35 PRO",
+            "ProductDescription": "Pulsar Axion 2 LRF XQ35 PRO Wärmebildkamera"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022925917"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77502",
+        "Weight": 1120.0,
+        "Height": 106.0,
+        "Width": 251.0,
+        "Depth": 144.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045438",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0242a24f-1ca1-4ba5-9f25-805b8a778025",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-18T12:04:40Z'",
+          "ModificationDate": "b'2025-06-04T12:20:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHMI'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:00.460000+00:00",
+        "sequence_number": 106658
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHN6",
+        "ProductVersion": "1.2",
+        "ProductType": "Monokulary",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Monokular Pulsar 3x20 B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Monokular Pulsar 3x20 B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Monokular Pulsar 3x20 B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022925825"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "71014",
+        "Weight": 230.0,
+        "Height": 80.0,
+        "Width": 120.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045442",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a1559628-5f2a-4649-b0d2-b5d248b989ec",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T13:20:28Z'",
+          "ModificationDate": "b'2025-06-04T12:20:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHN6'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:00.460000+00:00",
+        "sequence_number": 106662
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHPN",
+        "ProductVersion": "1.3",
+        "ProductType": "Monokulary",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termowizor Pulsar Telos XG50",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termowizor Pulsar Telos XG50",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termowizor Pulsar Telos XG50",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022926020"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77513",
+        "Weight": 1580.0,
+        "Height": 110.0,
+        "Width": 335.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "BY",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045454",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b4efc517-e6b4-435f-b81a-077db5114c2b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-28T22:55:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHPN'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:00.460000+00:00",
+        "sequence_number": 106674
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDII6",
+        "ProductVersion": "1.2",
+        "ProductType": "Monokulary",
+        "Brand": "Sky-Watcher",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Okular Sky-Watcher SWA-58 7 mm 1,25&quot;",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Okular Sky-Watcher SWA-58 7 mm 1,25&quot;",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Okular Sky-Watcher SWA-58 7 mm 1,25&quot;",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SW-5107",
+        "Weight": 250.0,
+        "Height": 60.0,
+        "Width": 106.0,
+        "Depth": 66.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050790",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c2b3147b-f79d-4d5d-97d7-0bfb88b6f918",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T16:47:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDII6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:19.025000+00:00",
+        "sequence_number": 138155
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRE054",
+        "ProductVersion": "1.2",
+        "ProductType": "Monokulary",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Termowizor Pulsar Telos XQ35",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Termowizor Pulsar Telos XQ35",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Termowizor Pulsar Telos XQ35",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022926006"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77511",
+        "Weight": 1000.0,
+        "Height": 307.0,
+        "Width": 278.0,
+        "Depth": 395.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092653",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9e97a220-dd68-43ce-8e66-2ce4f63615fc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-25T16:20:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRE054'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:07.620000+00:00",
+        "sequence_number": 168801
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAOTD",
+        "ProductVersion": "1.3",
+        "ProductType": "Monokulary",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cyfrowy monokular noktowizyjny Denver",
+            "ProductDescription": "Denver NVI-450 noktowizor Czarny Monokularny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cyfrowy monokular noktowizyjny Denver",
+            "ProductDescription": "Denver NVI-450 Digital Night Vision Monocular with Recording"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cyfrowy monokular noktowizyjny Denver",
+            "ProductDescription": "Denver NVI-450 Digitales Nachtsicht-Monokular mit Aufnahme"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751043178"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NVI-450",
+        "Weight": 794.0,
+        "Height": 82.0,
+        "Width": 225.0,
+        "Depth": 142.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037503",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d0b415bb-f593-4088-a215-b8f22ebabfd5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-18T14:30:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAOTD'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:25.560000+00:00",
+        "sequence_number": 112002
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHRL",
+        "ProductVersion": "1.1",
+        "ProductType": "Monokulary",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Okular DO-GSO Plossl 15 mm 1,25\"",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Okular DO-GSO Plossl 15 mm 1,25\"",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Okular DO-GSO Plossl 15 mm 1,25\"",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901691606708"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GSP15",
+        "Weight": 80.0,
+        "Height": 45.0,
+        "Width": 85.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055314",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6faec828-926e-4413-af55-532fe54f859f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T15:52:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHRL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:00.640000+00:00",
+        "sequence_number": 140300
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDIFI",
+        "ProductVersion": "1.2",
+        "ProductType": "Monokulary",
+        "Brand": "CELESTRON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Okular Celestron Omni 9 mm 1,25&quot;",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Okular Celestron Omni 9 mm 1,25&quot;",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Okular Celestron Omni 9 mm 1,25&quot;",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "050234933186"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "93318",
+        "Weight": 70.0,
+        "Height": 40.0,
+        "Width": 80.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080209",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "450e398c-3ea3-4734-b522-529d7c15d510",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-02T14:50:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDIFI'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:37.624000+00:00",
+        "sequence_number": 112511
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHHC",
+        "ProductVersion": "1.1",
+        "ProductType": "Monokulary",
+        "Brand": "Sky-Watcher",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Okular Sky-Watcher Silver Plossl 6,3 mm 1,25\"",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Okular Sky-Watcher Silver Plossl 6,3 mm 1,25\"",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Okular Sky-Watcher Silver Plossl 6,3 mm 1,25\"",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901691604216"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SW-5315",
+        "Weight": 40.0,
+        "Height": 41.0,
+        "Width": 77.0,
+        "Depth": 41.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060282",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6a2c5814-6184-41f1-bb17-8e6fc6ce9ca3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-11T16:57:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHHC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.951000+00:00",
+        "sequence_number": 126270
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OPTLVHMON0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Monokulary",
+        "Brand": "levenhuk",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Monokular termowizyjny LEVENHUK Fatum Z100",
+            "ProductDescription": "Monokular termowizyjny LEVENHUK Fatum Z100"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Monokular termowizyjny LEVENHUK Fatum Z100",
+            "ProductDescription": "LEVENHUK Fatum Z100 thermal imaging monocular"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Monokular termowizyjny LEVENHUK Fatum Z100",
+            "ProductDescription": "LEVENHUK Fatum Z100 Wärmebild-Monokular"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905555001883"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90058000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "81721",
+        "Weight": 1040.0,
+        "Height": 140.0,
+        "Width": 270.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54964
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049381",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Monokular termowizyjny LEVENHUK Fatum Z100"
+      },
+      "properties": {
+        "message_id": "b3b0f9ad-4dfd-49df-9ec0-495b3c940d0b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-03-31T10:50:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OPTLVHMON0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:13.339000+00:00",
+        "sequence_number": 116468
+      }
+    }
+  ]
+}

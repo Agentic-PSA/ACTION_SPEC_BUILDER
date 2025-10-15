@@ -1,0 +1,250 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SPDVI1ZMY0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Zmywaki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zmywak wiskozowy z enzymami Vileda Pro Clean 2szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zmywak wiskozowy z enzymami Vileda Pro Clean 2szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zmywak wiskozowy z enzymami Vileda Pro Clean 2szt.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39211400",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "179700",
+        "Weight": 40.0,
+        "Height": 25.0,
+        "Width": 140.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.21.41.0",
+        "CountryOfOrigin": "SI",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53237
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54914
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084654",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5439c126-26b7-402c-9320-8ae1684b7fcd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T09:31:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1ZMY0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:03.577000+00:00",
+        "sequence_number": 124852
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1ZMY0017",
+        "ProductVersion": "1.2",
+        "ProductType": "Zmywaki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zmywak profilowany z enzymami Vileda Pro Clean 3szt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zmywak profilowany z enzymami Vileda Pro Clean 3szt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zmywak profilowany z enzymami Vileda Pro Clean 3szt",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39211400",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "179246",
+        "Weight": 40.0,
+        "Height": 45.0,
+        "Width": 210.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.21.41.0",
+        "CountryOfOrigin": "SI",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53237
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54914
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084656",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b8234afb-a446-4dd9-b834-92a131cdf9ca",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T09:34:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1ZMY0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:03.577000+00:00",
+        "sequence_number": 124854
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1ZMY0018",
+        "ProductVersion": "1.2",
+        "ProductType": "Zmywaki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zmywak z enzymami Vileda Pro Clean 2 szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zmywak z enzymami Vileda Pro Clean 2 szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zmywak z enzymami Vileda Pro Clean 2 szt.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39211400",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "179254",
+        "Weight": 20.0,
+        "Height": 30.0,
+        "Width": 140.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.21.41.0",
+        "CountryOfOrigin": "SI",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53237
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54914
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084657",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f17e00af-ebe9-4adf-a544-65a0e95cab37",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T09:37:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1ZMY0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:03.577000+00:00",
+        "sequence_number": 124855
+      }
+    }
+  ]
+}

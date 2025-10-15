@@ -1,0 +1,552 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LITAIVKPR0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła prysznicowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taboret prysznicowy prostokątny z regulacją wysokoś",
+            "ProductDescription": "Taboret prysznicowy prostokątny z regulacją wysokości"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taboret prysznicowy prostokątny z regulacją wysokoś",
+            "ProductDescription": "Rectangular shower stool with height adjustment"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taboret prysznicowy prostokątny z regulacją wysokoś",
+            "ProductDescription": "Rechteckiger Duschhocker mit Höhenverstellung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410768"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KP100AM",
+        "Weight": 2300.0,
+        "Height": 355.0,
+        "Width": 580.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56392
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050149",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7ba2b323-8342-4692-8003-9506febcf5d5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-13T09:16:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVKPR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:31.714000+00:00",
+        "sequence_number": 121212
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFWYL",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła prysznicowe",
+        "Brand": "deante",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Siedzisko ścienne składane",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Siedzisko ścienne składane",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Siedzisko ścienne składane",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NIV_N51B",
+        "Weight": 3030.0,
+        "Height": 400.0,
+        "Width": 445.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56392
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085397",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "496dd6db-ec66-4e1c-816a-2209accab948",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T07:23:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFWYL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:23.005000+00:00",
+        "sequence_number": 136571
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVKPR0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła prysznicowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taboret prysznicowy okrągły aluminiowy",
+            "ProductDescription": "Taboret prysznicowy okrągły aluminiowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taboret prysznicowy okrągły aluminiowy",
+            "ProductDescription": "Round aluminium shower stool"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taboret prysznicowy okrągły aluminiowy",
+            "ProductDescription": "Runder Aluminium-Duschhocker"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410775"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KP200AM",
+        "Weight": 1900.0,
+        "Height": 385.0,
+        "Width": 475.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56392
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070331",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d822c157-3f85-4c97-8a28-bf76244b042f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-13T09:16:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVKPR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:36.200000+00:00",
+        "sequence_number": 130575
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITREHKPR0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła prysznicowe",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło toaletowe z regulacją 840 REHAFUND",
+            "ProductDescription": "Krzesło toaletowe z regulacją 840 REHAFUND"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło toaletowe z regulacją 840 REHAFUND",
+            "ProductDescription": "Adjustable toilet chair 840 REHAFUND"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło toaletowe z regulacją 840 REHAFUND",
+            "ProductDescription": "Verstellbarer Toilettenstuhl 840 REHAFUND"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940705583"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLK004",
+        "Weight": 9500.0,
+        "Height": 600.0,
+        "Width": 800.0,
+        "Depth": 550.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56392
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070333",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Krzesło toaletowe z regulacją 840 REHAFUND"
+      },
+      "properties": {
+        "message_id": "fb13709c-fb91-4396-aaf4-72b75f72c891",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:38:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITREHKPR0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:36.200000+00:00",
+        "sequence_number": 130577
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFWZ7",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła prysznicowe",
+        "Brand": "deante",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Siedzisko ścienne składane",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Siedzisko ścienne składane",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Siedzisko ścienne składane",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907650872856"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NIV_A51B",
+        "Weight": 3100.0,
+        "Height": 440.0,
+        "Width": 65.0,
+        "Depth": 390.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56392
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071262",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f3574ef7-4f52-4c95-8868-72bde49ec711",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-28T15:02:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFWZ7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:17.344000+00:00",
+        "sequence_number": 127796
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITTM2KPR0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła prysznicowe",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło przyścienne składane JMC-C 5105",
+            "ProductDescription": "Krzesło przyścienne składane JMC-C 5105"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło przyścienne składane JMC-C 5105",
+            "ProductDescription": "Folding wall chair JMC-C 5105"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło przyścienne składane JMC-C 5105",
+            "ProductDescription": "Klappbarer Wandstuhl JMC-C 5105"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983720911"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 2250.0,
+        "Height": 430.0,
+        "Width": 490.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56392
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018312",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2f5af07c-1c3d-4c68-a81f-7217283f6695",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-03T13:17:38Z'",
+          "ModificationDate": "b'2025-06-04T12:05:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITTM2KPR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147574
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVKPR0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła prysznicowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło prysznicowe z oparciem i podłokietnikami",
+            "ProductDescription": "Krzesło prysznicowe z oparciem i podłokietnikami"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło prysznicowe z oparciem i podłokietnikami",
+            "ProductDescription": "Shower chair with backrest and armrests"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło prysznicowe z oparciem i podłokietnikami",
+            "ProductDescription": "Duschstuhl mit Rückenlehne und Armlehnen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410782"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KP300AM",
+        "Weight": 3781.0,
+        "Height": 600.0,
+        "Width": 380.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56392
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049791",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2df31f68-0847-4724-9a50-8b8c4707b10e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-13T09:16:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVKPR0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:15.948000+00:00",
+        "sequence_number": 116608
+      }
+    }
+  ]
+}

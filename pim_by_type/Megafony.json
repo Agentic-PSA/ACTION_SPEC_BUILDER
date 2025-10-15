@@ -1,0 +1,352 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASUB",
+        "ProductVersion": "1.2",
+        "ProductType": "Megafony",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Megafon DH-12 przenośny typu horn",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Megafon DH-12 przenośny typu horn",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Megafon DH-12 przenośny typu horn",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901436731429"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85182100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DH12",
+        "Weight": 1400.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.42.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53941
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54822
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038145",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3a10166a-0f3d-493e-9260-481abfa7b138",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-02T12:26:21Z'",
+          "ModificationDate": "b'2025-06-04T12:16:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASUB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:04.972000+00:00",
+        "sequence_number": 119950
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATAP",
+        "ProductVersion": "1.2",
+        "ProductType": "Megafony",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Głośnik HORN HT60359",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Głośnik HORN HT60359",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Głośnik HORN HT60359",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901436721338"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85182100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HT60359",
+        "Weight": 1250.0,
+        "Height": 300.0,
+        "Width": 360.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.42.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54822
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038264",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d96e9aa5-e8ba-4bd7-ac48-2ca9fadcf3a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-24T22:12:54Z'",
+          "ModificationDate": "b'2025-06-04T12:16:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATAP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:06.082000+00:00",
+        "sequence_number": 119995
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATCM",
+        "ProductVersion": "1.2",
+        "ProductType": "Megafony",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Megafon DH-09 przenośny typu horn",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Megafon DH-09 przenośny typu horn",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Megafon DH-09 przenośny typu horn",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901436727118"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85182100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DH09",
+        "Weight": 1430.0,
+        "Height": 245.0,
+        "Width": 350.0,
+        "Depth": 245.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.42.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54822
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038280",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "33f82f2f-68c8-4352-839c-64e093e06f8a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-03T15:51:06Z'",
+          "ModificationDate": "b'2025-06-04T12:16:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATCM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:06.910000+00:00",
+        "sequence_number": 120011
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "GKSBLOMEG0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Megafony",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BLOW MEGAFON MP-513 PRZENOŚNY TYPU HORN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BLOW MEGAFON MP-513 PRZENOŚNY TYPU HORN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BLOW MEGAFON MP-513 PRZENOŚNY TYPU HORN",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804035169"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "33049900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "30-513#",
+        "Weight": 583.0,
+        "Height": 140.0,
+        "Width": 230.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.42.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53941
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54822
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072886",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "14d7503e-d78e-4860-ab1e-a3741bb06f05",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-09-26T13:24:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'GKSBLOMEG0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:18.677000+00:00",
+        "sequence_number": 144634
+      }
+    }
+  ]
+}

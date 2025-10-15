@@ -1,0 +1,394 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SRHAN1RDC0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Rotory do ćwiczeń rąk i nóg",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektryczny rotor kończyn górnych i dolnych AT51125",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektryczny rotor kończyn górnych i dolnych AT51125",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektryczny rotor kończyn górnych i dolnych AT51125",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571481319"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87120030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 5100.0,
+        "Height": 295.0,
+        "Width": 425.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56439
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027307",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "387b42d8-97a7-4581-8177-1c0cecfe0aca",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-25T15:34:53Z'",
+          "ModificationDate": "b'2025-06-04T12:10:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHAN1RDC0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:46.114000+00:00",
+        "sequence_number": 132852
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRHAN1RDC0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Rotory do ćwiczeń rąk i nóg",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rotor rowerek rehabilitacyjny do rąk i nóg AT51124",
+            "ProductDescription": "Rotor rehabilitacyjny do rąk i nóg AT51124"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rotor rowerek rehabilitacyjny do rąk i nóg AT51124",
+            "ProductDescription": "Arm and leg rehabilitation rotor AT51124"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rotor rowerek rehabilitacyjny do rąk i nóg AT51124",
+            "ProductDescription": "Arm- und Bein-Rehabilitationsrotor AT51124"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571481302"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87120030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3900.0,
+        "Height": 115.0,
+        "Width": 475.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56439
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027308",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "484c7928-caa6-4c0f-b25f-c3648a56bdea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T10:49:43Z'",
+          "ModificationDate": "b'2025-06-04T12:10:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHAN1RDC0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:46.114000+00:00",
+        "sequence_number": 132853
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRHMLXRDC0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Rotory do ćwiczeń rąk i nóg",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rotor do ćwiczeń nóg i rąk",
+            "ProductDescription": "Rotor do ćwiczeń nóg i rąk"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rotor do ćwiczeń nóg i rąk",
+            "ProductDescription": "Leg and arm exercise rotor"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rotor do ćwiczeń nóg i rąk",
+            "ProductDescription": "Bewegungsrotor für Beine und Arme"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001403206"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87120030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 2560.0,
+        "Height": 430.0,
+        "Width": 140.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56439
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027343",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "96c87c02-2db9-40fc-88e2-7d763cd2fc50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T09:52:45Z'",
+          "ModificationDate": "b'2025-06-04T12:10:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHMLXRDC0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:39.550000+00:00",
+        "sequence_number": 116715
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRHTM2RDC0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Rotory do ćwiczeń rąk i nóg",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rotor rehabilitacyjny do rąk i nóg DualTIM",
+            "ProductDescription": "Rotor rehabilitacyjny do rąk i nóg DualTIM"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rotor rehabilitacyjny do rąk i nóg DualTIM",
+            "ProductDescription": "Rehabilitation rotor for arms and legs DualTIM"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rotor rehabilitacyjny do rąk i nóg DualTIM",
+            "ProductDescription": "Rehabilitationsrotor für Arme und Beine DualTIM"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983726906"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87120030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 4100.0,
+        "Height": 415.0,
+        "Width": 330.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56439
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027424",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2c4abb38-a6d5-46a7-b486-6464c40962c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T13:43:32Z'",
+          "ModificationDate": "b'2025-06-04T12:10:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHTM2RDC0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:39.550000+00:00",
+        "sequence_number": 116716
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRHAIVRDC0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Rotory do ćwiczeń rąk i nóg",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rotor rehabilitacyjny z licznikiem",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rotor rehabilitacyjny z licznikiem",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rotor rehabilitacyjny z licznikiem",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "87120030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RR100AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56439
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091003",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Rotor rehabilitacyjny z licznikiem"
+      },
+      "properties": {
+        "message_id": "052dc232-515e-443c-8cd1-9c533aba53db",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:32:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHAIVRDC0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131664
+      }
+    }
+  ]
+}

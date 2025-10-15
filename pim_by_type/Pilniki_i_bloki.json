@@ -1,0 +1,352 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "KOSSLKPIL0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Pilniki i bloki",
+        "Brand": "SLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SILK’N MICRONAIL REFILL WYMIENNE WKŁADY DO PILNIKA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SILK’N MICRONAIL REFILL WYMIENNE WKŁADY DO PILNIKA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SILK’N MICRONAIL REFILL WYMIENNE WKŁADY DO PILNIKA",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8712856044313"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82031000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MNR4PEU001",
+        "Weight": 16.0,
+        "Height": 150.0,
+        "Width": 68.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54705
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070200",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "39549728-9db5-4863-9d9d-0cb8a4a81974",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-11-22T12:19:39Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSSLKPIL0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:12.980000+00:00",
+        "sequence_number": 109285
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLPIL0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Pilniki i bloki",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pilnik do paznokci ZWILLING 88580-131-0",
+            "ProductDescription": "ZWILLING 88580-131-0 pilniczek / polerka do paznokci Pilnik"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pilnik do paznokci ZWILLING 88580-131-0",
+            "ProductDescription": "ZWILLING 88580-131-0 Nail file/buffer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pilnik do paznokci ZWILLING 88580-131-0",
+            "ProductDescription": "ZWILLING 88580-131-0 Nagelfeilen/-polierer Nagelfeile"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839409318"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "88580-131-0",
+        "Weight": 40.0,
+        "Height": 30.0,
+        "Width": 155.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54705
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073262",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f4c0f6e1-4827-4780-8655-3e8434762c05",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-05T16:02:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLPIL0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:25.318000+00:00",
+        "sequence_number": 144985
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOSZWLPIL0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Pilniki i bloki",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pilnik do paznokci ZWILLING 47201-401-0",
+            "ProductDescription": "ZWILLING 47201-401-0 pilniczek / polerka do paznokci Pilnik"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pilnik do paznokci ZWILLING 47201-401-0",
+            "ProductDescription": "ZWILLING 47201-401-0 Nail file/buffer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pilnik do paznokci ZWILLING 47201-401-0",
+            "ProductDescription": "ZWILLING 47201-401-0 Nagelfeilen/-polierer Nagelfeile"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839395659"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "47201-401-0",
+        "Weight": 40.0,
+        "Height": 29.0,
+        "Width": 175.0,
+        "Depth": 62.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54705
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077164",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bb1d6a8c-9aea-4712-b343-36701a06d9a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-05T16:01:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOSZWLPIL0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:00.050000+00:00",
+        "sequence_number": 156522
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3112",
+        "ProductVersion": "1.2",
+        "ProductType": "Pilniki i bloki",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pilnik do paznokci Zwilling Twinox - 20 cm, Czarny",
+            "ProductDescription": "Pilnik do paznokci Zwilling Twinox czarny, 20 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pilnik do paznokci Zwilling Twinox - 20 cm, Czarny",
+            "ProductDescription": "Zwilling Twinox Nail File - 20 cm, Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pilnik do paznokci Zwilling Twinox - 20 cm, Czarny",
+            "ProductDescription": "Zwilling Twinox Nagelfeile - 20 cm, Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839493324"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82142000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "88401-351-0",
+        "Weight": 50.0,
+        "Height": 25.0,
+        "Width": 182.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54705
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033503",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7f9c42a8-4594-4d38-a054-eb640f466627",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-06T13:35:58Z'",
+          "ModificationDate": "b'2025-06-04T12:13:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3112'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.089000+00:00",
+        "sequence_number": 147622
+      }
+    }
+  ]
+}

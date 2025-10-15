@@ -1,0 +1,779 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LITAN1TKO0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stopień przywannowy AT51128",
+            "ProductDescription": "Stopień przywannowy AT51128"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stopień przywannowy AT51128",
+            "ProductDescription": "Bath step AT51128"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stopień przywannowy AT51128",
+            "ProductDescription": "Badestufe AT51128"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571493763"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1754.0,
+        "Height": 429.0,
+        "Width": 267.0,
+        "Depth": 107.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048429",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "24a7f465-9c69-42be-88a6-3a9b22ca3d56",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-04T14:37:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAN1TKO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:56.091000+00:00",
+        "sequence_number": 108381
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITREHTKO0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taboret krzesło siedzisko pod prysznic RF-811",
+            "ProductDescription": "Taboret prysznicowy z wycięciem WILSON RF-811 REHA FUND Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taboret krzesło siedzisko pod prysznic RF-811",
+            "ProductDescription": "WILSON RF-811 REHA FUND White cut-out shower stool"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taboret krzesło siedzisko pod prysznic RF-811",
+            "ProductDescription": "WILSON RF-811 REHA FUND Weißer Duschhocker mit Ausschnitt"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940702506"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3000.0,
+        "Height": 560.0,
+        "Width": 350.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018270",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "530a9abb-ad8d-4e19-ae99-9fe14fc4ebaf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-25T14:09:36Z'",
+          "ModificationDate": "b'2025-06-04T12:05:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITREHTKO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:24.477000+00:00",
+        "sequence_number": 122717
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITREHTKO0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło rehabilitacyjne prysznicowe RF-820",
+            "ProductDescription": "Taboret prysznicowy z wycięciem i oparciem WILSON RF-820 REHA FUND Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło rehabilitacyjne prysznicowe RF-820",
+            "ProductDescription": "WILSON RF-820 REHA FUND White shower stool with cut-out and backrest"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło rehabilitacyjne prysznicowe RF-820",
+            "ProductDescription": "WILSON RF-820 REHA FUND Weißer Duschhocker mit Ausschnitt und Rückenlehne"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940702513"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 4000.0,
+        "Height": 355.0,
+        "Width": 60.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018271",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7de4159e-a984-4840-bbb2-265367b625a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-26T13:38:37Z'",
+          "ModificationDate": "b'2025-06-04T12:05:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITREHTKO0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:24.477000+00:00",
+        "sequence_number": 122718
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAN1TKO0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stołek prysznicowy okrągły AT51117",
+            "ProductDescription": "Stołek prysznicowy okrągły AT51117"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stołek prysznicowy okrągły AT51117",
+            "ProductDescription": "Round shower stool AT51117"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stołek prysznicowy okrągły AT51117",
+            "ProductDescription": "Runder Duschhocker AT51117"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571457345"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AT51117",
+        "Weight": 1720.0,
+        "Height": 94.0,
+        "Width": 476.0,
+        "Depth": 378.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051848",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ac1da0a5-328a-400c-9529-28e05002ea38",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-05T11:01:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAN1TKO0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:43.638000+00:00",
+        "sequence_number": 125949
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITTM2TKO0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taboret prysznicowy z oparciem i uchwytami",
+            "ProductDescription": "Taboret prysznicowy z oparciem i uchwytami"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taboret prysznicowy z oparciem i uchwytami",
+            "ProductDescription": "Shower stool with backrest and handles"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taboret prysznicowy z oparciem i uchwytami",
+            "ProductDescription": "Duschhocker mit Rückenlehne und Griffen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983720478"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3700.0,
+        "Height": 115.0,
+        "Width": 650.0,
+        "Depth": 392.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018328",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "255f1472-f385-4d16-8ca0-031678663f96",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-07T16:19:04Z'",
+          "ModificationDate": "b'2025-06-04T12:05:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITTM2TKO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147579
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITTM2TKO0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taboret prysznicowy z wcięciem TGR-R KP-U 3522",
+            "ProductDescription": "Taboret prysznicowy z wcięciem TGR-R KP-U 3522 firmy TIMAGO"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taboret prysznicowy z wcięciem TGR-R KP-U 3522",
+            "ProductDescription": "TGR-R indented shower stool KP-U 3522 by TIMAGO"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taboret prysznicowy z wcięciem TGR-R KP-U 3522",
+            "ProductDescription": "TGR-R eingerückter Duschhocker KP-U 3522 von TIMAGO"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983720461"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3600.0,
+        "Height": 385.0,
+        "Width": 640.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018329",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "24b6b4f6-9ec7-4060-a8cf-ac0e230ad228",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-24T13:23:18Z'",
+          "ModificationDate": "b'2025-06-04T12:05:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITTM2TKO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147580
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITTM2TKO0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taboret prysznicowy kwadratowy Biały - KING-STA-20",
+            "ProductDescription": "Taboret prysznicowy kwadratowy Biały - KING-STA-20"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taboret prysznicowy kwadratowy Biały - KING-STA-20",
+            "ProductDescription": "Square shower stool White - KING-STA-20"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taboret prysznicowy kwadratowy Biały - KING-STA-20",
+            "ProductDescription": "Quadratischer Duschhocker Weiß - KING-STA-20"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5391532690063"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 2200.0,
+        "Height": 420.0,
+        "Width": 390.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018330",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "943f3702-bf01-4625-8c5e-209bf26a5eec",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-24T15:37:05Z'",
+          "ModificationDate": "b'2025-06-04T12:05:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITTM2TKO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147581
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVTKO0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło prysznicowe z oparciem",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło prysznicowe z oparciem",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło prysznicowe z oparciem",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KP300AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090982",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Krzesło prysznicowe z oparciem"
+      },
+      "properties": {
+        "message_id": "f8d226cb-e7ec-4e3b-881a-f71fe1da2082",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:30:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVTKO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131643
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVTKO0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taboret prysznicowy obrotowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taboret prysznicowy obrotowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taboret prysznicowy obrotowy",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KP400AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090983",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Taboret prysznicowy obrotowy"
+      },
+      "properties": {
+        "message_id": "3c98dce8-3eb4-4316-9dfd-32aefddb20eb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:30:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVTKO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131644
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVTKO0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Taborety kąpielowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło prysznicowe składane przyścienne",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło prysznicowe składane przyścienne",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło prysznicowe składane przyścienne",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KP600AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56391
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091002",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Krzesło prysznicowe składane przyścienne"
+      },
+      "properties": {
+        "message_id": "bc637194-322e-4722-bf52-36132fefaa43",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:31:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVTKO0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131663
+      }
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "KOLPO1SPO0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Spodenki",
+        "Brand": "PO1",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Spodenki rowerowe POC ESSENTIAL ENDURO- zielony r.M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Spodenki rowerowe POC ESSENTIAL ENDURO- zielony r.M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Spodenki rowerowe POC ESSENTIAL ENDURO- zielony r.M",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7325549937611"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "62034311",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7325549937611",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.12.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53846
+              },
+              {
+                "CategoryId": 54337
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093414",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Spodenki rowerowe POC ESSENTIAL ENDURO- zielony r.M"
+      },
+      "properties": {
+        "message_id": "f9b2140b-7177-483e-bdd9-4e950efadb59",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-30T15:20:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOLPO1SPO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:29.778000+00:00",
+        "sequence_number": 171402
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOLPO1SPO0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Spodenki",
+        "Brand": "PO1",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Spodenki rowerowe POC ESSENTIAL ENDURO - szary XL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Spodenki rowerowe POC ESSENTIAL ENDURO - szary XL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Spodenki rowerowe POC ESSENTIAL ENDURO - szary XL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7325549972254"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "62034311",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7325549972254",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.12.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53846
+              },
+              {
+                "CategoryId": 54337
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093415",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Spodenki rowerowe POC ESSENTIAL ENDURO - szary XL"
+      },
+      "properties": {
+        "message_id": "ae1913b4-1d08-4ecc-aacc-d2a72fe97f76",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-30T15:21:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOLPO1SPO0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:29.778000+00:00",
+        "sequence_number": 171403
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KOLVRGSPO0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Spodenki",
+        "Brand": "VERGE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Meskie Spodenki na Szelkach Pro Length Strike VERGE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Meskie Spodenki na Szelkach Pro Length Strike VERGE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Meskie Spodenki na Szelkach Pro Length Strike VERGE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "62034390",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.13.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53846
+              },
+              {
+                "CategoryId": 54337
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093686",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1a016c4c-12ef-4b12-aa30-26e47519254e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-04-14T13:53:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOLVRGSPO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:34.826000+00:00",
+        "sequence_number": 171651
+      }
+    }
+  ]
+}

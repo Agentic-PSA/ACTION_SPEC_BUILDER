@@ -1,0 +1,2216 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SWFMKRWIS0020",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mikrotik LHG XL HP5 (RBLHG-5HPnD-XL)",
+            "ProductDescription": "Mikrotik LHG XL HP5 54 Mbit/s Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mikrotik LHG XL HP5 (RBLHG-5HPnD-XL)",
+            "ProductDescription": "Mikrotik LHG XL HP5 54 Mbit/s White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mikrotik LHG XL HP5 (RBLHG-5HPnD-XL)",
+            "ProductDescription": "Mikrotik LHG XL HP5 54 Mbit/s Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4752224003942"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBLHG-5HPnD-XL",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056653",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless Mikrotik LHG XL HP5 (RBLHG-5HPnD-XL)"
+      },
+      "properties": {
+        "message_id": "c7c9c8a9-46cb-423a-b8ac-28b227153f1b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T14:23:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFMKRWIS0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:16.233000+00:00",
+        "sequence_number": 149541
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFMKRWIS0023",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mikrotik OmniTIK 5 (RBOmniTikU-5HnD)",
+            "ProductDescription": "Mikrotik OmniTIK U-5HnD Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mikrotik OmniTIK 5 (RBOmniTikU-5HnD)",
+            "ProductDescription": "Mikrotik OmniTIK U-5HnD White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mikrotik OmniTIK 5 (RBOmniTikU-5HnD)",
+            "ProductDescription": "Mikrotik OmniTIK U-5HnD Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4752224001566"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBOmniTikU-5HnD",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056654",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless Mikrotik OmniTIK 5 (RBOmniTikU-5HnD)"
+      },
+      "properties": {
+        "message_id": "9fbb5355-cace-4abc-a146-cc9765c70db5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T14:23:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFMKRWIS0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:16.233000+00:00",
+        "sequence_number": 149542
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0028",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti RP-5AC-Gen2",
+            "ProductDescription": "Ubiquiti RP-5AC-Gen2 Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti RP-5AC-Gen2",
+            "ProductDescription": "Ubiquiti RP-5AC-Gen2 White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti RP-5AC-Gen2",
+            "ProductDescription": "Ubiquiti RP-5AC-Gen2 Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882020268"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RP-5AC-Gen2",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056659",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 5 GHz Ubiquiti airMAX Rocket Prism 5AC (RP-5AC-Gen2-EU)"
+      },
+      "properties": {
+        "message_id": "3bb0cfbb-d1dc-4c25-9008-4599cd801c30",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T16:43:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:16.233000+00:00",
+        "sequence_number": 149547
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0047",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti Loco5AC-5",
+            "ProductDescription": "Ubiquiti NanoStation 5AC Loco 450 Mbit/s Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti Loco5AC-5",
+            "ProductDescription": "Ubiquiti NanoStation 5AC Loco 450 Mbit/s White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti Loco5AC-5",
+            "ProductDescription": "Ubiquiti NanoStation 5AC Loco 450 Mbit/s Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882027267"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Loco5AC-5",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056660",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 5 GHz Ubiquiti airMAX NanoStation 5AC Loco 5-pak"
+      },
+      "properties": {
+        "message_id": "f931d852-d887-470c-84da-44aeed9d2fe9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-30T13:07:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0047'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:16.233000+00:00",
+        "sequence_number": 149548
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0008",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti BulletAC-IP67",
+            "ProductDescription": "Ubiquiti BULLETAC-IP67 punkt dostępowy WLAN Czarny Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti BulletAC-IP67",
+            "ProductDescription": "Ubiquiti BULLETAC-IP67 wireless access point Black Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti BulletAC-IP67",
+            "ProductDescription": "Ubiquiti BULLETAC-IP67 WLAN Access Point Schwarz Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882025683"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BulletAC-IP67",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062572",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 2.4 GHz Ubiquiti airMAX Bullet AC IP67"
+      },
+      "properties": {
+        "message_id": "5108e840-940e-45b9-bb16-51e6656c1d10",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T13:53:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:57.509000+00:00",
+        "sequence_number": 150344
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0049",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti LBE-M5-23",
+            "ProductDescription": "Ubiquiti LBE-M5-23 mostki i mnożniki 1x1 SISO 100 Mbit/s Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti LBE-M5-23",
+            "ProductDescription": "Ubiquiti LBE-M5-23 bridge/repeater 1x1 SISO 100 Mbit/s White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti LBE-M5-23",
+            "ProductDescription": "Ubiquiti LBE-M5-23 Bridge & Repeater 1x1 SISO 100 Mbit/s Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810354022326"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LBE-M5-23",
+        "Weight": 1215.0,
+        "Height": 300.0,
+        "Width": 140.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047496",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 5 GHz Ubiquiti airMAX LiteBeam M5 (LBE-M5-23-EU)"
+      },
+      "properties": {
+        "message_id": "90bbdce1-0a7a-4d1e-a853-9386cabcf534",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-30T13:07:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0049'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:47.653000+00:00",
+        "sequence_number": 107927
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFMKRWIS0018",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mikrotik Groove 52 (RBGroove52HPn)",
+            "ProductDescription": "Mikrotik Groove 52 Szary Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mikrotik Groove 52 (RBGroove52HPn)",
+            "ProductDescription": "Mikrotik Groove 52 Grey Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mikrotik Groove 52 (RBGroove52HPn)",
+            "ProductDescription": "Mikrotik Groove 52 Grau Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4752224001375"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBGroove52HPn",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048830",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless Mikrotik Groove 52 (RBGroove52HPn)"
+      },
+      "properties": {
+        "message_id": "3103509a-83ca-4ae6-afbc-948f47aa1adc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T14:23:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFMKRWIS0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:59.721000+00:00",
+        "sequence_number": 108583
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0018",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti NBE-2AC-13",
+            "ProductDescription": "Ubiquiti NanoBeam 2AC Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti NBE-2AC-13",
+            "ProductDescription": "Ubiquiti NanoBeam 2AC White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti NBE-2AC-13",
+            "ProductDescription": "Ubiquiti NanoBeam 2AC Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810354023491"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NBE-2AC-13",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066477",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 2.4 GHz Ubiquiti airMAX NanoBeam 2AC (NBE-2AC-13-EU)"
+      },
+      "properties": {
+        "message_id": "074b3f72-4ae6-4e1a-8ce2-e0065286f7df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T13:54:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:16.453000+00:00",
+        "sequence_number": 151336
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0032",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti LBE-5AC-LR",
+            "ProductDescription": "Ubiquiti LBE-5AC-LR antena Antena kierunkowa 26 dBi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti LBE-5AC-LR",
+            "ProductDescription": "Ubiquiti LBE-5AC-LR network antenna Directional antenna 26 dBi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti LBE-5AC-LR",
+            "ProductDescription": "Ubiquiti LBE-5AC-LR Netzwerk-Antenne Richtantenne 26 dBi"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882026307"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LBE-5AC-LR",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066478",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 5 GHz Ubiquiti airMAX LiteBeam 5AC Long-Range (LBE-5AC-LR-EU)"
+      },
+      "properties": {
+        "message_id": "f59f0e11-f295-424a-a11a-8d31e4468c97",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T16:43:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0032'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:16.453000+00:00",
+        "sequence_number": 151337
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0037",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti PBE-M5-300",
+            "ProductDescription": "Ubiquiti PBE-M5-300 antena Antena sektorowa 22 dBi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti PBE-M5-300",
+            "ProductDescription": "Ubiquiti PBE-M5-300 network antenna Sector antenna 22 dBi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti PBE-M5-300",
+            "ProductDescription": "Ubiquiti PBE-M5-300 Netzwerk-Antenne Sektorantenne 22 dBi"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810354022616"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PBE-M5-300",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066479",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 5 GHz Ubiquiti airMAX PowerBeam M5 300 (PBE-M5-300-EU)"
+      },
+      "properties": {
+        "message_id": "2e7cc500-63b6-476b-82be-5ddcfa3426c5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T16:43:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0037'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:16.453000+00:00",
+        "sequence_number": 151338
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0055",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-Pico",
+            "ProductDescription": "Ubiquiti UISP Wave Pico Most sieciowy 800 Mbit/s Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-Pico",
+            "ProductDescription": "Ubiquiti UISP Wave Pico Network bridge 800 Mbit/s White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-Pico",
+            "ProductDescription": "Ubiquiti UISP Wave Pico Netzwerkbrücke 800 Mbit/s Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084693872"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Wave-Pico",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066480",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP 60 GHz Wireless Wave 60 GHz Ubiquiti Wave Pico (Wave-Pico-EU)"
+      },
+      "properties": {
+        "message_id": "cb22f187-c744-401b-9223-86044adf9fb6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-19T15:30:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0055'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:16.453000+00:00",
+        "sequence_number": 151339
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0003",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti PS-5AC",
+            "ProductDescription": "Ubiquiti PrismStation 5AC 500 Mbit/s Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti PS-5AC",
+            "ProductDescription": "Ubiquiti PrismStation 5AC 500 Mbit/s White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti PS-5AC",
+            "ProductDescription": "Ubiquiti PrismStation 5AC 500 Mbit/s Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882022668"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PS-5AC",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068383",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 5 GHz Ubiquiti airMAX PrismStation 5AC (PS-5AC-EU)"
+      },
+      "properties": {
+        "message_id": "0d3d88ed-3538-4e5e-b9bc-81ee93486b4a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T13:53:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:21.187000+00:00",
+        "sequence_number": 151579
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0020",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti PBE-M2-400",
+            "ProductDescription": "Ubiquiti PBE-M2-400 antena Antena sektorowa 18 dBi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti PBE-M2-400",
+            "ProductDescription": "Ubiquiti PBE-M2-400 network antenna Sector antenna 18 dBi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 2.4 GHz Ubiquiti PBE-M2-400",
+            "ProductDescription": "Ubiquiti PBE-M2-400 Netzwerk-Antenne Sektorantenne 18 dBi"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810354022609"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PBE-M2-400",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068384",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 2.4 GHz Ubiquiti airMAX PowerBeam M2 400 (PBE-M2-400-EU)"
+      },
+      "properties": {
+        "message_id": "aca98ace-67ef-4d18-93b4-36c82d51aefc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T13:55:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:21.187000+00:00",
+        "sequence_number": 151580
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0058",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Building Bridge Ubiquiti UBB",
+            "ProductDescription": "Ubiquiti Building-to-Building Bridge Most sieciowy Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Building Bridge Ubiquiti UBB",
+            "ProductDescription": "Ubiquiti Building-to-Building Bridge Network bridge White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Building Bridge Ubiquiti UBB",
+            "ProductDescription": "Ubiquiti Building-to-Building Bridge Netzwerkbrücke Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882029674"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UBB",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068385",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Building Bridge Ubiquiti UniFi Building Bridge (UBB-EU)"
+      },
+      "properties": {
+        "message_id": "3f21f234-4e83-4fb1-86dc-e4dd7f12a102",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-05T16:57:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0058'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:21.187000+00:00",
+        "sequence_number": 151581
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBO27",
+        "ProductVersion": "1.2",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti NBE-5AC-GEN2",
+            "ProductDescription": "Ubiquiti NanoBeam 5AC Gen 2 Most sieciowy 450 Mbit/s Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti NBE-5AC-GEN2",
+            "ProductDescription": "Ubiquiti NanoBeam 5AC Gen 2 Network bridge 450 Mbit/s White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti NBE-5AC-GEN2",
+            "ProductDescription": "Ubiquiti NanoBeam 5AC Gen 2 Netzwerkbrücke 450 Mbit/s Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810354026348"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NBE-5AC-GEN2",
+        "Weight": 1026.0,
+        "Height": 105.0,
+        "Width": 219.0,
+        "Depth": 224.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070897",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d0c43ef8-36cb-4389-83c2-ff5e81c07291",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-29T12:48:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBO27'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:19.715000+00:00",
+        "sequence_number": 109622
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFMKRWIS0014",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IoT products Mikrotik LtAP-2HnD&FG621-EA&LR8",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IoT products Mikrotik LtAP-2HnD&FG621-EA&LR8",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "IoT products Mikrotik LtAP-2HnD&FG621-EA&LR8",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4752224009333"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LtAP-2HnD&FG621-EA&LR8",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076312",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IoT products Mikrotik LtAP LR8 LTE6 kit (LtAP-2HnD&FG621-EA&LR8)"
+      },
+      "properties": {
+        "message_id": "91fb0a0a-429b-48a5-af30-fcf300220491",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-25T16:10:01Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFMKRWIS0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:37.268000+00:00",
+        "sequence_number": 152411
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFMKRWIS0028",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mikrotik Wireless Wire (RBwAPG-60adkit)",
+            "ProductDescription": "Mikrotik RBWAPG-60ADKIT punkt dostępowy WLAN 1000 Mbit/s Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mikrotik Wireless Wire (RBwAPG-60adkit)",
+            "ProductDescription": "Mikrotik RBWAPG-60ADKIT wireless access point 1000 Mbit/s White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mikrotik Wireless Wire (RBwAPG-60adkit)",
+            "ProductDescription": "Mikrotik RBWAPG-60ADKIT WLAN Access Point 1000 Mbit/s Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4752224004826"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBwAPG-60adkit",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076313",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless Mikrotik Wireless Wire (RBwAPG-60adkit)"
+      },
+      "properties": {
+        "message_id": "55eda672-751d-4a4f-b749-9001bd475161",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T14:24:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFMKRWIS0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:37.268000+00:00",
+        "sequence_number": 152412
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0050",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-AP-Micro",
+            "ProductDescription": "Ubiquiti UISP WAVE-AP-MICRO mostki i mnożniki 5000 Mbit/s Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-AP-Micro",
+            "ProductDescription": "Ubiquiti UISP WAVE-AP-MICRO bridge/repeater 5000 Mbit/s White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-AP-Micro",
+            "ProductDescription": "Ubiquiti UISP WAVE-AP-MICRO Bridge & Repeater 5000 Mbit/s Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810010079428"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Wave-AP-Micro",
+        "Weight": 2120.0,
+        "Height": 337.0,
+        "Width": 174.0,
+        "Depth": 203.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076321",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP 60 GHz Wireless Wave 60 GHz Ubiquiti Wave AP Micro (Wave-AP-Micro-EU)"
+      },
+      "properties": {
+        "message_id": "9b7de426-4f54-4a73-9cd9-3bf2689b84e9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-19T15:29:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0050'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:37.268000+00:00",
+        "sequence_number": 152420
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0054",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-Pro",
+            "ProductDescription": "Ubiquiti Wave Professional Most sieciowy 2500 Mbit/s Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-Pro",
+            "ProductDescription": "Ubiquiti Wave Professional Network bridge 2500 Mbit/s White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wave 60 GHz Ubiquiti Wave-Pro",
+            "ProductDescription": "Ubiquiti Wave Professional Netzwerkbrücke 2500 Mbit/s Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084690284"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Wave-Pro",
+        "Weight": 8130.0,
+        "Height": 595.0,
+        "Width": 322.0,
+        "Depth": 508.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076322",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP 60 GHz Wireless Wave 60 GHz Ubiquiti Wave Pro (Wave-Pro-EU)"
+      },
+      "properties": {
+        "message_id": "cc092c37-ed1d-4caa-bb56-70f278de64c1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-19T15:30:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0054'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:37.268000+00:00",
+        "sequence_number": 152421
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFMKRWIS0025",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mikrotik SXTsq Lite2 (RBSXTsq2nD)",
+            "ProductDescription": "Mikrotik SXTsq Lite2 100 Mbit/s Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mikrotik SXTsq Lite2 (RBSXTsq2nD)",
+            "ProductDescription": "Mikrotik SXTsq Lite2 100 Mbit/s White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mikrotik SXTsq Lite2 (RBSXTsq2nD)",
+            "ProductDescription": "Mikrotik SXTsq Lite2 100 Mbit/s Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4752224004581"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBSXTsq2nD",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054554",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless Mikrotik SXTsq Lite2 (RBSXTsq2nD)"
+      },
+      "properties": {
+        "message_id": "ceb7cc30-fa25-48e3-9a1f-572ec92991be",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T14:23:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFMKRWIS0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:46.720000+00:00",
+        "sequence_number": 167734
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0036",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti LAP-120",
+            "ProductDescription": "Ubiquiti LAP-120 antena Antena kierunkowa MIMO 16 dBi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti LAP-120",
+            "ProductDescription": "Ubiquiti LAP-120 network antenna MIMO directional antenna 16 dBi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti LAP-120",
+            "ProductDescription": "Ubiquiti LAP-120 Netzwerk-Antenne MIMO-direktionale Antenne 16 dBi"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882025539"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LAP-120",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072370",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 5 GHz Ubiquiti airMAX Lite AP (LAP-120-EU)"
+      },
+      "properties": {
+        "message_id": "4093214a-8ab8-4c6b-b6db-9fef8c1a41cf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T16:43:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0036'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.499000+00:00",
+        "sequence_number": 112450
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0043",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airFiber PtP Ubiquiti AF-11",
+            "ProductDescription": "Ubiquiti AF-11 mostki i mnożniki Most sieciowy 1000 Mbit/s Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airFiber PtP Ubiquiti AF-11",
+            "ProductDescription": "Ubiquiti AF-11 bridge/repeater Network bridge 1000 Mbit/s White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airFiber PtP Ubiquiti AF-11",
+            "ProductDescription": "Ubiquiti AF-11 Bridge & Repeater Netzwerkbrücke 1000 Mbit/s Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810010071620"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AF-11",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072371",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airFiber PtP Ubiquiti airFiber 11 (AF-11-EU)"
+      },
+      "properties": {
+        "message_id": "ad920e14-eeb4-4439-b6f2-315c29468dcb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T16:43:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0043'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.499000+00:00",
+        "sequence_number": 112451
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAO85",
+        "ProductVersion": "1.3",
+        "ProductType": "WISP",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WRL ACCESS POINT WIRE DISH/NRAYG-60ADPAIR",
+            "ProductDescription": "Mikrotik Wire nRAY 2000 Mbit/s Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WRL ACCESS POINT WIRE DISH/NRAYG-60ADPAIR",
+            "ProductDescription": "MikroTik Wireless Wire nRAY - tradlos"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WRL ACCESS POINT WIRE DISH/NRAYG-60ADPAIR",
+            "ProductDescription": "MikroTik nRAYG-60adpair (Bundle)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4752224006844"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "nRAYG-60adpair",
+        "Weight": 4490.0,
+        "Height": 452.0,
+        "Width": 368.0,
+        "Depth": 349.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037383",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "538ab82e-b5f7-4613-96e8-dfeee74b6e50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-10T12:59:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAO85'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:33.772000+00:00",
+        "sequence_number": 114348
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWU4",
+        "ProductVersion": "1.2",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti R5AC-LITE",
+            "ProductDescription": "Ubiquiti Rocket 5ac Lite 450 Mbit/s Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti R5AC-LITE",
+            "ProductDescription": "Ubiquiti Rocket 5ac Lite 450 Mbit/s White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti R5AC-LITE",
+            "ProductDescription": "Ubiquiti Rocket 5ac Lite 450 Mbit/s Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810354022708"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R5AC-LITE",
+        "Weight": 580.0,
+        "Height": 98.0,
+        "Width": 200.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075095",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3d8a06ee-415f-4e1a-a3c8-f73dc7cd22d0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T14:08:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWU4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:25.237000+00:00",
+        "sequence_number": 143239
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCRYS",
+        "ProductVersion": "1.3",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquti NS-5AC",
+            "ProductDescription": "Ubiquiti NanoStation AC 1000 Mbit/s Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquti NS-5AC",
+            "ProductDescription": "Ubiquiti NanoStation ac NS-5AC - tradlos"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquti NS-5AC",
+            "ProductDescription": "Ubiquiti NanoStation ac NS-5AC - tradlos"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882021371"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NS-5AC",
+        "Weight": 775.0,
+        "Height": 314.0,
+        "Width": 87.0,
+        "Depth": 113.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044005",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bbab50bf-5a65-4d43-a5ca-e251ab2ad7e3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-02T13:40:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCRYS'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:47.321000+00:00",
+        "sequence_number": 115081
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFUBQWIS0029",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "airMAX 5 GHz Ubiquiti PBE-5AC-620",
+            "ProductDescription": "Ubiquiti PBE-5AC-620 mostki i mnożniki 1000 Mbit/s"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "airMAX 5 GHz Ubiquiti PBE-5AC-620",
+            "ProductDescription": "Ubiquiti PBE-5AC-620 bridge/repeater 1000 Mbit/s"
+          },
+          {
+            "Language": "de",
+            "ProductName": "airMAX 5 GHz Ubiquiti PBE-5AC-620",
+            "ProductDescription": "Ubiquiti PBE-5AC-620 Bridge & Repeater 1000 Mbit/s"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810354022593"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PBE-5AC-620",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072369",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless airMAX 5 GHz Ubiquiti airMAX PowerBeam 5AC 620 (PBE-5AC-620-EU)"
+      },
+      "properties": {
+        "message_id": "84d94bc7-d1f9-4a13-b079-b3f16a49c93e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T16:43:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFUBQWIS0029'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:08.739000+00:00",
+        "sequence_number": 144156
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SWFMKRWIS0021",
+        "ProductVersion": "1.1",
+        "ProductType": "WISP",
+        "Brand": "MikroTik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mikrotik LHG 5 (RBLHG-5nD)",
+            "ProductDescription": "Mikrotik LHG 5 54 Mbit/s Biały Obsługa PoE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mikrotik LHG 5 (RBLHG-5nD)",
+            "ProductDescription": "Mikrotik LHG 5 54 Mbit/s White Power over Ethernet (PoE)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mikrotik LHG 5 (RBLHG-5nD)",
+            "ProductDescription": "Mikrotik LHG 5 54 Mbit/s Weiß Power over Ethernet (PoE)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4752224003829"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBLHG-5nD",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050017",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "UISP Wireless Mikrotik LHG 5 (RBLHG-5nD)"
+      },
+      "properties": {
+        "message_id": "134e2f92-09e4-46d4-bb40-a541b8599229",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T14:23:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SWFMKRWIS0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:45.538000+00:00",
+        "sequence_number": 117018
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCG55",
+        "ProductVersion": "1.3",
+        "ProductType": "WISP",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ubiquiti PBE-5AC-ISO-GEN2 CPE PowerBeam, AC 5GH",
+            "ProductDescription": "Ubiquiti PowerBeam AC ISO Gen2 Most sieciowy 450 Mbit/s Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ubiquiti PBE-5AC-ISO-GEN2 CPE PowerBeam, AC 5GH",
+            "ProductDescription": "Ubiquiti PBE-5AC-ISO-GEN2 | CPE | PowerBeam, AC 5GHz, 1x RJ45 1000Mbps, 25dBi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ubiquiti PBE-5AC-ISO-GEN2 CPE PowerBeam, AC 5GH",
+            "ProductDescription": "Ubiquiti PBE-5AC-ISO-GEN2 | CPE | PowerBeam, AC 5GHz, 1x RJ45 1000Mbps, 25dBi"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "817882023719"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PBE-5AC-ISO-Gen2",
+        "Weight": 4050.0,
+        "Height": 300.0,
+        "Width": 550.0,
+        "Depth": 550.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56686
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042723",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c434fd32-7dd3-4898-8da9-dc581ca10482",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-13T09:38:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCG55'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:47.637000+00:00",
+        "sequence_number": 147962
+      }
+    }
+  ]
+}

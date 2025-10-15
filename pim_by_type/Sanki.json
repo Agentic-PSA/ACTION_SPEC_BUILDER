@@ -1,0 +1,178 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBIUL",
+        "ProductVersion": "1.2",
+        "ProductType": "Sanki",
+        "Brand": "hamax",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sanki Hamax Baby Bob czerwone 501007",
+            "ProductDescription": "Sanki Hamax Baby Bob czerwone 501007"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sanki Hamax Baby Bob czerwone 501007",
+            "ProductDescription": "Hamax Baby Bob sled red 501007"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sanki Hamax Baby Bob czerwone 501007",
+            "ProductDescription": "Hamax Baby Bob Schlitten rot 501007"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7029775010079"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S1689",
+        "Weight": 1708.0,
+        "Height": 211.0,
+        "Width": 817.0,
+        "Depth": 349.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55904
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040341",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b96a0f22-9812-4ee3-acc7-d6abdbfe9717",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-23T11:46:04Z'",
+          "ModificationDate": "b'2025-06-04T12:17:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBIUL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:06.960000+00:00",
+        "sequence_number": 133924
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAXBN",
+        "ProductVersion": "1.2",
+        "ProductType": "Sanki",
+        "Brand": "hamax",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Hamax Mini Surfer Niebieski Polietylen",
+            "ProductDescription": "Hamax Mini Surfer Niebieski Polietylen"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Hamax Mini Surfer Niebieski Polietylen",
+            "ProductDescription": "Hamax Mini Surfer Blue Polyethylene"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Hamax Mini Surfer Niebieski Polietylen",
+            "ProductDescription": "Hamax Mini Surfer Blau Polyethylen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7029775500631"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "550063",
+        "Weight": 440.0,
+        "Height": 876.0,
+        "Width": 495.0,
+        "Depth": 106.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "NO",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55818
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55904
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052512",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a7753000-89a9-4269-abe1-d351d2b3f93e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-13T11:44:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAXBN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:39.903000+00:00",
+        "sequence_number": 139252
+      }
+    }
+  ]
+}

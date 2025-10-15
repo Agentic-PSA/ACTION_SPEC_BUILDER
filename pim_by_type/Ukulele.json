@@ -1,0 +1,265 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAH16",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukulele",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompresor Xiaomi Portable Electric Air Compressor",
+            "ProductDescription": "Xiaomi 1S elektryczna pompa powietrza 10,3 bar 15 l/min"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompresor Xiaomi Portable Electric Air Compressor",
+            "ProductDescription": "Xiaomi Portable Electric Air Compressor 1S"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompresor Xiaomi Portable Electric Air Compressor",
+            "ProductDescription": "Xiaomi Tragbarer elektrischer Luftkompressor 1S"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6934177749223"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "92029080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BHR5277GL",
+        "Weight": 650.0,
+        "Height": 55.0,
+        "Width": 75.0,
+        "Depth": 195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.20.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55614
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55628
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035992",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bc5cb940-802d-48c0-b37c-6f72f69d8324",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-13T12:33:36Z'",
+          "ModificationDate": "b'2025-06-04T12:15:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAH16'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:12.293000+00:00",
+        "sequence_number": 111266
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFP50",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukulele",
+        "Brand": "V-tone",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "V-TONE UK23 WOOD-Ukulele koncertowe akustyczne 23\"",
+            "ProductDescription": "V-TONE UK23 Wood - ukulele koncertowe 23\""
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "V-TONE UK23 WOOD-Ukulele koncertowe akustyczne 23\"",
+            "ProductDescription": "V-TONE UK23 Wood - 23\" concert ukulele"
+          },
+          {
+            "Language": "de",
+            "ProductName": "V-TONE UK23 WOOD-Ukulele koncertowe akustyczne 23\"",
+            "ProductDescription": "V-TONE UK23 Wood - 23\" Konzert-Ukulele"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249811140"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "92029080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249811140",
+        "Weight": 898.0,
+        "Height": 95.0,
+        "Width": 650.0,
+        "Depth": 251.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.20.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55614
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55628
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046839",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aaa92534-85b0-4fbb-8f2b-88810fe8ed03",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-01T18:27:14Z'",
+          "ModificationDate": "b'2025-06-04T12:21:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFP50'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:13.793000+00:00",
+        "sequence_number": 162806
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFP79",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukulele",
+        "Brand": "V-tone",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "V-TONE UK23 BK-Ukulele koncertowe akustyczne 23\"",
+            "ProductDescription": "V-TONE UK23 BK - ukulele koncertowe 23\""
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "V-TONE UK23 BK-Ukulele koncertowe akustyczne 23\"",
+            "ProductDescription": "V-TONE UK23 BK - 23\" concert ukulele"
+          },
+          {
+            "Language": "de",
+            "ProductName": "V-TONE UK23 BK-Ukulele koncertowe akustyczne 23\"",
+            "ProductDescription": "V-TONE UK23 BK - 23\" Konzert-Ukulele"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249812796"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "92029080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249812796",
+        "Weight": 820.0,
+        "Height": 90.0,
+        "Width": 625.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.20.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55614
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55628
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046841",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "378e183a-782d-4d65-a96b-68aa2e96a04f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-02T09:14:02Z'",
+          "ModificationDate": "b'2025-06-04T12:21:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFP79'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:13.793000+00:00",
+        "sequence_number": 162808
+      }
+    }
+  ]
+}

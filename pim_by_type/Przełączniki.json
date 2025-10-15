@@ -1,0 +1,4484 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0014",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA KVM OVER IP CL5708IN-ATA-AG 8-PORTOWA",
+            "ProductDescription": "ATEN CL5708IN-ATA-XG konsola rackowa 48,3 cm (19\") Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA KVM OVER IP CL5708IN-ATA-AG 8-PORTOWA",
+            "ProductDescription": "ATEN 8-Port 19\" LCD KVM Switch Over IP (USB - PS/2 VGA) with USB Peripheral port"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA KVM OVER IP CL5708IN-ATA-AG 8-PORTOWA",
+            "ProductDescription": "ATEN 1-Local/Remote Share Access 8-Port PS/2-USB VGA Single Rail LCD KVM over IP Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264645617"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL5708IN-ATA-AG",
+        "Weight": 17230.0,
+        "Height": 145.0,
+        "Width": 835.0,
+        "Depth": 670.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54131
+              },
+              {
+                "CategoryId": 53379
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088871",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "68df2dae-2c16-4960-bbb4-21e801be4cab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-17T16:57:14Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:21.500000+00:00",
+        "sequence_number": 161696
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCGI6",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przełącznik/Switch HDMI 2-portowy 8K 60Hz HDR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przełącznik/Switch HDMI 2-portowy 8K 60Hz HDR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przełącznik/Switch HDMI 2-portowy 8K 60Hz HDR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032483663"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS-45341",
+        "Weight": 120.0,
+        "Height": 18.0,
+        "Width": 150.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042801",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f9daf0e8-3b2d-4a27-b430-20b1d0eaee2a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-14T15:01:01Z'",
+          "ModificationDate": "b'2025-06-04T12:19:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCGI6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:38.106000+00:00",
+        "sequence_number": 159716
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPRZ0034",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS18208 8PORT USB HDMI 4K",
+            "ProductDescription": "ATEN CS18208 przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS18208 8PORT USB HDMI 4K",
+            "ProductDescription": "ATEN CS18208 KVM switch Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS18208 8PORT USB HDMI 4K",
+            "ProductDescription": "ATEN CS18208 Tastatur/Video/Maus (KVM)-Switch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710469340697"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS18208-AT-G",
+        "Weight": 4000.0,
+        "Height": 44.0,
+        "Width": 440.0,
+        "Depth": 215.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053217",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e54392ae-dc5d-4772-9e7c-937f1f496633",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-13T10:11:37Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPRZ0034'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:48.295000+00:00",
+        "sequence_number": 134801
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPVI0001",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA LCD \"19 CL5708M-ATA-AG 8-PORTOWA PS/2",
+            "ProductDescription": "ATEN CL5708M-ATA-AG konsola rackowa 43,2 cm (17\") Czarny 1U"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA LCD \"19 CL5708M-ATA-AG 8-PORTOWA PS/2",
+            "ProductDescription": "ATEN 8-Port 17\" LCD KVM Switch (USB - PS/2 VGA) with USB Peripheral port"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA LCD \"19 CL5708M-ATA-AG 8-PORTOWA PS/2",
+            "ProductDescription": "ATEN 8-Port PS/2-USB VGA Single Rail LCD KVM Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264642449"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL5708M-ATA-AG",
+        "Weight": 18650.0,
+        "Height": 145.0,
+        "Width": 675.0,
+        "Depth": 725.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048379",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e080fe33-e5a2-484f-87b3-13dd431c4aff",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-17T11:36:56Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPVI0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:11.750000+00:00",
+        "sequence_number": 149270
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPRM0121",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "przełącznik KVM over IP Cat 5 KH1516Ai",
+            "ProductDescription": "ATEN KH1516AI-AX-G przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "przełącznik KVM over IP Cat 5 KH1516Ai",
+            "ProductDescription": "ATEN 16-Port CAT5e/6 KVM Over IP Switch"
+          },
+          {
+            "Language": "de",
+            "ProductName": "przełącznik KVM over IP Cat 5 KH1516Ai",
+            "ProductDescription": "ATEN 1-Local/Remote Share Access 16-Port Multi-Interface Cat 5 KVM over IP Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423777446"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KH1516Ai",
+        "Weight": 3799.0,
+        "Height": 135.0,
+        "Width": 550.0,
+        "Depth": 235.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056414",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d6270a2b-7665-4d49-ae84-c40603218911",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-08-19T11:45:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPRM0121'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:15.421000+00:00",
+        "sequence_number": 149460
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERATEPDR0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN WSPÓŁDZIELENIE URZĄDZEŃ PERYFERYJNYCH US434-A",
+            "ProductDescription": "ATEN US434"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN WSPÓŁDZIELENIE URZĄDZEŃ PERYFERYJNYCH US434-A",
+            "ProductDescription": "ATEN 4-port USB 3.0 Peripheral Sharing Device"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN WSPÓŁDZIELENIE URZĄDZEŃ PERYFERYJNYCH US434-A",
+            "ProductDescription": "ATEN 4 x 4 USB 3.2 Gen1 Peripherie-Freigabe-Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264643798"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "US434-AT",
+        "Weight": 550.0,
+        "Height": 235.0,
+        "Width": 160.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54771
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52677
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067926",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54759387-12f6-4bce-8f02-5d318e7a908b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-19T10:11:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERATEPDR0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:11.850000+00:00",
+        "sequence_number": 107283
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPRM0093",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KVM 2/1 CS-82U USB/PS2 Master Desktop CS-82U",
+            "ProductDescription": "ATEN CS82U-AT przełącznik KVM Jasny Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KVM 2/1 CS-82U USB/PS2 Master Desktop CS-82U",
+            "ProductDescription": "ATEN 2-Port USB - PS/2 VGA KVM Switch (KVM Cables included)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KVM 2/1 CS-82U USB/PS2 Master Desktop CS-82U",
+            "ProductDescription": "ATEN 2-Port-PS/2-USB-VGA-KVM-Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423777002"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS-82U",
+        "Weight": 1015.0,
+        "Height": 180.0,
+        "Width": 60.0,
+        "Depth": 245.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047367",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4c65eb42-17ac-43b7-80f5-dd9d22a97066",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2011-04-11T11:19:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPRM0093'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:56.476000+00:00",
+        "sequence_number": 115566
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPRM0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KVM 8/1 CS-1708A USB 19\"OSD CS-1708A",
+            "ProductDescription": "ATEN CS1708A-AT-G przełącznik KVM Możliwości montowania w stelażu Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KVM 8/1 CS-1708A USB 19\"OSD CS-1708A",
+            "ProductDescription": "ATEN 8-Port USB - PS/2 VGA KVM Switch with USB Peripheral port"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KVM 8/1 CS-1708A USB 19\"OSD CS-1708A",
+            "ProductDescription": "ATEN 8-Port-PS/2-USB-VGA-KVM-Switch mit Daisy-Chain-Port und Unterstützung von USB-Peripherie"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423775312"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS-1708A",
+        "Weight": 3905.0,
+        "Height": 240.0,
+        "Width": 545.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066228",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4c6526b7-d8e4-4857-8b47-9a9134dc6cb6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2007-12-17T11:59:54Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPRM0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:11.641000+00:00",
+        "sequence_number": 135969
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASHS",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "KEMOT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zasilacz awaryjny KEMOT PROsinus-2200 12V 230V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zasilacz awaryjny KEMOT PROsinus-2200 12V 230V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zasilacz awaryjny KEMOT PROsinus-2200 12V 230V",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890074490"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85365019",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "URZ3431",
+        "Weight": 17500.0,
+        "Height": 295.0,
+        "Width": 480.0,
+        "Depth": 370.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.33.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54582
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047234",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d3ee7f62-508a-453f-b163-35520adde9bd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-23T04:31:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASHS'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:44.793000+00:00",
+        "sequence_number": 107785
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPRM0101",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN CS-1708I KVM 8/1 port PS/2-USB On the Net",
+            "ProductDescription": "ATEN CS1708I-AT-G przełącznik KVM Możliwości montowania w stelażu Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN CS-1708I KVM 8/1 port PS/2-USB On the Net",
+            "ProductDescription": "ATEN 8-Port USB - PS/2 VGA KVM Over IP Switch with USB Peripheral port"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN CS-1708I KVM 8/1 port PS/2-USB On the Net",
+            "ProductDescription": "ATEN 1-Local/Remote Share Access 8-Port PS/2-USB VGA KVM over IP Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423776715"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS-1708I",
+        "Weight": 3895.0,
+        "Height": 115.0,
+        "Width": 540.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047798",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "287a7f49-733d-43c6-aa30-e879e8ea691a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2011-08-02T11:59:57Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPRM0101'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:50.723000+00:00",
+        "sequence_number": 108069
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0002",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA LCD 17\" CL5716IM 16-PORT OVER IP",
+            "ProductDescription": "ATEN CL5716IM-ATA-XG konsola rackowa 43,2 cm (17\") Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA LCD 17\" CL5716IM 16-PORT OVER IP",
+            "ProductDescription": "ATEN 16-Port 17\" LCD KVM Switch Over IP (USB - PS/2 VGA) with USB Peripheral port"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA LCD 17\" CL5716IM 16-PORT OVER IP",
+            "ProductDescription": "ATEN 1-Local/Remote Share Access 16-Port PS/2-USB VGA Single Rail LCD KVM over IP Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264645624"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL5716IM-ATA-AG",
+        "Weight": 17050.0,
+        "Height": 670.0,
+        "Width": 140.0,
+        "Depth": 715.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53379
+              },
+              {
+                "CategoryId": 54131
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065451",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c8989311-92ad-48e9-867d-00a573a5a524",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-11-07T10:10:45Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:38.932000+00:00",
+        "sequence_number": 121578
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0023",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA KVM OVER IP CL5716IN-ATA-AG 16 PORT",
+            "ProductDescription": "ATEN CL5716IN-ATA-XG konsola rackowa 48,3 cm (19\") Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA KVM OVER IP CL5716IN-ATA-AG 16 PORT",
+            "ProductDescription": "ATEN 16-Port 19\" LCD KVM Switch Over IP (USB - PS/2 VGA) with USB Peripheral port"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA KVM OVER IP CL5716IN-ATA-AG 16 PORT",
+            "ProductDescription": "ATEN 1-Local/Remote Share Access 16-Port PS/2-USB VGA Single Rail LCD KVM over IP Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264645631"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL5716IN-ATA-AG",
+        "Weight": 17550.0,
+        "Height": 145.0,
+        "Width": 670.0,
+        "Depth": 830.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53379
+              },
+              {
+                "CategoryId": 54131
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065452",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "82d4a063-92ab-43bb-acd7-a8772c9a27af",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-04-20T12:34:54Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:38.932000+00:00",
+        "sequence_number": 121579
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVMNHPRZ0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "Manhattan",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM HDMI/USB 2X1 DUAL-MONITO",
+            "ProductDescription": "Manhattan 153522 przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM HDMI/USB 2X1 DUAL-MONITO",
+            "ProductDescription": "Manhattan HDMI KVM Switch 2-Port, 4K@30Hz, USB-A/3.5mm Audio/Mic Connections, Cables included, Audio Support, Control 2x computers from one pc/mouse/screen, USB Powered, Black, Three Year Warranty, Boxed"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM HDMI/USB 2X1 DUAL-MONITO",
+            "ProductDescription": "Manhattan 153522 Tastatur/Video/Maus (KVM)-Switch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "766623153522"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "153522",
+        "Weight": 1410.0,
+        "Height": 130.0,
+        "Width": 210.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065453",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b6cb751e-efc7-4754-8059-7d829dd21357",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-07-26T14:36:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVMNHPRZ0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:38.932000+00:00",
+        "sequence_number": 121580
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVTHLPRZ0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "TECHly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM DISPLAYPORT/USB 4X1 4K*30HZ",
+            "ProductDescription": "Techly IDATA DP-KVM4 przełącznik KVM Możliwości montowania w stelażu Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM DISPLAYPORT/USB 4X1 4K*30HZ",
+            "ProductDescription": "Techly IDATA DP-KVM4 KVM switch Rack mounting Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM DISPLAYPORT/USB 4X1 4K*30HZ",
+            "ProductDescription": "Techly IDATA DP-KVM4 Tastatur/Video/Maus (KVM)-Switch Rack-Einbau Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8051128101935"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "101935",
+        "Weight": 1020.0,
+        "Height": 165.0,
+        "Width": 290.0,
+        "Depth": 57.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065454",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "354fccf8-24a7-4448-9ba3-2144ede95ce8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-04-13T16:19:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVTHLPRZ0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:38.932000+00:00",
+        "sequence_number": 121581
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPRZ0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1912-AT-G 2-PORTOWY USB 3.0",
+            "ProductDescription": "ATEN CS1912 przełącznik KVM Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1912-AT-G 2-PORTOWY USB 3.0",
+            "ProductDescription": "ATEN 2-Port USB 3.1 Gen 1 DisplayPort 1.1 KVMP™ Switch with Speaker (KVM cables included)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1912-AT-G 2-PORTOWY USB 3.0",
+            "ProductDescription": "ATEN 2-Port USB 3.0 DisplayPort KVMP™ Switch (Kabel enthalten)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264645037"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS1912-AT-G",
+        "Weight": 1765.0,
+        "Height": 175.0,
+        "Width": 285.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047883",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "efcc61df-75de-4ee5-a624-0e4a1fa7dd23",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-17T11:33:57Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPRZ0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:51.575000+00:00",
+        "sequence_number": 108114
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCGGX",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Digitus Przełącznik KVM, 4-portowy, 4K 60 Hz",
+            "ProductDescription": "Digitus Przełącznik KVM, 4-portowy, 4K 60 Hz, 4 x DP in, 1 x DP/HDMI out"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Digitus Przełącznik KVM, 4-portowy, 4K 60 Hz",
+            "ProductDescription": "Digitus KVM Switch, 4-Port, 4K60Hz, 4 x DP in, 1 x DP/HDMI out"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Digitus Przełącznik KVM, 4-portowy, 4K 60 Hz",
+            "ProductDescription": "Digitus KVM-Switch, 4-Port, 4K60Hz, 4 x DP in, 1 x DP/HDMI out"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032475606"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS-12890",
+        "Weight": 1740.0,
+        "Height": 230.0,
+        "Width": 180.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048100",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8bdbdbe6-4100-4c38-9569-7de60ba67609",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-20T16:05:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCGGX'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:53.591000+00:00",
+        "sequence_number": 108211
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERATEPDR0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN WSPÓŁDZIELENIE URZĄDZEŃ PERYFERYJNYCH US234-A",
+            "ProductDescription": "ATEN US234"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN WSPÓŁDZIELENIE URZĄDZEŃ PERYFERYJNYCH US234-A",
+            "ProductDescription": "ATEN 2-port USB 3.0 Peripheral Sharing Device"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN WSPÓŁDZIELENIE URZĄDZEŃ PERYFERYJNYCH US234-A",
+            "ProductDescription": "ATEN 2 x 4 USB 3.2 Gen1 Peripherie-Freigabe-Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264643781"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "US234-AT",
+        "Weight": 380.0,
+        "Height": 165.0,
+        "Width": 232.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54771
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52677
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066005",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5082c27c-088a-493b-82ba-55c53dbc7a79",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-19T10:06:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERATEPDR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:40.933000+00:00",
+        "sequence_number": 121666
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVTHLPRZ0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "TECHly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM HDMI/USB 2X1 Z AUDIO 4KX2K",
+            "ProductDescription": "Techly 2x1 USB HDMI KVM Switch 4Kx2K IDATA KVM-HDMI2U przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM HDMI/USB 2X1 Z AUDIO 4KX2K",
+            "ProductDescription": "Techly 2x1 USB HDMI 4Kx2K IDATA KVM-HDMI2U KVM switch Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM HDMI/USB 2X1 Z AUDIO 4KX2K",
+            "ProductDescription": "Techly 2x1 USB HDMI KVM Switch 4Kx2K IDATA KVM-HDMI2U Tastatur/Video/Maus (KVM)-Switch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054529028696"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85437006",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IDATA KVM-HDMI2U",
+        "Weight": 876.0,
+        "Height": 117.0,
+        "Width": 180.0,
+        "Depth": 243.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077206",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "604f0d1e-849b-4f4f-bc60-7308f2c63b00",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-02-24T10:36:12Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVTHLPRZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.997000+00:00",
+        "sequence_number": 130685
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVTHLPRZ0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "TECHly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM DISPLAYPORT/USB 2X1 DUAL HE",
+            "ProductDescription": "Techly IDATA DP-KVM2 przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM DISPLAYPORT/USB 2X1 DUAL HE",
+            "ProductDescription": "Techly IDATA DP-KVM2 KVM switch Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM DISPLAYPORT/USB 2X1 DUAL HE",
+            "ProductDescription": "Techly IDATA DP-KVM2 Tastatur/Video/Maus (KVM)-Switch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8051128101928"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "101928",
+        "Weight": 1020.0,
+        "Height": 165.0,
+        "Width": 285.0,
+        "Depth": 57.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077207",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0cbff109-ee64-4180-bfda-f0684dc0924d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-08-30T10:16:14Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVTHLPRZ0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.997000+00:00",
+        "sequence_number": 130686
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVMNHPRZ0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "Manhattan",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM DISPLAYPORT/USB 2X1 4K*6",
+            "ProductDescription": "Manhattan 153546 przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM DISPLAYPORT/USB 2X1 4K*6",
+            "ProductDescription": "Manhattan DisplayPort 1.2 KVM Switch 2-Port, 4K@60Hz, USB-A/3.5mm Audio/Mic Connections, Cables included, Audio Support, Control 2x computers from one pc/mouse/screen, USB Powered, Black, Three Year Warranty, Boxed"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM DISPLAYPORT/USB 2X1 4K*6",
+            "ProductDescription": "Manhattan 153546 Tastatur/Video/Maus (KVM)-Switch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "766623153546"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "153546",
+        "Weight": 1100.0,
+        "Height": 97.0,
+        "Width": 228.0,
+        "Depth": 185.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050690",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9ca954c8-9d52-4282-9845-878175ea6b9b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-03-10T14:05:19Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVMNHPRZ0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:17.150000+00:00",
+        "sequence_number": 138067
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPRZ0035",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN PRZEŁĄCZNIK WSPÓŁDZIELĄCY 8X4 USB 3.2 GEN1",
+            "ProductDescription": "ATEN US3384I-AT przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN PRZEŁĄCZNIK WSPÓŁDZIELĄCY 8X4 USB 3.2 GEN1",
+            "ProductDescription": "ATEN US3384I-AT KVM switch Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN PRZEŁĄCZNIK WSPÓŁDZIELĄCY 8X4 USB 3.2 GEN1",
+            "ProductDescription": "ATEN US3384I-AT Tastatur/Video/Maus (KVM)-Switch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710469349492"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "US3384I-AT",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054560",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Aten Przełącznik 8 x 4 współdzielący urządzenia peryferyjne USB 3.2 Gen1"
+      },
+      "properties": {
+        "message_id": "23692319-4fb3-4af2-8a97-e676777352aa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-20T12:12:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPRZ0035'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:46.720000+00:00",
+        "sequence_number": 167740
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0001",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA 17\" LCD CL5708IM 8-PORT OVER IP",
+            "ProductDescription": "ATEN CL5708IM-ATA-XG konsola rackowa 43,2 cm (17\") Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA 17\" LCD CL5708IM 8-PORT OVER IP",
+            "ProductDescription": "ATEN 8-Port 17\" LCD KVM Switch Over IP (USB - PS/2 VGA) with USB Peripheral port"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA 17\" LCD CL5708IM 8-PORT OVER IP",
+            "ProductDescription": "ATEN 1-Local/Remote Share Access 8-Port PS/2-USB VGA Single Rail LCD KVM over IP Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264645600"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL5708IM-ATA-AG",
+        "Weight": 16460.0,
+        "Height": 140.0,
+        "Width": 720.0,
+        "Depth": 670.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53379
+              },
+              {
+                "CategoryId": 54131
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058545",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e3a5fe45-c9e1-495f-9e14-6101bc9eb719",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-11-06T13:09:55Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:41.604000+00:00",
+        "sequence_number": 123663
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0026",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA LCD 17\" CL1000M-ATA-AG",
+            "ProductDescription": "ATEN CL1000M-ATA-AG konsola rackowa 43,2 cm (17\") Czarny 1U"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA LCD 17\" CL1000M-ATA-AG",
+            "ProductDescription": "ATEN 17\" LCD Console (USB - PS/2 VGA)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA LCD 17\" CL1000M-ATA-AG",
+            "ProductDescription": "ATEN Single Rail LCD Konsole (PS/2-USB, VGA)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264642395"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL1000M-ATA-AG",
+        "Weight": 12000.0,
+        "Height": 44.0,
+        "Width": 480.0,
+        "Depth": 539.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54131
+              },
+              {
+                "CategoryId": 53379
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058546",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bb44d44c-ee4d-4753-abb1-91ad5be2eb2d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-13T10:18:53Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:41.604000+00:00",
+        "sequence_number": 123664
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0028",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3108NX-ATA-AG 8 PORTOWA",
+            "ProductDescription": "ATEN CL3108NX-ATA-AG konsola rackowa 47 cm (18.5\") Czarny 1U"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3108NX-ATA-AG 8 PORTOWA",
+            "ProductDescription": "ATEN 8P Short Depth Single Rail LCD KVM SW"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3108NX-ATA-AG 8 PORTOWA",
+            "ProductDescription": "ATEN 8-Port PS/2-USB VGA Single Rail WideScreen LCD KVM Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264648977"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL3108NX-ATA-AG",
+        "Weight": 11000.0,
+        "Height": 44.0,
+        "Width": 480.0,
+        "Depth": 631.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53379
+              },
+              {
+                "CategoryId": 54131
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058547",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2dcf314c-cd5c-4355-a0db-3a60bc2e4d3d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-13T10:20:41Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:41.604000+00:00",
+        "sequence_number": 123665
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPRZ0033",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS52DP-AT 2-PORTOWY HYBRYDOWY",
+            "ProductDescription": "ATEN CS52DP przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS52DP-AT 2-PORTOWY HYBRYDOWY",
+            "ProductDescription": "ATEN 2-Port USB-C DisplayPort Hybrid Cable KVM Switch"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS52DP-AT 2-PORTOWY HYBRYDOWY",
+            "ProductDescription": "ATEN 2-Port USB-C-DisplayPort-Kabel KVM Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710469341311"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS52DP-AT",
+        "Weight": 500.0,
+        "Height": 80.0,
+        "Width": 150.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "TH",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058548",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7bf16bb5-ff8c-4e34-860a-20cb9d222291",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-26T19:48:25Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPRZ0033'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:41.604000+00:00",
+        "sequence_number": 123666
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPKL0031",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KVM 8 port LCD 17\"+klawi+touchpad PS/2 19\" 1U",
+            "ProductDescription": "ATEN CL1008M konsola rackowa 43,2 cm (17\") 1280 x 1024 px Metal, Plastik Czarny 1U"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KVM 8 port LCD 17\"+klawi+touchpad PS/2 19\" 1U",
+            "ProductDescription": "ATEN 8-Port 17\" LCD KVM Switch (USB - PS/2 VGA)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KVM 8 port LCD 17\"+klawi+touchpad PS/2 19\" 1U",
+            "ProductDescription": "ATEN 8-Port PS/2-USB VGA Single Rail LCD KVM Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264642425"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL-1008MA",
+        "Weight": 17000.0,
+        "Height": 630.0,
+        "Width": 670.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54131
+              },
+              {
+                "CategoryId": 53379
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051218",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "89f919f5-1ed6-4009-b962-bc3c558226e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-09-01T12:49:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPKL0031'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:26.198000+00:00",
+        "sequence_number": 138542
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAFEU",
+        "ProductVersion": "1.3",
+        "ProductType": "Przełączniki",
+        "Brand": "TECHly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "3-Portowy Przełącznik HDMI 2.1 8K*60Hz 3x1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "3-Portowy Przełącznik HDMI 2.1 8K*60Hz 3x1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "3-Portowy Przełącznik HDMI 2.1 8K*60Hz 3x1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8059018365511"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "12957",
+        "Weight": 172.0,
+        "Height": 103.0,
+        "Width": 148.0,
+        "Depth": 47.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035598",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8aeb60c4-8a3d-47ee-8f02-60c66768a925",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-19T12:35:57Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAFEU'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:33.685000+00:00",
+        "sequence_number": 110366
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPRM0114",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KH-1516A KVM 16 port Cat5e Over the Net",
+            "ProductDescription": "ATEN KH1516A-AX-G przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KH-1516A KVM 16 port Cat5e Over the Net",
+            "ProductDescription": "ATEN 16-Port Cat 5e/6 KVM Switch"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KH-1516A KVM 16 port Cat5e Over the Net",
+            "ProductDescription": "ATEN 16-Port Multi-Interface (DisplayPort, HDMI, DVI, VGA) Cat 5 KVM Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423776760"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KH-1516A",
+        "Weight": 3756.0,
+        "Height": 245.0,
+        "Width": 135.0,
+        "Depth": 550.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051519",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "80943a1c-d8f7-4eaa-a0b2-e7738babc87b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2014-01-09T15:01:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPRM0114'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:32.121000+00:00",
+        "sequence_number": 138826
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVITLPRZ0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "Intellinet",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "INTELLINET 16-PORTOWY PRZEŁĄCZNIK KVM CAT5 VGA DO",
+            "ProductDescription": "Intellinet 507899 przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "INTELLINET 16-PORTOWY PRZEŁĄCZNIK KVM CAT5 VGA DO",
+            "ProductDescription": "Intellinet Modular 16-Port CAT5 VGA KVM Switch, For Use with Product Numbers 507622, 507738, 507981, 507998, 508025, 508032, 508049 & 508056"
+          },
+          {
+            "Language": "de",
+            "ProductName": "INTELLINET 16-PORTOWY PRZEŁĄCZNIK KVM CAT5 VGA DO",
+            "ProductDescription": "Intellinet Modularer 16-Port KVM-Switch mit Cat5-/VGA-Schnittstelle, Zur Verwendung mit Rackmount LCD-Konsolen 508032 oder 507981"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "766623507899"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "507899",
+        "Weight": 4390.0,
+        "Height": 204.0,
+        "Width": 470.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051906",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c70bf6f5-2277-4d84-b34f-b30b86661f08",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-12-30T15:24:01Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVITLPRZ0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:35.950000+00:00",
+        "sequence_number": 139020
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0024",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3100NX-ATA-AG ULTRASHORT",
+            "ProductDescription": "ATEN CL3100NX konsola rackowa 47 cm (18.5\") 1366 x 768 px Metal, Plastik Czarny 1U"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3100NX-ATA-AG ULTRASHORT",
+            "ProductDescription": "ATEN 1U Short Depth USB VGA Single Rail LCD"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3100NX-ATA-AG ULTRASHORT",
+            "ProductDescription": "ATEN Single Rail WideScreen LCD Konsole (USB, VGA) mit ultrakurzer Tiefe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264646812"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL3100NX-ATA-AG",
+        "Weight": 11990.0,
+        "Height": 150.0,
+        "Width": 660.0,
+        "Depth": 615.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54131
+              },
+              {
+                "CategoryId": 53379
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077205",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b35b03e1-346a-436a-bbd4-06eb97f6269c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-05T14:04:59Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:21.507000+00:00",
+        "sequence_number": 153213
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPRZ0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1922-AT-G 2-PORTOWY USB 3.0",
+            "ProductDescription": "ATEN CS1922 przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1922-AT-G 2-PORTOWY USB 3.0",
+            "ProductDescription": "ATEN 2-Port USB 3.1 Gen 1 4K DisplayPort 1.2 KVMP™ Switch with Audio (KVM cables included)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1922-AT-G 2-PORTOWY USB 3.0",
+            "ProductDescription": "ATEN 2-Port USB 3.0 4K DisplayPort KVMP™ Switch (Kabel enthalten)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264644764"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS1922-AT-G",
+        "Weight": 1420.0,
+        "Height": 177.0,
+        "Width": 285.0,
+        "Depth": 177.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047994",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ee9e4483-234b-40e5-9f61-e85c992bff91",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-17T11:34:23Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPRZ0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:01.197000+00:00",
+        "sequence_number": 115848
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPRZ0019",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS782DP-AT 2-PORTOWY USB",
+            "ProductDescription": "ATEN CS782DP-AT przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS782DP-AT 2-PORTOWY USB",
+            "ProductDescription": "ATEN 2-Port USB 4K DisplayPort 1.2 KVM Switch (KVM cables included)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS782DP-AT 2-PORTOWY USB",
+            "ProductDescription": "ATEN 2-Port USB DisplayPort/Audio KVM Switch (4K unterstützt und Kabel enthalten)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264643644"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS782DP-AT",
+        "Weight": 690.0,
+        "Height": 175.0,
+        "Width": 240.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073305",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0cab1a33-c00c-4188-ae0d-bb3a0a0ba6fe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-17T16:50:11Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPRZ0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:26.147000+00:00",
+        "sequence_number": 145026
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPRZ0030",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1924M 4-PORT 4K DP/USB MST",
+            "ProductDescription": "ATEN CS1924M-AT-G przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1924M 4-PORT 4K DP/USB MST",
+            "ProductDescription": "ATEN 4-Port USB 3.0 4K DisplayPort MST KVMP Switch"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1924M 4-PORT 4K DP/USB MST",
+            "ProductDescription": "ATEN 4-Port USB 3.0 4K DisplayPort MST KVMP™ Switch (Kabel enthalten)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264645839"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS1924M-AT-G",
+        "Weight": 2590.0,
+        "Height": 100.0,
+        "Width": 325.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053873",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6099f1c2-5bf7-412c-8242-d347c3f3f3c3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-03-03T12:43:15Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPRZ0030'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:53.045000+00:00",
+        "sequence_number": 160398
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRELD8",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Digitus Przełącznik KVM, 2-portowy, 4K 60 Hz",
+            "ProductDescription": "Digitus Przełącznik KVM, 2-portowy, 4K 60 Hz, 2 x DP in, 1 x DP/HDMI out"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Digitus Przełącznik KVM, 2-portowy, 4K 60 Hz",
+            "ProductDescription": "Digitus KVM Switch, 2-Port, 4K60Hz, 2 x DP in, 1 x DP/HDMI out"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Digitus Przełącznik KVM, 2-portowy, 4K 60 Hz",
+            "ProductDescription": "Digitus KVM-Switch, 2-Port, 4K60Hz, 2 x DP in, 1 x DP/HDMI out"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032466833"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS-12850",
+        "Weight": 1040.0,
+        "Height": 67.0,
+        "Width": 230.0,
+        "Depth": 185.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080001",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "20f45084-8ba0-4e78-b140-0b5f0a1122a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-31T07:13:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRELD8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:43.168000+00:00",
+        "sequence_number": 154300
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFOL4",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "TECHly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM HDMI/USB 4X1 Z AUDIO",
+            "ProductDescription": "Techly 4x1 USB HDMI KVM Switch 4Kx2K IDATA KVM-HDMI4U przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM HDMI/USB 4X1 Z AUDIO",
+            "ProductDescription": "Techly 4x1 USB HDMI 4Kx2K IDATA KVM-HDMI4U KVM switch Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TECHLY PRZEŁĄCZNIK KVM HDMI/USB 4X1 Z AUDIO",
+            "ProductDescription": "Techly 4x1 USB HDMI KVM Switch 4Kx2K IDATA KVM-HDMI4U Tastatur/Video/Maus (KVM)-Switch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8054529028702"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IDATA KVM-HDMI4U",
+        "Weight": 1868.0,
+        "Height": 357.0,
+        "Width": 246.0,
+        "Depth": 116.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055450",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5ec9bbea-7548-45be-ae84-5c6456d94c5a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-09T12:43:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFOL4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:03.375000+00:00",
+        "sequence_number": 140428
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFOPX",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "UNITEK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "UNITEK V307A PRZEŁĄCZNIK KVM 4K HDMI 2.0,2-IN",
+            "ProductDescription": "UNITEK V307A przełącznik KVM Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "UNITEK V307A PRZEŁĄCZNIK KVM 4K HDMI 2.0,2-IN",
+            "ProductDescription": "UNITEK V307A KVM switch Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "UNITEK V307A PRZEŁĄCZNIK KVM 4K HDMI 2.0,2-IN",
+            "ProductDescription": "UNITEK V307A Tastatur/Video/Maus (KVM)-Switch Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894160048301"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85444210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "V307A",
+        "Weight": 545.0,
+        "Height": 118.0,
+        "Width": 195.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.44.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060442",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "42d4e4f3-f4ee-4dce-9cfd-eb63d7929403",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-06T13:01:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFOPX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:50.780000+00:00",
+        "sequence_number": 126352
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATEPRZ0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1792-AT-G 2-PORTOWY USB HDM",
+            "ProductDescription": "ATEN CS1792-AT-G przełącznik KVM Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1792-AT-G 2-PORTOWY USB HDM",
+            "ProductDescription": "ATEN 2-Port USB HDMI KVM Switch with Audio & USB 2.0 Hub (KVM cables included)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN PRZEŁĄCZNIK KVM CS1792-AT-G 2-PORTOWY USB HDM",
+            "ProductDescription": "ATEN 2-Port USB HDMI/Audio KVMP™ Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423775701"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS1792-AT-G",
+        "Weight": 1040.0,
+        "Height": 222.0,
+        "Width": 262.0,
+        "Depth": 222.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052716",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "06273645-3e51-45d6-b1cd-59497b9554c8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-17T11:33:18Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATEPRZ0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:50.687000+00:00",
+        "sequence_number": 141415
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREAZH",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "UNITEK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Unitek Przełącznik KVM 2 komputery 2 monitory 4K",
+            "ProductDescription": "UNITEK D1103A01 stacja dokująca Przewodowa USB4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Unitek Przełącznik KVM 2 komputery 2 monitory 4K",
+            "ProductDescription": "Unitek KVM Switch 2 Computers 2 Monitors 4K D1103A01"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Unitek Przełącznik KVM 2 komputery 2 monitory 4K",
+            "ProductDescription": "Unitek KVM Switch 2 Computer 2 Monitore 4K D1103A01"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894160051493"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "51626",
+        "Weight": 360.0,
+        "Height": 204.0,
+        "Width": 114.0,
+        "Depth": 48.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067186",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aaac1e0c-c583-49a1-8c97-30e0b19bdc5d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T11:50:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREAZH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:59.124000+00:00",
+        "sequence_number": 126791
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVITLPRZ0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "Intellinet",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "INTELLINET PRZEŁĄCZNIK KVM 8-PORTOWY USB/PS2 Z OSD",
+            "ProductDescription": "Intellinet 8-Port przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "INTELLINET PRZEŁĄCZNIK KVM 8-PORTOWY USB/PS2 Z OSD",
+            "ProductDescription": "Intellinet 8-Port Rackmount KVM Switch, Combo USB + PS/2, On-Screen Display, Cables included (Euro 2-pin plug)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "INTELLINET PRZEŁĄCZNIK KVM 8-PORTOWY USB/PS2 Z OSD",
+            "ProductDescription": "Intellinet 8-Port Rackmount KVM-Switch, Combo USB + PS/2, On-Screen Display, inklusive Kabel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "766623506441"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "506441",
+        "Weight": 4142.0,
+        "Height": 200.0,
+        "Width": 470.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070249",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0aacb2c7-d056-4e4b-9c20-366e705ca31c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-05-13T09:50:06Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVITLPRZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:11.750000+00:00",
+        "sequence_number": 127479
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVMNHPRZ0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "Manhattan",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM HDMI/USB 4X1 DUAL-MONITO",
+            "ProductDescription": "Manhattan 153539 przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM HDMI/USB 4X1 DUAL-MONITO",
+            "ProductDescription": "Manhattan HDMI KVM Switch 4-Port, 4K@30Hz, USB-A/3.5mm Audio/Mic Connections, Cables included, Audio Support, Control 4x computers from one pc/mouse/screen, USB Powered, Black, Three Year Warranty, Boxed"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MANHATTAN PRZEŁĄCZNIK KVM HDMI/USB 4X1 DUAL-MONITO",
+            "ProductDescription": "Manhattan 153539 Tastatur/Video/Maus (KVM)-Switch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "766623153539"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "153539",
+        "Weight": 2450.0,
+        "Height": 160.0,
+        "Width": 245.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070250",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d25da1cd-eeec-4118-ae65-7f70482785ec",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-03-31T12:12:05Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVMNHPRZ0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:11.750000+00:00",
+        "sequence_number": 127480
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPKL0029",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przełącznik CL5716M KVM LCD17\" typu Slideaway",
+            "ProductDescription": "ATEN CL5716M konsola rackowa 43,2 cm (17\") 1280 x 1024 px Metal, Plastik Czarny 1U"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przełącznik CL5716M KVM LCD17\" typu Slideaway",
+            "ProductDescription": "ATEN 16-Port 17\" LCD KVM Switch (USB - PS/2 VGA) with USB Peripheral port"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przełącznik CL5716M KVM LCD17\" typu Slideaway",
+            "ProductDescription": "ATEN 16-Port PS/2-USB VGA Single Rail LCD KVM Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264642456"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL5716M",
+        "Weight": 19350.0,
+        "Height": 680.0,
+        "Width": 720.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54131
+              },
+              {
+                "CategoryId": 53379
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072104",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e066660a-f39c-4a40-a916-e15509ad0115",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-12-07T13:32:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPKL0029'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:10.892000+00:00",
+        "sequence_number": 142468
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPRM0112",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KVM 8/1 port Cat 5 Altusen KH-1508Ai",
+            "ProductDescription": "ATEN KH1508AI-AX-G przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KVM 8/1 port Cat 5 Altusen KH-1508Ai",
+            "ProductDescription": "ATEN 8-Port CAT5e/6 KVM Over IP Switch"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KVM 8/1 port Cat 5 Altusen KH-1508Ai",
+            "ProductDescription": "ATEN 1-Local/Remote Share Access 8-Port Multi-Interface Cat 5 KVM over IP Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423777439"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KH-1508Ai",
+        "Weight": 3827.0,
+        "Height": 130.0,
+        "Width": 545.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072105",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3f645a22-c1f6-4b73-9220-adcfe6b2f690",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-12-21T15:36:20Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPRM0112'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:10.892000+00:00",
+        "sequence_number": 142469
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGSMN",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "UNITEK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Unitek Przełącznik KVM 8K@60Hz USB 3.0 5Gbps DP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Unitek Przełącznik KVM 8K@60Hz USB 3.0 5Gbps DP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Unitek Przełącznik KVM 8K@60Hz USB 3.0 5Gbps DP",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894160057174"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "54368",
+        "Weight": 1667.0,
+        "Height": 320.0,
+        "Width": 155.0,
+        "Depth": 158.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53378
+              },
+              {
+                "CategoryId": 54130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093948",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6d492b0e-423b-49a6-97dc-72fb16c3c72f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-04T11:41:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGSMN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:40.030000+00:00",
+        "sequence_number": 171894
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFRCD",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "UNITEK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "UNITEK PRZEŁĄCZNIK KVM 4K HDMI 2.0 4IN 1OUT",
+            "ProductDescription": "UNITEK V306A przełącznik KVM Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "UNITEK PRZEŁĄCZNIK KVM 4K HDMI 2.0 4IN 1OUT",
+            "ProductDescription": "UNITEK V306A KVM switch Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "UNITEK PRZEŁĄCZNIK KVM 4K HDMI 2.0 4IN 1OUT",
+            "ProductDescription": "UNITEK V306A Tastatur/Video/Maus (KVM)-Switch Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894160048318"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85444210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "V306A",
+        "Weight": 846.0,
+        "Height": 71.0,
+        "Width": 121.0,
+        "Depth": 283.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.44.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075220",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "93da4a8e-32aa-420b-9e9b-98ff7d809c87",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-10T13:50:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFRCD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:27.927000+00:00",
+        "sequence_number": 143353
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPRM0125",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KVM 4/1 CS-1764A USB DVI CS-1764A",
+            "ProductDescription": "ATEN CS1764A-AT-G przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KVM 4/1 CS-1764A USB DVI CS-1764A",
+            "ProductDescription": "ATEN 4-Port USB DVI KVM Switch with Audio & USB 2.0 Hub (KVM Cables included)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KVM 4/1 CS-1764A USB DVI CS-1764A",
+            "ProductDescription": "ATEN 4-Port USB DVI/Audio KVMP™ Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423776449"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS-1764A",
+        "Weight": 2985.0,
+        "Height": 215.0,
+        "Width": 330.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088420",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "31a6cbfc-e01f-4ecc-9b2a-c18f9bf63cd6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-08-28T14:32:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPRM0125'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:43.617000+00:00",
+        "sequence_number": 158409
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0025",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA LCD 19\" CL1000N-ATA-AG",
+            "ProductDescription": "ATEN CL1000N konsola rackowa 48,3 cm (19\") Czarny 1U"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA LCD 19\" CL1000N-ATA-AG",
+            "ProductDescription": "ATEN 19\" LCD Console (USB - PS/2 VGA)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA LCD 19\" CL1000N-ATA-AG",
+            "ProductDescription": "ATEN Single Rail LCD Konsole (PS/2-USB, VGA)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264642463"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL1000N-ATA-AG",
+        "Weight": 12000.0,
+        "Height": 44.0,
+        "Width": 483.0,
+        "Depth": 585.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53379
+              },
+              {
+                "CategoryId": 54131
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061520",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ec6c1151-dbe7-4847-9659-046dbe3daab5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-13T10:18:19Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:21.385000+00:00",
+        "sequence_number": 129832
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVATELCD0027",
+        "ProductVersion": "1.4",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3116NX-ATA-AG 16 PORTOWA",
+            "ProductDescription": "ATEN CL3116 konsola rackowa 47 cm (18.5\") 1366 x 768 px Metal, Plastik Czarny 1U"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3116NX-ATA-AG 16 PORTOWA",
+            "ProductDescription": "ATEN 16P Short Depth Single Rail LCD KVM SW"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KONSOLA LCD 18.5\" CL3116NX-ATA-AG 16 PORTOWA",
+            "ProductDescription": "ATEN 16-Port PS/2-USB VGA Single Rail WideScreen LCD KVM Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4719264648984"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL3116NX-ATA-AG",
+        "Weight": 11000.0,
+        "Height": 44.0,
+        "Width": 480.0,
+        "Depth": 631.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.17.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53379
+              },
+              {
+                "CategoryId": 54131
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061521",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "988d7263-05d6-403d-a106-209550d65c91",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-13T10:20:01Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVATELCD0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:21.385000+00:00",
+        "sequence_number": 129833
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGGZP",
+        "ProductVersion": "1.1",
+        "ProductType": "Przełączniki",
+        "Brand": "TECHly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Techly IDATA-HDMI-22BI2",
+            "ProductDescription": "Techly IDATA-HDMI-22BI2"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Techly IDATA-HDMI-22BI2",
+            "ProductDescription": "Techly IDATA-HDMI-22BI2"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Techly IDATA-HDMI-22BI2",
+            "ProductDescription": "Techly IDATA-HDMI-22BI2"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8051128108606"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85444210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "108606",
+        "Weight": 88.0,
+        "Height": 65.0,
+        "Width": 84.0,
+        "Depth": 36.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.44.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067384",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "13757a55-0ea1-45dd-bcf8-a0bd576fd511",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-17T16:13:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGGZP'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:08.844000+00:00",
+        "sequence_number": 103270
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SEWATEPRM0095",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "ATEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATEN KVM 2/1 CS-1762A USB DVI CS-1762A",
+            "ProductDescription": "ATEN CS1762A-AT-G przełącznik KVM Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATEN KVM 2/1 CS-1762A USB DVI CS-1762A",
+            "ProductDescription": "ATEN 2-Port USB DVI KVM Switch with Audio & USB 2.0 Hub (KVM Cables included)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATEN KVM 2/1 CS-1762A USB DVI CS-1762A",
+            "ProductDescription": "ATEN 2-Port USB DVI/Audio KVMP™ Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710423776821"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS-1762A",
+        "Weight": 1943.0,
+        "Height": 100.0,
+        "Width": 285.0,
+        "Depth": 175.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049124",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6f8fc533-6f24-4ed7-9bea-e122638b9b71",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2011-05-10T12:53:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SEWATEPRM0095'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:39.550000+00:00",
+        "sequence_number": 116736
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KVVUTKPRZ0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Przełączniki",
+        "Brand": "UNITEK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "UNITEK PRZEŁĄCZNIK KVM 4K HUB USB 11 PORTÓW",
+            "ProductDescription": "UNITEK D1077A przełącznik KVM"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "UNITEK PRZEŁĄCZNIK KVM 4K HUB USB 11 PORTÓW",
+            "ProductDescription": "UNITEK D1077A KVM switch"
+          },
+          {
+            "Language": "de",
+            "ProductName": "UNITEK PRZEŁĄCZNIK KVM 4K HUB USB 11 PORTÓW",
+            "ProductDescription": "UNITEK D1077A Tastatur/Video/Maus (KVM)-Switch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894160047847"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85444210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "D1077A",
+        "Weight": 352.0,
+        "Height": 51.0,
+        "Width": 121.0,
+        "Depth": 203.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.44.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54758
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54130
+              },
+              {
+                "CategoryId": 53378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087933",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2e36fb11-c305-4af8-b397-0a8f79902dce",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-25T15:22:22Z'",
+          "ModificationDate": "b'2025-09-30T13:40:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KVVUTKPRZ0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:12.031000+00:00",
+        "sequence_number": 161291
+      }
+    }
+  ]
+}

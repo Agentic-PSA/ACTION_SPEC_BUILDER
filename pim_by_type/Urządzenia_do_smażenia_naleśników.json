@@ -1,0 +1,521 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDELDNAL0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia do smażenia naleśników",
+        "Brand": "ELDOM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ELDOM NALEŚNIKARKA ELEKTRYCZNA ŚR-30CM IK4000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ELDOM NALEŚNIKARKA ELEKTRYCZNA ŚR-30CM IK4000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ELDOM NALEŚNIKARKA ELEKTRYCZNA ŚR-30CM IK4000",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IK4000",
+        "Weight": 170.0,
+        "Height": 117.0,
+        "Width": 363.0,
+        "Depth": 345.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52337
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088802",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8905cd54-22e5-4bb0-9e5f-6d6ee37b5a9f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-09T13:18:09Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELDNAL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:21.500000+00:00",
+        "sequence_number": 161670
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSEVNAL0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia do smażenia naleśników",
+        "Brand": "SEV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEVERIN NALEŚNIKARKA, ŚRED. 30 CM, 1000W CM2198",
+            "ProductDescription": "Severin CM 2198 urządzenie do smażenia naleśników 1 naleś. 1000 W Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEVERIN NALEŚNIKARKA, ŚRED. 30 CM, 1000W CM2198",
+            "ProductDescription": "Severin CM 2198 crepe maker 1 crepe(s) 1000 W Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEVERIN NALEŚNIKARKA, ŚRED. 30 CM, 1000W CM2198",
+            "ProductDescription": "Severin CM 2198 Crepes-Maschine 1 Crepe(s) 1000 W Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4008146219801"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CM 2198",
+        "Weight": 1926.0,
+        "Height": 112.0,
+        "Width": 400.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52337
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059301",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8e6fdf06-509b-43b3-ab43-dbd8596c9577",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-12T15:03:20Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSEVNAL0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:54.859000+00:00",
+        "sequence_number": 135115
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSEVNAL0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia do smażenia naleśników",
+        "Brand": "SEV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SEVERIN NALEŚNIKARKA, KOL. CZARNY, 1500W CM2199",
+            "ProductDescription": "Severin CM 2199 urządzenie do smażenia naleśników 1 naleś. Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SEVERIN NALEŚNIKARKA, KOL. CZARNY, 1500W CM2199",
+            "ProductDescription": "Severin CM 2199 crepe maker 1 crepe(s) Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SEVERIN NALEŚNIKARKA, KOL. CZARNY, 1500W CM2199",
+            "ProductDescription": "Severin CM 2199 Crepes-Maschine 1 Crepe(s) Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4008146036545"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CM 2199",
+        "Weight": 3567.0,
+        "Height": 165.0,
+        "Width": 455.0,
+        "Depth": 430.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52337
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077964",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "89df42b3-7d2a-4d50-a441-072a3b5b69f4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-12T15:04:08Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSEVNAL0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:24.241000+00:00",
+        "sequence_number": 153394
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASUX",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia do smażenia naleśników",
+        "Brand": "teesa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Naleśnikarka Teesa, 30cm, 1200W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Naleśnikarka Teesa, 30cm, 1200W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Naleśnikarka Teesa, 30cm, 1200W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890098458"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TSA3235",
+        "Weight": 1400.0,
+        "Height": 85.0,
+        "Width": 330.0,
+        "Depth": 350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52337
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038158",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d72a5a27-f563-43e4-929b-8a79bedb0325",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-30T13:47:27Z'",
+          "ModificationDate": "b'2025-06-04T12:16:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASUX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:06.620000+00:00",
+        "sequence_number": 162461
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDHNCNAL0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Urządzenia do smażenia naleśników",
+        "Brand": "HEINRICH'S",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Naleśnikarka HEINRICH\"S HCM 8682",
+            "ProductDescription": "Naleśnikarka Heinrich's HCM 8682"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Naleśnikarka HEINRICH\"S HCM 8682",
+            "ProductDescription": "Heinrich's HCM 8682 pancake machine"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Naleśnikarka HEINRICH\"S HCM 8682",
+            "ProductDescription": "Heinrichs Pfannkuchenmaschine HCM 8682"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260707281249"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HCM 8682",
+        "Weight": 1900.0,
+        "Height": 360.0,
+        "Width": 120.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52337
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073899",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "63e2e8d7-5355-46e8-863a-bbcf21660683",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-14T10:49:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDHNCNAL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:33.772000+00:00",
+        "sequence_number": 145447
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCAPC",
+        "ProductVersion": "1.2",
+        "ProductType": "Urządzenia do smażenia naleśników",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Adler AD 3058 urządzenie do smażenia naleśników",
+            "ProductDescription": "Adler AD 3058 urządzenie do smażenia naleśników 1 naleś. 1600 W Czarny, Stal nierdzewna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Adler AD 3058 urządzenie do smażenia naleśników",
+            "ProductDescription": "Adler AD 3058 crepe maker 1 crepe(s) 1600 W Black, Stainless steel"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Adler AD 3058 urządzenie do smażenia naleśników",
+            "ProductDescription": "Adler AD 3058 Crepes-Maschine 1 Crepe(s) 1600 W Schwarz, Edelstahl"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887807043"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 3058",
+        "Weight": 2125.0,
+        "Height": 365.0,
+        "Width": 335.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52337
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042400",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c82557f1-eb46-4162-9bb8-88d798124488",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-22T10:49:44Z'",
+          "ModificationDate": "b'2025-06-04T12:19:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCAPC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:33.809000+00:00",
+        "sequence_number": 159553
+      }
+    }
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "ZASFIDAKC0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Szyny i montaże",
+        "Brand": "FID",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RACK KIT DLA KR-J",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RACK KIT DLA KR-J",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "RACK KIT DLA KR-J",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907524093783"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RACK MOUNT KIT",
+        "Weight": 3420.0,
+        "Height": 70.0,
+        "Width": 710.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55297
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54583
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064671",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9671f7e5-9efb-4643-aa19-13acb991f6ec",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-04-10T09:50:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZASFIDAKC0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:29.699000+00:00",
+        "sequence_number": 130244
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OIATHLSZY0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Szyny i montaże",
+        "Brand": "TECHly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TECHLY SZYNY TELESKOPOWE 500MM DO OBUDOWY PC ATX R",
+            "ProductDescription": "Techly I-CASE STF-P4HX części do stojaków"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TECHLY SZYNY TELESKOPOWE 500MM DO OBUDOWY PC ATX R",
+            "ProductDescription": "Techly Pair of 500mm Telescopic Slide for Rack Chassis I-CASE STF-P4HX"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TECHLY SZYNY TELESKOPOWE 500MM DO OBUDOWY PC ATX R",
+            "ProductDescription": "Techly I-CASE STF-P4HX Rack Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8057685303980"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84733080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "303980",
+        "Weight": 2000.0,
+        "Height": 65.0,
+        "Width": 75.0,
+        "Depth": 550.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54739
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53386
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065884",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c9436e8-3fd0-4af3-8fac-109e31771204",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-15T12:32:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OIATHLSZY0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:42.921000+00:00",
+        "sequence_number": 164248
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OIAASUSZY0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Szyny i montaże",
+        "Brand": "ASUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ASUS 2U FULL EXTENSION RAIL KIT//C4P-B SLIDE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ASUS 2U FULL EXTENSION RAIL KIT//C4P-B SLIDE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ASUS 2U FULL EXTENSION RAIL KIT//C4P-B SLIDE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4711081385837"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84733080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "90SK0000-MM9AN0",
+        "Weight": 6330.0,
+        "Height": 970.0,
+        "Width": 140.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53386
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54739
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071726",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ea36ecb8-7e5d-4b44-8ef8-1739e4f4b904",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-11-15T15:08:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OIAASUSZY0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:37.122000+00:00",
+        "sequence_number": 130606
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIW9",
+        "ProductVersion": "1.2",
+        "ProductType": "Szyny i montaże",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER RACK KIT DLA SERII VI/VFI RT LCD",
+            "ProductDescription": "PowerWalker RK1 Zestaw do montażu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER RACK KIT DLA SERII VI/VFI RT LCD",
+            "ProductDescription": "PowerWalker Rack Kit for 1-3KVA 19\" UPS"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER RACK KIT DLA SERII VI/VFI RT LCD",
+            "ProductDescription": "PowerWalker RK1 Montageset"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074974584"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84733080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10120529",
+        "Weight": 1724.0,
+        "Height": 516.0,
+        "Width": 121.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.40.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54583
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55297
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051383",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ddf19269-6f14-4c51-b6d0-f7814cdec7b2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-14T12:49:34Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIW9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.996000+00:00",
+        "sequence_number": 138697
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIWJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Szyny i montaże",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER RACK KIT DLA SERII VFI RM/R LCD",
+            "ProductDescription": "PowerWalker RK3"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER RACK KIT DLA SERII VFI RM/R LCD",
+            "ProductDescription": "PowerWalker RK3"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER RACK KIT DLA SERII VFI RM/R LCD",
+            "ProductDescription": "PowerWalker RK3"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074974218"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84733080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10120507",
+        "Weight": 1628.0,
+        "Height": 98.0,
+        "Width": 507.0,
+        "Depth": 74.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.40.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54583
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55297
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036478",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "297a0dc4-6b12-4fea-b58a-698bf301a5dc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-23T15:13:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIWJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:16.028000+00:00",
+        "sequence_number": 111493
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAMNH",
+        "ProductVersion": "1.2",
+        "ProductType": "Szyny i montaże",
+        "Brand": "Intel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rail set for Intel® 2U/4U Rack Chassis and System",
+            "ProductDescription": "Intel AXXELVRAIL części do stojaków"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rail set for Intel® 2U/4U Rack Chassis and System",
+            "ProductDescription": "Intel AXXELVRAIL rack accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rail set for Intel® 2U/4U Rack Chassis and System",
+            "ProductDescription": "Intel AXXELVRAIL Rack Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5032037038980"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84733080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AXXELVRAIL 920970",
+        "Weight": 1964.0,
+        "Height": 85.0,
+        "Width": 405.0,
+        "Depth": 820.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53386
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54739
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037146",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c07cad6-ec25-46a1-8b9b-91c891a31bd6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-09T18:59:46Z'",
+          "ModificationDate": "b'2025-06-04T12:16:03Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAMNH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:32.085000+00:00",
+        "sequence_number": 114216
+      }
+    }
+  ]
+}

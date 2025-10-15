@@ -1,0 +1,526 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDLI-BOJ0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Bojlery",
+        "Brand": "LIN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bojler elektryczny LIN LIFUP1WH 10L biały",
+            "ProductDescription": "LIN LIFUP1WH Bojler elektryczny podłączany od góry 10 L Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bojler elektryczny LIN LIFUP1WH 10L biały",
+            "ProductDescription": "LIN LIFUP1WH Top-connected electric boiler 10 L White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bojler elektryczny LIN LIFUP1WH 10L biały",
+            "ProductDescription": "LIN LIFUP1WH Oben angeschlossener Elektroboiler 10 L Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907100671008"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85161080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LIFUP1WH",
+        "Weight": 8840.0,
+        "Height": 400.0,
+        "Width": 380.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56671
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047462",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "35c44db0-b148-4fe0-a364-faa3d9fbd20e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-07T13:29:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLI-BOJ0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:13.149000+00:00",
+        "sequence_number": 134220
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLI-BOJ0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Bojlery",
+        "Brand": "LIN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bojler elektryczny LIN LIFUP1GY 10L szary",
+            "ProductDescription": "LIN LIFUP1GY Bojler elektryczny podłączany od góry 10 L Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bojler elektryczny LIN LIFUP1GY 10L szary",
+            "ProductDescription": "LIN LIFUP1GY Top-connected electric boiler 10 L Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bojler elektryczny LIN LIFUP1GY 10L szary",
+            "ProductDescription": "LIN LIFUP1GY Oben angeschlossener Elektroboiler 10 L Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907100671022"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85161080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LIFUP1GY",
+        "Weight": 8690.0,
+        "Height": 405.0,
+        "Width": 395.0,
+        "Depth": 390.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56671
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053187",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "78f47822-2a06-4593-9064-54425da311b0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-07T13:33:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLI-BOJ0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:48.295000+00:00",
+        "sequence_number": 134773
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLI-BOJ0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Bojlery",
+        "Brand": "LIN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bojler elektryczny LIN LIFDN2WH 10L biały",
+            "ProductDescription": "LIN LIFDN2WH Bojler elektryczny podłączany od dołu 10 L Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bojler elektryczny LIN LIFDN2WH 10L biały",
+            "ProductDescription": "LIN LIFDN2WH Bottom-connected electric boiler 10 L White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bojler elektryczny LIN LIFDN2WH 10L biały",
+            "ProductDescription": "LIN LIFDN2WH Elektroboiler mit Bodenanschluss 10 L Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907100671015"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85161080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LIFDN2WH",
+        "Weight": 8660.0,
+        "Height": 405.0,
+        "Width": 395.0,
+        "Depth": 390.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56671
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077876",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ebcee3ea-2c41-4a62-b887-b9cd57146ebb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-07T13:30:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLI-BOJ0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:14.267000+00:00",
+        "sequence_number": 136117
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLI-BOJ0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Bojlery",
+        "Brand": "LIN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bojler elektryczny LIN LIFDN2GY 10L szary",
+            "ProductDescription": "LIN LIFDN2GY Bojler elektryczny podłączany od dołu 10 L Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bojler elektryczny LIN LIFDN2GY 10L szary",
+            "ProductDescription": "LIN LIFDN2GY Bottom-connected electric boiler 10 L Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bojler elektryczny LIN LIFDN2GY 10L szary",
+            "ProductDescription": "LIN LIFDN2GY Elektroboiler mit Bodenanschluss 10 L Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907100671039"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85161080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LIFDN2GY",
+        "Weight": 8600.0,
+        "Height": 395.0,
+        "Width": 390.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56671
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077877",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "76c1d228-a132-4055-9c21-d5c96882c4fa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-07T13:35:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLI-BOJ0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:23.320000+00:00",
+        "sequence_number": 153347
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLI-BOJ0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Bojlery",
+        "Brand": "LIN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bojler elektryczny LIN LIFVD2 80L szary z WI-FI",
+            "ProductDescription": "Bojler elektryczny LIN LIFVD2 80 l Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bojler elektryczny LIN LIFVD2 80L szary z WI-FI",
+            "ProductDescription": "LIN LIFVD2 80 l electric boiler Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bojler elektryczny LIN LIFVD2 80L szary z WI-FI",
+            "ProductDescription": "LIN LIFVD2 80 l Elektroboiler Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905090824640"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85161080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LIFVD2 80L szary z WI-FI",
+        "Weight": 32000.0,
+        "Height": 640.0,
+        "Width": 1020.0,
+        "Depth": 370.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56671
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054230",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f4d29ddd-641a-4dae-9df0-222de6be927f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-29T11:48:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLI-BOJ0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:53.796000+00:00",
+        "sequence_number": 139958
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDLI-BOJ0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Bojlery",
+        "Brand": "LIN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bojler elektryczny LIN LIFVD2 80L biały z WI-FI",
+            "ProductDescription": "Bojler elektryczny LIN LIFVD2 80 l Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bojler elektryczny LIN LIFVD2 80L biały z WI-FI",
+            "ProductDescription": "LIN LIFVD2 80 l electric boiler White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bojler elektryczny LIN LIFVD2 80L biały z WI-FI",
+            "ProductDescription": "LIN LIFVD2 80 l Elektroboiler Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905090824633"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85161080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LIFVD2 80L biały z WI-FI",
+        "Weight": 32000.0,
+        "Height": 645.0,
+        "Width": 1025.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56671
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073920",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "60a58c9a-73f3-4253-a772-818751cdbc79",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-29T11:50:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDLI-BOJ0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:34.647000+00:00",
+        "sequence_number": 145468
+      }
+    }
+  ]
+}

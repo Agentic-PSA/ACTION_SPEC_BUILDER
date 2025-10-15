@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WSETM2NAK0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Nakładki na kierownicę",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka Rak na kule i laski",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka Rak na kule i laski",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka Rak na kule i laski",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983726784"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90211010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 95.0,
+        "Height": 60.0,
+        "Width": 60.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53800
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100030767",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e8250127-bc29-4bd9-97fd-db9535863018",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-27T11:14:43Z'",
+          "ModificationDate": "b'2025-06-04T12:12:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WSETM2NAK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:41.542000+00:00",
+        "sequence_number": 140975
+      }
+    }
+  ]
+}

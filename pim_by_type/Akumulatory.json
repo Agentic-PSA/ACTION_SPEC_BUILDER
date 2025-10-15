@@ -1,0 +1,719 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJHL7",
+        "ProductVersion": "1.0",
+        "ProductType": "akumulatory",
+        "Brand": "dreame",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bat. do odkurzacza Dreame F9/D9 PRO, 14.4V 5200mAh",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bat. do odkurzacza Dreame F9/D9 PRO, 14.4V 5200mAh",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bat. do odkurzacza Dreame F9/D9 PRO, 14.4V 5200mAh",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907207222912"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.22912",
+        "Weight": 560.0,
+        "Height": 155.0,
+        "Width": 55.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52398
+              },
+              {
+                "CategoryId": 53203
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54884
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156448",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3fe36423-24b6-41bb-ba22-35887354c659",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T10:13:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJHL7'"
+        },
+        "enqueued_time_utc": "2025-10-06 14:36:21.108000+00:00",
+        "sequence_number": 173865
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4555",
+        "ProductVersion": "1.2",
+        "ProductType": "akumulatory",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Xiaomi Mi Vacuum Cleaner G10/G9 akumulator",
+            "ProductDescription": "Akumulator XIAOMI BHR4774GL do Xiaomi Mi Vacuum Cleaner G10/G9 3000 mAh Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Xiaomi Mi Vacuum Cleaner G10/G9 akumulator",
+            "ProductDescription": "Xiaomi batteri"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Xiaomi Mi Vacuum Cleaner G10/G9 akumulator",
+            "ProductDescription": "Xiaomi BHR4774GL Staubsauger Zubehör/Zusatz Stabstaubsauger Akku (30431)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6934177726415"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BHR4774GL",
+        "Weight": 730.0,
+        "Height": 235.0,
+        "Width": 60.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53203
+              },
+              {
+                "CategoryId": 52398
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54884
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033812",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ead5f5c7-46d6-4842-8965-d2ec5c3d0459",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-22T14:52:26Z'",
+          "ModificationDate": "b'2025-06-04T12:14:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4555'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:41.706000+00:00",
+        "sequence_number": 105686
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4561",
+        "ProductVersion": "1.3",
+        "ProductType": "akumulatory",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator do odkurzacza Xiaomi G10 Plus",
+            "ProductDescription": "Xiaomi BHR6460CN akcesorium/materiał eksploatacyjny do odkurzacza Ręczny odkurzacz Bateria"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator do odkurzacza Xiaomi G10 Plus",
+            "ProductDescription": "Xiaomi Vacuum Cleaner G10 Plus Battery Pack"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator do odkurzacza Xiaomi G10 Plus",
+            "ProductDescription": "Staubsauger Xiaomi Staubsauger G10 Plus Akku (BHR6460CN)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6934177795176"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BHR6460CN",
+        "Weight": 780.0,
+        "Height": 60.0,
+        "Width": 105.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53203
+              },
+              {
+                "CategoryId": 52398
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54884
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033818",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "40771d68-f6f5-47e5-b442-77f687940f20",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-29T14:57:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4561'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:41.706000+00:00",
+        "sequence_number": 105692
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGATEFODA0001",
+        "ProductVersion": "1.1",
+        "ProductType": "akumulatory",
+        "Brand": "Tefal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akumulator do odkurz. X-Force Flex TEFAL ZR009705",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akumulator do odkurz. X-Force Flex TEFAL ZR009705",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akumulator do odkurz. X-Force Flex TEFAL ZR009705",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3221616057944"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ZR009705",
+        "Weight": 550.0,
+        "Height": 170.0,
+        "Width": 110.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53203
+              },
+              {
+                "CategoryId": 52398
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54884
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078735",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "102f596c-fadc-41fa-b360-6547af3f6531",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-23T12:11:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGATEFODA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:23.440000+00:00",
+        "sequence_number": 104014
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGAPTOODA0010",
+        "ProductVersion": "1.1",
+        "ProductType": "akumulatory",
+        "Brand": "PATONA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zes. Patona 6 akc. Dyson V6 V7 V8 V10 V11 SV10 SV11",
+            "ProductDescription": "Zestaw Patona 6 akcesoriów do Dyson V6"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zes. Patona 6 akc. Dyson V6 V7 V8 V10 V11 SV10 SV11",
+            "ProductDescription": "Paton set of 6 accessories for Dyson V6"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zes. Patona 6 akc. Dyson V6 V7 V8 V10 V11 SV10 SV11",
+            "ProductDescription": "Paton Satz mit 6 Zubehörteilen für Dyson V6"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4055655211604"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85078000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 545.0,
+        "Height": 120.0,
+        "Width": 283.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53203
+              },
+              {
+                "CategoryId": 52398
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54884
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100105216",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw Patona 6 akcesoriów do Dyson V6 V7 V8 V10 V11 SV10 SV11"
+      },
+      "properties": {
+        "message_id": "4f166592-fbed-4fe4-b7ff-424cd2b57b9e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-01-26T13:37:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGAPTOODA0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:10.781000+00:00",
+        "sequence_number": 155640
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDFMH",
+        "ProductVersion": "1.3",
+        "ProductType": "akumulatory",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria Xiaomi Mi Robot Vacuum Mop H18650CH-4S1P",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria Xiaomi Mi Robot Vacuum Mop H18650CH-4S1P",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria Xiaomi Mi Robot Vacuum Mop H18650CH-4S1P",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906168630637"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85078000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "H18650CH-4S1P",
+        "Weight": 210.0,
+        "Height": 55.0,
+        "Width": 110.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53203
+              },
+              {
+                "CategoryId": 52398
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54884
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045177",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "88abc409-65d4-4525-970b-10f9f3f51163",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-12T13:14:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDFMH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:12.793000+00:00",
+        "sequence_number": 162765
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGPF8",
+        "ProductVersion": "1.2",
+        "ProductType": "akumulatory",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria, akumulator Roidmi Eve/H30 H18650CH-4S2P",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria, akumulator Roidmi Eve/H30 H18650CH-4S2P",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria, akumulator Roidmi Eve/H30 H18650CH-4S2P",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906168630644"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85078000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "H18650CH-4S2P",
+        "Weight": 406.0,
+        "Height": 59.0,
+        "Width": 58.0,
+        "Depth": 157.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53203
+              },
+              {
+                "CategoryId": 52398
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54884
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055646",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c374bec6-c0ba-48d2-a403-1c2f14df874f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-17T14:49:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGPF8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:16.493000+00:00",
+        "sequence_number": 129563
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJHNO",
+        "ProductVersion": "1.1",
+        "ProductType": "akumulatory",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria, akumulator do odkurzacza Dyson V12, 25.2V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria, akumulator do odkurzacza Dyson V12, 25.2V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria, akumulator do odkurzacza Dyson V12, 25.2V",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.23001",
+        "Weight": 560.0,
+        "Height": 175.0,
+        "Width": 110.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53203
+              },
+              {
+                "CategoryId": 52398
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54884
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090892",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "82a4562d-8c18-435b-b85c-c48affd00620",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-17T16:52:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJHNO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:55.280000+00:00",
+        "sequence_number": 131553
+      }
+    }
+  ]
+}

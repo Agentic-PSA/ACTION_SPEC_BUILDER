@@ -1,0 +1,3064 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SZAEATPOL0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "EATON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka TRIPP LITE Gł.66cm do 113kg SRSHELF4PHDTM",
+            "ProductDescription": "Tripp Lite SRSHELF4PHDTM części do stojaków"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka TRIPP LITE Gł.66cm do 113kg SRSHELF4PHDTM",
+            "ProductDescription": "Tripp Lite SRSHELF4PHDTM SmartRack Fixed Heavy-Duty Toolless Mount Shelf (250 lbs / 113.4 kgs capacity; 26 in./660 mm Deep)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka TRIPP LITE Gł.66cm do 113kg SRSHELF4PHDTM",
+            "ProductDescription": "Tripp Lite SRSHELF4PHDTM Rack Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "037332184054"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SRSHELF4PHDTM",
+        "Weight": 7800.0,
+        "Height": 60.0,
+        "Width": 735.0,
+        "Depth": 530.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052137",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Półka TRIPP LITE Gł.66cm do 113kg SRSHELF4PHDTM"
+      },
+      "properties": {
+        "message_id": "9ab2fcd2-5a63-4596-8b4f-cc04ae670854",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-10T16:14:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZAEATPOL0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:51.461000+00:00",
+        "sequence_number": 117327
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZALAEPOL0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Lanberg",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 19'' 1000MM 1U CZARNA",
+            "ProductDescription": "Lanberg AK-1009-B części do stojaków Półka do stojaka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 19'' 1000MM 1U CZARNA",
+            "ProductDescription": "Lanberg AK-1009-B rack accessory Rack shelf"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 19'' 1000MM 1U CZARNA",
+            "ProductDescription": "Lanberg AK-1009-B Rack Zubehör Regalboden"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901969406405"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-1009-B",
+        "Weight": 2133.0,
+        "Height": 20.0,
+        "Width": 730.0,
+        "Depth": 410.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091447",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fe40ffb4-6c04-45c6-9033-5ee64c639a7f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-10-04T11:51:11Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZALAEPOL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:19.305000+00:00",
+        "sequence_number": 134596
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREBUS",
+        "ProductVersion": "1.3",
+        "ProductType": "Półki",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka wysuwana 420x400 do szaf RACK 19 cali RAPW600",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka wysuwana 420x400 do szaf RACK 19 cali RAPW600",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka wysuwana 420x400 do szaf RACK 19 cali RAPW600",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901643194666"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "18328",
+        "Weight": 4100.0,
+        "Height": 60.0,
+        "Width": 480.0,
+        "Depth": 510.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046357",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a9eb5efe-1b43-4b2f-87ca-be2a583b72a3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-06T07:17:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREBUS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:07.264000+00:00",
+        "sequence_number": 149029
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATI5",
+        "ProductVersion": "1.3",
+        "ProductType": "Półki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka regulowana 19\", 1U, nośność 100kg",
+            "ProductDescription": "Digitus TN-19-5/9-1U-W-BK części do stojaków Półka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka regulowana 19\", 1U, nośność 100kg",
+            "ProductDescription": "Adjustable shelf 19\", 1U, depth 500-900 mm, load capacity 100kg, mounting in 4 points, black, screws in set."
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka regulowana 19\", 1U, nośność 100kg",
+            "ProductDescription": "Verstellbares Regal 19\", 1HE, Tiefe 500-900 mm, Tragkraft 100kg, Montage in 4 Punkten, schwarz, Schrauben im Set."
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907772593264"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TN-19-5/9-1U-W-BK",
+        "Weight": 7290.0,
+        "Height": 575.0,
+        "Width": 495.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038347",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f328ab6c-a358-44cd-8fe2-0fbccd6a04a6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-27T16:38:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATI5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:06.910000+00:00",
+        "sequence_number": 120041
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIETRIPOL0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PÓŁKA 19\" 1U/750mm, max.ład.80kg RAC-UP-750-A4",
+            "ProductDescription": "Triton półka perforowana 19\" 1U/750mm max. ład. 80kg RAC-UP-750-A4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PÓŁKA 19\" 1U/750mm, max.ład.80kg RAC-UP-750-A4",
+            "ProductDescription": "Triton perforated shelf 19\" 1U/750mm max. load 80kg RAC-UP-750-A4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PÓŁKA 19\" 1U/750mm, max.ład.80kg RAC-UP-750-A4",
+            "ProductDescription": "Triton perforiertes Regal 19\" 1U/750mm max. Belastung 80kg RAC-UP-750-A4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105074756"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-750-A4",
+        "Weight": 3464.0,
+        "Height": 65.0,
+        "Width": 780.0,
+        "Depth": 465.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049007",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "df3a1224-3712-4a59-9d9c-294be43d3460",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2007-07-19T00:00:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIETRIPOL0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:12.609000+00:00",
+        "sequence_number": 149312
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIETRIPOL0032",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka 19\" 2U wys.zamykana na zamek RAC-UP-X29-A1",
+            "ProductDescription": "Triton RAC-UP-X29-A1 części do stojaków"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka 19\" 2U wys.zamykana na zamek RAC-UP-X29-A1",
+            "ProductDescription": "Triton RAC-UP-X29-A1 rack accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka 19\" 2U wys.zamykana na zamek RAC-UP-X29-A1",
+            "ProductDescription": "Triton RAC-UP-X29-A1 Rack Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105038727"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-X29-A1",
+        "Weight": 5000.0,
+        "Height": 95.0,
+        "Width": 495.0,
+        "Depth": 415.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "CZ",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056448",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0129af5d-44b5-4898-8a65-660119a8aef6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2008-10-21T10:51:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIETRIPOL0032'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:43.187000+00:00",
+        "sequence_number": 101952
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIETRIPOL0058",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PÓŁKA 19\" 1U/650mm, max.ład.150kg RAC-UP-650-H4",
+            "ProductDescription": "Triton Heavy duty shelf 650mm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PÓŁKA 19\" 1U/650mm, max.ład.150kg RAC-UP-650-H4",
+            "ProductDescription": "Triton Heavy duty shelf 650mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PÓŁKA 19\" 1U/650mm, max.ład.150kg RAC-UP-650-H4",
+            "ProductDescription": "Triton Heavy duty shelf 650mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105073988"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-650-H4",
+        "Weight": 6500.0,
+        "Height": 350.0,
+        "Width": 680.0,
+        "Depth": 460.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "CZ",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056449",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e08033fd-9979-4b2e-9e06-254e52072cb0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-05-23T10:30:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIETRIPOL0058'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:43.187000+00:00",
+        "sequence_number": 101953
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIETRIPOL0060",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PÓŁKA 19\" 1U/550mm, max.ład.45kg wysu.RAC-UP-X20-A1",
+            "ProductDescription": "Triton RAC-UP-X20-A1 części do stojaków"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PÓŁKA 19\" 1U/550mm, max.ład.45kg wysu.RAC-UP-X20-A1",
+            "ProductDescription": "Triton RAC-UP-X20-A1 rack accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PÓŁKA 19\" 1U/550mm, max.ład.45kg wysu.RAC-UP-X20-A1",
+            "ProductDescription": "Triton RAC-UP-X20-A1 Rack Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105036747"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-X20-A1",
+        "Weight": 4600.0,
+        "Height": 500.0,
+        "Width": 585.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "CZ",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056450",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d8a716ce-1cb1-4762-88d2-dc5184520281",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-08-03T14:12:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIETRIPOL0060'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:43.187000+00:00",
+        "sequence_number": 101954
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZALAEPOL0015",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Lanberg",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 10\" (1U, 254X180MM, SZARA)",
+            "ProductDescription": "LANBERG PÓŁKA DO SZAF 10\" (1U, 254X180MM, SZARA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 10\" (1U, 254X180MM, SZARA)",
+            "ProductDescription": "LANBERG SHELF FOR 10’ RACKS (1U, 254X180MM, GREY)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 10\" (1U, 254X180MM, SZARA)",
+            "ProductDescription": "LANBERG HYLLE FOR 10» RACK (1U, 254X180MM, GRA)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901969416978"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-1012-B",
+        "Weight": 515.0,
+        "Height": 55.0,
+        "Width": 265.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056697",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "14a452f4-bf75-45de-aaa7-2c1f8b26c555",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-01-31T11:50:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZALAEPOL0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:45.734000+00:00",
+        "sequence_number": 102081
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCKFO",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Lanberg",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PÓŁKA DO SZAF 19\" 1200MM CZARNA LANBERG",
+            "ProductDescription": "Lanberg AK-1013-B części do stojaków Półka do stojaka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PÓŁKA DO SZAF 19\" 1200MM CZARNA LANBERG",
+            "ProductDescription": "Lanberg - rackhylde - 1U"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PÓŁKA DO SZAF 19\" 1200MM CZARNA LANBERG",
+            "ProductDescription": "Lanberg - rackhylde - 1U"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901969424560"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-1013-B",
+        "Weight": 5312.0,
+        "Height": 910.0,
+        "Width": 490.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043307",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1ddc1bc1-ad58-4629-8879-e8b70ba10584",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-24T16:37:17Z'",
+          "ModificationDate": "b'2025-06-04T12:19:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCKFO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:42.404000+00:00",
+        "sequence_number": 159943
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIETRIPOL0057",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PÓŁKA 19\" 1U/850mm, max.ład.80kg RAC-UP-850-A4",
+            "ProductDescription": "Triton półka perforowana 19\" 1U/850mm max. ład. 80kg RAC-UP-850-A4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PÓŁKA 19\" 1U/850mm, max.ład.80kg RAC-UP-850-A4",
+            "ProductDescription": "Triton perforated shelf 19\" 1U/850mm max. load 80kg RAC-UP-850-A4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PÓŁKA 19\" 1U/850mm, max.ład.80kg RAC-UP-850-A4",
+            "ProductDescription": "Triton perforiertes Regal 19\" 1U/850mm max. Belastung 80kg RAC-UP-850-A4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105076781"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-850-A4",
+        "Weight": 4300.0,
+        "Height": 55.0,
+        "Width": 465.0,
+        "Depth": 860.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047241",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ee3c2d11-30df-4414-b331-0066f55d1e56",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-05-23T10:26:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIETRIPOL0057'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:44.793000+00:00",
+        "sequence_number": 107792
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZATRIPOL0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/650MM,MAX.ŁAD. 40KG RAC-UP-650",
+            "ProductDescription": "Triton Shelf with perforation 1U 650mm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/650MM,MAX.ŁAD. 40KG RAC-UP-650",
+            "ProductDescription": "Triton Shelf with perforation 1U 650mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/650MM,MAX.ŁAD. 40KG RAC-UP-650",
+            "ProductDescription": "Triton Shelf with perforation 1U 650mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105011089"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85381000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-650-A1",
+        "Weight": 8000.0,
+        "Height": 450.0,
+        "Width": 680.0,
+        "Depth": 450.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.40.0",
+        "CountryOfOrigin": "CZ",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048353",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "12e374f4-ffb8-4fd5-ba8f-39cf7b27e7b2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-08-17T09:46:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:16Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZATRIPOL0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:55.278000+00:00",
+        "sequence_number": 108345
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIN82",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Triton półka do szafy 19\" RAC-UP-850-H4",
+            "ProductDescription": "Triton Heavy duty shelf 850mm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Triton półka do szafy 19\" RAC-UP-850-H4",
+            "ProductDescription": "Triton perforated shelf 19\" 1U/850mm max. load 150kg RAC-UP-850-H4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Triton półka do szafy 19\" RAC-UP-850-H4",
+            "ProductDescription": "Triton perforiertes Regal 19\" 1U/850mm max. Belastung 150kg RAC-UP-850-H4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105078808"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-850-H4",
+        "Weight": 8640.0,
+        "Height": 870.0,
+        "Width": 40.0,
+        "Depth": 450.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054872",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aea63efa-5f5b-4b8e-a3d6-f754086a582d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-07T15:01:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIN82'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:59.196000+00:00",
+        "sequence_number": 117741
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATGL",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Digitus Półka 19\" 1U 350 mm szara (TN-19-350-1U-GY)",
+            "ProductDescription": "Digitus TN-19-350-1U-GY części do stojaków Półka do stojaka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Digitus Półka 19\" 1U 350 mm szara (TN-19-350-1U-GY)",
+            "ProductDescription": "Digitus TN-19-350-1U-GY rack accessory Rack shelf"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Digitus Półka 19\" 1U 350 mm szara (TN-19-350-1U-GY)",
+            "ProductDescription": "Digitus TN-19-350-1U-GY Rack Zubehör Regalboden"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907772592014"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85381000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TN-19-350-1U-GY",
+        "Weight": 2260.0,
+        "Height": 50.0,
+        "Width": 490.0,
+        "Depth": 375.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054877",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "da51cbbf-0c53-4b01-9024-96993ed1d0c3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-24T16:37:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATGL'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:59.196000+00:00",
+        "sequence_number": 117746
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAH58",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Extralink 1U 750mm Czarna | Półka | 19\"",
+            "ProductDescription": "Extralink Półka 1U 750mm Czarna 19\", 752 x 472mm, mocowana punktowo, do szaf o głębokości 1000mm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Extralink 1U 750mm Czarna | Półka | 19\"",
+            "ProductDescription": "Extralink 1U 750mm Black | Shelf | 19\", 752 x 472mm, spot mounted, for cabinets with a depth of 1000mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Extralink 1U 750mm Czarna | Półka | 19\"",
+            "ProductDescription": "Extralink 1HE 750mm Schwarz | Regal | 19\", 752 x 472mm, punktuell, für Schränke mit einer Tiefe von 1000mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902560368642"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.8642",
+        "Weight": 4100.0,
+        "Height": 40.0,
+        "Width": 490.0,
+        "Depth": 770.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036003",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fd250805-6949-4860-8fa2-e1e854b5708a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-22T13:52:36Z'",
+          "ModificationDate": "b'2025-06-04T12:15:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAH58'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:35:59.337000+00:00",
+        "sequence_number": 162122
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBLDY",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Intellinet",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Intellinet Półka  19\" 1U 150mm czarna",
+            "ProductDescription": "Intellinet 712491 części do stojaków Półka do stojaka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Intellinet Półka  19\" 1U 150mm czarna",
+            "ProductDescription": "INTELLINET Fachboden  1HE 483x150mm  bis 25kg Frontm. schw"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Intellinet Półka  19\" 1U 150mm czarna",
+            "ProductDescription": "INTELLINET Fachboden 1HE 483x150mm bis 25kg Frontm. schw"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "766623712491"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "712491",
+        "Weight": 1096.0,
+        "Height": 71.0,
+        "Width": 537.0,
+        "Depth": 189.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040633",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4d1f4681-1d1f-41c1-b0bb-833950e95acb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-22T12:11:02Z'",
+          "ModificationDate": "b'2025-06-04T12:18:03Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBLDY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:37.179000+00:00",
+        "sequence_number": 137381
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBNA9",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "ALANTEC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALANTEC PÓŁKA STAŁA 19\" 1U GŁĘB. 350 MM CZARNA",
+            "ProductDescription": "Alantec SA-P-19-1U-350-4-C-02 Półka stała 19\" 1U głębokość 350mm czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALANTEC PÓŁKA STAŁA 19\" 1U GŁĘB. 350 MM CZARNA",
+            "ProductDescription": "Alantec SA-P-19-1U-350-4-C-02 Fixed shelf 19\" 1U depth 350mm black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALANTEC PÓŁKA STAŁA 19\" 1U GŁĘB. 350 MM CZARNA",
+            "ProductDescription": "Alantec SA-P-19-1U-350-4-C-02 Festes Regal 19\" 1U Tiefe 350mm schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904204401067"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SA-P-19-1U-350-4-C-02",
+        "Weight": 1880.0,
+        "Height": 370.0,
+        "Width": 517.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040827",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9bbc0063-e5dc-473e-b3a3-ee8c80ce5dfd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-13T10:36:15Z'",
+          "ModificationDate": "b'2025-06-04T12:18:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBNA9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:39.275000+00:00",
+        "sequence_number": 137470
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCKBL",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Lanberg",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 19'' 1000MM 1U CZARNA",
+            "ProductDescription": "Lanberg AK-1010-B części do stojaków Półka do stojaka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 19'' 1000MM 1U CZARNA",
+            "ProductDescription": "LANBERG SHELF FOR 19'' CABINETS 1000MM (1U, 483 X 750MM LOAD CAPACITY UP TO 15KG, 4 POINT MOUNTING) BLACK RAL9004"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LANBERG PÓŁKA DO SZAF 19'' 1000MM 1U CZARNA",
+            "ProductDescription": "LANBERG FACH FÜR 19-ZOLL-SCHRÄNKE 1000MM (1HE, 483 X 750MM TRAGKRAFT BIS 15KG, 4-PUNKTBEFESTIGUNG) SCHWARZ RAL9004"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901969406412"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-1010-B",
+        "Weight": 3500.0,
+        "Height": 490.0,
+        "Width": 50.0,
+        "Depth": 700.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051003",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "09f90958-3c5e-4b07-9481-a4672ea0c7c6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-17T11:29:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCKBL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:22.088000+00:00",
+        "sequence_number": 138347
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMZ7",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "StarTech",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SERVER RACK SHELF 1U STEEL/482.6X44.5X254MM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SERVER RACK SHELF 1U STEEL/482.6X44.5X254MM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SERVER RACK SHELF 1U STEEL/482.6X44.5X254MM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "065030870474"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85381000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CABSHELF1U10",
+        "Weight": 3400.0,
+        "Height": 100.0,
+        "Width": 420.0,
+        "Depth": 560.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046823",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dbf217d3-6a42-4869-8a58-c77af0514bcb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-02T10:43:09Z'",
+          "ModificationDate": "b'2025-06-04T12:21:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMZ7'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:38.201000+00:00",
+        "sequence_number": 110601
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZATRIPOL0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/850MM, ŁAD.80KG RAB-UP-850-A4",
+            "ProductDescription": "Triton 19\" shelf 1U 550mm 80kg plastic black"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/850MM, ŁAD.80KG RAB-UP-850-A4",
+            "ProductDescription": "Triton 19\" shelf 1U 550mm 80kg plastic black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/850MM, ŁAD.80KG RAB-UP-850-A4",
+            "ProductDescription": "Triton 19\" shelf 1U 550mm 80kg plastic black"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105077801"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAB-UP-850-A4",
+        "Weight": 4445.0,
+        "Height": 880.0,
+        "Width": 470.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056711",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "216e1734-db3e-4677-99b8-257a4453c0e9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-22T16:21:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZATRIPOL0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:03.243000+00:00",
+        "sequence_number": 117959
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATIJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka Digitus TN-19-550-1U-BK części do stojaków",
+            "ProductDescription": "Digitus TN-19-550-1U-BK części do stojaków Półka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka Digitus TN-19-550-1U-BK części do stojaków",
+            "ProductDescription": "Digitus TN-19-550-1U-BK rack accessory Shelf"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka Digitus TN-19-550-1U-BK części do stojaków",
+            "ProductDescription": "Digitus TN-19-550-1U-BK Rack Zubehör Regal"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907772591529"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85381000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TN-19-550-1U-BK",
+        "Weight": 3420.0,
+        "Height": 495.0,
+        "Width": 575.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060042",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "075c3a73-d1a3-4d27-8944-978f8ca0f5dc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-05T16:08:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATIJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:54.714000+00:00",
+        "sequence_number": 124400
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMUU",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Lanberg",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka do szaf 19\" 800mm Lanberg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka do szaf 19\" 800mm Lanberg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka do szaf 19\" 800mm Lanberg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901969441277"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85381000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-1005-S",
+        "Weight": 2680.0,
+        "Height": 45.0,
+        "Width": 495.0,
+        "Depth": 510.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052502",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f23fd236-ac59-487e-8df3-1c9452f535d1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-13T16:43:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMUU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:39.903000+00:00",
+        "sequence_number": 139242
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMS31",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Digitus Półka do montażu na stałe w szafach 483 mm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Digitus Półka do montażu na stałe w szafach 483 mm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Digitus Półka do montażu na stałe w szafach 483 mm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032185772"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DN-19 TRAY-1-SW",
+        "Weight": 1394.0,
+        "Height": 258.0,
+        "Width": 511.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092724",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "07ce1d7f-e8fd-4f96-93d6-cc5dee8e9bee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-28T07:22:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMS31'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:09.964000+00:00",
+        "sequence_number": 168867
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATK4",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Digitus Półka do montażu stałego w szafach (19\")",
+            "ProductDescription": "Digitus Półka do montażu stałego w szafach 483 mm (19\")"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Digitus Półka do montażu stałego w szafach (19\")",
+            "ProductDescription": "Digitus Shelf for Fixed Installation in 483 mm (19\") Cabinets"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Digitus Półka do montażu stałego w szafach (19\")",
+            "ProductDescription": "Digitus Fachboden zum Festeinbau in 483 mm (19\")-Schränke"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032245704"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85381000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DN-19 TRAY-1-400-SW",
+        "Weight": 2584.0,
+        "Height": 511.0,
+        "Width": 430.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078849",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "78888976-9673-4344-8695-37f883d4da9c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-26T08:10:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATK4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:40.185000+00:00",
+        "sequence_number": 130768
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZATRIPOL0025",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/350MM, ŁAD.50KG RAB-UP-350-A4",
+            "ProductDescription": "Triton 19\" shelf 1U 350mm plastic black"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/350MM, ŁAD.50KG RAB-UP-350-A4",
+            "ProductDescription": "Triton 19\" shelf 1U 350mm plastic black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/350MM, ŁAD.50KG RAB-UP-350-A4",
+            "ProductDescription": "Triton 19\" shelf 1U 350mm plastic black"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105076316"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAB-UP-350-A4",
+        "Weight": 2150.0,
+        "Height": 35.0,
+        "Width": 450.0,
+        "Depth": 385.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054494",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c9f866da-5a84-4ba9-97e0-7496c7ff8560",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-12T09:25:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZATRIPOL0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:58.577000+00:00",
+        "sequence_number": 140200
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIETRIPOL0045",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PÓŁKA 19\" 1U/450mm, max.ład.80kg RAC-UP-450-A4",
+            "ProductDescription": "Triton półka perforowana 19\" 1U/450mm max. ład. 80kg RAC-UP-450-A4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PÓŁKA 19\" 1U/450mm, max.ład.80kg RAC-UP-450-A4",
+            "ProductDescription": "Triton perforated shelf 19\" 1U/450mm max. load 80kg RAC-UP-450-A4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PÓŁKA 19\" 1U/450mm, max.ład.80kg RAC-UP-450-A4",
+            "ProductDescription": "Triton perforiertes Regal 19\" 1U/450mm max. Belastung 80kg RAC-UP-450-A4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105072639"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-450-A4",
+        "Weight": 3000.0,
+        "Height": 60.0,
+        "Width": 470.0,
+        "Depth": 450.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054948",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ab01c29c-0cc7-46a5-ab0f-5c8026475773",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-03-28T16:19:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIETRIPOL0045'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:58.344000+00:00",
+        "sequence_number": 141838
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZALAEPOL0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "Lanberg",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LANBERG WYSUWANA PÓŁKA DO SZAF 19\" 1000MM 1U",
+            "ProductDescription": "Lanberg AK-1011-B części do stojaków Regulowane półki"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LANBERG WYSUWANA PÓŁKA DO SZAF 19\" 1000MM 1U",
+            "ProductDescription": "Lanberg AK-1011-B rack accessory Adjustable shelf"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LANBERG WYSUWANA PÓŁKA DO SZAF 19\" 1000MM 1U",
+            "ProductDescription": "Lanberg AK-1011-B Rack Zubehör Verstellbares Regal"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901969406429"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-1011-B",
+        "Weight": 5200.0,
+        "Height": 50.0,
+        "Width": 480.0,
+        "Depth": 710.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062607",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1b688c09-c782-49f7-af3a-b50b38123770",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-04-20T11:00:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZALAEPOL0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:48.877000+00:00",
+        "sequence_number": 156065
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZATRIPOL0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/750MM, MAX. ŁAD.150KG RAB-UP-7",
+            "ProductDescription": "Triton półka perforowana 19\" 1U/750mm max. ład. 150kg RAB-UP-750-H4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/750MM, MAX. ŁAD.150KG RAB-UP-7",
+            "ProductDescription": "Triton perforated shelf 19\" 1U/750mm max. load 150kg RAB-UP-750-H4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/750MM, MAX. ŁAD.150KG RAB-UP-7",
+            "ProductDescription": "Triton perforiertes Regal 19\" 1U/750mm max. Belastung 150kg RAB-UP-750-H4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105077771"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85381000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAB-UP-750-H4",
+        "Weight": 7600.0,
+        "Height": 50.0,
+        "Width": 800.0,
+        "Depth": 500.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.40.0",
+        "CountryOfOrigin": "CZ",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062629",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "464d14bf-ebc0-4d06-b42d-5a4571dba954",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-08-17T09:45:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:16Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZATRIPOL0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:48.877000+00:00",
+        "sequence_number": 156087
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZATRIPOL0020",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/750MM, ŁAD.40KG RAB-UP-750-A1",
+            "ProductDescription": "Triton 19“ Low profile shelf 1U 750mm 40.0kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/750MM, ŁAD.40KG RAB-UP-750-A1",
+            "ProductDescription": "Triton 19“ Low profile shelf 1U 750mm 40.0kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/750MM, ŁAD.40KG RAB-UP-750-A1",
+            "ProductDescription": "Triton 19“ Low profile shelf 1U 750mm 40.0kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105013267"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAB-UP-750-A1",
+        "Weight": 5962.0,
+        "Height": 401.0,
+        "Width": 779.0,
+        "Depth": 496.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "CZ",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048609",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "138416dd-9dc8-42be-918b-8bc40982c7a7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-25T09:49:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:16Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZATRIPOL0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:06.666000+00:00",
+        "sequence_number": 116117
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIETRIPOL0055",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PÓŁKA 19\" 1U/750mm, max.ład.150kg RAC-UP-750-H4",
+            "ProductDescription": "Triton półka perforowana 19\" 1U/750mm max. ład. 150kg RAC-UP-750-H4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PÓŁKA 19\" 1U/750mm, max.ład.150kg RAC-UP-750-H4",
+            "ProductDescription": "Triton perforated shelf 19\" 1U/750mm max. load 150kg RAC-UP-750-H4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PÓŁKA 19\" 1U/750mm, max.ład.150kg RAC-UP-750-H4",
+            "ProductDescription": "Triton perforiertes Regal 19\" 1U/750mm max. Belastung 150kg RAC-UP-750-H4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105073995"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC-UP-750-H4",
+        "Weight": 7650.0,
+        "Height": 750.0,
+        "Width": 450.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "CZ",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054744",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "015be6b1-60dc-4299-b9fa-b6007c70580b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2012-04-25T15:16:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIETRIPOL0055'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:57.389000+00:00",
+        "sequence_number": 160625
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZATRIPOL0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "Triton",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/550MM, ŁAD.150KG RAB-UP-550-H4",
+            "ProductDescription": "Triton półka perforowana 19\" 1U/550mm max. ład. 150kg  RAB-UP-550-H4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/550MM, ŁAD.150KG RAB-UP-550-H4",
+            "ProductDescription": "Triton perforated shelf 19\" 1U/550mm max. load 150kg RAB-UP-550-H4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TRITON PÓŁKA 19\" 1U/550MM, ŁAD.150KG RAB-UP-550-H4",
+            "ProductDescription": "Triton perforiertes Regal 19\" 1U/550mm max. Belastung 150kg RAB-UP-550-H4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595105078532"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAB-UP-550-H4",
+        "Weight": 5800.0,
+        "Height": 40.0,
+        "Width": 430.0,
+        "Depth": 550.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": "CZ",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56005
+              },
+              {
+                "CategoryId": 54201
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048833",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "42f2f89c-6c0f-4049-b0e0-fff4a5f97a07",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-22T16:39:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:16Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZATRIPOL0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:08.744000+00:00",
+        "sequence_number": 116227
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SZAAANPOL0035",
+        "ProductVersion": "1.1",
+        "ProductType": "Półki",
+        "Brand": "A-LAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka stała 19\" 1U głęb. SA-P-19-1U-280-2-S-01",
+            "ProductDescription": "Alantec SA-P-19-1U-280-2-S-01 Półka stała 19\" 1U głębokość 280mm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka stała 19\" 1U głęb. SA-P-19-1U-280-2-S-01",
+            "ProductDescription": "Alantec SA-P-19-1U-280-2-S-01 Fixed shelf 19\" 1U depth 280mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka stała 19\" 1U głęb. SA-P-19-1U-280-2-S-01",
+            "ProductDescription": "Alantec SA-P-19-1U-280-2-S-01 Festes Regal 19\" 1U Tiefe 280mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904204402606"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SA-P-19-1U-280-2-S-01",
+        "Weight": 1590.0,
+        "Height": 320.0,
+        "Width": 520.0,
+        "Depth": 58.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049527",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "44fc0878-f46f-48a5-8396-defa899e370d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-19T16:55:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SZAAANPOL0035'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:43.163000+00:00",
+        "sequence_number": 116940
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATFI",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka stała 19\", 1U, gł. 450 mm, nośność 25 kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka stała 19\", 1U, gł. 450 mm, nośność 25 kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka stała 19\", 1U, gł. 450 mm, nośność 25 kg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907772591482"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TN-19-450-1U-BK",
+        "Weight": 2855.0,
+        "Height": 480.0,
+        "Width": 500.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038314",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "177c4108-66d2-4661-ae39-3bc17d1c792e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-29T14:18:25Z'",
+          "ModificationDate": "b'2025-06-04T12:16:43Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATFI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:01.976000+00:00",
+        "sequence_number": 133668
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATGK",
+        "ProductVersion": "1.2",
+        "ProductType": "Półki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Półka stała 19\", 1U, gł. 350 mm, nośność 25 kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Półka stała 19\", 1U, gł. 350 mm, nośność 25 kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Półka stała 19\", 1U, gł. 350 mm, nośność 25 kg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907772592007"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94039910",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TN-19-350-1U-BK",
+        "Weight": 2235.0,
+        "Height": 375.0,
+        "Width": 490.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54201
+              },
+              {
+                "CategoryId": 56005
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54765
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038330",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e13f0b12-4faf-4aa3-868c-a01474757d83",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-15T14:33:42Z'",
+          "ModificationDate": "b'2025-06-04T12:16:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATGK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:01.976000+00:00",
+        "sequence_number": 133684
+      }
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "BUDNRKAPE0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Rozłączniki izolacyjne",
+        "Brand": "noark",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rozł. izol. DC do aplik. fotowolt., Ex9IP 4P 16A",
+            "ProductDescription": "Rozłączniki izolacyjne Noark Ex9IP 4P 16A 101762"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rozł. izol. DC do aplik. fotowolt., Ex9IP 4P 16A",
+            "ProductDescription": "Noark switch disconnectors Ex9IP 4P 16A 101762"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rozł. izol. DC do aplik. fotowolt., Ex9IP 4P 16A",
+            "ProductDescription": "Noark-Lasttrennschalter Ex9IP 4P 16A 101762"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8592765017635"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85365080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "101762",
+        "Weight": 460.0,
+        "Height": 80.0,
+        "Width": 90.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.33.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55483
+              },
+              {
+                "CategoryId": 55493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053593",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Rozł. izol. DC do aplik. fotowolt., szer. 4 moduły, 4-bieg., 16A, 1000V DC (Ex9IP 4P 16A)"
+      },
+      "properties": {
+        "message_id": "9e2fe3a9-2600-4203-ad58-e77485729e6d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-19T09:12:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BUDNRKAPE0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:48.608000+00:00",
+        "sequence_number": 139700
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR7502",
+        "ProductVersion": "1.2",
+        "ProductType": "Rozłączniki izolacyjne",
+        "Brand": "EATON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wyłącznik silnikowy Z-MS-2,5-3 - EATON",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wyłącznik silnikowy Z-MS-2,5-3 - EATON",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wyłącznik silnikowy Z-MS-2,5-3 - EATON",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015082484088"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85365080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "248408",
+        "Weight": 350.0,
+        "Height": 55.0,
+        "Width": 75.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.33.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55483
+              },
+              {
+                "CategoryId": 55493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034193",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7bd38fe8-5c86-404b-a07a-0332e76d65c9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-06T07:17:43Z'",
+          "ModificationDate": "b'2025-06-04T12:14:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR7502'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:49.833000+00:00",
+        "sequence_number": 133036
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR7508",
+        "ProductVersion": "1.3",
+        "ProductType": "Rozłączniki izolacyjne",
+        "Brand": "EATON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Łącznik krańcowy Eaton 266105 - LS-11S",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Łącznik krańcowy Eaton 266105 - LS-11S",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Łącznik krańcowy Eaton 266105 - LS-11S",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015082661052"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85365003",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "266105",
+        "Weight": 52.0,
+        "Height": 30.0,
+        "Width": 32.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.33.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55483
+              },
+              {
+                "CategoryId": 55493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034194",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9452b633-0586-4049-af7c-6874ce4097df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-31T09:08:19Z'",
+          "ModificationDate": "b'2025-08-07T08:17:47Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR7508'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:49.833000+00:00",
+        "sequence_number": 133037
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR7511",
+        "ProductVersion": "1.2",
+        "ProductType": "Rozłączniki izolacyjne",
+        "Brand": "EATON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IS-125/3 ROZŁĄCZNIK IZOLACYJNY MODUŁOWY",
+            "ProductDescription": "Eaton IS-125/3 przełącznik elektryczny Przełącznik kołyskowy 3P"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IS-125/3 ROZŁĄCZNIK IZOLACYJNY MODUŁOWY",
+            "ProductDescription": "IS-125/3 MODULAR SWITCH-DISCONNECTOR 125A 3Z 3P 3M 415V AC"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IS-125/3 ROZŁĄCZNIK IZOLACYJNY MODUŁOWY",
+            "ProductDescription": "IS-125/3 MODULARER LASTTRENNSCHALTER 125A 3Z 3P 3M 415V AC"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015082762889"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85365080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "276288",
+        "Weight": 324.0,
+        "Height": 75.0,
+        "Width": 85.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.33.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55483
+              },
+              {
+                "CategoryId": 55493
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034195",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9481f853-da1a-4d25-a29e-5ac1e4fb61e3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-20T12:01:14Z'",
+          "ModificationDate": "b'2025-06-04T12:14:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR7511'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:42.183000+00:00",
+        "sequence_number": 147699
+      }
+    }
+  ]
+}

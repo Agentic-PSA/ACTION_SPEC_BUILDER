@@ -1,0 +1,1038 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "STAGUDSTA0019",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "GUDSEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MOZA Slypod Pro",
+            "ProductDescription": "Moza Slypod Pro Zmotoryzowany monopod 3w1 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MOZA Slypod Pro",
+            "ProductDescription": "Moza Slypod Pro Motorised monopod 3in1 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MOZA Slypod Pro",
+            "ProductDescription": "Moza Slypod Pro Motorisiertes Einbeinstativ 3in1 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "743791915282"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "import",
+        "Weight": 3560.0,
+        "Height": 140.0,
+        "Width": 940.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052282",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b548ad4e-6cf2-44f9-9c1d-7f5b4119ac50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-09-23T11:10:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAGUDSTA0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:52.383000+00:00",
+        "sequence_number": 117395
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAIN6STA0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Stabilizatory",
+        "Brand": "Insta360",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Insta360 Flow 2 PRO Stone Gray gimbal do smartfona",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Insta360 Flow 2 PRO Stone Gray gimbal do smartfona",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Insta360 Flow 2 PRO Stone Gray gimbal do smartfona",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CINSABQB_Flow203",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089324",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Insta360 Flow 2 PRO (Stone Gray) - gimbal do smartfona"
+      },
+      "properties": {
+        "message_id": "f287102f-5925-4bdb-b036-d36ca0dafec9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-11T15:25:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAIN6STA0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:32.621000+00:00",
+        "sequence_number": 119429
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAIN6STA0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "Insta360",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Insta360 Flow 2 PRO White - gimbal do smartfona",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Insta360 Flow 2 PRO White - gimbal do smartfona",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Insta360 Flow 2 PRO White - gimbal do smartfona",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CINSABQB_Flow201",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089325",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Insta360 Flow 2 PRO (Summit White) - gimbal do smartfona"
+      },
+      "properties": {
+        "message_id": "381c7b05-43ce-45e7-a992-bbcd5b688ba6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-11T15:25:11Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAIN6STA0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:32.621000+00:00",
+        "sequence_number": 119430
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAGUDSTA0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "GUDSEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stabilizator do aparatu Moza AirCross 2",
+            "ProductDescription": "Stabilizator Moza AirCross 2"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stabilizator do aparatu Moza AirCross 2",
+            "ProductDescription": "Stabilizer Moza AirCross 2"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stabilizator do aparatu Moza AirCross 2",
+            "ProductDescription": "Stabilisator Moza AirCross 2"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5712850848026"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ACGN01",
+        "Weight": 3030.0,
+        "Height": 330.0,
+        "Width": 405.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048829",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Gimbal do aparatu Moza AirCross 2"
+      },
+      "properties": {
+        "message_id": "54e3b58b-20db-4f9b-a8c5-8fb3186e103a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-03-18T20:07:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAGUDSTA0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:59.721000+00:00",
+        "sequence_number": 108582
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJ629",
+        "ProductVersion": "1.2",
+        "ProductType": "Stabilizatory",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gimbal Hohem iSteady V3",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gimbal Hohem iSteady V3",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gimbal Hohem iSteady V3",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971071552795"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90069100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "O6971071552795",
+        "Weight": 615.0,
+        "Height": 189.0,
+        "Width": 122.0,
+        "Depth": 69.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.19.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079656",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "081b1e0e-4f47-4991-94ab-b865cf111c45",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T15:45:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJ629'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:31.066000+00:00",
+        "sequence_number": 104457
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAGUDSTA0037",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "GUDSEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gimbal Stabilizer MOZA Mini MX3",
+            "ProductDescription": "MOZA Mini MX 3 Gimbal Stabilizator do smartphona Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gimbal Stabilizer MOZA Mini MX3",
+            "ProductDescription": "MOZA Mini MX 3 Gimbal Stabiliser for smartphone White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gimbal Stabilizer MOZA Mini MX3",
+            "ProductDescription": "MOZA Mini MX 3 Kardanischer Stabilisator für Smartphone Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6973137270964"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MX3",
+        "Weight": 580.0,
+        "Height": 165.0,
+        "Width": 200.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056570",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a28f8453-34da-4b3b-b90f-534b21f382a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-08T15:53:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAGUDSTA0037'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:02.962000+00:00",
+        "sequence_number": 117934
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAFEYSTA0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "FEY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gimbal FeiyuTech G6 Plus",
+            "ProductDescription": "Gimbal FeiyuTech G6 Plus"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gimbal FeiyuTech G6 Plus",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gimbal FeiyuTech G6 Plus",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6970078071018"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1236.0,
+        "Height": 205.0,
+        "Width": 350.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100140237",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b525aa14-1906-4276-8a8c-9dfc16148c04",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-07-18T11:25:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAFEYSTA0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:17.669000+00:00",
+        "sequence_number": 169210
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAIN6STA0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "Insta360",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Insta360 Flow Standalone (Summit White)",
+            "ProductDescription": "Insta360 Flow Standalone stabilizator 3-osiowy, gimbal biały (Summit White)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Insta360 Flow Standalone (Summit White)",
+            "ProductDescription": "Insta360 Flow Standalone 3-axis stabiliser, gimbal white (Summit White)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Insta360 Flow Standalone (Summit White)",
+            "ProductDescription": "Insta360 Flow Standalone 3-Achsen-Stabilisator, Gimbal weiß (Summit White)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6970357854448"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 780.0,
+        "Height": 190.0,
+        "Width": 110.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100140249",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Insta360 Flow Standalone (Summit White) - stabilizator 3-osiowy, gimbal"
+      },
+      "properties": {
+        "message_id": "40b5798d-4995-47dc-aaf7-e8ff2713d745",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-16T11:38:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAIN6STA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:17.669000+00:00",
+        "sequence_number": 169211
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAIN6STA0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "Insta360",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Insta360 Flow Creator Kit (Summit White)",
+            "ProductDescription": "Insta360 Flow Creator Kit stabilizator 3-osiowy, gimbal biały (Summit White)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Insta360 Flow Creator Kit (Summit White)",
+            "ProductDescription": "Insta360 Flow Creator Kit 3-axis stabiliser, gimbal white (Summit White)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Insta360 Flow Creator Kit (Summit White)",
+            "ProductDescription": "Insta360 Flow Creator Kit 3-Achsen-Stabilisator, Gimbal weiß (Summit White)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6970357854721"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1200.0,
+        "Height": 195.0,
+        "Width": 140.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100140250",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Insta360 Flow Creator Kit (Summit White) - stabilizator 3-osiowy, gimbal"
+      },
+      "properties": {
+        "message_id": "258c52bf-06f5-40ce-92a3-20d7a28bf43d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-16T11:38:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAIN6STA0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:17.669000+00:00",
+        "sequence_number": 169212
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAIN6STA0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "Insta360",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Insta360 Flow Standalone (Stone Gray)",
+            "ProductDescription": "Insta360 Flow Standalone stabilizator 3-osiowy, gimbal szary (Stone Gray)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Insta360 Flow Standalone (Stone Gray)",
+            "ProductDescription": "Insta360 Flow Standalone 3-axis stabiliser, gimbal grey (Stone Gray)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Insta360 Flow Standalone (Stone Gray)",
+            "ProductDescription": "Insta360 Flow Standalone 3-Achsen-Stabilisator, kardanisch grau (Stone Gray)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6970357855261"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 770.0,
+        "Height": 190.0,
+        "Width": 95.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100140251",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Insta360 Flow Standalone (Stone Gray) - stabilizator 3-osiowy, gimbal"
+      },
+      "properties": {
+        "message_id": "5cc744d8-4093-4c8b-869d-bb4b36ee6933",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-16T11:38:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAIN6STA0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:17.669000+00:00",
+        "sequence_number": 169213
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAIN6STA0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "Insta360",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Insta360 Flow Creator Kit (Stone Gray)",
+            "ProductDescription": "Insta360 Flow Creator Kit stabilizator 3-osiowy, gimbal szary (Stone Gray)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Insta360 Flow Creator Kit (Stone Gray)",
+            "ProductDescription": "Insta360 Flow Creator Kit 3-axis stabiliser, gimbal grey (Stone Gray)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Insta360 Flow Creator Kit (Stone Gray)",
+            "ProductDescription": "Insta360 Flow Creator Kit 3-Achsen-Stabilisator, Gimbal grau (Stone Gray)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6970357855278"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1000.0,
+        "Height": 140.0,
+        "Width": 130.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100140252",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Insta360 Flow Creator Kit (Stone Gray) - stabilizator 3-osiowy, gimbal"
+      },
+      "properties": {
+        "message_id": "26ff3740-52de-4f62-9df5-cdb4473e17a7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-16T11:38:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAIN6STA0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:17.669000+00:00",
+        "sequence_number": 169214
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STAGUDSTA0032",
+        "ProductVersion": "1.1",
+        "ProductType": "Stabilizatory",
+        "Brand": "GUDSEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gimbal do aparatu Moza AirCross S",
+            "ProductDescription": "Gimbal do aparatu, kamery, smartfonu Gudsen Moza AIRCROSS S"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gimbal do aparatu Moza AirCross S",
+            "ProductDescription": "Gimbal for camera, camcorder, smartphone Gudsen Moza AIRCROSS S"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gimbal do aparatu Moza AirCross S",
+            "ProductDescription": "Gimbal für Kamera, Camcorder, Smartphone Gudsen Moza AIRCROSS S"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "723497239448"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "723497239448",
+        "Weight": 1704.0,
+        "Height": 159.0,
+        "Width": 340.0,
+        "Depth": 244.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53484
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54942
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062454",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bf49da9c-be0c-48e0-abe9-a186e8afdc1c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-11-17T09:53:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STAGUDSTA0032'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:46.830000+00:00",
+        "sequence_number": 155995
+      }
+    }
+  ]
+}

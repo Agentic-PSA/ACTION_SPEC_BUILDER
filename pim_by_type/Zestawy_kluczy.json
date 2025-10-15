@@ -1,0 +1,634 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWKB",
+        "ProductVersion": "1.3",
+        "ProductType": "Zestawy kluczy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HOGERT ZESTAW KLUCZY  222el.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HOGERT ZESTAW KLUCZY  222el.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HOGERT ZESTAW KLUCZY  222el.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902801028137"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HT1R444",
+        "Weight": 11400.0,
+        "Height": 100.0,
+        "Width": 480.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53789
+              },
+              {
+                "CategoryId": 53113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041969",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d4775ab6-0e67-4ebf-b2b3-6832e9735c71",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T10:53:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWKB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:08.992000+00:00",
+        "sequence_number": 134014
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOLR",
+        "ProductVersion": "1.3",
+        "ProductType": "Zestawy kluczy",
+        "Brand": "Vorel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VOREL ZESTAW KLUCZY 216el 1/2\"/3/8\"/1/4\"",
+            "ProductDescription": "VOREL 58700 klucz nasadowy 216 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VOREL ZESTAW KLUCZY 216el 1/2\"/3/8\"/1/4\"",
+            "ProductDescription": "VOREL WRENCH SET 216el 1/2\"/3/8\"/1/4\""
+          },
+          {
+            "Language": "de",
+            "ProductName": "VOREL ZESTAW KLUCZY 216el 1/2\"/3/8\"/1/4\"",
+            "ProductDescription": "VOREL SCHLÜSSELSATZ 216EL 1/2\"/3/8\"/1/4\""
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083587009"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82041100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "58700",
+        "Weight": 11280.0,
+        "Height": 380.0,
+        "Width": 520.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53113
+              },
+              {
+                "CategoryId": 53789
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045839",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e139bcc7-9322-4579-9f43-764eebed9077",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-08T12:16:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOLR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:03.342000+00:00",
+        "sequence_number": 148845
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDMYI",
+        "ProductVersion": "1.3",
+        "ProductType": "Zestawy kluczy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw kluczy 92elem P-46470 MAKITA",
+            "ProductDescription": "Makita P-46470 Zestaw Śrubokręt standardowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw kluczy 92elem P-46470 MAKITA",
+            "ProductDescription": "MAKITA ACCESSORY SET 91pcs. P-46470"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw kluczy 92elem P-46470 MAKITA",
+            "ProductDescription": "MAKITA ZUBEHÖR SET 91-tlg. Tel. P-46470"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381976909"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "46470",
+        "Weight": 3100.0,
+        "Height": 605.0,
+        "Width": 390.0,
+        "Depth": 46.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53113
+              },
+              {
+                "CategoryId": 53789
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045721",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bf41eedf-0164-46b0-946f-8394db461ab6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T16:30:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDMYI'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:02.600000+00:00",
+        "sequence_number": 106794
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBIBY",
+        "ProductVersion": "1.3",
+        "ProductType": "Zestawy kluczy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw narzedzi ręcznych i akcesorii E-08458 MAKITA",
+            "ProductDescription": "Makita E-08458 zestaw kluczy i narzędzi 87 przyb."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw narzedzi ręcznych i akcesorii E-08458 MAKITA",
+            "ProductDescription": "MAKITA SET OF ACCESSORIES AND HAND TOOLS 87pcs."
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw narzedzi ręcznych i akcesorii E-08458 MAKITA",
+            "ProductDescription": "MAKITA SET VON ZUBEHÖR UND HANDWERKZEUGEN 87tlg."
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381575638"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "E-08458",
+        "Weight": 5708.0,
+        "Height": 312.0,
+        "Width": 142.0,
+        "Depth": 422.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53789
+              },
+              {
+                "CategoryId": 53113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040273",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cc3454bc-6f26-4c86-a6aa-49ffbdd50ca6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-12T11:10:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBIBY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:36.273000+00:00",
+        "sequence_number": 137307
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBKO8",
+        "ProductVersion": "1.3",
+        "ProductType": "Zestawy kluczy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw kluczy YATO YT-38901 XXL 1/4-1/2\" 122 elem.",
+            "ProductDescription": "Yato YT-38901 zestaw kluczy i narzędzi 122 przyb."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw kluczy YATO YT-38901 XXL 1/4-1/2\" 122 elem.",
+            "ProductDescription": "YATO WRENCH SET 122 pcs. XXL 1/4-1/2\" 38901"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw kluczy YATO YT-38901 XXL 1/4-1/2\" 122 elem.",
+            "ProductDescription": "YATO SCHLÜSSELSATZ 122-tlg. XXL 1/4-1/2\" 38901"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083389016"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-38901",
+        "Weight": 10600.0,
+        "Height": 350.0,
+        "Width": 500.0,
+        "Depth": 111.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53789
+              },
+              {
+                "CategoryId": 53113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040575",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ecd80e90-64f4-42f1-8398-35841261f56a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-20T23:19:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBKO8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:29.133000+00:00",
+        "sequence_number": 122970
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWJT",
+        "ProductVersion": "1.2",
+        "ProductType": "Zestawy kluczy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw narzędzi WMC Tools WMC-40287 (57276) walizka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw narzędzi WMC Tools WMC-40287 (57276) walizka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw narzędzi WMC Tools WMC-40287 (57276) walizka",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905101386044"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WMC-40287",
+        "Weight": 12300.0,
+        "Height": 385.0,
+        "Width": 520.0,
+        "Depth": 205.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53113
+              },
+              {
+                "CategoryId": 53789
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041962",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b6cdd7ac-d131-4213-a5ff-0d4d9978cbbe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-04T04:04:43Z'",
+          "ModificationDate": "b'2025-06-04T12:18:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWJT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:42.481000+00:00",
+        "sequence_number": 125887
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWJZ",
+        "ProductVersion": "1.3",
+        "ProductType": "Zestawy kluczy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ZESTAW KLUCZY  186el./WALIZKA NA KÓŁKACH /WMC",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ZESTAW KLUCZY  186el./WALIZKA NA KÓŁKACH /WMC",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ZESTAW KLUCZY  186el./WALIZKA NA KÓŁKACH /WMC",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905101381315"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WMC-186-3",
+        "Weight": 8000.0,
+        "Height": 510.0,
+        "Width": 160.0,
+        "Depth": 370.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53113
+              },
+              {
+                "CategoryId": 53789
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041964",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d8e29482-0413-4ef1-b01e-4b5ac1dee58b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-07T15:07:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWJZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:42.481000+00:00",
+        "sequence_number": 125889
+      }
+    }
+  ]
+}

@@ -1,0 +1,956 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDWHIPSZ0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "Whirlpool",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka WHIRLPOOL BI WDWG 961485 EU",
+            "ProductDescription": "Whirlpool BI WMWG 91485 EU pralko-suszarka Wbudowany Od przodu Biały D"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka WHIRLPOOL BI WDWG 961485 EU",
+            "ProductDescription": "Whirlpool BI WMWG 91485 EU washer dryer Built-in Front-load White D"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka WHIRLPOOL BI WDWG 961485 EU",
+            "ProductDescription": "Whirlpool BI WMWG 91485 EU Waschtrockner Integriert Frontlader Weiß D"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8003437643590"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BI WDWG 961485 EU",
+        "Weight": 68000.0,
+        "Height": 890.0,
+        "Width": 645.0,
+        "Depth": 595.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52311
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078018",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "06bf21bf-890f-4ccb-840d-948a5179be00",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-21T11:37:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDWHIPSZ0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:16.659000+00:00",
+        "sequence_number": 103706
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBOSPSW0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka BOSCH WNA13401PL",
+            "ProductDescription": "Pralko-suszarka BOSCH WNA13401PL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka BOSCH WNA13401PL",
+            "ProductDescription": "Washer-dryer BOSCH WNA13401PL"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka BOSCH WNA13401PL",
+            "ProductDescription": "Waschmaschine/Trockner BOSCH WNA13401PL"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4242005252473"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WNA13401PL",
+        "Weight": 73000.0,
+        "Height": 885.0,
+        "Width": 660.0,
+        "Depth": 700.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059076",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b8fde370-43cd-48bc-bec4-47de5d55bf61",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-26T14:29:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBOSPSW0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:52.015000+00:00",
+        "sequence_number": 135004
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDELCPSW0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "Electrolux",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka ELECTROLUX EW7WO349SP",
+            "ProductDescription": "Pralko-suszarka ELECTROLUX EW7WO349SP"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka ELECTROLUX EW7WO349SP",
+            "ProductDescription": "Washer-dryer ELECTROLUX EW7WO349SP"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka ELECTROLUX EW7WO349SP",
+            "ProductDescription": "Waschmaschine/Trockner ELECTROLUX EW7WO349SP"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7332543838523"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EW7WO349SP",
+        "Weight": 74000.0,
+        "Height": 890.0,
+        "Width": 625.0,
+        "Depth": 625.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047062",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b012f613-e285-461d-88d0-87738031b56a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-13T13:52:30Z'",
+          "ModificationDate": "b'2025-06-04T12:21:45Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELCPSW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:10.936000+00:00",
+        "sequence_number": 149240
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDHAIPSW0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "HAIER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka Haier HWD90-B14959U1-S",
+            "ProductDescription": "Haier I-Pro Series 5 HWD90-B14959U1 pralko-suszarka Wolnostojący Od przodu Biały D"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka Haier HWD90-B14959U1-S",
+            "ProductDescription": "Haier I-Pro Series 5 HWD90-B14959U1 washer dryer Freestanding Front-load White D"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka Haier HWD90-B14959U1-S",
+            "ProductDescription": "Haier I-Pro Series 5 HWD90-B14959U1 Waschtrockner Freistehend Frontlader Weiß D"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6921081593622"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "31018999",
+        "Weight": 82000.0,
+        "Height": 890.0,
+        "Width": 653.0,
+        "Depth": 646.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050646",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "82b47eb9-ec71-4907-9eaf-92020f68fdb1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-20T13:09:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDHAIPSW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:16.135000+00:00",
+        "sequence_number": 138026
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDWHIPSW0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "Whirlpool",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka WHIRLPOOL FFWDD 1076258 SV EE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka WHIRLPOOL FFWDD 1076258 SV EE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka WHIRLPOOL FFWDD 1076258 SV EE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FFWDD 1076258 SV EE",
+        "Weight": 75000.0,
+        "Height": 890.0,
+        "Width": 645.0,
+        "Depth": 670.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083673",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f3adec5-0fd3-448b-ac95-35ceb9d8f05e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T10:55:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDWHIPSW0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:08.890000+00:00",
+        "sequence_number": 155559
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPELC3UM0028",
+        "ProductVersion": "1.1",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "Electrolux",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka ELECTROLUX EW7W369PBP (WYPRZEDAŻ)",
+            "ProductDescription": "Pralko-suszarka ELECTROLUX EW7W369PBP Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka ELECTROLUX EW7W369PBP (WYPRZEDAŻ)",
+            "ProductDescription": "Washer-dryer ELECTROLUX EW7W369PBP Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka ELECTROLUX EW7W369PBP (WYPRZEDAŻ)",
+            "ProductDescription": "Waschmaschine/Trockner ELECTROLUX EW7W369PBP Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7333394027982"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EW7W369PBP",
+        "Weight": 80000.0,
+        "Height": 870.0,
+        "Width": 620.0,
+        "Depth": 710.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067585",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3abe35c1-d4d0-40dd-a76f-3e337aea474a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T13:36:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPELC3UM0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:00.875000+00:00",
+        "sequence_number": 126883
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDARSPSW0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "Hotpoint",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka HOTPOINT NDD 11725 DA EE",
+            "ProductDescription": "Hotpoint NDD 11725 DA EE pralka Od przodu 11 kg 1600 RPM Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka HOTPOINT NDD 11725 DA EE",
+            "ProductDescription": "Hotpoint NDD 11725 DA EE washing machine Front-load 11 kg 1600 RPM White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka HOTPOINT NDD 11725 DA EE",
+            "ProductDescription": "Hotpoint NDD 11725 DA EE Waschmaschine Frontlader 11 kg 1600 RPM Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8050147649428"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NDD 11725 DA EE",
+        "Weight": 75000.0,
+        "Height": 890.0,
+        "Width": 645.0,
+        "Depth": 670.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073762",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pralko-suszarka HOTPOINT NDD 11725 DA EE"
+      },
+      "properties": {
+        "message_id": "99f1791a-dea3-4047-b96a-273ff6c60e53",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T14:48:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDARSPSW0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:31.741000+00:00",
+        "sequence_number": 145320
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHBY",
+        "ProductVersion": "1.2",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "Hoover",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Hoover H-WASH 300 PLUS H3DS596TAMCE/1-S",
+            "ProductDescription": "Hoover H-WASH 300 PLUS H3DS596TAMCE/1-S pralko-suszarka Wolnostojący Od przodu Biały D"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Hoover H-WASH 300 PLUS H3DS596TAMCE/1-S",
+            "ProductDescription": "Hoover H-WASH 300 PLUS H3DS596TAMCE/1-S washer dryer Freestanding Front-load White D"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Hoover H-WASH 300 PLUS H3DS596TAMCE/1-S",
+            "ProductDescription": "Hoover H-WASH 300 PLUS H3DS596TAMCE/1-S Waschtrockner Freistehend Frontlader Weiß D"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8059019007656"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HO10057",
+        "Weight": 66000.0,
+        "Height": 890.0,
+        "Width": 640.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042938",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b4f8bafe-7846-40ba-8514-cd71ec1142a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-21T16:02:30Z'",
+          "ModificationDate": "b'2025-06-04T12:19:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHBY'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:42.945000+00:00",
+        "sequence_number": 114837
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREB83",
+        "ProductVersion": "1.2",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LG | Pralka z suszarką | F4DR510S2M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LG | Pralka z suszarką | F4DR510S2M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LG | Pralka z suszarką | F4DR510S2M",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8806084336750"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "F4DR510S2M",
+        "Weight": 74000.0,
+        "Height": 880.0,
+        "Width": 650.0,
+        "Depth": 650.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": "KR",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075130",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cd424def-d4a8-4bea-bde0-0e56c46b9b63",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-11T12:33:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREB83'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:26.190000+00:00",
+        "sequence_number": 143271
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDHAIPSW0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "HAIER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka Haier HWD100-B14979-S",
+            "ProductDescription": "Haier I-Pro Series 7 HWD100-B14979 pralko-suszarka Wolnostojący Od przodu Biały D"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka Haier HWD100-B14979-S",
+            "ProductDescription": "Haier I-Pro Series 7 HWD100-B14979 washer dryer Freestanding Front-load White D"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka Haier HWD100-B14979-S",
+            "ProductDescription": "Haier I-Pro Series 7 HWD100-B14979 Waschtrockner Freistehend Frontlader Weiß D"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6921081586662"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "31011197",
+        "Weight": 82000.0,
+        "Height": 880.0,
+        "Width": 640.0,
+        "Depth": 640.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073893",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ae31b04a-a9f6-495a-a50f-7836883c8e9e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-29T14:13:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDHAIPSW0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:33.491000+00:00",
+        "sequence_number": 145441
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDAMIPSZ0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pralko-suszarki",
+        "Brand": "Amica",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pralko-suszarka AMICA AWDBIC7514ELiStO",
+            "ProductDescription": "Pralko-suszarka AMICA AWDBIC7514ELiStO"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pralko-suszarka AMICA AWDBIC7514ELiStO",
+            "ProductDescription": "AMICA washer-dryer AWDBIC7514ELiStO"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pralko-suszarka AMICA AWDBIC7514ELiStO",
+            "ProductDescription": "AMICA Waschtrockner AWDBIC7514ELiStO"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906006946326"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84501200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AWDBIC7514ELiStO",
+        "Weight": 68000.0,
+        "Height": 840.0,
+        "Width": 640.0,
+        "Depth": 590.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54894
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062922",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pralko-suszarka do zabudowy AMICA AWDBIC7514ELiStO"
+      },
+      "properties": {
+        "message_id": "3183b920-0de1-45f2-8f9a-ee48cffd5989",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-10T12:49:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDAMIPSZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:15.715000+00:00",
+        "sequence_number": 162925
+      }
+    }
+  ]
+}

@@ -1,0 +1,3895 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "POMFOSMBL0012                 ",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy ciepła",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł hydrauliczny FoxESS HYDROFOX FX1",
+            "ProductDescription": "Moduł hydrauliczny FoxESS HYDROFOX FX1"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł hydrauliczny FoxESS HYDROFOX FX1",
+            "ProductDescription": "FoxESS HYDROFOX FX1"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł hydrauliczny FoxESS HYDROFOX FX1",
+            "ProductDescription": "FoxESS HYDROFOX FX1"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HYDROFOX-FX1",
+        "Weight": 0.0,
+        "Height": 254.0,
+        "Width": 5469.0,
+        "Depth": 254.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57575
+              },
+              {
+                "CategoryId": 57763
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "1000054",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Moduł hydrauliczny FoxESS HYDROFOX FX1"
+      },
+      "properties": {
+        "message_id": "7b4c2565-41ab-4275-a1de-d9ae32d40032",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-04T09:10:39Z'",
+          "ModificationDate": "b'2025-10-09T16:11:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMFOSMBL0012                 '"
+        },
+        "enqueued_time_utc": "2025-10-09 14:18:43.488000+00:00",
+        "sequence_number": 174563
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kensol KTM 10 kW + Hydrobox",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 10 kW + Hydrobox"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kensol KTM 10 kW + Hydrobox",
+            "ProductDescription": "Kensol KTM 10 kW monobloc heat pump + Hydrobox"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kensol KTM 10 kW + Hydrobox",
+            "ProductDescription": "Kensol KTM 10 kW Monoblock-Wärmepumpe + Hydrobox"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM10KW.KTHB",
+        "Weight": 175000.0,
+        "Height": 985.0,
+        "Width": 1100.0,
+        "Depth": 985.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056283",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pompa ciepła monoblok KTM 10 kW + Hydrobox"
+      },
+      "properties": {
+        "message_id": "d49f3c77-45ca-404f-8abd-14f1ea67ea3d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:17:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.077000+00:00",
+        "sequence_number": 101867
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kensol KTM 10 kW + Szafa hydrauliczna",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 10 kW + Szafa hydrauliczna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kensol KTM 10 kW + Szafa hydrauliczna",
+            "ProductDescription": "Kensol KTM 10 kW monobloc heat pump + Hydraulic cabinet"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kensol KTM 10 kW + Szafa hydrauliczna",
+            "ProductDescription": "Kensol KTM 10 kW Monoblock-Wärmepumpe + Hydraulikschrank"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM10KW.KTSH",
+        "Weight": 232000.0,
+        "Height": 1880.0,
+        "Width": 600.0,
+        "Depth": 1880.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056284",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol KTM 10 kW + Szafa hydrauliczna"
+      },
+      "properties": {
+        "message_id": "ae01ee48-d222-43f4-94dd-0b68538d38d0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T17:25:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.077000+00:00",
+        "sequence_number": 101868
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZBU0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bufor stojący bez wężownicy Kensol 200L",
+            "ProductDescription": "Bufor stojący bez wężownicy Kensol 200L KB200L"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bufor stojący bez wężownicy Kensol 200L",
+            "ProductDescription": "Standing buffer without Kensol 200L coil"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bufor stojący bez wężownicy Kensol 200L",
+            "ProductDescription": "Standpuffer ohne Kensol 200L Spule"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84195080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KB200L",
+        "Weight": 52000.0,
+        "Height": 1262.0,
+        "Width": 675.0,
+        "Depth": 1262.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55510
+              },
+              {
+                "CategoryId": 55511
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056285",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bufor stojący bez wężownicy Kensol 200L"
+      },
+      "properties": {
+        "message_id": "09b7cc2e-743c-4bbd-add6-2a15b7dd3c61",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T17:25:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZBU0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.077000+00:00",
+        "sequence_number": 101869
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZCW0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MAXI KENSOL 2 m2, 200L",
+            "ProductDescription": "PIONOWY OGRZEWACZ WODY Z WĘŻOWNICĄ MAXI KENSOL 2 M2, 200L KTL200 MAXI"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MAXI KENSOL 2 m2, 200L",
+            "ProductDescription": "Vertical water heater with coil MAXI KENSOL 2 m2, 200L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MAXI KENSOL 2 m2, 200L",
+            "ProductDescription": "Vertikaler Warmwasserbereiter mit Spule MAXI KENSOL 2 m2, 200 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTL200 MAXI",
+        "Weight": 103000.0,
+        "Height": 1250.0,
+        "Width": 600.0,
+        "Depth": 1250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056286",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KENSOL Pionowy ogrzewacz wody z wężownicą MAXI 2 m2, 200L"
+      },
+      "properties": {
+        "message_id": "5bb7732f-900f-49ca-9a71-d3493d6cf671",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-04T11:04:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZCW0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.077000+00:00",
+        "sequence_number": 101870
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLG-MBL0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LG - Pompa ciepła Therma V Monobloc S 5 kW",
+            "ProductDescription": "POMPA CIEPŁA LG THERMA V MONOBLOC S 5 KW LGHM051MR.U44"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LG - Pompa ciepła Therma V Monobloc S 5 kW",
+            "ProductDescription": "HEAT PUMP LG THERMA V MONOBLOC S 5 KW LGHM051MR.U44"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LG - Pompa ciepła Therma V Monobloc S 5 kW",
+            "ProductDescription": "WÄRMEPUMPE LG THERMA V MONOBLOC S 5 KW LGHM051MR.U44"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LGHM051MR.U44",
+        "Weight": 89000.0,
+        "Height": 1239.0,
+        "Width": 834.0,
+        "Depth": 1239.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55504
+              },
+              {
+                "CategoryId": 55503
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056287",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła LG Therma V Monobloc S 5 kW"
+      },
+      "properties": {
+        "message_id": "42d4f3cf-d98c-4ef3-a75c-9d31f76b91fd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-06T15:31:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLG-MBL0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.077000+00:00",
+        "sequence_number": 101871
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLG-ZEW0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LG - Pom. Ciep. Therma V split 5 kW jedn. zew.",
+            "ProductDescription": "POMPA CIEPŁA LG THERMA V SPLIT 5 KW JEDNOSTKA ZEWNĘTRZNA LGHU051MR.U44"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LG - Pom. Ciep. Therma V split 5 kW jedn. zew.",
+            "ProductDescription": "HEAT PUMP LG THERMA V SPLIT 5 KW OUTDOOR UNIT LGHU051MR.U44"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LG - Pom. Ciep. Therma V split 5 kW jedn. zew.",
+            "ProductDescription": "WÄRMEPUMPE LG THERMA V SPLIT 5 KW AUSSENGERÄT LGHU051MR.U44"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LGHU051MR.U44",
+        "Weight": 60000.0,
+        "Height": 950.0,
+        "Width": 834.0,
+        "Depth": 950.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55501
+              },
+              {
+                "CategoryId": 55502
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056288",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła LG Therma V split 5 kW jednostka zewnętrzna"
+      },
+      "properties": {
+        "message_id": "72cd726c-1a1e-4804-8feb-9c33709e017b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-06T15:32:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLG-ZEW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.077000+00:00",
+        "sequence_number": 101872
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLG-ZEW0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LG - Pom. Ciep. Therma V split 12 kW jedn. zew.",
+            "ProductDescription": "POMPA CIEPŁA LG THERMA V SPLIT 12 KW JEDNOSTKA ZEWNĘTRZNA LGHU123MA.U33"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LG - Pom. Ciep. Therma V split 12 kW jedn. zew.",
+            "ProductDescription": "HEAT PUMP LG THERMA V SPLIT 12 KW OUTDOOR UNIT LGHU123MA.U33"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LG - Pom. Ciep. Therma V split 12 kW jedn. zew.",
+            "ProductDescription": "WÄRMEPUMPE LG THERMA V SPLIT 12 KW AUSSENGERÄT LGHU123MA.U33"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LGHU123MA.U33",
+        "Weight": 85400.0,
+        "Height": 1380.0,
+        "Width": 950.0,
+        "Depth": 1380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55501
+              },
+              {
+                "CategoryId": 55502
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056289",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "LG Therma  Pompa ciepła  V split 12 kW jednostka zewnętrzna"
+      },
+      "properties": {
+        "message_id": "e731485a-1ad8-4bf1-99d0-b17ecf96cb5b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-06T15:32:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLG-ZEW0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.077000+00:00",
+        "sequence_number": 101873
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREBTJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy ciepła",
+        "Brand": "OSO HOTWATER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zbiornik buforowy 60L OSO HOTWATER ACCU60",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zbiornik buforowy 60L OSO HOTWATER ACCU60",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zbiornik buforowy 60L OSO HOTWATER ACCU60",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84195080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3938",
+        "Weight": 15700.0,
+        "Height": 450.0,
+        "Width": 445.0,
+        "Depth": 770.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55510
+              },
+              {
+                "CategoryId": 55511
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046353",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3530de74-0ed3-404d-a6a3-52259a25f5f4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T09:38:09Z'",
+          "ModificationDate": "b'2025-08-07T08:28:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREBTJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:07.264000+00:00",
+        "sequence_number": 149025
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZCW0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - KTL500 MAXI",
+            "ProductDescription": "PIONOWY OGRZEWACZ WODY KENSOL Z WĘŻOWNICĄ MAXI 4,8 M2, 500L KENSOL KTL500 MAXI"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - KTL500 MAXI",
+            "ProductDescription": "KENSOL VERTICAL WATER HEATER WITH MAXI COIL 4.8 M2, 500L KENSOL KTL500 MAXI"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - KTL500 MAXI",
+            "ProductDescription": "KENSOL VERTIKALE WASSERHEIZUNG MIT MAXI-SPULE 4,8 M2, 500L KENSOL KTL500 MAXI"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTL500 MAXI",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049011",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KENSOL Pionowy ogrzewacz wody Kensol z wężownicą MAXI 4,8 m2, 500L"
+      },
+      "properties": {
+        "message_id": "889d78bf-8680-4907-8af8-f911a65ada3c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-09-25T12:45:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZCW0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:12.609000+00:00",
+        "sequence_number": 149316
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMFOSMBL0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-12-1",
+            "ProductDescription": "Pompa ciepła monoblok FoxAIR 12kW 1-fazowa R32"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-12-1",
+            "ProductDescription": "FoxAIR 12kW 1-phase R32 monoblock heat pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-12-1",
+            "ProductDescription": "FoxAIR 12 kW 1-phasige R32-Monoblock-Wärmepumpe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BL-12-1",
+        "Weight": 0.0,
+        "Height": 29.0,
+        "Width": 13707.0,
+        "Depth": 29.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068009",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok FoxAIR 12kW 1-fazowa R32"
+      },
+      "properties": {
+        "message_id": "5eb58238-84a4-4191-848d-5540e18116e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-04T09:10:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMFOSMBL0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:12.757000+00:00",
+        "sequence_number": 107326
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 6 kW",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 6KW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 6 kW",
+            "ProductDescription": "Kensol KTM 6KW monobloc heat pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 6 kW",
+            "ProductDescription": "Wärmepumpe Monoblock Kensol KTM 6KW"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM6KW",
+        "Weight": 120000.0,
+        "Height": 835.0,
+        "Width": 970.0,
+        "Depth": 835.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068012",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pompa ciepła monoblok KTM 6 kW"
+      },
+      "properties": {
+        "message_id": "7a2a85ff-9cc4-4463-a19b-c165509076b2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:17:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:12.757000+00:00",
+        "sequence_number": 107329
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLG-SPL0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła LG THERMA V Hydrosplit 12kW",
+            "ProductDescription": "POMPA CIEPŁA LG THERMA V HYDROSPLIT 12KW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła LG THERMA V Hydrosplit 12kW",
+            "ProductDescription": "LG THERMA V HYDROSPLIT 12KW"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła LG THERMA V Hydrosplit 12kW",
+            "ProductDescription": "LG THERMA V HYDROSPLIT 12KW"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8806091997760"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HU123MRB",
+        "Weight": 128500.0,
+        "Height": 1812.0,
+        "Width": 600.0,
+        "Depth": 1812.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55505
+              },
+              {
+                "CategoryId": 55506
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068013",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e4718928-f9a0-4f05-8900-110215964c9f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-05T22:23:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLG-SPL0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:12.757000+00:00",
+        "sequence_number": 107330
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLMTZCW0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LEMET",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pionowy ogrzewacz wody LEMET - 26.300SE",
+            "ProductDescription": "Pionowy ogrzewacz wody LEMET - 26.300SE MAXI 3,2M2 - 300L"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pionowy ogrzewacz wody LEMET - 26.300SE",
+            "ProductDescription": "LEMET - 26.300SE MAXI 3,2M2 - 300L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pionowy ogrzewacz wody LEMET - 26.300SE",
+            "ProductDescription": "LEMET - 26.300SE MAXI 3,2M2 - 300L"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905419973240"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "26.300SE",
+        "Weight": 145000.0,
+        "Height": 1520.0,
+        "Width": 650.0,
+        "Depth": 1520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047373",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "03061bdf-62d1-4c78-ab1b-13a9ac0f30d5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-09T19:01:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLMTZCW0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:56.476000+00:00",
+        "sequence_number": 115572
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMBOSMBL0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok Bosch CS7000iAW 13kW ORE-T",
+            "ProductDescription": "POMPA CIEPŁA MONOBLOK BOSCH CS7000IAW 13KW ORE-T"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok Bosch CS7000iAW 13kW ORE-T",
+            "ProductDescription": "MONOBLOCK HEAT PUMP BOSCH CS7000IAW 13KW ORE-T"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok Bosch CS7000iAW 13kW ORE-T",
+            "ProductDescription": "MONOBLOCK-WÄRMEPUMPE BOSCH CS7000IAW 13KW ORE-T"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4057749774989"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS7000iAW 13kW ORE-T",
+        "Weight": 182000.0,
+        "Height": 1695.0,
+        "Width": 1122.0,
+        "Depth": 1695.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047730",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok Bosch CS7000iAW 13kW ORE-T"
+      },
+      "properties": {
+        "message_id": "158d0ae2-18d7-4b47-a465-e7c5a97eff31",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-05T23:18:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMBOSMBL0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:49.871000+00:00",
+        "sequence_number": 108041
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMFOSMBL0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-23-3",
+            "ProductDescription": "POMPA CIEPŁA FOXAIR BL-23-3 23KW 3-FAZOWA R32"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-23-3",
+            "ProductDescription": "HEAT PUMP FOXAIR BL-23-3 23KW 3-PHASE R32"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-23-3",
+            "ProductDescription": "WÄRMEPUMPE FOXAIR BL-23-3 23KW 3-PHASIG R32"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BL-23-3",
+        "Weight": 0.0,
+        "Height": 71.0,
+        "Width": 22536.0,
+        "Depth": 71.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066101",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok FoxAIR 23kW 3-fazowa R32"
+      },
+      "properties": {
+        "message_id": "1f530047-893a-4e0f-bfbf-d64c2d6f684c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-04T09:11:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMFOSMBL0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:42.265000+00:00",
+        "sequence_number": 121724
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMFOSMBL0018",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-8-1",
+            "ProductDescription": "POMPA CIEPŁA MONOBLOK FOXAIR 8KW 1-FAZOWA R32 BL-8-1"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-8-1",
+            "ProductDescription": "MONOBLOCK HEAT PUMP FOXAIR 8KW 1-PHASE R32 BL-8-1"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-8-1",
+            "ProductDescription": "MONOBLOCK-WÄRMEPUMPE FOXAIR 8KW 1-PHASIG R32 BL-8-1"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BL-8-1",
+        "Weight": 0.0,
+        "Height": 312.0,
+        "Width": 13632.0,
+        "Depth": 312.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066102",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok FoxAIR 8kW 1-fazowa R32"
+      },
+      "properties": {
+        "message_id": "00c60784-44dd-4c29-bd40-529ada79fc3e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-04T09:11:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMFOSMBL0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:42.265000+00:00",
+        "sequence_number": 121725
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 14 kW",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 14KW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 14 kW",
+            "ProductDescription": "Kensol KTM 14KW monobloc heat pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 14 kW",
+            "ProductDescription": "Wärmepumpe Monoblock Kensol KTM 14KW"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM14KW",
+        "Weight": 170000.0,
+        "Height": 1330.0,
+        "Width": 1050.0,
+        "Depth": 1330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066105",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pompa ciepła monoblok KTM 14 kW"
+      },
+      "properties": {
+        "message_id": "0db83663-8678-4fa6-8c14-5799c46ebad2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:16:44Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:42.265000+00:00",
+        "sequence_number": 121728
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZBU0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bufor stojący bez wężownicy Kensol 100L",
+            "ProductDescription": "Bufor stojący bez wężownicy Kensol 100L KB100L"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bufor stojący bez wężownicy Kensol 100L",
+            "ProductDescription": "Standing buffer without Kensol 100L coil"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bufor stojący bez wężownicy Kensol 100L",
+            "ProductDescription": "Standpuffer ohne Kensol 100L Spule"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84195080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KB100L",
+        "Weight": 32000.0,
+        "Height": 986.0,
+        "Width": 537.0,
+        "Depth": 986.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55510
+              },
+              {
+                "CategoryId": 55511
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066106",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bufor stojący bez wężownicy Kensol 100L"
+      },
+      "properties": {
+        "message_id": "9f4801bd-1fe9-4b9f-be6c-dcdfe483f5e2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T17:25:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZBU0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:42.265000+00:00",
+        "sequence_number": 121729
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZEW0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Grupa pompowa solarna Kensol - KSUPM3 25-75",
+            "ProductDescription": "KENSOL Grupa pompowa solarna Kensol - KSUPM3 25-75"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Grupa pompowa solarna Kensol - KSUPM3 25-75",
+            "ProductDescription": "KENSOL Solar pump group - KSUPM3 25-75"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Grupa pompowa solarna Kensol - KSUPM3 25-75",
+            "ProductDescription": "KENSOL Solarpumpengruppe - KSUPM3 25-75"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KSUPM3 25-75",
+        "Weight": 5700.0,
+        "Height": 430.0,
+        "Width": 300.0,
+        "Depth": 430.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55501
+              },
+              {
+                "CategoryId": 55502
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066107",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Grupa pompowa solarna KSUPM3 25-75"
+      },
+      "properties": {
+        "message_id": "4cec111e-431d-4bb1-9663-8e1ff0825d36",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-09-25T12:44:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZEW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:42.265000+00:00",
+        "sequence_number": 121730
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLG-MBL0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LG - Pompa ciepła Therma V Monobloc S 12 kW",
+            "ProductDescription": "POMPA CIEPŁA LG THERMA V MONOBLOC S 12 KW  LGHM123MR.U34"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LG - Pompa ciepła Therma V Monobloc S 12 kW",
+            "ProductDescription": "HEAT PUMP LG THERMA V MONOBLOC S 12 KW LGHM123MR.U34"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LG - Pompa ciepła Therma V Monobloc S 12 kW",
+            "ProductDescription": "WÄRMEPUMPE LG THERMA V MONOBLOC S 12 KW LGHM123MR.U34"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905515620246"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LGHM123MR.U34",
+        "Weight": 136000.0,
+        "Height": 1570.0,
+        "Width": 1400.0,
+        "Depth": 460.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066108",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła LG Therma V Monobloc S 12 kW"
+      },
+      "properties": {
+        "message_id": "fea56f61-90bc-492f-a7b5-24d8b87c28a3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-06T15:31:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLG-MBL0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:42.265000+00:00",
+        "sequence_number": 121731
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMFOSMBL0019",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok FoxAIR GL-9-1",
+            "ProductDescription": "Pompa ciepła monoblok FoxAIR 9kW 1-fazowa R290  GL-9-1"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok FoxAIR GL-9-1",
+            "ProductDescription": "FoxAIR 9kW 1-phase monoblock heat pump R290 GL-9-1"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok FoxAIR GL-9-1",
+            "ProductDescription": "FoxAIR 9 kW 1-Phasen-Monoblock-Wärmepumpe R290 GL-9-1"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GL-9-1",
+        "Weight": 0.0,
+        "Height": 324.0,
+        "Width": 15126.0,
+        "Depth": 324.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050380",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok FoxAIR 9kW 1-fazowa R290"
+      },
+      "properties": {
+        "message_id": "b48ec4b8-72f0-408b-9e99-86d5fe35937a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-04T09:11:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMFOSMBL0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:11.181000+00:00",
+        "sequence_number": 137778
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMFOSMBL0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok FoxAIR GL-15-3",
+            "ProductDescription": "POMPA CIEPŁA FOXAIR GL-15-3 15KW 3-FAZOWA R290"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok FoxAIR GL-15-3",
+            "ProductDescription": "HEAT PUMP FOXAIR GL-15-3 15KW 3-PHASE R290"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok FoxAIR GL-15-3",
+            "ProductDescription": "WÄRMEPUMPE FOXAIR GL-15-3 15KW 3-PHASIG R290"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GL-15-3",
+        "Weight": 0.0,
+        "Height": 119.0,
+        "Width": 19415.0,
+        "Depth": 119.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050738",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok FoxAIR 15kW 3-fazowa R290"
+      },
+      "properties": {
+        "message_id": "0e60078f-c0d6-4264-acab-26ca598a3d33",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-04T09:10:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMFOSMBL0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:18.041000+00:00",
+        "sequence_number": 138109
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMFOSMBL0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-12-3",
+            "ProductDescription": "Pompa ciepła FoxAIR - BL-12-3 monoblok 12kW 3-fazowa R32"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-12-3",
+            "ProductDescription": "FoxAIR - BL-12-3 monoblock 12kW 3-phase R32 heat pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok FoxAIR BL-12-3",
+            "ProductDescription": "FoxAIR Wärmepumpe - BL-12-3 Monoblock 12kW 3-phasig R32"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BL-12-3",
+        "Weight": 0.0,
+        "Height": 109.0,
+        "Width": 17385.0,
+        "Depth": 109.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071979",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok FoxAIR 12kW 3-fazowa R32"
+      },
+      "properties": {
+        "message_id": "62502c45-3bf3-4e72-8c5e-2024df76b2f2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-04T09:10:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMFOSMBL0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:47.689000+00:00",
+        "sequence_number": 167762
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kensol KTM 17 kW + Hydrobox",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 17 kW + Hydrobox"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kensol KTM 17 kW + Hydrobox",
+            "ProductDescription": "Kensol KTM 17 kW monobloc heat pump + Hydrobox"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kensol KTM 17 kW + Hydrobox",
+            "ProductDescription": "Kensol KTM 17 kW Monoblock-Wärmepumpe + Hydrobox"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM17KW.KTHB",
+        "Weight": 205000.0,
+        "Height": 1330.0,
+        "Width": 1050.0,
+        "Depth": 1330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056281",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pompa ciepła monoblok KTM 17 kW + Hydrobox"
+      },
+      "properties": {
+        "message_id": "cc7c44b9-1dd1-4fe7-98dd-a85214387988",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:17:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:02.009000+00:00",
+        "sequence_number": 117877
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kensol KTM 14 kW + Hydrobox",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 14 kW + Hydrobox"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kensol KTM 14 kW + Hydrobox",
+            "ProductDescription": "Kensol KTM 14 kW monobloc heat pump + Hydrobox"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kensol KTM 14 kW + Hydrobox",
+            "ProductDescription": "Kensol KTM 14 kW Monoblock-Wärmepumpe + Hydrobox"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM14KW.KTHB",
+        "Weight": 205000.0,
+        "Height": 1330.0,
+        "Width": 1050.0,
+        "Depth": 1330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056282",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pompa ciepła monoblok KTM 14 kW + Hydrobox"
+      },
+      "properties": {
+        "message_id": "7fc45315-c5cc-418e-a2f2-0ee9aedf4a06",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:17:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:02.009000+00:00",
+        "sequence_number": 117878
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMHAIMBL0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "HAIER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok Haier 16kW+ATW-A01+YR-E27",
+            "ProductDescription": "POMPA CIEPŁA MONOBLOK HAIER SUPER AQUA 16 KW - STEROWNIK YR-E27 - MODUŁ STEROWANIA ATW-A01"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok Haier 16kW+ATW-A01+YR-E27",
+            "ProductDescription": "Haier Super Aqua monobloc heat pump 16 kW - YR-E27 controller - ATW-A01 control module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok Haier 16kW+ATW-A01+YR-E27",
+            "ProductDescription": "Haier Super Aqua Monoblock-Wärmepumpe 16 kW – YR-E27-Regler – ATW-A01-Steuermodul"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971026239245"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AU112FYCRA(HW)",
+        "Weight": 139000.0,
+        "Height": 1490.0,
+        "Width": 950.0,
+        "Depth": 1490.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052458",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok Haier Super Aqua 16 kW - Sterownik YR-E27 - Moduł Sterowania ATW-A01"
+      },
+      "properties": {
+        "message_id": "2a578abf-5554-4c14-b3d3-25aebab094cb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-05T23:07:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMHAIMBL0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:38.981000+00:00",
+        "sequence_number": 139203
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREBU7",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok FoxAIR 23kW 3-fazowa R32",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok FoxAIR 23kW 3-fazowa R32",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok FoxAIR 23kW 3-fazowa R32",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3440",
+        "Weight": 208000.0,
+        "Height": 1480.0,
+        "Width": 1380.0,
+        "Depth": 1480.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085111",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "83d3e11f-bc66-410e-b174-f7d0e4c5efc1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T13:29:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREBU7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:08.343000+00:00",
+        "sequence_number": 125070
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 17 kW",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 17KW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 17 kW",
+            "ProductDescription": "Kensol KTM 17KW monobloc heat pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 17 kW",
+            "ProductDescription": "Wärmepumpe Monoblock Kensol KTM 17KW"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM17KW",
+        "Weight": 170000.0,
+        "Height": 1330.0,
+        "Width": 1050.0,
+        "Depth": 1330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071981",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pompa ciepła monoblok KTM 17 kW"
+      },
+      "properties": {
+        "message_id": "6929006d-f0fa-4ccc-8a17-4f48e227e0e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:16:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.171000+00:00",
+        "sequence_number": 112426
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kensol KTM 6 kW + Hydrobox",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 6 kW + Hydrobox"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kensol KTM 6 kW + Hydrobox",
+            "ProductDescription": "Kensol KTM 6 kW monobloc heat pump + Hydrobox"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kensol KTM 6 kW + Hydrobox",
+            "ProductDescription": "Kensol KTM 6 kW Monoblock-Wärmepumpe + Hydrobox"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM6KW.KTHB",
+        "Weight": 155000.0,
+        "Height": 835.0,
+        "Width": 970.0,
+        "Depth": 835.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071982",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pompa ciepła monoblok KTM 6 kW + Hydrobox"
+      },
+      "properties": {
+        "message_id": "c744e963-d1ff-4423-9e60-5c737473a90f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:17:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.171000+00:00",
+        "sequence_number": 112427
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZCW0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MAXI KENSOL 4,5 m2, 400L",
+            "ProductDescription": "PIONOWY OGRZEWACZ WODY Z WĘŻOWNICĄ MAXI KENSOL 4,5 M2, 400L KTL400 MAXI"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MAXI KENSOL 4,5 m2, 400L",
+            "ProductDescription": "Vertical water heater with coil MAXI KENSOL 4.5 m2, 400L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MAXI KENSOL 4,5 m2, 400L",
+            "ProductDescription": "Vertikaler Warmwasserbereiter mit Spule MAXI KENSOL 4,5 m2, 400 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTL400 MAXI",
+        "Weight": 186000.0,
+        "Height": 1820.0,
+        "Width": 650.0,
+        "Depth": 1820.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071983",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KENSOL Pionowy ogrzewacz wody z wężownicą MAXI 4,5 m2, 400L"
+      },
+      "properties": {
+        "message_id": "bab14477-04ae-4c1a-bbab-ae40d71ca551",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-04T11:04:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZCW0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.171000+00:00",
+        "sequence_number": 112428
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZCW0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MAXI KENSOL 3,4 m2, 300L",
+            "ProductDescription": "PIONOWY OGRZEWACZ WODY Z WĘŻOWNICĄ MAXI KENSOL 3,4 M2, 300L KTL300 MAX"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MAXI KENSOL 3,4 m2, 300L",
+            "ProductDescription": "KENSOL Vertical water heater with coil MAXI 3.4 m2, 300L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MAXI KENSOL 3,4 m2, 300L",
+            "ProductDescription": "KENSOL Vertikaler Warmwasserbereiter mit Spule MAXI 3,4 m2, 300"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTL300 MAXI",
+        "Weight": 145000.0,
+        "Height": 1520.0,
+        "Width": 650.0,
+        "Depth": 1520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071984",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KENSOL Pionowy ogrzewacz wody z wężownicą MAXI 3,4 m2, 300L"
+      },
+      "properties": {
+        "message_id": "6fb78f00-3696-4581-8f9e-7e1f15903021",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-04T11:04:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZCW0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.171000+00:00",
+        "sequence_number": 112429
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLG-SPL0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła LG Therma V split 14 kW 400V",
+            "ProductDescription": "POMPA CIEPŁA LG THERMA V SPLIT 14 KW 400V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła LG Therma V split 14 kW 400V",
+            "ProductDescription": "LG THERMA V SPLIT 14 KW 400V"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła LG Therma V split 14 kW 400V",
+            "ProductDescription": "LG THERMA V SPLIT 14 KW 400V"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8806098014804"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LG - HU143",
+        "Weight": 94000.0,
+        "Height": 1380.0,
+        "Width": 950.0,
+        "Depth": 1380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55505
+              },
+              {
+                "CategoryId": 55506
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071985",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "LG Pompa ciepła Therma V split 14 kW 400V"
+      },
+      "properties": {
+        "message_id": "46c5fd1c-cd91-462e-b7dc-2332a44e4921",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-05T22:31:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLG-SPL0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.171000+00:00",
+        "sequence_number": 112430
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZCW0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - SOL200L 2W",
+            "ProductDescription": "Kensol Pionowy ogrzewacz wody Kensol z dwiema wężownicami 200l SOL200L 2W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - SOL200L 2W",
+            "ProductDescription": "Kensol Vertical Water Heater with Two Coils 200l SOL200L 2W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - SOL200L 2W",
+            "ProductDescription": "Kensol Vertikaler Warmwasserbereiter mit zwei Spulen 200l SOL200L 2W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SOL200L 2W",
+        "Weight": 97000.0,
+        "Height": 1250.0,
+        "Width": 600.0,
+        "Depth": 1250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052901",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pionowy ogrzewacz wody z dwiema wężownicami 200l"
+      },
+      "properties": {
+        "message_id": "79bacb6a-f70d-43ea-b8d6-9989b14acac0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-09-25T12:45:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZCW0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:53.672000+00:00",
+        "sequence_number": 141583
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZCW0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 200",
+            "ProductDescription": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 200 do pomp ciepła/węż. spir. 2,6m2/grzałka 3kW KTNW200"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 200",
+            "ProductDescription": "KENSOL Stainless Water Exchanger KENSOL 200 for heat pumps/hose spirit. 2.6m2/3kW heater"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 200",
+            "ProductDescription": "KENSOL Edelstahl-Wasseraustauscher KENSOL 200 für Wärmepumpen/Schlauch Geist. 2,6m2/3kW-Heizung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTNW200",
+        "Weight": 53000.0,
+        "Height": 1270.0,
+        "Width": 595.0,
+        "Depth": 1270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053034",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 200 do pomp ciepła/węż. spir. 2,6m2/grzałka 3kW"
+      },
+      "properties": {
+        "message_id": "488e3947-d563-40fb-adc1-41409ee46ec3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-04T11:04:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZCW0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:55.781000+00:00",
+        "sequence_number": 141708
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIO57",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "HAIER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok Haier 7,8kW+ATW-A01+YR-E27",
+            "ProductDescription": "Pompa ciepła monoblok Haier Super Aqua 7,8 kW AU082FYCRA(HW)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok Haier 7,8kW+ATW-A01+YR-E27",
+            "ProductDescription": "Haier Super Aqua monobloc heat pump 7.8 kW - YR-E27 controller - ATW-A01 control module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok Haier 7,8kW+ATW-A01+YR-E27",
+            "ProductDescription": "Haier Super Aqua Monoblock-Wärmepumpe 7,8 kW – YR-E27-Regler – ATW-A01-Steuermodul"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971026239221"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AU082FYCRA(HW)",
+        "Weight": 97000.0,
+        "Height": 1023.0,
+        "Width": 471.0,
+        "Depth": 1005.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054730",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "189f4c03-5122-4770-a9bc-62fe23f9f607",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-03T08:01:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIO57'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:57.389000+00:00",
+        "sequence_number": 160611
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREBUD",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok FoxAIR 22kW 3-fazowa R290",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok FoxAIR 22kW 3-fazowa R290",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok FoxAIR 22kW 3-fazowa R290",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3443",
+        "Weight": 225000.0,
+        "Height": 1370.0,
+        "Width": 560.0,
+        "Depth": 1350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071120",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e4049a36-56bd-4672-b2ad-11e780505c86",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-07T10:48:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREBUD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:17.344000+00:00",
+        "sequence_number": 127770
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZCW0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 300",
+            "ProductDescription": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 300 do pomp ciepła/węż. spir. 3,1m2/grzałka 3kW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 300",
+            "ProductDescription": "KENSOL Stainless Water Exchanger KENSOL 300 for heat pumps/hose spirit. 3.1m2/3kW heater"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 300",
+            "ProductDescription": "KENSOL Edelstahl-Wasseraustauscher KENSOL 300 für Wärmepumpen/Schlauch Geist. 3,1m2/3kW-Heizung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTNW300",
+        "Weight": 63000.0,
+        "Height": 1750.0,
+        "Width": 595.0,
+        "Depth": 1750.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049073",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KENSOL Nierdzewny Wymiennik C.W.U. KENSOL 300 do pomp ciepła/węż. spir. 3,1m2/grzałka 3kW"
+      },
+      "properties": {
+        "message_id": "1104ac7f-b8d0-4c29-8a56-fb9eda3fdaaf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-04T11:04:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZCW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:10.463000+00:00",
+        "sequence_number": 116313
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMBOSMBL0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POMPA OBIEGOWA ELEKTRONICZNA DAB EVOSTA 3 60/180 DN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POMPA OBIEGOWA ELEKTRONICZNA DAB EVOSTA 3 60/180 DN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POMPA OBIEGOWA ELEKTRONICZNA DAB EVOSTA 3 60/180 DN",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8059893165664"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DAB - OT010307",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075928",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa obiegowa elektroniczna DAB EVOSTA 3 60/180 DN 25 GZ 6/4"
+      },
+      "properties": {
+        "message_id": "e076f7b6-8485-4ee7-aeb6-a2b9f0c9171c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-05T23:53:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMBOSMBL0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:47.149000+00:00",
+        "sequence_number": 146127
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMBOSSPL0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła split Bosch Compress 3000 AWS 6kW E",
+            "ProductDescription": "POMPA CIEPŁA SPLIT BOSCH COMPRESS 3000 AWS 6KW E"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła split Bosch Compress 3000 AWS 6kW E",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła split Bosch Compress 3000 AWS 6kW E",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Compress 3000 AWS 6",
+        "Weight": 44000.0,
+        "Height": 834.0,
+        "Width": 950.0,
+        "Depth": 834.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55505
+              },
+              {
+                "CategoryId": 55506
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075929",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła split Bosch Compress 3000 AWS 6kW E"
+      },
+      "properties": {
+        "message_id": "9eb0fddb-edba-400c-8e5e-4d8f60b7f8f9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-08-02T14:36:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMBOSSPL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:47.149000+00:00",
+        "sequence_number": 146128
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLMBL0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 10 kW",
+            "ProductDescription": "Pompa ciepła monoblok Kensol KTM 10KW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 10 kW",
+            "ProductDescription": "Kensol KTM 10KW monobloc heat pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok Kensol KTM 10 kW",
+            "ProductDescription": "Wärmepumpe Monoblock Kensol KTM 10KW"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTM10KW",
+        "Weight": 140000.0,
+        "Height": 985.0,
+        "Width": 1100.0,
+        "Depth": 985.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55503
+              },
+              {
+                "CategoryId": 55504
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075931",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pompa ciepła monoblok KTM 10 kW"
+      },
+      "properties": {
+        "message_id": "f676bcb4-a64e-4f56-9920-3158be826898",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:16:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLMBL0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:47.149000+00:00",
+        "sequence_number": 146130
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLG-SPL0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła LG Therma V split 12 kW 400V",
+            "ProductDescription": "POMPA CIEPŁA LG THERMA V SPLIT 12 KW 400V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła LG Therma V split 12 kW 400V",
+            "ProductDescription": "LG THERMA V SPLIT 12 KW 400V"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła LG Therma V split 12 kW 400V",
+            "ProductDescription": "LG THERMA V SPLIT 12 KW 400V"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8806098014798"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LG - HU123",
+        "Weight": 157000.0,
+        "Height": 1900.0,
+        "Width": 800.0,
+        "Depth": 1200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55505
+              },
+              {
+                "CategoryId": 55506
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075932",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "03f55c2a-6225-4bed-b136-45152135824c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-05T22:27:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLG-SPL0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:47.149000+00:00",
+        "sequence_number": 146131
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMLG-ZEW0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "LG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LG - Pom. Ciep. Therma V split 7 kW jedn. zew.",
+            "ProductDescription": " POMPA CIEPŁA LG THERMA V SPLIT 7 KW JEDNOSTKA ZEWNĘTRZNA LGHU071MR.U44"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LG - Pom. Ciep. Therma V split 7 kW jedn. zew.",
+            "ProductDescription": "HEAT PUMP LG THERMA V SPLIT 7 KW OUTDOOR UNIT LGHU071MR.U44"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LG - Pom. Ciep. Therma V split 7 kW jedn. zew.",
+            "ProductDescription": "WÄRMEPUMPE LG THERMA V SPLIT 7 KW AUSSENGERÄT LGHU071MR.U44"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8806098491674"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LGHU071MR.U44",
+        "Weight": 60000.0,
+        "Height": 900.0,
+        "Width": 1060.0,
+        "Depth": 455.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55501
+              },
+              {
+                "CategoryId": 55502
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075933",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "LG Pompa ciepła Therma V split 7 kW jednostka zewnętrzna"
+      },
+      "properties": {
+        "message_id": "adaef921-f9ab-461d-8928-65057e8452da",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-06T15:32:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMLG-ZEW0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:47.149000+00:00",
+        "sequence_number": 146132
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMHAIMBL0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "HAIER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ciepła monoblok Haier 11kW+ATW-A01+YR-E27",
+            "ProductDescription": "POMPA CIEPŁA MONOBLOK HAIER SUPER AQUA 11 KW - STEROWNIK YR-E27 - MODUŁ STEROWANIA ATW-A01"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ciepła monoblok Haier 11kW+ATW-A01+YR-E27",
+            "ProductDescription": "Haier Super Aqua monobloc heat pump 11 kW - YR-E27 controller - ATW-A01 control module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ciepła monoblok Haier 11kW+ATW-A01+YR-E27",
+            "ProductDescription": "Haier Super Aqua Monoblock-Wärmepumpe 11 kW - Regler YR-E27 - Regelmodul ATW-A01"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971026239238"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AU112FYCRA(HW)",
+        "Weight": 139000.0,
+        "Height": 1490.0,
+        "Width": 950.0,
+        "Depth": 1490.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55504
+              },
+              {
+                "CategoryId": 55503
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062186",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa ciepła monoblok Haier Super Aqua 11 kW - Sterownik YR-E27 - Moduł Sterowania ATW-A01"
+      },
+      "properties": {
+        "message_id": "8278dfba-d158-448a-9a24-4056e9438c9f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-05T23:02:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMHAIMBL0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:22.635000+00:00",
+        "sequence_number": 118930
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POMKNLZCW0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy ciepła",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - SOL300L 2W",
+            "ProductDescription": "Kensol Pionowy ogrzewacz wody Kensol z dwiema wężownicami 300l SOL300L 2W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - SOL300L 2W",
+            "ProductDescription": "Kensol Vertical Water Heater with Two Coils 300l SOL300L 2W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pionowy ogrzewacz wody Kensol - SOL300L 2W",
+            "ProductDescription": "Kensol Vertikaler Warmwasserbereiter mit zwei Spulen 300l SOL300L 2W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85161011",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SOL300L 2W",
+        "Weight": 130000.0,
+        "Height": 1520.0,
+        "Width": 650.0,
+        "Depth": 1520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55508
+              },
+              {
+                "CategoryId": 55509
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56032
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062187",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kensol Pionowy ogrzewacz wody z dwiema wężownicami 300l"
+      },
+      "properties": {
+        "message_id": "47d36c84-db48-4a04-833a-a1b1fe3bfeee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-09-25T12:45:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POMKNLZCW0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:22.635000+00:00",
+        "sequence_number": 118931
+      }
+    }
+  ]
+}

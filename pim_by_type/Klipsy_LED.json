@@ -1,0 +1,2329 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie meblowe 3LED niebieskie",
+            "ProductDescription": "Cama oświetlenie meblowe 3LED niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie meblowe 3LED niebieskie",
+            "ProductDescription": "Cama shelf-mounted blue 3LED light"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie meblowe 3LED niebieskie",
+            "ProductDescription": "Cama 3LED nieb LED-Panelleuchte Rechteckig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005336"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3LED nieb",
+        "Weight": 235.0,
+        "Height": 110.0,
+        "Width": 50.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052287",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie meblowe 3 LED niebieskie"
+      },
+      "properties": {
+        "message_id": "749b3cc7-d20b-4d77-8d60-578420e634fe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-15T08:50:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:53.242000+00:00",
+        "sequence_number": 117400
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie meblowe 4LED białe",
+            "ProductDescription": "Cama oświetlenie meblowe 4LED białe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie meblowe 4LED białe",
+            "ProductDescription": "Cama shelf-mounted white 4LED light"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie meblowe 4LED białe",
+            "ProductDescription": "Cama 4LED BI LED-Panelleuchte Rechteckig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005497"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4LED BI",
+        "Weight": 300.0,
+        "Height": 110.0,
+        "Width": 50.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056079",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eee78da0-2d8b-4267-9e47-00dca748d957",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-03-10T11:23:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:40.420000+00:00",
+        "sequence_number": 101783
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0017",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie REJA komoda 4S białe",
+            "ProductDescription": "Cama Oświetlenie REJA komoda 4S białe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie REJA komoda 4S białe",
+            "ProductDescription": "Cama Lighting REJA dresser 4S white"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie REJA komoda 4S białe",
+            "ProductDescription": "Cama Beleuchtung REJA Kommode 4S weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005817"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "REJA 4S LED BI",
+        "Weight": 400.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056080",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie REJA komoda 4S białe"
+      },
+      "properties": {
+        "message_id": "6d694371-39b9-409b-8e2d-9e7a341602a3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-16T15:18:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:40.420000+00:00",
+        "sequence_number": 101784
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0025",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie szafka nocna QIU 2szt. niebieskie",
+            "ProductDescription": "Oświetlenie szafka nocna QIU 2 szt. niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie szafka nocna QIU 2szt. niebieskie",
+            "ProductDescription": "QIU bedside table lighting 2 pcs blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie szafka nocna QIU 2szt. niebieskie",
+            "ProductDescription": "QIU Nachttischbeleuchtung 2 Stück blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815007507"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QIU SZF LED NI",
+        "Weight": 439.0,
+        "Height": 102.0,
+        "Width": 270.0,
+        "Depth": 111.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056081",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie szafka nocna QIU 2szt. niebieskie"
+      },
+      "properties": {
+        "message_id": "8f39e874-2e51-4502-9b56-505bdf43413b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-09-16T09:44:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:40.420000+00:00",
+        "sequence_number": 101785
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0026",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie szafka nocna QIU 2szt. RGB",
+            "ProductDescription": "Oświetlenie szafka nocna QIU 2 szt. RGB"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie szafka nocna QIU 2szt. RGB",
+            "ProductDescription": "QIU bedside cabinet lighting 2 pcs. RGB"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie szafka nocna QIU 2szt. RGB",
+            "ProductDescription": "QIU Nachttischbeleuchtung 2 Stk. RGB"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815007644"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QIU SZF RGB",
+        "Weight": 400.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056082",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie szafka nocna QIU 2szt. RGB"
+      },
+      "properties": {
+        "message_id": "bbf9b5ab-c342-4c87-acd5-3b05133eed58",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-09-16T09:44:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:40.420000+00:00",
+        "sequence_number": 101786
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0023",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie komoda QIU 2D1K niebieskie",
+            "ProductDescription": "Oświetlenie komoda QIU 2D1K niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie komoda QIU 2D1K niebieskie",
+            "ProductDescription": "Lighting dresser QIU 2D1K blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie komoda QIU 2D1K niebieskie",
+            "ProductDescription": "Beleuchtung Kommode QIU 2D1K blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815007491"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QIU KOM LED NI",
+        "Weight": 300.0,
+        "Height": 53.0,
+        "Width": 270.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053156",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie komoda QIU 2D1K niebieskie"
+      },
+      "properties": {
+        "message_id": "dc655af8-bc6d-4a30-91df-ff19d036399b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-09-16T09:44:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:47.405000+00:00",
+        "sequence_number": 134749
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie meblowe 4LED niebieskie",
+            "ProductDescription": "Cama oświetlenie meblowe 4LED niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie meblowe 4LED niebieskie",
+            "ProductDescription": "Cama shelf-mounted blue 4LED light"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie meblowe 4LED niebieskie",
+            "ProductDescription": "Cama 4LED nieb LED-Panelleuchte Rechteckig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005329"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4LED nieb",
+        "Weight": 258.0,
+        "Height": 110.0,
+        "Width": 270.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065934",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie meblowe 4LED niebieskie"
+      },
+      "properties": {
+        "message_id": "861e1c5a-ca45-4a2f-a27b-fdcaaa4943e0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-15T08:55:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:13.499000+00:00",
+        "sequence_number": 151187
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie meblowe 1LED niebieskie",
+            "ProductDescription": "Cama oświetlenie meblowe 1LED niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie meblowe 1LED niebieskie",
+            "ProductDescription": "Cama shelf-mounted blue 1LED light"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie meblowe 1LED niebieskie",
+            "ProductDescription": "Cama 1Led nieb Rechteckig AC"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005596"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1LED NIE",
+        "Weight": 300.0,
+        "Height": 110.0,
+        "Width": 50.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065935",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c88174f6-f02a-40de-a0fc-2dd163bb7209",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-15T11:41:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:13.499000+00:00",
+        "sequence_number": 151188
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie meblowe 3LED białe",
+            "ProductDescription": "Cama oświetlenie meblowe 3LED białe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie meblowe 3LED białe",
+            "ProductDescription": "Cama shelf-mounted white 3LED light"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie meblowe 3LED białe",
+            "ProductDescription": "Cama 3LED BI LED-Panelleuchte Rechteckig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005534"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3LED białe",
+        "Weight": 300.0,
+        "Height": 50.0,
+        "Width": 270.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067842",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cf83a484-ffb3-4220-9c62-4667795a8a78",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-04-07T11:27:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:19.374000+00:00",
+        "sequence_number": 151508
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie szafka RTV REJA niebieskie",
+            "ProductDescription": "Cama Oświetlenie szafka RTV REJA niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie szafka RTV REJA niebieskie",
+            "ProductDescription": "Cama RTV cabinet lighting REJA blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie szafka RTV REJA niebieskie",
+            "ProductDescription": "Cama RTV Schrankbeleuchtung REJA blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005763"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "REJA LED RTV BL",
+        "Weight": 300.0,
+        "Height": 110.0,
+        "Width": 270.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067843",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie szafka RTV REJA niebieskie"
+      },
+      "properties": {
+        "message_id": "bf8ce707-cb29-4984-a8e7-d83000b76696",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-12-02T21:53:24Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:19.374000+00:00",
+        "sequence_number": 151509
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0024",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie komoda QIU 2D1K RGB",
+            "ProductDescription": "Oświetlenie komoda QIU 2D1K RGB"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie komoda QIU 2D1K RGB",
+            "ProductDescription": "Lighting QIU 2D1K RGB chest of drawers"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie komoda QIU 2D1K RGB",
+            "ProductDescription": "Beleuchtung QIU 2D1K RGB Kommode"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815007637"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QIU KOM RGB",
+        "Weight": 400.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067844",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie komoda QIU 2D1K RGB"
+      },
+      "properties": {
+        "message_id": "040ec268-5f44-4e47-871d-e7db9457439b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-09-16T09:44:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:19.374000+00:00",
+        "sequence_number": 151510
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie meblowe 2LED niebieskie",
+            "ProductDescription": "Cama oświetlenie meblowe 2LED niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie meblowe 2LED niebieskie",
+            "ProductDescription": "Cama shelf-mounted blue 2LED light"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie meblowe 2LED niebieskie",
+            "ProductDescription": "Cama 2Led nieb Rechteckig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005312"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2Led nieb",
+        "Weight": 250.0,
+        "Height": 110.0,
+        "Width": 50.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071791",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d357280e-a715-4532-8672-8f55521a7315",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-04T13:26:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:33.471000+00:00",
+        "sequence_number": 152248
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie RTV QIU 160 niebieskie",
+            "ProductDescription": "Cama Oświetlenie RTV QIU 160 niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie RTV QIU 160 niebieskie",
+            "ProductDescription": "Cama RTV lighting QIU 160 blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie RTV QIU 160 niebieskie",
+            "ProductDescription": "Cama RTV-Beleuchtung QIU 160 blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005701"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QIOU 160 LED",
+        "Weight": 300.0,
+        "Height": 110.0,
+        "Width": 270.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071792",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie RTV QIU 160 niebieskie"
+      },
+      "properties": {
+        "message_id": "cedc3d50-bba1-4615-9099-e1793fbeb518",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-07-16T10:23:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:33.471000+00:00",
+        "sequence_number": 152249
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie LED szafka RTV REJA białe",
+            "ProductDescription": "Cama Oświetlenie LED szafka RTV REJA białe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie LED szafka RTV REJA białe",
+            "ProductDescription": "Cama LED lighting RTV cabinet REJA white"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie LED szafka RTV REJA białe",
+            "ProductDescription": "Cama LED-Beleuchtung RTV Schrank REJA weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005770"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "REJA LED RTV BI",
+        "Weight": 300.0,
+        "Height": 110.0,
+        "Width": 270.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071793",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie LED szafka RTV REJA białe"
+      },
+      "properties": {
+        "message_id": "faf375f7-3f89-4364-9c2e-8a8ce59f6e17",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-12-02T22:00:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:33.471000+00:00",
+        "sequence_number": 152250
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0019",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie REJA 2D białe",
+            "ProductDescription": "Cama Oświetlenie REJA 2D białe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie REJA 2D białe",
+            "ProductDescription": "Cama Lighting REJA 2D white"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie REJA 2D białe",
+            "ProductDescription": "Cama Beleuchtung REJA 2D weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005794"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "REJA 2D LED BI",
+        "Weight": 400.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071794",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie REJA 2D białe"
+      },
+      "properties": {
+        "message_id": "fafb3164-8bc0-4dee-a3e9-404155a50ea4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-16T15:18:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:33.471000+00:00",
+        "sequence_number": 152251
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0027",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie punktowe Polarus klips klejony niebies",
+            "ProductDescription": "Cama Oświetlenie punktowe Polarus klips klejony niebieski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie punktowe Polarus klips klejony niebies",
+            "ProductDescription": "Cama Spot lighting Polarus blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie punktowe Polarus klips klejony niebies",
+            "ProductDescription": "Cama Polarus1LED Quadratisch AC BLAU"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005558"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Polarus",
+        "Weight": 251.0,
+        "Height": 50.0,
+        "Width": 270.0,
+        "Depth": 111.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "EU",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071795",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "528fdf3c-42e7-4ce2-be45-18a3c2d1bdd7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-09-01T14:57:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:33.471000+00:00",
+        "sequence_number": 152252
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0022",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie RTV QIU 200 RGB",
+            "ProductDescription": "Cama Oświetlenie RTV QIU 200 RGB"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie RTV QIU 200 RGB",
+            "ProductDescription": "Cama RTV lighting QIU 200 RGB"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie RTV QIU 200 RGB",
+            "ProductDescription": "Cama RTV-Beleuchtung QIU 200 RGB"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005732"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QIU RTV200 RGB",
+        "Weight": 300.0,
+        "Height": 100.0,
+        "Width": 350.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050819",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie RTV QIU 200 RGB"
+      },
+      "properties": {
+        "message_id": "b01de86d-ab45-4fe1-92d3-dc440e639e6e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-16T15:18:37Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:19.025000+00:00",
+        "sequence_number": 138184
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0020",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie szafka nocna REJA białe",
+            "ProductDescription": "Cama Oświetlenie szafka nocna REJA białe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie szafka nocna REJA białe",
+            "ProductDescription": "Cama REJA bedside table lighting white"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie szafka nocna REJA białe",
+            "ProductDescription": "Cama REJA Nachttischleuchte weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005831"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "REJA SZF LED BI",
+        "Weight": 400.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55397
+              },
+              {
+                "CategoryId": 54916
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051462",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie szafka nocna REJA białe"
+      },
+      "properties": {
+        "message_id": "ec979b88-7a8a-4028-a056-70c7703cc010",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-16T15:18:16Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:31.215000+00:00",
+        "sequence_number": 138771
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie meblowe 2LED białe",
+            "ProductDescription": "Cama oświetlenie meblowe 2LED białe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie meblowe 2LED białe",
+            "ProductDescription": "Cama shelf-mounted white 2LED light"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie meblowe 2LED białe",
+            "ProductDescription": "Cama 2LED BI LED-Panelleuchte Rechteckig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005527"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2LED białe",
+        "Weight": 300.0,
+        "Height": 50.0,
+        "Width": 270.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55397
+              },
+              {
+                "CategoryId": 54916
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55317
+              },
+              {
+                "CategoryId": 53153
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062001",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "09f599ce-1195-4c0b-b041-48964a423986",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-04-07T11:23:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:41.877000+00:00",
+        "sequence_number": 155798
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie RTV QIU 200 niebieskie",
+            "ProductDescription": "Cama Oświetlenie RTV QIU 200 niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie RTV QIU 200 niebieskie",
+            "ProductDescription": "Cama RTV lighting QIU 200 blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie RTV QIU 200 niebieskie",
+            "ProductDescription": "Cama RTV-Beleuchtung QIU 200 blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005725"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QIU 200 LED",
+        "Weight": 300.0,
+        "Height": 50.0,
+        "Width": 270.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55397
+              },
+              {
+                "CategoryId": 54916
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55317
+              },
+              {
+                "CategoryId": 53153
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062002",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e1e862e5-4687-4a53-9b15-2c14a8634d0f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-05-12T10:06:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:41.877000+00:00",
+        "sequence_number": 155799
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie szafka nocna REJA niebieskie",
+            "ProductDescription": "Cama Oświetlenie szafka nocna REJA niebieski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie szafka nocna REJA niebieskie",
+            "ProductDescription": "Cama REJA bedside table light blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie szafka nocna REJA niebieskie",
+            "ProductDescription": "Cama REJA Nachttischleuchte blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005824"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "REJA NSD LED BL",
+        "Weight": 350.0,
+        "Height": 100.0,
+        "Width": 110.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55397
+              },
+              {
+                "CategoryId": 54916
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062003",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f61ff80f-0905-4dad-8bc7-8f28c2da84fe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-10-20T12:12:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:41.877000+00:00",
+        "sequence_number": 155800
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie punktowe Polarus klips klejony biały",
+            "ProductDescription": "Cama Oświetlenie punktowe Polarus klips klejony biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie punktowe Polarus klips klejony biały",
+            "ProductDescription": "Cama Spot lighting Polarus white"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie punktowe Polarus klips klejony biały",
+            "ProductDescription": "Cama Polarus1LED Quadratisch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005541"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Polarus",
+        "Weight": 26.0,
+        "Height": 27.0,
+        "Width": 107.0,
+        "Depth": 56.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049383",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fdc9fb60-2d2f-4226-a86a-537749b0f4fb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-04-07T11:19:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:13.339000+00:00",
+        "sequence_number": 116470
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie REJA komoda 4S niebieskie",
+            "ProductDescription": "Cama Oświetlenie REJA komoda 4S niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie REJA komoda 4S niebieskie",
+            "ProductDescription": "Cama Lighting REJA dresser 4S blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie REJA komoda 4S niebieskie",
+            "ProductDescription": "Cama Beleuchtung REJA Kommode 4S blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005800"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "REJA 4S LED NI",
+        "Weight": 400.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075740",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie REJA komoda 4S niebieskie"
+      },
+      "properties": {
+        "message_id": "d958e97b-afa0-4747-bc14-4cee61d83ded",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-16T15:18:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.555000+00:00",
+        "sequence_number": 145951
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0018",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie REJA 2D niebieskie",
+            "ProductDescription": "Cama Oświetlenie REJA 2D niebieskie"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie REJA 2D niebieskie",
+            "ProductDescription": "Cama Lighting REJA 2D blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie REJA 2D niebieskie",
+            "ProductDescription": "Cama Beleuchtung REJA 2D blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005787"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "REJA 2D LED NI",
+        "Weight": 300.0,
+        "Height": 50.0,
+        "Width": 110.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54916
+              },
+              {
+                "CategoryId": 55397
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075741",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie REJA 2D niebieskie"
+      },
+      "properties": {
+        "message_id": "a6c38006-2fdd-4288-905c-8ea78901baab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-16T15:18:11Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.555000+00:00",
+        "sequence_number": 145952
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSWCMMKLE0021",
+        "ProductVersion": "1.2",
+        "ProductType": "Klipsy LED",
+        "Brand": "Cama MEBLE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie RTV QIU 160 RGB",
+            "ProductDescription": "Cama Oświetlenie RTV QIU 160 RGB"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie RTV QIU 160 RGB",
+            "ProductDescription": "Cama RTV lighting QIU 160 RGB"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie RTV QIU 160 RGB",
+            "ProductDescription": "Cama RTV-Beleuchtung QIU 160 RGB"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903815005718"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85299096",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QIU RTV160 RGB",
+        "Weight": 300.0,
+        "Height": 100.0,
+        "Width": 60.0,
+        "Depth": 350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.81.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55397
+              },
+              {
+                "CategoryId": 54916
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53153
+              },
+              {
+                "CategoryId": 55317
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075742",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Oświetlenie RTV QIU 160 RGB"
+      },
+      "properties": {
+        "message_id": "e0923bc5-e36b-4c62-b1ed-c9c48d903fea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-16T15:18:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSWCMMKLE0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:43.555000+00:00",
+        "sequence_number": 145953
+      }
+    }
+  ]
+}

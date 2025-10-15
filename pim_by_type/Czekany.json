@@ -1,0 +1,337 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRKLE2",
+        "ProductVersion": "1.1",
+        "ProductType": "Czekany",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Osłona czekana Petzl Pick And Spike Protection",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Osłona czekana Petzl Pick And Spike Protection",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Osłona czekana Petzl Pick And Spike Protection",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "677073",
+        "Weight": 155.0,
+        "Height": 30.0,
+        "Width": 100.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56624
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086039",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54fb2be3-f791-464e-9b4d-59d9e85b6c42",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T07:21:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRKLE2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125519
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRKAZ1",
+        "ProductVersion": "1.1",
+        "ProductType": "Czekany",
+        "Brand": "Black Diamond",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Woreczek na magnezję Black Diamond Mojo Chalk Bag -",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Woreczek na magnezję Black Diamond Mojo Chalk Bag -",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Woreczek na magnezję Black Diamond Mojo Chalk Bag -",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "591109",
+        "Weight": 1000.0,
+        "Height": 200.0,
+        "Width": 300.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56624
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091433",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a8809b46-965e-47a4-8ca9-d2520759a0fc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-22T07:20:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRKAZ1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:20.761000+00:00",
+        "sequence_number": 170930
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRL305",
+        "ProductVersion": "1.1",
+        "ProductType": "Czekany",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Woreczek na magnezję Ocun Lucky - leafs colors",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Woreczek na magnezję Ocun Lucky - leafs colors",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Woreczek na magnezję Ocun Lucky - leafs colors",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8591804666759"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "559090",
+        "Weight": 1000.0,
+        "Height": 200.0,
+        "Width": 300.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56624
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094357",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a31a208d-4afd-4055-a9df-92a518b273bb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-06T07:11:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRL305'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:47.641000+00:00",
+        "sequence_number": 172275
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRKKXY",
+        "ProductVersion": "1.1",
+        "ProductType": "Czekany",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Woreczek na magnezję Climbing Technology Trapeze -",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Woreczek na magnezję Climbing Technology Trapeze -",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Woreczek na magnezję Climbing Technology Trapeze -",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "16950",
+        "Weight": 1000.0,
+        "Height": 200.0,
+        "Width": 300.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56624
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090954",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "538d52f6-1999-4a2b-a874-6d7dcf743379",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T10:24:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRKKXY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131615
+      }
+    }
+  ]
+}

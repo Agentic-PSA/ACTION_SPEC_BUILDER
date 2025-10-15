@@ -1,0 +1,86 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHHE",
+        "ProductVersion": "1.2",
+        "ProductType": "przybory malarsko-lakiernicze",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw pokrowców na montaż EQ6/NEQ6 PRO/EQ6-R",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw pokrowców na montaż EQ6/NEQ6 PRO/EQ6-R",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw pokrowców na montaż EQ6/NEQ6 PRO/EQ6-R",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "63079098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DO-6927",
+        "Weight": 2900.0,
+        "Height": 1420.0,
+        "Width": 73.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.29.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55277
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53043
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085387",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2b501f2e-79c5-4ab7-99df-444bb3183f93",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T07:22:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHHE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:22.130000+00:00",
+        "sequence_number": 136561
+      }
+    }
+  ]
+}

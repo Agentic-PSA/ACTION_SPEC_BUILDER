@@ -1,0 +1,399 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LITAN1KTO0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła toaletowe",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Składane krzesło toaletowe",
+            "ProductDescription": "Składane krzesło toaletowe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Składane krzesło toaletowe",
+            "ProductDescription": "Folding toilet chair"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Składane krzesło toaletowe",
+            "ProductDescription": "Toilettenklappstuhl"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571457550"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 6250.0,
+        "Height": 560.0,
+        "Width": 620.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56390
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018201",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cccef7d8-e71d-4b04-bd5c-7cc2692d16ce",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-29T11:43:22Z'",
+          "ModificationDate": "b'2025-06-04T12:05:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAN1KTO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:24.477000+00:00",
+        "sequence_number": 122710
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVKTO0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła toaletowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło toaletowe składane 3w1",
+            "ProductDescription": "Krzesło toaletowe składane 3w1 KT100AM"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło toaletowe składane 3w1",
+            "ProductDescription": "Folding toilet chair 3in1 KT100AM"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło toaletowe składane 3w1",
+            "ProductDescription": "Klappbarer Toilettenstuhl 3in1 KT100AM"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410829"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KT100AM",
+        "Weight": 7390.0,
+        "Height": 550.0,
+        "Width": 395.0,
+        "Depth": 590.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56390
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073381",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "14d453df-5922-478d-8a95-30b491d64a18",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T15:45:36Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVKTO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:16.741000+00:00",
+        "sequence_number": 152998
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPAN12OO0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła toaletowe",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Składane krzesło toaletowe (WYPRZEDAŻ)",
+            "ProductDescription": "Składane krzesło toaletowe Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Składane krzesło toaletowe (WYPRZEDAŻ)",
+            "ProductDescription": "Folding toilet chair Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Składane krzesło toaletowe (WYPRZEDAŻ)",
+            "ProductDescription": "Toilettenklappstuhl Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571457550"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 6250.0,
+        "Height": 560.0,
+        "Width": 620.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56390
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100030900",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ed82a79a-d84f-4f6c-b7e5-5ab9ebabc660",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-21T10:52:04Z'",
+          "ModificationDate": "b'2025-06-04T12:12:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPAN12OO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:02.901000+00:00",
+        "sequence_number": 110831
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVKTO0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła toaletowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło toaletowe składane 3w1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło toaletowe składane 3w1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło toaletowe składane 3w1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410799"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KT100AM",
+        "Weight": 5400.0,
+        "Height": 400.0,
+        "Width": 600.0,
+        "Depth": 560.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56390
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077292",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7dc6d3ef-4cd2-4b29-b4e4-ff35c7832ffd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-13T09:16:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVKTO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:01.237000+00:00",
+        "sequence_number": 156564
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITTM2KTO0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Krzesła toaletowe",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Krzesło toaletowe stałe TGR-R KTS-S 668",
+            "ProductDescription": "Krzesło toaletowe stałe TGR-R KT-S 668"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Krzesło toaletowe stałe TGR-R KTS-S 668",
+            "ProductDescription": "Fixed toilet chair TGR-R KT-S 668"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Krzesło toaletowe stałe TGR-R KTS-S 668",
+            "ProductDescription": "Fester Toilettenstuhl TGR-R KT-S 668"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983720140"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94017900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 5508.0,
+        "Height": 194.0,
+        "Width": 635.0,
+        "Depth": 487.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56390
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018315",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5c3e93c0-3ec5-40a2-ad81-1571ddb8368f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-18T11:29:32Z'",
+          "ModificationDate": "b'2025-06-04T12:05:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITTM2KTO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147575
+      }
+    }
+  ]
+}

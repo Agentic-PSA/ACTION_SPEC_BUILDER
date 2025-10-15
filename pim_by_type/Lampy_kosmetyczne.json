@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "KLGMENLAM0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Lampy kosmetyczne",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampa światła dziennego Medisana LT 460",
+            "ProductDescription": "Lampa światła dziennego Medisana LT 460 (powierzchnia 20x12 cm)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampa światła dziennego Medisana LT 460",
+            "ProductDescription": "Medisana LT 460 daylight lamp (area 20x12 cm)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampa światła dziennego Medisana LT 460",
+            "ProductDescription": "Medisana LT 460 Tageslichtlampe (Fläche 20x12 cm)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588452208"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85437090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "45220",
+        "Weight": 1000.0,
+        "Height": 90.0,
+        "Width": 305.0,
+        "Depth": 195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54696
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54536
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049026",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Lampa światła dziennego Medisana LT 460 (powierzchnia 20x12 cm)"
+      },
+      "properties": {
+        "message_id": "4e3edd67-7751-4def-8fa6-d2d798d69bfe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T13:18:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KLGMENLAM0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:12.609000+00:00",
+        "sequence_number": 149331
+      }
+    }
+  ]
+}

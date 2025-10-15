@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "ARMBLOCZS0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Zamki centralne - Sterowniki",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BLOW ZDALNE STEROWANIE ZAMKIEM CENTR. BLOW S30",
+            "ProductDescription": "BLOW S30"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BLOW ZDALNE STEROWANIE ZAMKIEM CENTR. BLOW S30",
+            "ProductDescription": "BLOW S30"
+          },
+          {
+            "Language": "de",
+            "ProductName": "BLOW ZDALNE STEROWANIE ZAMKIEM CENTR. BLOW S30",
+            "ProductDescription": "BLOW S30"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804063605"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85444210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "26-106#",
+        "Weight": 295.0,
+        "Height": 95.0,
+        "Width": 125.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53744
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069233",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "56480b53-be13-423d-a7a6-163bbb7f40d7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-26T13:16:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ARMBLOCZS0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:22.875000+00:00",
+        "sequence_number": 151696
+      }
+    }
+  ]
+}

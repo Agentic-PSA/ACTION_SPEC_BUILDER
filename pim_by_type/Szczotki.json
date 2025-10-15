@@ -1,0 +1,1130 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SPDLEHSZC0003",
+        "ProductVersion": "1.3",
+        "ProductType": "Szczotki",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do zamiatania z drążkiem i zamykaną szufelką",
+            "ProductDescription": "Leifheit 41405 śmietniczka/zestaw śmietniczek Czarny, Szary, Turkusowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do zamiatania z drążkiem i zamykaną szufelką",
+            "ProductDescription": "Leifheit 41405 dustpan/dustpan set Black, Grey, Turquoise"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do zamiatania z drążkiem i zamykaną szufelką",
+            "ProductDescription": "Leifheit 41405 Kehrblech/Kehrblech-Set Schwarz, Grau, Türkis"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501414052"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "41405",
+        "Weight": 890.0,
+        "Height": 290.0,
+        "Width": 1190.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027082",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw do zamiatania z drążkiem i zamykaną szufelką Leifheit"
+      },
+      "properties": {
+        "message_id": "9e86b3c5-e252-4a1b-9369-a242083a042d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-12T14:03:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDLEHSZC0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:46.114000+00:00",
+        "sequence_number": 132850
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDLEHSZC0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szczotka mechaniczna Regulus",
+            "ProductDescription": "LEIFHEIT 11700 szczotka elektryczna Turkusowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szczotka mechaniczna Regulus",
+            "ProductDescription": "LEIFHEIT 11700 sweeper Turquoise"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szczotka mechaniczna Regulus",
+            "ProductDescription": "LEIFHEIT 11700 Teppichkehrer Türkis"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501117007"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1605.0,
+        "Height": 230.0,
+        "Width": 190.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100139852",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Szczotka mechaniczna Regulus Leifheit"
+      },
+      "properties": {
+        "message_id": "aca0eb50-09b9-48df-94db-92417ee69ea1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-12T14:03:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDLEHSZC0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:16.606000+00:00",
+        "sequence_number": 169205
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDLEHSZC0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szczotka mechaniczna Regulus Supra",
+            "ProductDescription": "Leifheit Regulus Supra szczotka elektryczna Niebieski, Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szczotka mechaniczna Regulus Supra",
+            "ProductDescription": "Leifheit Regulus Supra sweeper Blue, Silver"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szczotka mechaniczna Regulus Supra",
+            "ProductDescription": "Leifheit Regulus Supra Teppichkehrer Blau, Silber"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501119506"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1125.0,
+        "Height": 280.0,
+        "Width": 260.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100139853",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Szczotka mechaniczna Regulus Supra Leifheit"
+      },
+      "properties": {
+        "message_id": "9d37ddab-6c60-4975-9573-90231b7bfc67",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-12T14:03:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDLEHSZC0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:16.606000+00:00",
+        "sequence_number": 169206
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDLEHSZC0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szczotka wielofunkcyjna Supra",
+            "ProductDescription": "LEIFHEIT 56415 mop Guma Zielony, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szczotka wielofunkcyjna Supra",
+            "ProductDescription": "LEIFHEIT 56415 mop Rubber Green, Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szczotka wielofunkcyjna Supra",
+            "ProductDescription": "LEIFHEIT 56415 Mopp Gummi Grün, Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501564153"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 815.0,
+        "Height": 345.0,
+        "Width": 870.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100139854",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Szczotka wielofunkcyjna Supra Leifheit"
+      },
+      "properties": {
+        "message_id": "db20b687-9ab9-45bb-9ce9-4a1eaad6e052",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-12T14:03:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDLEHSZC0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:16.606000+00:00",
+        "sequence_number": 169207
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDLEHSZC0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zmiotka Clean & Away z drążkiem teleskopowym",
+            "ProductDescription": "Leifheit Clean & Away Mop z drążkiem teleskopowym"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zmiotka Clean & Away z drążkiem teleskopowym",
+            "ProductDescription": "Leifheit Clean & Away mop"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zmiotka Clean & Away z drążkiem teleskopowym",
+            "ProductDescription": "Leifheit Clean & Away Mopp"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501566676"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 280.0,
+        "Height": 115.0,
+        "Width": 710.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100139855",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zmiotka Clean & Away z drążkiem teleskopowym Leifheit"
+      },
+      "properties": {
+        "message_id": "1186251c-bf29-454b-9e3a-6c2945aea068",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-12T14:04:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDLEHSZC0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:16.606000+00:00",
+        "sequence_number": 169208
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOL8",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "BRADAS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bradas ESQ2780 szczotka",
+            "ProductDescription": "Bradas ESQ2780 szczotka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bradas ESQ2780 szczotka",
+            "ProductDescription": "Bradas ESQ2780 scrub brush"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bradas ESQ2780 szczotka",
+            "ProductDescription": "Bradas ESQ2780 Scrub-Bürste"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907544426158"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ESQ2780",
+        "Weight": 1100.0,
+        "Height": 280.0,
+        "Width": 1520.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079897",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b98c4237-d3e9-420c-b5bb-7472bbe643e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-30T11:46:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOL8'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:33.676000+00:00",
+        "sequence_number": 104578
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "HIPMENSZC0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Grzebień przeciwinsektowy Medisana LC 860",
+            "ProductDescription": "Medisana LC 860"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Grzebień przeciwinsektowy Medisana LC 860",
+            "ProductDescription": "Medisana LC 860"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Grzebień przeciwinsektowy Medisana LC 860",
+            "ProductDescription": "Medisana LC 860"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588410178"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85163200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "41017",
+        "Weight": 220.0,
+        "Height": 56.0,
+        "Width": 215.0,
+        "Depth": 96.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54639
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54536
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058121",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Grzebień przeciwinsektowy Medisana LC 860"
+      },
+      "properties": {
+        "message_id": "4a04b164-0d44-4f5a-9484-fe8064b5fbf5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T13:17:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'HIPMENSZC0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:07.650000+00:00",
+        "sequence_number": 118165
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1SZC0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wkład do szczotki Vileda AlwaysClean PETPRO 6szt GR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wkład do szczotki Vileda AlwaysClean PETPRO 6szt GR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wkład do szczotki Vileda AlwaysClean PETPRO 6szt GR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103208292"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63079098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "173814 GR",
+        "Weight": 1800.0,
+        "Height": 125.0,
+        "Width": 335.0,
+        "Depth": 305.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093446",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "542a0550-3570-4142-b76b-e6dc2f54d1b7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-28T10:09:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1SZC0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:30.747000+00:00",
+        "sequence_number": 171431
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1SZC0018",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szczotka Vileda Always Clean PET PRO pakiet 6szt GR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szczotka Vileda Always Clean PET PRO pakiet 6szt GR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szczotka Vileda Always Clean PET PRO pakiet 6szt GR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103243309"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039091",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "174000 GR",
+        "Weight": 4350.0,
+        "Height": 485.0,
+        "Width": 250.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093447",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eaae05db-4b88-49ab-9c68-e952c772f68a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-28T10:12:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1SZC0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:30.747000+00:00",
+        "sequence_number": 171432
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1SZC0019",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szczotka elektrostatycznaViledaPETPROpakiet 8szt GR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szczotka elektrostatycznaViledaPETPROpakiet 8szt GR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szczotka elektrostatycznaViledaPETPROpakiet 8szt GR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103240902"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039091",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "173019 GR",
+        "Weight": 920.0,
+        "Height": 285.0,
+        "Width": 190.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093448",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b1a30ba1-7bec-42d3-a0ae-5649d1d997f7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-28T10:15:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1SZC0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:30.747000+00:00",
+        "sequence_number": 171433
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJI53",
+        "ProductVersion": "1.1",
+        "ProductType": "Szczotki",
+        "Brand": "GHD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GHD 9253 szczotka do włosów Dorosły Okrągła szczotk",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GHD 9253 szczotka do włosów Dorosły Okrągła szczotk",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "GHD 9253 szczotka do włosów Dorosły Okrągła szczotk",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "99350164206",
+        "Weight": 275.0,
+        "Height": 72.0,
+        "Width": 66.0,
+        "Depth": 241.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54639
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54536
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090918",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "755aed4d-6210-4728-9270-b47db4a1b9de",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T07:14:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJI53'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:56.312000+00:00",
+        "sequence_number": 131579
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPBRA2OO0071",
+        "ProductVersion": "1.2",
+        "ProductType": "Szczotki",
+        "Brand": "Braun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szczotka prostująca do włosów BR710E (WYPRZEDAŻ)",
+            "ProductDescription": "Braun Satin Hair 7 Dorosły Szeroka szczotka do włosów Czarny 1 szt. Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szczotka prostująca do włosów BR710E (WYPRZEDAŻ)",
+            "ProductDescription": "Braun Satin Hair 7 Adult Paddle hairbrush Black 1 pc(s) Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szczotka prostująca do włosów BR710E (WYPRZEDAŻ)",
+            "ProductDescription": "Braun Satin Hair 7 Erwachsener Paddelhaarbürste Schwarz 1 Stück(e) Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3030050182484"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96032930",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BR710E",
+        "Weight": 210.0,
+        "Height": 66.0,
+        "Width": 72.0,
+        "Depth": 241.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54639
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54536
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087471",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Szczotka prostujaca do włosów BR710E"
+      },
+      "properties": {
+        "message_id": "47567c88-fab6-4bfa-88ab-c9ef8457b2fa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-16T09:16:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPBRA2OO0071'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:07.499000+00:00",
+        "sequence_number": 161085
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1SZC0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Szczotki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szczotka Vileda 3Action",
+            "ProductDescription": "Szczotka do zamiatania Vileda 3 Action - 3 w 1 (czerwony)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szczotka Vileda 3Action",
+            "ProductDescription": "Broom Vileda 3 Action - 3in1 (red)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szczotka Vileda 3Action",
+            "ProductDescription": "Besen Vileda 3 Action - 3in1 (rot)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103173286"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039091",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "142494",
+        "Weight": 290.0,
+        "Height": 450.0,
+        "Width": 1400.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54913
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53233
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062417",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Szczotka Vileda 3Action"
+      },
+      "properties": {
+        "message_id": "fa6fa1f7-b239-48a5-8c6e-37f5ed0f489b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-09-02T11:38:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1SZC0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:24.135000+00:00",
+        "sequence_number": 118966
+      }
+    }
+  ]
+}

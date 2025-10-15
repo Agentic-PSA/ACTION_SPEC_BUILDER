@@ -1,0 +1,83 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SYPTM2PKR0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Pasy krępujące",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Profesjonalny pas do przenoszenia TIM STMT 6513 L",
+            "ProductDescription": "Profesjonalny Pas do przenoszenia TIMAGO STMT 6513 L"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Profesjonalny pas do przenoszenia TIM STMT 6513 L",
+            "ProductDescription": "Professional Patient transfer belt TIMAGO STMT 6513 L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Profesjonalny pas do przenoszenia TIM STMT 6513 L",
+            "ProductDescription": "Professionell Patiententransfergurt TIMAGO STMT 6513 L"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8436035358779"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90219090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 570.0,
+        "Height": 170.0,
+        "Width": 270.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56405
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028694",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5dbed471-efa3-4a4d-a7b5-e754865533bc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-14T13:13:56Z'",
+          "ModificationDate": "b'2025-06-04T12:11:16Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPTM2PKR0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140832
+      }
+    }
+  ]
+}

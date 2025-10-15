@@ -1,0 +1,352 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WYSMSLKLO0024",
+        "ProductVersion": "1.2",
+        "ProductType": "Kłódki",
+        "Brand": "Master Lock",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MASTER LOCK KŁÓDKA NA ODCISK PALCA 4901EURDLHCC",
+            "ProductDescription": "MASTER LOCK 4901EURDLHCC Kłódka na odcisk palca 1 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MASTER LOCK KŁÓDKA NA ODCISK PALCA 4901EURDLHCC",
+            "ProductDescription": "MASTER LOCK 4901EURDLHCC Padlock for fingerprint 1 pc."
+          },
+          {
+            "Language": "de",
+            "ProductName": "MASTER LOCK KŁÓDKA NA ODCISK PALCA 4901EURDLHCC",
+            "ProductDescription": "MASTER LOCK 4901EURDLHCC Vorhängeschloss für Fingerabdruck 1 Stck."
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3520190944696"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83011000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4901EURDLHCC",
+        "Weight": 350.0,
+        "Height": 9.0,
+        "Width": 51.0,
+        "Depth": 23.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53251
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064659",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3c1e8749-d1b5-4070-9e15-eee33d04d8b9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-09-07T14:04:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYSMSLKLO0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:31.248000+00:00",
+        "sequence_number": 163707
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYSMSLKLO0026",
+        "ProductVersion": "1.2",
+        "ProductType": "Kłódki",
+        "Brand": "Master Lock",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MASTER LOCK KŁÓDKA BLUETOOTH ZEWNĘTRZNA 4401EURDLH",
+            "ProductDescription": "MASTER LOCK 4401EURDLH inteligentny zamek Inteligentna kłódka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MASTER LOCK KŁÓDKA BLUETOOTH ZEWNĘTRZNA 4401EURDLH",
+            "ProductDescription": "MASTER LOCK 4401EURDLH smart lock Smart padlock"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MASTER LOCK KŁÓDKA BLUETOOTH ZEWNĘTRZNA 4401EURDLH",
+            "ProductDescription": "MASTER LOCK 4401EURDLH Automatisch schließendes Schloss Smart-Padlock"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3520190943033"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83011000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4401EURDLH",
+        "Weight": 350.0,
+        "Height": 9.0,
+        "Width": 51.0,
+        "Depth": 23.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.11.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53251
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064660",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e2afc6bf-549d-45b9-ba2f-46d595e082f8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-09-07T14:06:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYSMSLKLO0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:31.248000+00:00",
+        "sequence_number": 163708
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYSMSLKLO0025",
+        "ProductVersion": "1.2",
+        "ProductType": "Kłódki",
+        "Brand": "Master Lock",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MASTER LOCK KŁODKA BLUETOOTH WEWNĘTRZNA 4400EURD",
+            "ProductDescription": "Masterlock 4400EURD kłódka Kłódka konwencjonalna 1 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MASTER LOCK KŁODKA BLUETOOTH WEWNĘTRZNA 4400EURD",
+            "ProductDescription": "Masterlock 4400EURD padlock Conventional padlock 1 pc(s)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MASTER LOCK KŁODKA BLUETOOTH WEWNĘTRZNA 4400EURD",
+            "ProductDescription": "Masterlock 4400EURD Vorhängeschloss Herkömmliches Vorhängeschloss 1 Stück(e)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3520190943026"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83011000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4400EURD",
+        "Weight": 350.0,
+        "Height": 7.0,
+        "Width": 22.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.11.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53251
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067648",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e10859c2-1dec-4444-b7da-f1c434dc810e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-09-07T14:05:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYSMSLKLO0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:11.424000+00:00",
+        "sequence_number": 103414
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYSMSLKLO0028",
+        "ProductVersion": "1.2",
+        "ProductType": "Kłódki",
+        "Brand": "Master Lock",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MASTER LOCK KŁÓDKA Z SYSTEMEM PUSHKEY 2650EURD",
+            "ProductDescription": "MASTER LOCK 2650EURD kłódka Kłódka konwencjonalna 1 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MASTER LOCK KŁÓDKA Z SYSTEMEM PUSHKEY 2650EURD",
+            "ProductDescription": "MASTER LOCK 60mm PushKey padlock for people with limited hand mobility"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MASTER LOCK KŁÓDKA Z SYSTEMEM PUSHKEY 2650EURD",
+            "ProductDescription": "MASTER LOCK 60 mm PushKey&trade; Vorhngeschloss fr Menschen mit eingeschrnkter Handmobilitt"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3520190147356"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83011000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2650EURD",
+        "Weight": 350.0,
+        "Height": 7.0,
+        "Width": 19.0,
+        "Depth": 22.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53251
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060797",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b0fd8945-b914-4a48-baf0-cfeb847d9816",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-29T08:59:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYSMSLKLO0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:17.088000+00:00",
+        "sequence_number": 118626
+      }
+    }
+  ]
+}

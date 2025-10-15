@@ -1,0 +1,168 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "DROATLATR0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Atrapy dronów",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVO II dummies",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVO II dummies",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVO II dummies",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 940.0,
+        "Height": 90.0,
+        "Width": 190.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55017
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100118404",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "db5185a8-5778-4885-90c6-59465590a8db",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-04T10:25:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLATR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:06.770000+00:00",
+        "sequence_number": 167085
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLATR0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Atrapy dronów",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVO II Pro dummies",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVO II Pro dummies",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVO II Pro dummies",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1030.0,
+        "Height": 190.0,
+        "Width": 250.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55017
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100118405",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c6634b7d-f725-4376-b8c3-029abc949b18",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-08-04T10:27:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLATR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:06.770000+00:00",
+        "sequence_number": 167086
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAROB",
+        "ProductVersion": "1.1",
+        "ProductType": "Ostrza",
+        "Brand": "Philips",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Philips Norelco OneBlade OneBlade 360 QP440/50",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Philips Norelco OneBlade OneBlade 360 QP440/50",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Philips Norelco OneBlade OneBlade 360 QP440/50",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8720689016148"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82122000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "100061968",
+        "Weight": 40.0,
+        "Height": 25.0,
+        "Width": 110.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55115
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55292
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083562",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0ed01575-b508-4c5e-8df4-56cc7678cc04",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-21T17:20:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAROB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:54.994000+00:00",
+        "sequence_number": 122412
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "HIPBRAOST0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Ostrza",
+        "Brand": "Braun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FOLIA BRAUN 94 + BLOK OSTRZY SERIES 9",
+            "ProductDescription": "Braun Series 9 81747657 akcesoria do golenia Głowica goląca"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FOLIA BRAUN 94 + BLOK OSTRZY SERIES 9",
+            "ProductDescription": "Braun Series 9 81747657 shaver accessory Shaving head"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FOLIA BRAUN 94 + BLOK OSTRZY SERIES 9",
+            "ProductDescription": "Braun Series 9 81747657 Rasierapparat-Zubehör Scherkopf"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4210201394792"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82122000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "81747657",
+        "Weight": 25.0,
+        "Height": 17.0,
+        "Width": 142.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.71.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55292
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55115
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086967",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "44e950fe-bec1-44a3-a7e6-7c31dcb4dc76",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-23T14:22:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'HIPBRAOST0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:32.006000+00:00",
+        "sequence_number": 157908
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SRHAN1FGE0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Fotele geriatryczne",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fotel geriatryczny pionizujący AT56250",
+            "ProductDescription": "Fotel geriatryczny pionizujący AT56250"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fotel geriatryczny pionizujący AT56250",
+            "ProductDescription": "Geriatric upright chair AT56250"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fotel geriatryczny pionizujący AT56250",
+            "ProductDescription": "Geriatrischer aufrechter Stuhl AT56250"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571403748"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 36000.0,
+        "Height": 840.0,
+        "Width": 770.0,
+        "Depth": 820.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56446
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027304",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2ec95681-7ca8-4802-81ec-fd02676d9938",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-04T13:21:11Z'",
+          "ModificationDate": "b'2025-06-04T12:10:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHAN1FGE0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:46.114000+00:00",
+        "sequence_number": 132851
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRHAN1FGE0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Fotele geriatryczne",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fotel geriatryczny z funkcją masażu AT56251",
+            "ProductDescription": "Fotel geriatryczny z funkcją masażu AT56251"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fotel geriatryczny z funkcją masażu AT56251",
+            "ProductDescription": "Geriatric chair with massage function AT56251"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fotel geriatryczny z funkcją masażu AT56251",
+            "ProductDescription": "Geriatrischer Stuhl mit Massagefunktion AT56251"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571404110"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 40000.0,
+        "Height": 820.0,
+        "Width": 765.0,
+        "Depth": 860.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56446
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100139974",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9b6d5fe3-3e7a-4d7c-9169-ccf275945f01",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-04T13:23:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHAN1FGE0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:16.606000+00:00",
+        "sequence_number": 169209
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRHAS3FGE0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Fotele geriatryczne",
+        "Brand": "ASTON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fotel geriatryczny Stylea II  - Kolor: Beige",
+            "ProductDescription": "Fotel geriatryczny STYLEA II Beżowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fotel geriatryczny Stylea II  - Kolor: Beige",
+            "ProductDescription": "STYLEA II geriatric chair Beige"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fotel geriatryczny Stylea II  - Kolor: Beige",
+            "ProductDescription": "STYLEA II geriatrischer Stuhl Beige"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3701127712537"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "490130",
+        "Weight": 55000.0,
+        "Height": 760.0,
+        "Width": 820.0,
+        "Depth": 820.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56446
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062423",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b19512dc-ddb8-4924-8c10-e9e29f0056a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-25T14:02:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHAS3FGE0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:24.135000+00:00",
+        "sequence_number": 118972
+      }
+    }
+  ]
+}

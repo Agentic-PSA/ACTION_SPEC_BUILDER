@@ -1,0 +1,168 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGXH",
+        "ProductVersion": "1.1",
+        "ProductType": "Anteny satelitarne",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czasza antenowa 80 cm ciemna (ASC-800M-C)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czasza antenowa 80 cm ciemna (ASC-800M-C)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czasza antenowa 80 cm ciemna (ASC-800M-C)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85291065",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4256#",
+        "Weight": 1245.0,
+        "Height": 140.0,
+        "Width": 85.0,
+        "Depth": 490.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53989
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085411",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d8d89e12-cabd-4fb9-b097-028b5562dcbd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T07:24:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGXH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:23.005000+00:00",
+        "sequence_number": 136585
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGX6",
+        "ProductVersion": "1.1",
+        "ProductType": "Anteny satelitarne",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czasza antena 80 cm jasna (ASC-800M-J)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czasza antena 80 cm jasna (ASC-800M-J)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czasza antena 80 cm jasna (ASC-800M-J)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85291065",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4263#",
+        "Weight": 7000.0,
+        "Height": 900.0,
+        "Width": 920.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53989
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54818
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066861",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a4dd3141-d71b-4769-9953-b0ebf72aeba7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-20T09:34:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGX6'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:03.984000+00:00",
+        "sequence_number": 103039
+      }
+    }
+  ]
+}

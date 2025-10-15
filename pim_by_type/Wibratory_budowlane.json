@@ -1,0 +1,603 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHS7",
+        "ProductVersion": "1.3",
+        "ProductType": "Wibratory budowlane",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wibrator do betonu MAR-POL M79492 zagęszczarka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wibrator do betonu MAR-POL M79492 zagęszczarka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wibrator do betonu MAR-POL M79492 zagęszczarka",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901969104448"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "79492",
+        "Weight": 7000.0,
+        "Height": 300.0,
+        "Width": 1000.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55253
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043020",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dd1763ed-a628-4905-b284-4b6a52a6db44",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-08T13:09:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHS7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:40.263000+00:00",
+        "sequence_number": 159816
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGRB6",
+        "ProductVersion": "1.2",
+        "ProductType": "Wibratory budowlane",
+        "Brand": "DEDRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wibrator do betonu o mocy 2300W z wężem o długości",
+            "ProductDescription": "DEDRA DED7631 wibrator do betonu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wibrator do betonu o mocy 2300W z wężem o długości",
+            "ProductDescription": "DEDRA DED7631 electric vibrator"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wibrator do betonu o mocy 2300W z wężem o długości",
+            "ProductDescription": "DEDRA DED7631 electric vibrator"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DED7631",
+        "Weight": 17600.0,
+        "Height": 300.0,
+        "Width": 630.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "NA",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55253
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085400",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d43c0e1c-4f16-4d36-9da8-c7b22f63589d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T07:23:24Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGRB6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:23.005000+00:00",
+        "sequence_number": 136574
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBIDN",
+        "ProductVersion": "1.2",
+        "ProductType": "Wibratory budowlane",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wibrator do betonu 1200W+Buława 3m YATO YT-82600",
+            "ProductDescription": "Yato YT-82600 wibrator do betonu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wibrator do betonu 1200W+Buława 3m YATO YT-82600",
+            "ProductDescription": "YATO CONCRETE VIBRATOR 1200W + MATE + HOSE 3m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wibrator do betonu 1200W+Buława 3m YATO YT-82600",
+            "ProductDescription": "YATO BETONRÜTTLER 1200W + MATE + SCHLAUCH 3m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083033704"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-82600",
+        "Weight": 10000.0,
+        "Height": 650.0,
+        "Width": 510.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55253
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040275",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d1b35fa0-83fb-4ed5-a4a1-62e93aaac062",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-23T16:14:30Z'",
+          "ModificationDate": "b'2025-06-04T12:17:51Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBIDN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:36.273000+00:00",
+        "sequence_number": 137309
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCXBL",
+        "ProductVersion": "1.2",
+        "ProductType": "Wibratory budowlane",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wibrator do betonu 18V XR DeWALT DCE531N",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wibrator do betonu 18V XR DeWALT DCE531N",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wibrator do betonu 18V XR DeWALT DCE531N",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5035048648889"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DCE531N-XJ",
+        "Weight": 4055.0,
+        "Height": 211.0,
+        "Width": 103.0,
+        "Depth": 1195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55253
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051379",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "761103ea-d79c-4e89-9fc7-e4976520efd6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-22T10:00:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCXBL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.996000+00:00",
+        "sequence_number": 138693
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGRLK",
+        "ProductVersion": "1.2",
+        "ProductType": "Wibratory budowlane",
+        "Brand": "DEDRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wibrator do betonu 1200W wąż 2.5 metra ACE123",
+            "ProductDescription": "DEDRA DED7630 wibrator do betonu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wibrator do betonu 1200W wąż 2.5 metra ACE123",
+            "ProductDescription": "DEDRA DED7630 electric vibrator"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wibrator do betonu 1200W wąż 2.5 metra ACE123",
+            "ProductDescription": "DEDRA DED7630 electric vibrator"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902628762474"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DED7630",
+        "Weight": 4000.0,
+        "Height": 660.0,
+        "Width": 450.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55253
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079517",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5c1f7257-b4aa-4b2d-a568-8d26b36a1a57",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T10:32:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGRLK'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:29.988000+00:00",
+        "sequence_number": 104398
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NELDEWWDB0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Wibratory budowlane",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wibrator do betonu 18V DCE531N-XJ DEWALT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wibrator do betonu 18V DCE531N-XJ DEWALT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wibrator do betonu 18V DCE531N-XJ DEWALT",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DCE531N-XJ",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55253
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085053",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "48f65f55-2f1c-4a58-9a71-3101c3f80c18",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T11:13:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NELDEWWDB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:07.452000+00:00",
+        "sequence_number": 125052
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0588",
+        "ProductVersion": "1.2",
+        "ProductType": "Wibratory budowlane",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO WIBRATOR DO BETONU 2300W + BUŁAWA + WĄŻ 4m",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO WIBRATOR DO BETONU 2300W + BUŁAWA + WĄŻ 4m",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO WIBRATOR DO BETONU 2300W + BUŁAWA + WĄŻ 4m",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083033711"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-82601",
+        "Weight": 18000.0,
+        "Height": 300.0,
+        "Width": 660.0,
+        "Depth": 500.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56113
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55253
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033055",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f256d4ac-a018-480b-92d7-7e1d6e05ee0d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-03T13:17:11Z'",
+          "ModificationDate": "b'2025-06-04T12:13:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0588'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:46.108000+00:00",
+        "sequence_number": 141226
+      }
+    }
+  ]
+}

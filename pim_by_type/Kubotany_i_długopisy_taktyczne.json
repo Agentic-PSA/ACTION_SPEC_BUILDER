@@ -1,0 +1,603 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "OBRGUAKDT0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Kubotany i długopisy taktyczne",
+        "Brand": "GUARD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kubotan GUARD Defense Stick czarny 14 cm",
+            "ProductDescription": "Kubotan GUARD DEFENSE STICK Brelok do kluczy do samoobrony 14 cm Czarny (YC-005-BL)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kubotan GUARD Defense Stick czarny 14 cm",
+            "ProductDescription": "Kubotan GUARD DEFENSE STICK Self-Defense Keychain Stick 14 cm Black (YC-005-BL)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kubotan GUARD Defense Stick czarny 14 cm",
+            "ProductDescription": "Kubotan GUARD DEFENSE STICK Selbstverteidigung Schlüsselanhänger Stick 14 cm Schwarz (YC-005-BL)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902944165966"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83089000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YC-005-BL",
+        "Weight": 64.0,
+        "Height": 183.0,
+        "Width": 32.0,
+        "Depth": 56.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.25.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54965
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56106
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058985",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kubotan GUARD Defense Stick czarny 14 cm (YC-005-BL)"
+      },
+      "properties": {
+        "message_id": "1c4954e6-4639-4191-912c-2b9634250300",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-08-11T16:25:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OBRGUAKDT0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:51.171000+00:00",
+        "sequence_number": 134951
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OBRGUAKDT0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Kubotany i długopisy taktyczne",
+        "Brand": "GUARD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Długopis taktyczny GUARD Tactical Pen",
+            "ProductDescription": "Długopis taktyczny GUARD TACTICAL PEN Kubotan ze zbijakiem do szyb (YC-008-BL)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Długopis taktyczny GUARD Tactical Pen",
+            "ProductDescription": "Tactical pen GUARD TACTICAL PEN Kubotan with glass breaker (YC-008-BL)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Długopis taktyczny GUARD Tactical Pen",
+            "ProductDescription": "Taktischer Stift GUARD TACTICAL PEN Kubotan mit Glasbrecher (YC-008-BL)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902944165980"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96081010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YC-008-BL",
+        "Weight": 80.0,
+        "Height": 30.0,
+        "Width": 180.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56106
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54965
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061893",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Długopis taktyczny GUARD Tactical Pen Kubotan ze zbijakiem do szyb (YC-008-BL)"
+      },
+      "properties": {
+        "message_id": "3b825742-fa7c-49b8-a6bf-37d4d3cd6172",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-08-11T16:25:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OBRGUAKDT0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:08.626000+00:00",
+        "sequence_number": 135851
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OBRBKPKDT0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Kubotany i długopisy taktyczne",
+        "Brand": "BOKER PLUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Długopis taktyczny Boker Plus MPP black",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Długopis taktyczny Boker Plus MPP black",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Długopis taktyczny Boker Plus MPP black",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4045011094569"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96081092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "09BO092",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56106
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54965
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047302",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Długopis taktyczny Boker Plus MPP black"
+      },
+      "properties": {
+        "message_id": "b83bc9e6-5259-4deb-8066-eef53969e4b1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-12T14:21:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OBRBKPKDT0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:55.633000+00:00",
+        "sequence_number": 115539
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCSEC",
+        "ProductVersion": "1.1",
+        "ProductType": "Kubotany i długopisy taktyczne",
+        "Brand": "BOKER PLUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Długopis taktyczny Boker Plus MPP black",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Długopis taktyczny Boker Plus MPP black",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Długopis taktyczny Boker Plus MPP black",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4045011094569"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96081092",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "09BO092",
+        "Weight": 100.0,
+        "Height": 40.0,
+        "Width": 181.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56106
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54965
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055259",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dbd8681f-deab-4df2-a018-a4493b6d59f5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-19T09:16:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCSEC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:59.671000+00:00",
+        "sequence_number": 140250
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRELO9",
+        "ProductVersion": "1.1",
+        "ProductType": "Kubotany i długopisy taktyczne",
+        "Brand": "BOKER PLUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Böker Plus CID cal .45 Brass",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Böker Plus CID cal .45 Brass",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Böker Plus CID cal .45 Brass",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4045011158049"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96081010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "09BO064",
+        "Weight": 140.0,
+        "Height": 37.0,
+        "Width": 187.0,
+        "Depth": 48.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56106
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54965
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081104",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "639d6757-c445-463f-b391-df1ce89bc20b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-06T16:20:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRELO9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:53.247000+00:00",
+        "sequence_number": 154804
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OBRGUAKDT0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Kubotany i długopisy taktyczne",
+        "Brand": "GUARD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "2x Długopis taktyczny GUARD ze zbijakiem do szyb",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "2x Długopis taktyczny GUARD ze zbijakiem do szyb",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "2x Długopis taktyczny GUARD ze zbijakiem do szyb",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "96081010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YC-008-BL.2",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54965
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56106
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083773",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "2x Długopis taktyczny GUARD Tactical Pen Kubotan ze zbijakiem do szyb (YC-008-BL)"
+      },
+      "properties": {
+        "message_id": "82b43205-dc07-43f9-9163-276fdb0df3de",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T15:25:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OBRGUAKDT0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:06.097000+00:00",
+        "sequence_number": 156764
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OBRGUAKDT0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Kubotany i długopisy taktyczne",
+        "Brand": "GUARD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "2x Kubotan GUARD Defense Stick czarny 14 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "2x Kubotan GUARD Defense Stick czarny 14 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "2x Kubotan GUARD Defense Stick czarny 14 cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "96081010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YC-005-BL.2",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56106
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54965
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083775",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "2x Kubotan GUARD Defense Stick czarny 14 cm (YC-005-BL)"
+      },
+      "properties": {
+        "message_id": "bf47e1f0-2c1a-42a4-9b83-0807fa03d214",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T15:25:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OBRGUAKDT0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:06.097000+00:00",
+        "sequence_number": 156766
+      }
+    }
+  ]
+}

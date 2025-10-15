@@ -1,0 +1,526 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "KILDIIPRI0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Print Serwery",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DIGITUS SERWER WYDRUKU/PRINT SERVER DN-13006-1",
+            "ProductDescription": "Digitus Port serwera drukarki 2+1"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DIGITUS SERWER WYDRUKU/PRINT SERVER DN-13006-1",
+            "ProductDescription": "Digitus 2+1 Port Print Server"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DIGITUS SERWER WYDRUKU/PRINT SERVER DN-13006-1",
+            "ProductDescription": "Digitus 2+1 Port Printserver"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032315346"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DN-13006-1",
+        "Weight": 625.0,
+        "Height": 190.0,
+        "Width": 360.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54112
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54762
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061266",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e6fe1446-6bbf-4a0f-b675-b7151c0edfae",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-03-31T11:56:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KILDIIPRI0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:06.641000+00:00",
+        "sequence_number": 135728
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KILDIIPRI0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Print Serwery",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DIGITUS SERWER SIECIOWY WIELOFUNKCYJNY DN-13024",
+            "ProductDescription": "Digitus 2-portowy, bezprzewodowy, wielofunkcyjny serwer sieciowy USB 2.0, 300 Mbps"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DIGITUS SERWER SIECIOWY WIELOFUNKCYJNY DN-13024",
+            "ProductDescription": "Digitus 2 Port USB 2.0 Wireless Multi-Functional Network Server, 300 Mbps"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DIGITUS SERWER SIECIOWY WIELOFUNKCYJNY DN-13024",
+            "ProductDescription": "Digitus 2-Port USB 2.0 Wireless Multifunktions-Network Server, 300 Mbps"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032473022"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DN-13024",
+        "Weight": 490.0,
+        "Height": 170.0,
+        "Width": 244.0,
+        "Depth": 66.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54112
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54762
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065169",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "03864b21-0421-451d-8c36-1b590a970cde",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-03-31T11:59:48Z'",
+          "ModificationDate": "b'2025-09-30T13:40:56Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KILDIIPRI0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:10.902000+00:00",
+        "sequence_number": 151012
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KILDIIPRI0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Print Serwery",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DIGITUS Wielofunkcyjny serwer sieciowy USB2.0 Hub",
+            "ProductDescription": "Digitus Wielofunkcyjny serwer sieciowy 1-port USB 2.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DIGITUS Wielofunkcyjny serwer sieciowy USB2.0 Hub",
+            "ProductDescription": "Digitus 1-Port USB 2.0 Multifunction Network Server"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DIGITUS Wielofunkcyjny serwer sieciowy USB2.0 Hub",
+            "ProductDescription": "Digitus 1-Port USB 2.0 Multifunktions-Network Server"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032292913"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DN-13020",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54112
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54762
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069995",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "DIGITUS Wielofunkcyjny serwer sieciowy USB2.0 Hub sieciowy 1xRJ45 NAS LAN 10/100Mbps"
+      },
+      "properties": {
+        "message_id": "81f135fd-8645-4cde-b7f8-408245159991",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-05T10:21:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KILDIIPRI0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:28.814000+00:00",
+        "sequence_number": 151981
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGKCX",
+        "ProductVersion": "1.2",
+        "ProductType": "Print Serwery",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Serwer urządzeń SEH USB Utnserver Pro USB 3.2 Gen 1",
+            "ProductDescription": "SEH utnserver Pro serwer druku Ethernet LAN Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Serwer urządzeń SEH USB Utnserver Pro USB 3.2 Gen 1",
+            "ProductDescription": "SEH utnserver Pro print server Ethernet LAN Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Serwer urządzeń SEH USB Utnserver Pro USB 3.2 Gen 1",
+            "ProductDescription": "SEH utnserver Pro Druckserver Ethernet-LAN Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4037863051302"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "M05130",
+        "Weight": 400.0,
+        "Height": 263.0,
+        "Width": 162.0,
+        "Depth": 58.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54762
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54112
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080149",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "07a2288e-836f-434a-9cdb-0766d7ef10cf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-02T11:40:20Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGKCX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:25.610000+00:00",
+        "sequence_number": 128233
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDE28",
+        "ProductVersion": "1.2",
+        "ProductType": "Print Serwery",
+        "Brand": "StarTech",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "StarTech.com PM1115U2 serwer druku Ethernet LAN",
+            "ProductDescription": "StarTech.com PM1115U2 serwer druku Ethernet LAN Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "StarTech.com PM1115U2 serwer druku Ethernet LAN",
+            "ProductDescription": "StarTech.com 10/100Mbps Ethernet to USB 2.0 Network LPR Print Server"
+          },
+          {
+            "Language": "de",
+            "ProductName": "StarTech.com PM1115U2 serwer druku Ethernet LAN",
+            "ProductDescription": "StarTech.com 10/100 Mbit/s Ethernet auf USB 2.0 Netzwerk LPR Printserver"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "065030855174"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PM1115U2",
+        "Weight": 320.0,
+        "Height": 150.0,
+        "Width": 215.0,
+        "Depth": 58.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54112
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54762
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044963",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d68e65fb-1ffb-445d-b9ea-3633ad21c003",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-31T14:37:17Z'",
+          "ModificationDate": "b'2025-06-04T12:20:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDE28'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:48.241000+00:00",
+        "sequence_number": 115144
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATK1",
+        "ProductVersion": "1.3",
+        "ProductType": "Print Serwery",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Serwer druku 1x port równoległy (Centr. 36) / RJ45",
+            "ProductDescription": "Digitus Serwer wydruku Fast Ethernet , równoległy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Serwer druku 1x port równoległy (Centr. 36) / RJ45",
+            "ProductDescription": "Print Server 1x Parallel Port (Centr. 36) / RJ45"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Serwer druku 1x port równoległy (Centr. 36) / RJ45",
+            "ProductDescription": "Druckserver 1x Parallelport (Centr. 36) / RJ45"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032315322"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DN-13001-1",
+        "Weight": 290.0,
+        "Height": 66.0,
+        "Width": 227.0,
+        "Depth": 151.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54762
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54112
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038369",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "db25f58c-3767-4245-88ca-046e60bd16a8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-10T12:55:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATK1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:01.976000+00:00",
+        "sequence_number": 133688
+      }
+    }
+  ]
+}

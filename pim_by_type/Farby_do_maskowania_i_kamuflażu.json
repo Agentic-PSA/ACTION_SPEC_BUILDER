@@ -1,0 +1,173 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SURBCBFMK0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Farby do maskowania i kamuflażu",
+        "Brand": "BCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pasta, farba do kamuflażu BCB 2-kolorowa (210-027)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pasta, farba do kamuflażu BCB 2-kolorowa (210-027)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pasta, farba do kamuflażu BCB 2-kolorowa (210-027)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "33049900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.210-027",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "20.42.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56187
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56078
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084690",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pasta, farba do kamuflażu BCB 2-kolorowa w sztyfcie czarno-zielona (210-027)"
+      },
+      "properties": {
+        "message_id": "2c160e3f-26df-4abc-a436-f88fac8c3463",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T10:33:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURBCBFMK0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:19.205000+00:00",
+        "sequence_number": 136406
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURBCBFMK0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Farby do maskowania i kamuflażu",
+        "Brand": "BCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Farba do kamuflażu BCB Chameleon Camo woodland RP14",
+            "ProductDescription": "Farba do kamuflażu BCB Chameleon Camo woodland RP14"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Farba do kamuflażu BCB Chameleon Camo woodland RP14",
+            "ProductDescription": "Camouflage paint  BCB Chameleon Camo woodland RP14"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Farba do kamuflażu BCB Chameleon Camo woodland RP14",
+            "ProductDescription": "Camouflage-Farbe  BCB Chameleon Camo woodland RP14"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5016543300328"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "33049900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RP1482",
+        "Weight": 72.0,
+        "Height": 23.0,
+        "Width": 84.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "20.42.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56187
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56078
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047865",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d53b6aa5-fa73-4d7b-bfd1-4af114e152a2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-12T13:40:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURBCBFMK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:50.723000+00:00",
+        "sequence_number": 108096
+      }
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIMA8",
+        "ProductVersion": "1.0",
+        "ProductType": "Liczarki",
+        "Brand": "SAFESCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2210 G2",
+            "ProductDescription": "Safescan 2210 G2 Liczarka do banknotów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2210 G2",
+            "ProductDescription": "Safescan 2210 Banknote Counter"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2210 G2",
+            "ProductDescription": "Safescan 2210 G2  Banknotenzähler"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8717496337917"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84729010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3LC094",
+        "Weight": 7000.0,
+        "Height": 300.0,
+        "Width": 342.0,
+        "Depth": 228.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.23.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57271
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54522
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54934
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156718",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "32a83ddd-c619-4525-81c9-15c7d1ce7e71",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-07T12:02:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIMA8'"
+        },
+        "enqueued_time_utc": "2025-10-07 14:20:22.818000+00:00",
+        "sequence_number": 174132
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPSFN4PS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Liczarki",
+        "Brand": "SAFESCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2210 G2 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2210 G2 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2210 G2 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8717496337917"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84729010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3LC094",
+        "Weight": 7000.0,
+        "Height": 300.0,
+        "Width": 342.0,
+        "Depth": 228.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.23.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54522
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57271
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54934
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078971",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "be6545cb-a20c-409f-b2db-21fcc74253f0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-26T13:50:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPSFN4PS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:25.331000+00:00",
+        "sequence_number": 104131
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSFNLIP0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Liczarki",
+        "Brand": "SAFESCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LICZARKA POSORTOWANYCH MONET SAFESCAN 1550",
+            "ProductDescription": "Safescan 1550 Maszyna do liczenia monet Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LICZARKA POSORTOWANYCH MONET SAFESCAN 1550",
+            "ProductDescription": "Safescan 1550 Coin counting machine Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LICZARKA POSORTOWANYCH MONET SAFESCAN 1550",
+            "ProductDescription": "Safescan 1550 Münzzählmaschine Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8717496330291"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84729010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SAFESCAN 1550",
+        "Weight": 14000.0,
+        "Height": 196.0,
+        "Width": 360.0,
+        "Depth": 268.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.23.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54934
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54522
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57271
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056882",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7258bbb3-8de1-4772-926d-d3ae401673bf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2013-07-01T15:53:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSFNLIP0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:05.837000+00:00",
+        "sequence_number": 118054
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSFNLIP0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Liczarki",
+        "Brand": "SAFESCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SAFESCAN LICZARKA MONET 1250 PLN",
+            "ProductDescription": "Safescan 1250 PLN Maszyna do liczenia monet kolor biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SAFESCAN LICZARKA MONET 1250 PLN",
+            "ProductDescription": "Safescan 1250 PLN Coin counting machine White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SAFESCAN LICZARKA MONET 1250 PLN",
+            "ProductDescription": "Safescan 1250 PLN Münzzählmaschine Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8717496335548"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84729010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Safescan 1250 PLN",
+        "Weight": 4680.0,
+        "Height": 320.0,
+        "Width": 380.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.23.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54934
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54522
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57271
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056883",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "950a816e-81f2-4c56-9c9f-7073dd1f321e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-11-13T15:27:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSFNLIP0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:05.837000+00:00",
+        "sequence_number": 118055
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSFNLIP0022",
+        "ProductVersion": "1.2",
+        "ProductType": "Liczarki",
+        "Brand": "SAFESCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2865-S",
+            "ProductDescription": "Safescan 2865-S Liczarka do banknotów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2865-S",
+            "ProductDescription": "Safescan 2865-S Banknote Counter"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SAFESCAN LICZARKA PIENIĘDZY 2865-S",
+            "ProductDescription": "Safescan 2865-S Banknotenzähler"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8717496337207"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84729010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2865-S",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.23.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57271
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54934
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54522
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056884",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b1566f4e-a876-4a80-adc9-f458ceda25c1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-11-10T10:30:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSFNLIP0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:05.837000+00:00",
+        "sequence_number": 118056
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSFNLIP0015",
+        "ProductVersion": "1.2",
+        "ProductType": "Liczarki",
+        "Brand": "SAFESCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SAFESCAN LICZARKA MONET 1250 EUR",
+            "ProductDescription": "Safescan 1250 EUR Maszyna do liczenia monet Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SAFESCAN LICZARKA MONET 1250 EUR",
+            "ProductDescription": "Safescan 1250 EUR Coin counting machine White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SAFESCAN LICZARKA MONET 1250 EUR",
+            "ProductDescription": "Safescan 1250 EUR Münzzählmaschine Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8717496335388"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84729010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SAFESCAN 1250 EUR",
+        "Weight": 5715.0,
+        "Height": 320.0,
+        "Width": 380.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.23.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57271
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54522
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54934
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076534",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5a22e07d-4cef-4232-a4fd-ae1bffa0a66e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-11-13T15:27:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSFNLIP0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:52.877000+00:00",
+        "sequence_number": 156232
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGPFK",
+        "ProductVersion": "1.1",
+        "ProductType": "Liczarki",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Extralink | Profesjonalna liczarka nominałowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Extralink | Profesjonalna liczarka nominałowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Extralink | Profesjonalna liczarka nominałowa",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907207221373"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84729010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.21373",
+        "Weight": 5200.0,
+        "Height": 290.0,
+        "Width": 320.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.23.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54934
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57271
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54522
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060612",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "419fa2df-8a6b-451a-9e2c-e131d7cccb09",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T15:23:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGPFK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:18.181000+00:00",
+        "sequence_number": 129667
+      }
+    }
+  ]
+}

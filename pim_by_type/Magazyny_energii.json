@@ -1,0 +1,1023 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "FOWFOSMGE0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Magazyny energii",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FoxESS AIO-H3-6.0-E",
+            "ProductDescription": "INWENTER FOXESS - AIO-H3-6.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FoxESS AIO-H3-6.0-E",
+            "ProductDescription": "FoxESS - AIO-H3-6.0"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FoxESS AIO-H3-6.0-E",
+            "ProductDescription": "FoxESS - AIO-H3-6.0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AIO-H3-6.0-E",
+        "Weight": 97000.0,
+        "Height": 630.0,
+        "Width": 1663.0,
+        "Depth": 630.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072806",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "FoxESS - AIO-H3-6.0"
+      },
+      "properties": {
+        "message_id": "68422982-4db8-4334-bb7a-1eb7efe6b3f3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-06-15T09:02:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWFOSMGE0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:17.756000+00:00",
+        "sequence_number": 144559
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6479",
+        "ProductVersion": "1.2",
+        "ProductType": "Magazyny energii",
+        "Brand": "HCK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Magazyn energii 5,12 kWh Heckman RLFP51100A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Magazyn energii 5,12 kWh Heckman RLFP51100A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Magazyn energii 5,12 kWh Heckman RLFP51100A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905562027104"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "41414",
+        "Weight": 56000.0,
+        "Height": 200.0,
+        "Width": 520.0,
+        "Depth": 558.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034111",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e0ea22c5-2c16-49f8-ad41-17f3d8107e4b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-19T12:06:56Z'",
+          "ModificationDate": "b'2025-06-04T12:14:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6479'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:44.864000+00:00",
+        "sequence_number": 105838
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDZJW",
+        "ProductVersion": "1.2",
+        "ProductType": "Magazyny energii",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł sterujący banku energii Luna2000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł sterujący banku energii Luna2000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł sterujący banku energii Luna2000",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2342",
+        "Weight": 12000.0,
+        "Height": 390.0,
+        "Width": 270.0,
+        "Depth": 705.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046189",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c382b16c-b518-4473-9701-355f29c41cb5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-16T16:18:48Z'",
+          "ModificationDate": "b'2025-06-04T12:21:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDZJW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:05.045000+00:00",
+        "sequence_number": 148937
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWQOCMGE0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Magazyny energii",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC MAGAZYN ENERGII LIFEPO4 | 5.12KWH | 51.2V",
+            "ProductDescription": "Qoltec 53860 Magazyn energii LiFePO4 | 5.12kWh | 51.2V | 100Ah | BMS | LCD"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC MAGAZYN ENERGII LIFEPO4 | 5.12KWH | 51.2V",
+            "ProductDescription": "Qoltec 53860 Energy storage LiFePO4 |5.12kWh | 51.2V | 100Ah | BMS| LCD"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC MAGAZYN ENERGII LIFEPO4 | 5.12KWH | 51.2V",
+            "ProductDescription": "Qoltec 53860 Energiespeicher LiFePO4 |5,12kWh | 51,2V | 100Ah | BMS| LCD"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878538600"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "53860",
+        "Weight": 56000.0,
+        "Height": 290.0,
+        "Width": 680.0,
+        "Depth": 582.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061034",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7f710f67-ce2b-40a3-bf80-36a36b90238b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-12T09:16:50Z'",
+          "ModificationDate": "b'2025-09-30T13:40:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWQOCMGE0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:04.438000+00:00",
+        "sequence_number": 135650
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWHUAMGE0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Magazyny energii",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Huawei Moduł zarządzania pracą akumulatora",
+            "ProductDescription": "MODUŁ STERUJĄCY BANKU ENERGII LUNA2000"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Huawei Moduł zarządzania pracą akumulatora",
+            "ProductDescription": "LUNA2000 POWER BANK CONTROL MODULE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Huawei Moduł zarządzania pracą akumulatora",
+            "ProductDescription": "ENERGIEBANK-STEUERMODUL LUNA2000"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LUNA2000-5KW-C0",
+        "Weight": 9800.0,
+        "Height": 700.0,
+        "Width": 380.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064923",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dd5676ee-bc17-407c-a03c-df9bc766351b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-02T22:40:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWHUAMGE0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:08.931000+00:00",
+        "sequence_number": 150924
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWVIGMGE0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Magazyny energii",
+        "Brand": "Victron Energy",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Small BMS Victron Energy do LiFePO4",
+            "ProductDescription": "Small BMS Victron Energy do LiFePO4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Small BMS Victron Energy do LiFePO4",
+            "ProductDescription": "Small BMS Victron Energy for LiFePO4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Small BMS Victron Energy do LiFePO4",
+            "ProductDescription": "Kleines BMS Victron Energy für LiFePO4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8719076043485"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BMS400100000",
+        "Weight": 130.0,
+        "Height": 50.0,
+        "Width": 172.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069755",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Small BMS Victron Energy do LiFePO4"
+      },
+      "properties": {
+        "message_id": "fecbadec-312e-4921-aa40-3bd62d2d2f3e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-01-14T12:43:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWVIGMGE0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:09.283000+00:00",
+        "sequence_number": 109078
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAE7",
+        "ProductVersion": "1.1",
+        "ProductType": "Magazyny energii",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HUAWEI EMMA-A02 Asystent Zarządzania Energią",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HUAWEI EMMA-A02 Asystent Zarządzania Energią",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HUAWEI EMMA-A02 Asystent Zarządzania Energią",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EMMA-A02",
+        "Weight": 1050.0,
+        "Height": 255.0,
+        "Width": 179.0,
+        "Depth": 109.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047594",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54fb16a6-9e04-4322-b22a-3f472a76a3bb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-07T14:00:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAE7'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:57.351000+00:00",
+        "sequence_number": 115639
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWFOSMGE0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Magazyny energii",
+        "Brand": "FOX ESS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Jed. ster. mod. bat. FoxESS MIRA BMS BOX 2.0",
+            "ProductDescription": "MIRA BMS BOX 2.0 JEDNOSTKA STERUJĄCA MODUŁEM BATERYJNYM FOXESS"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Jed. ster. mod. bat. FoxESS MIRA BMS BOX 2.0",
+            "ProductDescription": "MIRA BMS BOX 2.0 FOXESS BATTERY MODULE CONTROL UNIT"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Jed. ster. mod. bat. FoxESS MIRA BMS BOX 2.0",
+            "ProductDescription": "MIRA BMS BOX 2.0 FOXESS BATTERIEMODUL STEUEREINHEIT"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIRA BMS",
+        "Weight": 0.0,
+        "Height": 368.0,
+        "Width": 952.0,
+        "Depth": 368.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053290",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Jednostka sterująca modułem bateryjnym FoxESS MIRA BMS BOX 2.0"
+      },
+      "properties": {
+        "message_id": "ae2b3562-aa00-42fd-85e9-a67a425daee6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-04T09:10:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWFOSMGE0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:43.373000+00:00",
+        "sequence_number": 139434
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWVIGMGE0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Magazyny energii",
+        "Brand": "Victron Energy",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VE.Bus BMS V2 Victron Energy do LiFePO4",
+            "ProductDescription": "Victron Energy VE.Bus BMS V2 do LiFePO4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VE.Bus BMS V2 Victron Energy do LiFePO4",
+            "ProductDescription": "Victron Energy VE.Bus BMS V2 for LiFePO4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VE.Bus BMS V2 Victron Energy do LiFePO4",
+            "ProductDescription": "Victron Energy VE.Bus BMS V2 für LiFePO4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8719076057277"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BMS300200200",
+        "Weight": 300.0,
+        "Height": 45.0,
+        "Width": 175.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053587",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "81324afe-f8c5-439c-869c-2c3070da1ea6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-01-14T12:36:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWVIGMGE0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:48.608000+00:00",
+        "sequence_number": 139697
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAAFE",
+        "ProductVersion": "1.2",
+        "ProductType": "Magazyny energii",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Huawei LUNA2000 Backup Box Backup Box-B1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Huawei LUNA2000 Backup Box Backup Box-B1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Huawei LUNA2000 Backup Box Backup Box-B1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "2000001256534"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Backup Box-B1 3-phase",
+        "Weight": 13700.0,
+        "Height": 215.0,
+        "Width": 480.0,
+        "Depth": 560.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034848",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f2bb441d-81fc-4dae-be6a-c0803ccd01bf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-11T19:34:43Z'",
+          "ModificationDate": "b'2025-06-04T12:14:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAAFE'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:24.380000+00:00",
+        "sequence_number": 113816
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3538",
+        "ProductVersion": "1.2",
+        "ProductType": "Magazyny energii",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Qoltec Magazyn energii LiFePO4",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Qoltec Magazyn energii LiFePO4",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Qoltec Magazyn energii LiFePO4",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878538778"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "53877",
+        "Weight": 54000.0,
+        "Height": 520.0,
+        "Width": 510.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033572",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "edefce09-7eab-4212-90fe-9b208328dbb3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-23T18:00:39Z'",
+          "ModificationDate": "b'2025-06-04T12:14:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3538'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.933000+00:00",
+        "sequence_number": 147654
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3539",
+        "ProductVersion": "1.2",
+        "ProductType": "Magazyny energii",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Qoltec Magazyn energii LiFePO4 | 7.2kWh | 48V | BMS",
+            "ProductDescription": "Qoltec 53875 Magazyn energii LiFePO4 | 1.5kW | 80Ah | MPPT | Sinus"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Qoltec Magazyn energii LiFePO4 | 7.2kWh | 48V | BMS",
+            "ProductDescription": "Qoltec LiFePO4 Energy Storage | 7.2kWh | 48V | BMS | LCD"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Qoltec Magazyn energii LiFePO4 | 7.2kWh | 48V | BMS",
+            "ProductDescription": "Qoltec LiFePO4 Energiespeicher | 7,2 kWh | 48V | BMS | LCD"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878538785"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85371010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "53878",
+        "Weight": 64780.0,
+        "Height": 700.0,
+        "Width": 485.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55546
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033573",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59310613-999a-4340-9436-c651d076b37d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-10T12:04:19Z'",
+          "ModificationDate": "b'2025-06-04T12:14:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3539'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.933000+00:00",
+        "sequence_number": 147655
+      }
+    }
+  ]
+}

@@ -1,0 +1,6223 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFKM2",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POMPA TŁOKOWA DO OLEJU 16-18L/MIN – YATO",
+            "ProductDescription": "Yato YT-0712 naprawa/konserwacja pojazdu Ręczna pompa do wymiany oleju"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POMPA TŁOKOWA DO OLEJU 16-18L/MIN – YATO",
+            "ProductDescription": "YT. PISTON PUMP FOR OIL 16-18L/MIN"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POMPA TŁOKOWA DO OLEJU 16-18L/MIN – YATO",
+            "ProductDescription": "YT. KOLBENPUMPE FÜR ÖL 16-18L/MIN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083907128"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84132000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-0712",
+        "Weight": 2000.0,
+        "Height": 290.0,
+        "Width": 330.0,
+        "Depth": 480.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55042
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046784",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c548f22-9856-4062-a4b4-c95a92f175a7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T15:41:54Z'",
+          "ModificationDate": "b'2025-08-07T08:29:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFKM2'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:53.586000+00:00",
+        "sequence_number": 115423
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBKHT",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "STHOR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa wody brudnej 400W T79781 STHOR",
+            "ProductDescription": "Pompa zanurzeniowa do wody brudnej 400W STHOR 79781"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa wody brudnej 400W T79781 STHOR",
+            "ProductDescription": "Submersible dirty water pump 400W STHOR 79781"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa wody brudnej 400W T79781 STHOR",
+            "ProductDescription": "Schmutzwasser-Tauchmotorpumpe 400W STHOR 79781"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083029400"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137081",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "T79781",
+        "Weight": 3508.0,
+        "Height": 199.0,
+        "Width": 159.0,
+        "Depth": 304.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040550",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "05fe7d61-53b5-4e23-b801-5a7d2b0169c5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-06T16:58:22Z'",
+          "ModificationDate": "b'2025-08-07T08:22:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBKHT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:07.195000+00:00",
+        "sequence_number": 133956
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBKI6",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ogrodowa 2000L/h 3 Bar 600962000 METABO",
+            "ProductDescription": "Metabo P 2000 G 450 W 3 bar 2000 l/h"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ogrodowa 2000L/h 3 Bar 600962000 METABO",
+            "ProductDescription": "METABO. GARDEN PUMP P 2000 G 2000 l/h 3bar"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ogrodowa 2000L/h 3 Bar 600962000 METABO",
+            "ProductDescription": "METABO. GARTENPUMPE P 2000 G 2000 l/h 3bar"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4007430240750"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "600962000",
+        "Weight": 7800.0,
+        "Height": 300.0,
+        "Width": 380.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040551",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c0ba5e1c-edda-4a9b-93dd-ddd71c380574",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-23T07:47:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBKI6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:07.195000+00:00",
+        "sequence_number": 133957
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAP3",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "STANLEY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "pompa hydrofor do wody czystej 900w 42m 24l stanley",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "pompa hydrofor do wody czystej 900w 42m 24l stanley",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "pompa hydrofor do wody czystej 900w 42m 24l stanley",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8016287517737"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137081",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AR-SXGP900XFBE",
+        "Weight": 17150.0,
+        "Height": 550.0,
+        "Width": 320.0,
+        "Depth": 610.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064352",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "93e30cb8-04d3-43da-b1d9-8f4ba1c3fdc5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T22:25:54Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAP3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:29.216000+00:00",
+        "sequence_number": 163585
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDNGX",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Metabo 600969000 pompa wodna 900 W",
+            "ProductDescription": "Metabo 600969000 pompa wodna 900 W Pompa wyporowa dodatnia 4,5 bar 3500 l/h"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Metabo 600969000 pompa wodna 900 W",
+            "ProductDescription": "Metabo 600969000 water pump 900 W Positive displacement pump 4.5 bar 3500 l/h"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Metabo 600969000 pompa wodna 900 W",
+            "ProductDescription": "Metabo 600969000 Wasserpumpe 900 W Verdrängungspumpe 4,5 bar 3500 l/h"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4007430239556"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137075",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "600969000",
+        "Weight": 14800.0,
+        "Height": 530.0,
+        "Width": 350.0,
+        "Depth": 650.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045750",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "03b21c5f-49f5-4e84-9067-eb033b7c6812",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-08T12:16:08Z'",
+          "ModificationDate": "b'2025-08-07T08:28:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDNGX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:02.451000+00:00",
+        "sequence_number": 148793
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOHC",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "Wolfcraft",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "wolfcraft GmbH 2207000 pompa wodna 600 W 3000 l/h",
+            "ProductDescription": "wolfcraft GmbH 2207000 pompa wodna 600 W 3000 l/h"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "wolfcraft GmbH 2207000 pompa wodna 600 W 3000 l/h",
+            "ProductDescription": "wolfcraft GmbH 2207000 water pump 600 W 3000 l/h"
+          },
+          {
+            "Language": "de",
+            "ProductName": "wolfcraft GmbH 2207000 pompa wodna 600 W 3000 l/h",
+            "ProductDescription": "wolfcraft GmbH 2207000 Wasserpumpe 600 W 3000 l/h"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006885220706"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WF2207000",
+        "Weight": 360.0,
+        "Height": 153.0,
+        "Width": 88.0,
+        "Depth": 212.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045824",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0ad23170-fc0e-42f9-94dd-8be357b3aa0d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-18T04:04:36Z'",
+          "ModificationDate": "b'2025-06-04T12:21:02Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOHC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:03.342000+00:00",
+        "sequence_number": 148830
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDNDA",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "TOYA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TOYA 82005 pompa powietrzna",
+            "ProductDescription": "TOYA 82005 pompa powietrzna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TOYA 82005 pompa powietrzna",
+            "ProductDescription": "TOYA 82005 hand air pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TOYA 82005 pompa powietrzna",
+            "ProductDescription": "TOYA 82005 Handluftpumpe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906764218208"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84132000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "82005",
+        "Weight": 1200.0,
+        "Height": 110.0,
+        "Width": 340.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55042
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045739",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0612c481-f6df-417a-ba03-f670370d7c58",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-02T16:25:33Z'",
+          "ModificationDate": "b'2025-08-07T08:28:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDNDA'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:03.381000+00:00",
+        "sequence_number": 106812
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDNWF",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa zanurzeniowa FLO do wody brudnej 1100 W",
+            "ProductDescription": "Flo 79792 pompa wodna 1100 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa zanurzeniowa FLO do wody brudnej 1100 W",
+            "ProductDescription": "Flo 79792 water pump 1100 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa zanurzeniowa FLO do wody brudnej 1100 W",
+            "ProductDescription": "Flo 79792 Wasserpumpe 1100 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083029394"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "79792",
+        "Weight": 6500.0,
+        "Height": 220.0,
+        "Width": 180.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045785",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ac28fdee-f5a9-4f27-a3df-f2aa23ce2bd9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-06T10:16:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDNWF'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:03.381000+00:00",
+        "sequence_number": 106821
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUYI",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO POMPA ŻELIWNA Z ROZDRABNIACZEM  750W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO POMPA ŻELIWNA Z ROZDRABNIACZEM  750W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO POMPA ŻELIWNA Z ROZDRABNIACZEM  750W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083853500"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-85350",
+        "Weight": 20000.0,
+        "Height": 560.0,
+        "Width": 250.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041906",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "23fad6db-d907-4002-b467-0f5306879a7b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-14T10:44:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUYI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:26.904000+00:00",
+        "sequence_number": 165034
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBW37",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POMPA ŁAZIENKOWA DO PRYSZNICA I UMYWALKI",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POMPA ŁAZIENKOWA DO PRYSZNICA I UMYWALKI",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POMPA ŁAZIENKOWA DO PRYSZNICA I UMYWALKI",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083057632"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "75944",
+        "Weight": 4825.0,
+        "Height": 200.0,
+        "Width": 340.0,
+        "Depth": 255.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041918",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d8691765-6267-45f0-8430-f129cc928f65",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T09:09:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBW37'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:26.904000+00:00",
+        "sequence_number": 165046
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHUX",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ogrodowa METABO 600964000 P4000",
+            "ProductDescription": "Metabo P 4000 G 1100 W Pompa odśrodkowa 4,6 bar 4000 l/h"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ogrodowa METABO 600964000 P4000",
+            "ProductDescription": "METABO GARDEN PUMP P 4000 G 4000 l/h 4.6 bar"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ogrodowa METABO 600964000 P4000",
+            "ProductDescription": "METABO GARTENPUMPE P 4000 G 4000 l/h 4,6 bar"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4007430240767"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "600964000",
+        "Weight": 12200.0,
+        "Height": 230.0,
+        "Width": 420.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040225",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "97bc7aad-e58c-418f-933e-780d5e8c6adc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-22T12:00:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHUX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:25.709000+00:00",
+        "sequence_number": 120961
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWMAKPOM0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1100 Makita",
+            "ProductDescription": "Pompa ogrodowa Makita PF1100"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1100 Makita",
+            "ProductDescription": "Garden pump Metabo Makita PF1100"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1100 Makita",
+            "ProductDescription": "Gartenpumpe Metabo Makita PF1100"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874059"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF1100",
+        "Weight": 7530.0,
+        "Height": 320.0,
+        "Width": 200.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047128",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4b412007-027f-4cb8-a249-78e986570f61",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-01-24T16:40:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWMAKPOM0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:53.586000+00:00",
+        "sequence_number": 115441
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDO85",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa do udrażniania ssąco-tłocząca",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa do udrażniania ssąco-tłocząca",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa do udrażniania ssąco-tłocząca",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083089961"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84132000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-25030",
+        "Weight": 2466.0,
+        "Height": 209.0,
+        "Width": 587.0,
+        "Depth": 156.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55042
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049907",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b7e83963-8904-4553-a2fa-74c58a7a7bb5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-13T22:13:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDO85'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:28.039000+00:00",
+        "sequence_number": 121089
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWMAKPOM0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1010 Makita",
+            "ProductDescription": "Makita PF1010 pompa głębinowa 5 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1010 Makita",
+            "ProductDescription": "Makita PF1010 submersible pump 5 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1010 Makita",
+            "ProductDescription": "Makita PF1010 Tauchpumpe 5 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874073"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF1010",
+        "Weight": 7270.0,
+        "Height": 400.0,
+        "Width": 185.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050201",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8d773a73-3d2f-43e9-8988-e04b2622134e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-01-24T16:40:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWMAKPOM0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:31.714000+00:00",
+        "sequence_number": 121224
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHHEG",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektryczna pompa paliwa (wkład) pasuje do: MERCEDE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektryczna pompa paliwa (wkład) pasuje do: MERCEDE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektryczna pompa paliwa (wkład) pasuje do: MERCEDE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7.21440.51.0",
+        "Weight": 1000.0,
+        "Height": 55.0,
+        "Width": 55.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53721
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086498",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f167fcf-26bc-49e2-9d57-6615ac4f0a0c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-07T07:14:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHHEG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:24.771000+00:00",
+        "sequence_number": 136699
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAI85",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektryczna pompa do wody Makita PF1110",
+            "ProductDescription": "Makita PF1110 pompa głębinowa 1100 W 15000 l/h 5 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektryczna pompa do wody Makita PF1110",
+            "ProductDescription": "MAKITA WASTE WATER PUMP WITH FLOAT 1100W 250 l/min INOX PF1110"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektryczna pompa do wody Makita PF1110",
+            "ProductDescription": "MAKITA ABWASSERPUMPE MIT SCHWIMMER 1100W 250 l/min INOX PF1110"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874066"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF1110",
+        "Weight": 7712.0,
+        "Height": 183.0,
+        "Width": 378.0,
+        "Depth": 222.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036235",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6775f800-28b3-44f5-9940-aaf28173aed3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-12T14:16:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAI85'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:00.418000+00:00",
+        "sequence_number": 162173
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAILJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1010 Makita",
+            "ProductDescription": "Makita PF1010 pompa głębinowa 5 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1010 Makita",
+            "ProductDescription": "Makita PF1010 submersible pump 5 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1010 Makita",
+            "ProductDescription": "Makita PF1010 Tauchpumpe 5 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874073"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF1010",
+        "Weight": 7270.0,
+        "Height": 400.0,
+        "Width": 185.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036376",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "405555a3-5719-4b93-a6cb-c78c480300ca",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-08T10:30:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAILJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:00.806000+00:00",
+        "sequence_number": 162205
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAISZ",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0410 Makita",
+            "ProductDescription": "Makita PF0410 pompa głębinowa 5 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0410 Makita",
+            "ProductDescription": "MAKITA WASTE WATER PUMP WITH FLOAT 400W 140l/min PF0410"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0410 Makita",
+            "ProductDescription": "MAKITA ABWASSERPUMPE MIT SCHWIMMER 400W 140l/min PF0410"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874028"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF0410",
+        "Weight": 4860.0,
+        "Height": 360.0,
+        "Width": 300.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036452",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "718c97c4-5820-43c4-9ec7-a038803ea617",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-13T12:17:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAISZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:01.714000+00:00",
+        "sequence_number": 162244
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWGM",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "AWTOOLS AW85510 kosz na śmieci",
+            "ProductDescription": "AWTOOLS AW85510 kosz na śmieci"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "AWTOOLS AW85510 kosz na śmieci",
+            "ProductDescription": "AWTOOLS AW85510 trash can"
+          },
+          {
+            "Language": "de",
+            "ProductName": "AWTOOLS AW85510 kosz na śmieci",
+            "ProductDescription": "AWTOOLS AW85510 Mülleimer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84137075",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW85510",
+        "Weight": 4800.0,
+        "Height": 200.0,
+        "Width": 340.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083736",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e02f6098-960d-487f-8ada-35aa2faf84a3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T14:17:11Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWGM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:56.697000+00:00",
+        "sequence_number": 122506
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBLTA",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "STHOR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa wody brudnej  400W T79909 STHOR",
+            "ProductDescription": "Sthor 79909 pompa wodna 400 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa wody brudnej  400W T79909 STHOR",
+            "ProductDescription": "STHOR DIRTY WATER PUMP 400W 79781"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa wody brudnej  400W T79909 STHOR",
+            "ProductDescription": "STHOR SCHMUTZWASSERPUMPE 400W 79781"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083799099"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137081",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "T79909",
+        "Weight": 3500.0,
+        "Height": 200.0,
+        "Width": 300.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040703",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1a9bc269-ae59-4f4b-8280-19e6edfe0167",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-15T13:35:17Z'",
+          "ModificationDate": "b'2025-08-07T08:22:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBLTA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:38.054000+00:00",
+        "sequence_number": 137416
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0249",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa ogrodowa Metabo Inox P4500 600965000",
+            "ProductDescription": "Pompa ogrodowa Metabo P 4500"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa ogrodowa Metabo Inox P4500 600965000",
+            "ProductDescription": "Garden pump Metabo P 4500"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa ogrodowa Metabo Inox P4500 600965000",
+            "ProductDescription": "Gartenpumpe Metabo P 4500"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4007430240736"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "600965000",
+        "Weight": 11725.0,
+        "Height": 250.0,
+        "Width": 460.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070716",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ffde6ac0-7918-4d92-8d06-12dc987d2a4a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T09:16:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0249'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:31.455000+00:00",
+        "sequence_number": 152114
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFJRY",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Metabo HWW 3500/25 G 900 W 4,5 bar 3500 l/h",
+            "ProductDescription": "Metabo HWW 3500/25 G 900 W 4,5 bar 3500 l/h"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Metabo HWW 3500/25 G 900 W 4,5 bar 3500 l/h",
+            "ProductDescription": "Metabo HWW 3500/25 G 900 W 4.5 bar 3500 l/h"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Metabo HWW 3500/25 G 900 W 4,5 bar 3500 l/h",
+            "ProductDescription": "Metabo HWW 3500/25 G 900 W 4,5 bar 3500 l/h"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4061792001541"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137081",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6644711",
+        "Weight": 19000.0,
+        "Height": 250.0,
+        "Width": 260.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047906",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "78fbb18c-a376-496f-b09f-cfe6a35b7406",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-07T12:50:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFJRY'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:00.243000+00:00",
+        "sequence_number": 115798
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NELKNLPOM0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Basenowa pompa ciepła Kensol 7 Kw",
+            "ProductDescription": "Basenowa pompa ciepła Kensol 7 kW KTB7KW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Basenowa pompa ciepła Kensol 7 Kw",
+            "ProductDescription": "Kensol 7 kW pool heat pump KTB7KW"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Basenowa pompa ciepła Kensol 7 Kw",
+            "ProductDescription": "Kensol Schwimmbad-Wärmepumpe 7 kW KTB7KW"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTB7KW",
+        "Weight": 70000.0,
+        "Height": 1050.0,
+        "Width": 400.0,
+        "Depth": 650.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070607",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Basenowa pompa ciepła Kensol 7 kW"
+      },
+      "properties": {
+        "message_id": "eedc32a8-0230-4376-a813-9948b5ef883a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:17:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NELKNLPOM0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.043000+00:00",
+        "sequence_number": 109492
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRC651",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Metabo TPF 6600 SN pompa głębinowa 5 m",
+            "ProductDescription": "Metabo TPF 6600 SN pompa głębinowa 5 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Metabo TPF 6600 SN pompa głębinowa 5 m",
+            "ProductDescription": "Metabo TPF 6600 SN submersible pump 5 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Metabo TPF 6600 SN pompa głębinowa 5 m",
+            "ProductDescription": "Metabo TPF 6600 SN Tauchpumpe 5 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4003665502243"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1856632",
+        "Weight": 5000.0,
+        "Height": 310.0,
+        "Width": 220.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050545",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a8af2e2b-2a59-4099-a89c-79dd45227a2f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-20T09:04:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRC651'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:13.853000+00:00",
+        "sequence_number": 137932
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPFK",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa membranowa do wody 350W FLO 79944",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa membranowa do wody 350W FLO 79944",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa membranowa do wody 350W FLO 79944",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083029479"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "79944",
+        "Weight": 4000.0,
+        "Height": 120.0,
+        "Width": 170.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041160",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "64e444ac-556b-4d02-bd10-36b1080beb10",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-27T02:56:08Z'",
+          "ModificationDate": "b'2025-06-04T12:18:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPFK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:34.681000+00:00",
+        "sequence_number": 123260
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPTY",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "METABO POMPA OGRODOWA 6000 l/h 5,5 bar",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "METABO POMPA OGRODOWA 6000 l/h 5,5 bar",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "METABO POMPA OGRODOWA 6000 l/h 5,5 bar",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4007430240538"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2436822",
+        "Weight": 14000.0,
+        "Height": 250.0,
+        "Width": 350.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041290",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3c2a0995-7b25-43a7-9240-0e45fdca882f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-13T16:58:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPTY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:35.525000+00:00",
+        "sequence_number": 123316
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHJX8",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "EGC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektryczna pompa paliwa 12V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektryczna pompa paliwa 12V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektryczna pompa paliwa 12V",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ENT110310",
+        "Weight": 310.0,
+        "Height": 85.0,
+        "Width": 115.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53721
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054537",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c1eeb834-6865-4960-bd73-765ce12e737c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T10:15:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHJX8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:46.720000+00:00",
+        "sequence_number": 167717
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADNL",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa obiegowa OPTI ECO 25 40/180 5 22W 48 l/min",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa obiegowa OPTI ECO 25 40/180 5 22W 48 l/min",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa obiegowa OPTI ECO 25 40/180 5 22W 48 l/min",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903293765821"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137075",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3ZPSP254BP",
+        "Weight": 2688.0,
+        "Height": 136.0,
+        "Width": 368.0,
+        "Depth": 229.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035317",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1ef83a40-4484-4019-8343-8e04ac760ecd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-11T08:00:22Z'",
+          "ModificationDate": "b'2025-08-07T08:18:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADNL'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:31.231000+00:00",
+        "sequence_number": 110233
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADNZ",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa obiegowa OPTI ECO S 25 60/180 5 45W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa obiegowa OPTI ECO S 25 60/180 5 45W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa obiegowa OPTI ECO S 25 60/180 5 45W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903293765852"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3ZPSPB256B",
+        "Weight": 2710.0,
+        "Height": 130.0,
+        "Width": 200.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035321",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cbeaf79a-ac93-478a-bf75-fc5506501d4f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-13T12:00:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADNZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:31.231000+00:00",
+        "sequence_number": 110237
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIYTY",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "TECHNAXX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompka SUP z funkcją powerbanku Technaxx TX-266",
+            "ProductDescription": "Technaxx TX-266 elektryczna pompa powietrza 350 l/min"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompka SUP z funkcją powerbanku Technaxx TX-266",
+            "ProductDescription": "SUP Pump with Power Bank Function Technaxx TX-266"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompka SUP z funkcją powerbanku Technaxx TX-266",
+            "ProductDescription": "SUP Pumpe mit Powerbank-Funktion Technaxx TX-266"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260358126210"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84142080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "O4260358126210",
+        "Weight": 650.0,
+        "Height": 203.0,
+        "Width": 234.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.22.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52971
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067531",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "137aff53-76be-4c08-8e9c-e179d6745f87",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-12T12:51:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIYTY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:14.803000+00:00",
+        "sequence_number": 152902
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWVROPOM0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "VERTO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa zanurzeniowa do w brudnej 900W, 52G441 Verto",
+            "ProductDescription": "Verto 52G449 pompa zanurzeniowa do wody brudnej 900 W 14000 l/h 7 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa zanurzeniowa do w brudnej 900W, 52G441 Verto",
+            "ProductDescription": "Verto 52G449 Submersible dirty water pump 900 W 14000 l/h 7 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa zanurzeniowa do w brudnej 900W, 52G441 Verto",
+            "ProductDescription": "Verto 52G449 Schmutzwasser-Tauchpumpe 900 W 14000 l/h 7 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902062010384"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137081",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "52G449",
+        "Weight": 5490.0,
+        "Height": 162.0,
+        "Width": 380.0,
+        "Depth": 230.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091997",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa zanurzeniowa do wody brudnej 900W, wydajność 14 000 l/godz. Verto"
+      },
+      "properties": {
+        "message_id": "63246841-821f-4c65-b5fd-40b15e068135",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-04-02T14:54:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWVROPOM0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:57.893000+00:00",
+        "sequence_number": 168274
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFKJC",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yato YT-0704 ręczna smarownica Pistolet do wyciskan",
+            "ProductDescription": "Yato YT-0704 ręczna smarownica Pistolet do wyciskania smaru"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yato YT-0704 ręczna smarownica Pistolet do wyciskan",
+            "ProductDescription": "Yato YT-0704 manual grease gun Grease injection gun"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yato YT-0704 ręczna smarownica Pistolet do wyciskan",
+            "ProductDescription": "Yato YT-0704 Handfettpistole Fett-Einspritzpistole"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083907043"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-0704",
+        "Weight": 2000.0,
+        "Height": 80.0,
+        "Width": 150.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55042
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093107",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "851c6719-a75d-4eac-a063-702b8dbe312b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T15:19:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFKJC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:15.668000+00:00",
+        "sequence_number": 169134
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIB1",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1100 Makita",
+            "ProductDescription": "Makita PF1100 pompa wodna 1100 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1100 Makita",
+            "ProductDescription": "MAKITA CLEAN WATER PUMP WITH FLOAT 1100W 250 l/min INOX PF1100"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1100 Makita",
+            "ProductDescription": "MAKITA REINWASSERPUMPE MIT SCHWIMMER 1100W 250 l/min INOX PF1100"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874059"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF1100",
+        "Weight": 7250.0,
+        "Height": 170.0,
+        "Width": 330.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036261",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3040dfaa-4e13-457f-999d-ee7b548d0313",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-16T12:22:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIB1'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.013000+00:00",
+        "sequence_number": 111387
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWKARPOM0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 11.000 Dirt",
+            "ProductDescription": "Kärcher SP 11.000 DIRT pompa głębinowa 400 W 11000 l/h 7 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 11.000 Dirt",
+            "ProductDescription": "Kärcher SP 11.000 DIRT submersible pump 400 W 11000 l/h 7 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 11.000 Dirt",
+            "ProductDescription": "Kärcher SP 11.000 DIRT Tauchpumpe 400 W 11000 l/h 7 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278951676"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.645-820.0",
+        "Weight": 5100.0,
+        "Height": 329.0,
+        "Width": 193.0,
+        "Depth": 235.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073625",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa zanurzeniowa KARCHER SP 11.000 Dirt - 1.645-820.0"
+      },
+      "properties": {
+        "message_id": "5486918b-d173-4a3a-8dca-ba56284419e7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T08:55:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWKARPOM0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145190
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWKARPOM0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 16.000 Dirt",
+            "ProductDescription": "Kärcher SP 16.000 DIRT pompa głębinowa 550 W 16000 l/h 7 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 16.000 Dirt",
+            "ProductDescription": "Kärcher SP 16.000 DIRT submersible pump 550 W 16000 l/h 7 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 16.000 Dirt",
+            "ProductDescription": "Kärcher SP 16.000 DIRT Tauchpumpe 550 W 16000 l/h 7 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278951683"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.645-830.0",
+        "Weight": 5470.0,
+        "Height": 190.0,
+        "Width": 237.0,
+        "Depth": 329.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073626",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa zanurzeniowa KARCHER SP 16.000 Dirt - 1.645-830.0"
+      },
+      "properties": {
+        "message_id": "7ac3b6fc-cead-46f7-a502-fa394151fb70",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T08:55:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWKARPOM0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145191
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NREYATPOM0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa do udrażniania ssąco-tłocząca YT-25030 YATO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa do udrażniania ssąco-tłocząca YT-25030 YATO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa do udrażniania ssąco-tłocząca YT-25030 YATO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083089961"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84132000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-25030",
+        "Weight": 2340.0,
+        "Height": 150.0,
+        "Width": 570.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55042
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081046",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8abc0fe1-53d9-4724-8ae5-45cfec0edde5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-06T12:04:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NREYATPOM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:53.247000+00:00",
+        "sequence_number": 154786
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPKAR2OO0131",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 9.500 Dirt(WYPRZEDAŻ)",
+            "ProductDescription": "Kärcher SP 9.500 DIRT pompa głębinowa 280 W 9500 l/h 7 m Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 9.500 Dirt(WYPRZEDAŻ)",
+            "ProductDescription": "Kärcher SP 9.500 DIRT submersible pump 280 W 9500 l/h 7 m Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 9.500 Dirt(WYPRZEDAŻ)",
+            "ProductDescription": "Kärcher SP 9.500 DIRT Tauchpumpe 280 W 9500 l/h 7 m Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278951652"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.645-800.0",
+        "Weight": 4500.0,
+        "Height": 220.0,
+        "Width": 185.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055795",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ddc7e67d-e07b-428d-9aa3-8da964f4df7a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-28T12:42:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPKAR2OO0131'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:06.390000+00:00",
+        "sequence_number": 140594
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHMOP",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "HEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa cieczy chłodzącej, z uszczelką AGILA, ASTRA G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa cieczy chłodzącej, z uszczelką AGILA, ASTRA G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa cieczy chłodzącej, z uszczelką AGILA, ASTRA G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250093403349"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P334",
+        "Weight": 1300.0,
+        "Height": 130.0,
+        "Width": 240.0,
+        "Depth": 222.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "NA",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53721
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081416",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0bcb7daf-96cc-4419-b189-6b97f6a47e6a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-10T12:13:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHMOP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:56.309000+00:00",
+        "sequence_number": 154956
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUOE",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "SILVER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa olejowa 12V Silver 10905 do spuszczania paliw",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa olejowa 12V Silver 10905 do spuszczania paliw",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa olejowa 12V Silver 10905 do spuszczania paliw",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907589360516"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10905",
+        "Weight": 3350.0,
+        "Height": 170.0,
+        "Width": 300.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041865",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7bd4305d-2fbc-4f03-a275-0943360be4d3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-03T10:16:04Z'",
+          "ModificationDate": "b'2025-06-04T12:18:45Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUOE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:41.652000+00:00",
+        "sequence_number": 125827
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWEC",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FALA POMPA WC 600W  Z NOŻAMI TNĄCYMI",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FALA POMPA WC 600W  Z NOŻAMI TNĄCYMI",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "FALA POMPA WC 600W  Z NOŻAMI TNĄCYMI",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083034138"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "75953",
+        "Weight": 7000.0,
+        "Height": 350.0,
+        "Width": 250.0,
+        "Depth": 470.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041938",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c9b17c90-f903-45c4-9132-170f97d68c8f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-26T14:11:28Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWEC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:42.481000+00:00",
+        "sequence_number": 125863
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWZJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "Intex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Intex 28638 akcesorium/część do basenu",
+            "ProductDescription": "Intex 28638 akcesorium/część do basenu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Intex 28638 akcesorium/część do basenu",
+            "ProductDescription": "Intex 28638 pool part/accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Intex 28638 akcesorium/część do basenu",
+            "ProductDescription": "Intex 28638 Pool (Ersatz-) Teile/Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941057404240"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84212100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "128638GS",
+        "Weight": 5350.0,
+        "Height": 280.0,
+        "Width": 400.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080434",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1d1e390c-be6d-4b8a-9883-2a2630579a33",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-03T20:03:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWZJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:39.843000+00:00",
+        "sequence_number": 112616
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRI490",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa cieczy chłodzącej (z kołem pasowym)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa cieczy chłodzącej (z kołem pasowym)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa cieczy chłodzącej (z kołem pasowym)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8059692821761"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OMP201.145",
+        "Weight": 2450.0,
+        "Height": 175.0,
+        "Width": 170.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53721
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080750",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "91dd19a4-11ea-46ac-8638-b64d95fbe941",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T22:00:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRI490'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:43.365000+00:00",
+        "sequence_number": 112772
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHMS",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "KÖNNER & SÖHNEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KS POMPA SPALINOWA KS  50 500 l/min 2\".",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KS POMPA SPALINOWA KS  50 500 l/min 2\".",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KS POMPA SPALINOWA KS  50 500 l/min 2\".",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260405361342"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KS50",
+        "Weight": 26000.0,
+        "Height": 455.0,
+        "Width": 465.0,
+        "Depth": 525.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080826",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "406b343a-4039-4bd9-ac9f-2d0b67f9fc81",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-05T11:19:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHMS'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:44.504000+00:00",
+        "sequence_number": 112808
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0507",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Metabo TDP 7501 S pompa głębinowa 7 m",
+            "ProductDescription": "Metabo TDP 7501 S pompa głębinowa 7 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Metabo TDP 7501 S pompa głębinowa 7 m",
+            "ProductDescription": "Metabo TDP 7501 S submersible pump 7 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Metabo TDP 7501 S pompa głębinowa 7 m",
+            "ProductDescription": "Metabo TDP 7501 S Tauchpumpe 7 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4003665502281"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "250750100",
+        "Weight": 9080.0,
+        "Height": 220.0,
+        "Width": 430.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033020",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5d320043-2c62-47fe-9625-148a8c12ce50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-28T15:15:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0507'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:45.046000+00:00",
+        "sequence_number": 141194
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0528",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO YT-85330 POMPA ZATAPIALNA 400W",
+            "ProductDescription": "Yato YT-85330 pompa wodna 400 W 11000 l/h"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO YT-85330 POMPA ZATAPIALNA 400W",
+            "ProductDescription": "YATO SUBMERSIBLE PUMP 400W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO YT-85330 POMPA ZATAPIALNA 400W",
+            "ProductDescription": "YATO TAUCHPUMPE 400W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083051272"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-85330",
+        "Weight": 4480.0,
+        "Height": 360.0,
+        "Width": 200.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033028",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "618d614c-7f80-4025-b0e4-1bd7bb98378d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-25T12:02:22Z'",
+          "ModificationDate": "b'2025-06-04T12:13:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0528'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:45.249000+00:00",
+        "sequence_number": 141202
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0720",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO POMPA SPALINOWA 2\" 5,9HP 36m3/h  85401",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO POMPA SPALINOWA 2\" 5,9HP 36m3/h  85401",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO POMPA SPALINOWA 2\" 5,9HP 36m3/h  85401",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083854019"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-85401",
+        "Weight": 23000.0,
+        "Height": 410.0,
+        "Width": 390.0,
+        "Depth": 490.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033104",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "971d50d0-6b7d-46ce-8f84-a31c7ad173f3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-31T09:56:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0720'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:47.999000+00:00",
+        "sequence_number": 141273
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRELIK",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "VERTEX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POMPA DO SZAMBA VERTEX WQD10-8-0.55F",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POMPA DO SZAMBA VERTEX WQD10-8-0.55F",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POMPA DO SZAMBA VERTEX WQD10-8-0.55F",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905669128438"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WQD-10-8-0.55F",
+        "Weight": 10800.0,
+        "Height": 457.0,
+        "Width": 233.0,
+        "Depth": 281.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083294",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "310a3e4b-5db3-4878-a232-eb42e708df80",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-20T12:09:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRELIK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:18.574000+00:00",
+        "sequence_number": 170842
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWMAKPOM0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektryczna pompa zanurzeniowa do wody PF0800 Makit",
+            "ProductDescription": "Makita PF0800 pompa głębinowa 800 W 13200 l/h 5 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektryczna pompa zanurzeniowa do wody PF0800 Makit",
+            "ProductDescription": "Makita PF0800 submersible pump 800 W 13200 l/h 5 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektryczna pompa zanurzeniowa do wody PF0800 Makit",
+            "ProductDescription": "Makita PF0800 Tauchpumpe 800 W 13200 l/h 5 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874103"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF0800",
+        "Weight": 6550.0,
+        "Height": 210.0,
+        "Width": 180.0,
+        "Depth": 350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061828",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a23d54ac-1cea-4870-a9b6-1fe07c8422bb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-03-03T11:17:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWMAKPOM0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:40.845000+00:00",
+        "sequence_number": 155711
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NELKNLPOM0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "kensol",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Basenowa pompa ciepła Kensol 20 kW",
+            "ProductDescription": "Basenowa pompa ciepła Kensol 20 kW KTB20KW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Basenowa pompa ciepła Kensol 20 kW",
+            "ProductDescription": "Kensol 20 kW pool heat pump KTB20W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Basenowa pompa ciepła Kensol 20 kW",
+            "ProductDescription": "Kensol Schwimmbad-Wärmepumpe 20 kW KTB20KW"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KTB20KW",
+        "Weight": 91000.0,
+        "Height": 1180.0,
+        "Width": 420.0,
+        "Depth": 781.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061838",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Basenowa pompa ciepła Kensol 20 kW"
+      },
+      "properties": {
+        "message_id": "a5019b56-7be0-4ab2-9276-3f1d3ca86567",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-29T10:16:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NELKNLPOM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:40.845000+00:00",
+        "sequence_number": 155721
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABCF",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "Alphacool",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alphacool 13339 część / akcesorium do systemów chło",
+            "ProductDescription": "Alphacool 13339 część / akcesorium do systemów chłodzenia komputerów Pompa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alphacool 13339 część / akcesorium do systemów chło",
+            "ProductDescription": "Alphacool 13339 computer cooling system part/accessory Pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alphacool 13339 część / akcesorium do systemów chło",
+            "ProductDescription": "Alphacool 13339 Computerkühlsystemteil/-zubehör Pumpe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1869406",
+        "Weight": 319.0,
+        "Height": 90.0,
+        "Width": 80.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091353",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54b8e294-a5b6-4924-bc7b-ea9b867dd2d1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-21T15:03:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABCF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:19.543000+00:00",
+        "sequence_number": 170887
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0505",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0300 Makita",
+            "ProductDescription": "Makita PF0300 pompa wodna 300 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0300 Makita",
+            "ProductDescription": "Makita PF0300 water pump 300 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0300 Makita",
+            "ProductDescription": "Makita PF0300 Wasserpumpe 300 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874042"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF0300",
+        "Weight": 4565.0,
+        "Height": 230.0,
+        "Width": 330.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054991",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0652130d-4a9c-4eaf-b88d-40c83a63c44c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-18T08:46:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0505'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:59.234000+00:00",
+        "sequence_number": 141878
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAKTHBPOM0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "Therabody",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Automatyczna bańka bezogniowa Therabody TheraCup",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Automatyczna bańka bezogniowa Therabody TheraCup",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Automatyczna bańka bezogniowa Therabody TheraCup",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "840295408781"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "840295408781",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52971
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093211",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0ee469dd-79b2-4d43-9e99-311af7bfd2f6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T12:10:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAKTHBPOM0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:26.777000+00:00",
+        "sequence_number": 171261
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDONH",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yato YT-07087 Ręczna pompa do wymiany oleju",
+            "ProductDescription": "Yato YT-07087 naprawa/konserwacja pojazdu Ręczna pompa do wymiany oleju"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yato YT-07087 Ręczna pompa do wymiany oleju",
+            "ProductDescription": "Yato YT-07087 vehicle repair/maintenance Hand oil change pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yato YT-07087 Ręczna pompa do wymiany oleju",
+            "ProductDescription": "Yato YT-07087 Fahrzeugreparatur/-Wartung Handpumpe Ölwechsel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083050190"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84132000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-07087",
+        "Weight": 4000.0,
+        "Height": 550.0,
+        "Width": 680.0,
+        "Depth": 700.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55042
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048713",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0de4deac-b8d4-484e-b691-b9ab644a3e7b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-29T10:19:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDONH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:07.572000+00:00",
+        "sequence_number": 116183
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGFT1",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "STANLEY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa STANLEY SXUP1100XDE w.brudnej Inox 1100W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa STANLEY SXUP1100XDE w.brudnej Inox 1100W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa STANLEY SXUP1100XDE w.brudnej Inox 1100W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8016287517690"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SXUP1100XDE",
+        "Weight": 7788.0,
+        "Height": 427.0,
+        "Width": 193.0,
+        "Depth": 248.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082229",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "07b801ee-3d75-45f7-ab1f-06a8765ee96a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-16T15:14:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGFT1'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:56.801000+00:00",
+        "sequence_number": 113493
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWKARPOM0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 9.000 Flat",
+            "ProductDescription": "Kärcher SP 9.000 FLAT pompa głębinowa 280 W 9000 l/h 7 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 9.000 Flat",
+            "ProductDescription": "Kärcher SP 9.000 FLAT submersible pump 280 W 9000 l/h 7 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa zanurzeniowa KARCHER SP 9.000 Flat",
+            "ProductDescription": "Kärcher SP 9.000 FLAT Tauchpumpe 280 W 9000 l/h 7 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278951669"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.645-810.0",
+        "Weight": 4375.0,
+        "Height": 280.0,
+        "Width": 232.0,
+        "Depth": 185.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077524",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa zanurzeniowa KARCHER SP 9.000 Flat - 1.645-810.0"
+      },
+      "properties": {
+        "message_id": "05a2e114-8c9b-4ce5-b63c-d8ea81653b29",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T08:56:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWKARPOM0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:03.284000+00:00",
+        "sequence_number": 156669
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWMAKPOM0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0410 Makita",
+            "ProductDescription": "Makita PF0410 pompa głębinowa 5 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0410 Makita",
+            "ProductDescription": "Makita PF0410 submersible pump 5 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF0410 Makita",
+            "ProductDescription": "Makita PF0410 Tauchpumpe 5 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874028"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF0410",
+        "Weight": 4860.0,
+        "Height": 360.0,
+        "Width": 300.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077525",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "55cc6f13-cfdc-4602-a656-7396245d3a6c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-01-24T16:40:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWMAKPOM0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:03.284000+00:00",
+        "sequence_number": 156670
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHOKS",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "LBR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa hydrauliczna przekładni kierowniczej",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa hydrauliczna przekładni kierowniczej",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa hydrauliczna przekładni kierowniczej",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LAU 55.5102",
+        "Weight": 1670.0,
+        "Height": 180.0,
+        "Width": 150.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53721
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084600",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "553b27a6-9f96-4a06-902d-5d6294e7748c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T20:00:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHOKS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:09.441000+00:00",
+        "sequence_number": 156959
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFSX8",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "EINHELL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa do brudnej wody Einhell GC-DP 7835 15700 l/h",
+            "ProductDescription": "Einhell GC-DP 7835 pompa głębinowa 780 W 15700 l/h 7 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa do brudnej wody Einhell GC-DP 7835 15700 l/h",
+            "ProductDescription": "Einhell GC-DP 7835 submersible pump 780 W 15700 l/h 7 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa do brudnej wody Einhell GC-DP 7835 15700 l/h",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006825587210"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4170682",
+        "Weight": 5734.0,
+        "Height": 185.0,
+        "Width": 385.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094287",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6f36e1e5-d4c6-4f7b-8a68-166cd115a03a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-05T15:48:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFSX8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:45.594000+00:00",
+        "sequence_number": 172208
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWMTBPOM0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa do wody czystej  TDP 7501 S 250750100",
+            "ProductDescription": "Metabo TDP 7501 S pompa głębinowa 7 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa do wody czystej  TDP 7501 S 250750100",
+            "ProductDescription": "Metabo TDP 7501 S submersible pump 7 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa do wody czystej  TDP 7501 S 250750100",
+            "ProductDescription": "Metabo TDP 7501 S Tauchpumpe 7 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4003665502281"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "250750100",
+        "Weight": 9000.0,
+        "Height": 425.0,
+        "Width": 220.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058898",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ce9dd976-c751-4fdf-8df3-a9bfb39152b2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-21T09:04:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWMTBPOM0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:11.962000+00:00",
+        "sequence_number": 118362
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWVROPOM0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "VERTO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa zanurzeniowa do w brudnej 400W, 52G441 Verto",
+            "ProductDescription": "Verto 52G441 pompa zanurzeniowa do wody brudnej 400 W 7500 l/h 5 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa zanurzeniowa do w brudnej 400W, 52G441 Verto",
+            "ProductDescription": "Verto 52G441 Submersible dirty water pump 400 W 7500 l/h 5 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa zanurzeniowa do w brudnej 400W, 52G441 Verto",
+            "ProductDescription": "Verto 52G441 Schmutzwasser-Tauchpumpe 400 W 7500 l/h 5 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902062009852"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84137081",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "52G441",
+        "Weight": 3995.0,
+        "Height": 220.0,
+        "Width": 340.0,
+        "Depth": 165.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058899",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompa zanurzeniowa do wody brudnej 400W, wydajność 7500 l/godz. Verto"
+      },
+      "properties": {
+        "message_id": "817115a1-3d0b-44d9-b8a3-773dd585df1e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-04-02T14:54:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWVROPOM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:11.962000+00:00",
+        "sequence_number": 118363
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBW69",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yato YT-85283 pompa wodna",
+            "ProductDescription": "Yato YT-85283 pompa wodna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yato YT-85283 pompa wodna",
+            "ProductDescription": "Yato YT-85283 water pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yato YT-85283 pompa wodna",
+            "ProductDescription": "Yato YT-85283 Wasserpumpe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083083426"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84136069",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-85283",
+        "Weight": 1890.0,
+        "Height": 301.0,
+        "Width": 195.0,
+        "Depth": 207.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52971
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074907",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e34d19bc-549f-4628-baba-2ccd580cb046",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-23T05:23:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBW69'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:22.315000+00:00",
+        "sequence_number": 143062
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWGA",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "SILVER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POMPA OLEJOWA 12V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POMPA OLEJOWA 12V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POMPA OLEJOWA 12V",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907589360509"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10904",
+        "Weight": 3330.0,
+        "Height": 170.0,
+        "Width": 246.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074909",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "21cdc950-97f8-4b38-85a8-8a397df500eb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-08T13:38:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWGA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:22.315000+00:00",
+        "sequence_number": 143064
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCUM7",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa głębinowa AWTOOLS AW85010",
+            "ProductDescription": "AWTOOLS AW85010 pompa głębinowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa głębinowa AWTOOLS AW85010",
+            "ProductDescription": "AWTOOLS AW85010 submersible pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa głębinowa AWTOOLS AW85010",
+            "ProductDescription": "AWTOOLS AW85010 Tauchpumpe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84137029",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW85010",
+        "Weight": 3000.0,
+        "Height": 310.0,
+        "Width": 160.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086094",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b8047307-0eb3-422b-aa16-1af55a14bdd6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T11:15:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCUM7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:23.146000+00:00",
+        "sequence_number": 157499
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHNZG",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw naprawczy pompy cieczy chłodzącej pasuje do:",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw naprawczy pompy cieczy chłodzącej pasuje do:",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw naprawczy pompy cieczy chłodzącej pasuje do:",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VIC-6216",
+        "Weight": 1000.0,
+        "Height": 118.0,
+        "Width": 38.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53721
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086602",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "540d79b6-4808-4b6a-8e58-343a51a59a3f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-07T11:53:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHNZG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:28.693000+00:00",
+        "sequence_number": 157721
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHM44",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw naprawczy pompy cieczy chłodzącej",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw naprawczy pompy cieczy chłodzącej",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw naprawczy pompy cieczy chłodzącej",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "030999315809"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "18-3317",
+        "Weight": 430.0,
+        "Height": 95.0,
+        "Width": 140.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53721
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075402",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "94e8d777-6063-40f4-b9f1-56ac54249ed5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-04T21:22:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHM44'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:30.802000+00:00",
+        "sequence_number": 143520
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAWMAKPOM0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1110 Makita",
+            "ProductDescription": "Makita PF1110 pompa głębinowa 15000 l/godz 5 m 1100 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1110 Makita",
+            "ProductDescription": "Makita PF1110 submersible pump 15000 l/h 5 m 1100 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektrycz. pompa zanurzeniowa do wody PF1110 Makita",
+            "ProductDescription": "Makita PF1110 Tauchpumpe 15000 l/h 5 m 1100 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002829874066"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PF1110",
+        "Weight": 7720.0,
+        "Height": 187.0,
+        "Width": 225.0,
+        "Depth": 390.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048844",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "68ae88c2-ddb9-4cf4-9967-5fef6b65bd8c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-01-24T16:40:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAWMAKPOM0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:08.744000+00:00",
+        "sequence_number": 116238
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHMBM",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "PIEPS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mechaniczna pompa próżniowa do: CADILLAC BLS",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mechaniczna pompa próżniowa do: CADILLAC BLS",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mechaniczna pompa próżniowa do: CADILLAC BLS",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4028977549359"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7.28237.05.0",
+        "Weight": 930.0,
+        "Height": 115.0,
+        "Width": 135.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53721
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055675",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "91ba0de2-fb97-46c9-8082-4a8040fa1884",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-08T12:53:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHMBM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:59.843000+00:00",
+        "sequence_number": 160741
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAKTHBPOM0001",
+        "ProductVersion": "1.3",
+        "ProductType": "Pompy",
+        "Brand": "Therabody",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Automatyczna bańka bezogniowa Therabody TheraCup",
+            "ProductDescription": "AUTOMATYCZNA BAŃKA BEZOGNIOWA THERABODY THERACUP"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Automatyczna bańka bezogniowa Therabody TheraCup",
+            "ProductDescription": "AUTOMATIC FIRELESS BUBBLE THERABODY THERACUP"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Automatyczna bańka bezogniowa Therabody TheraCup",
+            "ProductDescription": "AUTOMATISCHER FEUERLOSER SPRUDELBEHÄLTER THERACUP"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810036059862"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 715.0,
+        "Height": 160.0,
+        "Width": 160.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52971
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100020171",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Automatyczna bańka bezogniowa Therabody TheraCup"
+      },
+      "properties": {
+        "message_id": "d28a683a-688c-415c-b431-ac584e6dec49",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-24T09:57:36Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAKTHBPOM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:08.243000+00:00",
+        "sequence_number": 129153
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIY3",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Hydrofor domowy METABO 600972000 HWW",
+            "ProductDescription": "Metabo HWW 4500/25 INOX 1300 W 4,8 bar 4500 l/h"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Hydrofor domowy METABO 600972000 HWW",
+            "ProductDescription": "METABO HYDROPHORE HWW 4500/25 INOX"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Hydrofor domowy METABO 600972000 HWW",
+            "ProductDescription": "METABO HYDROPHOR HWW 4500/25 INOX"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4007430239501"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "600972000",
+        "Weight": 19200.0,
+        "Height": 655.0,
+        "Width": 530.0,
+        "Depth": 345.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036498",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4e7fd38d-fde5-4691-9715-9705e79ef3ac",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-24T10:43:04Z'",
+          "ModificationDate": "b'2025-06-04T12:15:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIY3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:58.396000+00:00",
+        "sequence_number": 133493
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIAII",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "XIAOMI PORTABLE ELECTRIC AIR COMPRESSOR 2 PRO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "XIAOMI PORTABLE ELECTRIC AIR COMPRESSOR 2 PRO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "XIAOMI PORTABLE ELECTRIC AIR COMPRESSOR 2 PRO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941812797853"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84148022",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "XIAOMI COMPRESSOR 2 PRO",
+        "Weight": 1290.0,
+        "Height": 255.0,
+        "Width": 105.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.26.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067475",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cf83a1af-02c4-460c-a975-832aa97d0b87",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-01T22:55:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIAII'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:09.641000+00:00",
+        "sequence_number": 103321
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHO5",
+        "ProductVersion": "1.2",
+        "ProductType": "Pompy",
+        "Brand": "TOYA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POMPA WC 600W  Z ROZDRABNIACZEM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POMPA WC 600W  Z ROZDRABNIACZEM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POMPA WC 600W  Z ROZDRABNIACZEM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083034145"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "75951",
+        "Weight": 8700.0,
+        "Height": 350.0,
+        "Width": 220.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043012",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9725956c-48fd-4ec3-8037-d28164616c27",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-23T10:43:06Z'",
+          "ModificationDate": "b'2025-06-04T12:19:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHO5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:49.309000+00:00",
+        "sequence_number": 148066
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBKCK",
+        "ProductVersion": "1.1",
+        "ProductType": "Pompy",
+        "Brand": "STHOR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompa membranowa 280W T79943 STHOR",
+            "ProductDescription": "Sthor 79943 pompa wodna 280 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompa membranowa 280W T79943 STHOR",
+            "ProductDescription": "Diaphragm pump 280W STHOR 79943"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompa membranowa 280W T79943 STHOR",
+            "ProductDescription": "Membranpumpe 280W STHOR 79943"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083029462"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84138100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "T79943",
+        "Weight": 4000.0,
+        "Height": 110.0,
+        "Width": 270.0,
+        "Depth": 185.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53128
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55241
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064010",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "61f92218-a765-4dae-8906-2717c9806b80",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-07T19:02:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBKCK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:26.293000+00:00",
+        "sequence_number": 163411
+      }
+    }
+  ]
+}

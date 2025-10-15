@@ -1,0 +1,178 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDMEDSUB0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki do butów",
+        "Brand": "Media tech",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MEDIA-TECH SUSZARKA DO BUTÓW MT6532",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MEDIA-TECH SUSZARKA DO BUTÓW MT6532",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "MEDIA-TECH SUSZARKA DO BUTÓW MT6532",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906453165325"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MT6532",
+        "Weight": 418.0,
+        "Height": 80.0,
+        "Width": 245.0,
+        "Depth": 143.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55379
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082316",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4453faaa-1eab-4e25-bd3b-50f168093ec9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-17T11:18:28Z'",
+          "ModificationDate": "b'2025-09-30T13:40:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDMEDSUB0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:57.692000+00:00",
+        "sequence_number": 113540
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDGVISUB0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Suszarki do butów",
+        "Brand": "Glovii",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GLOVII SUSZARKA DO BUTÓW GG20",
+            "ProductDescription": "Glovii GG20 osuszacz do obuwia Biały 20 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GLOVII SUSZARKA DO BUTÓW GG20",
+            "ProductDescription": "Glovii GG20 shoe dryer White 20 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GLOVII SUSZARKA DO BUTÓW GG20",
+            "ProductDescription": "Glovii GG20 Schuhtrockner Weiß 20 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908246727024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GG20",
+        "Weight": 325.0,
+        "Height": 95.0,
+        "Width": 205.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.94.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55379
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073889",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "591f4741-d7bb-4e96-8696-62eb2b7b6553",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-10-22T14:19:46Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDGVISUB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:33.491000+00:00",
+        "sequence_number": 145439
+      }
+    }
+  ]
+}

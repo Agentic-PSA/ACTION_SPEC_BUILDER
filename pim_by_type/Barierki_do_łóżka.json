@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBTJC",
+        "ProductVersion": "1.2",
+        "ProductType": "Barierki do łóżka",
+        "Brand": "LIO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lionelo Eva - barierka do łóżka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lionelo Eva - barierka do łóżka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lionelo Eva - barierka do łóżka",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902581658234"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94037000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5902581658234",
+        "Weight": 3300.0,
+        "Height": 155.0,
+        "Width": 765.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53309
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55085
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041715",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e7fd4383-9d0f-46cf-8ddb-56b45af771bf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-19T07:16:26Z'",
+          "ModificationDate": "b'2025-06-04T12:18:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBTJC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:46.434000+00:00",
+        "sequence_number": 147930
+      }
+    }
+  ]
+}

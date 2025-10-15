@@ -1,0 +1,3309 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "EIAALDALK0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "ALD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCODIGITAL ALKOMAT A300",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCODIGITAL ALKOMAT A300",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCODIGITAL ALKOMAT A300",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485599"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "A300",
+        "Weight": 530.0,
+        "Height": 160.0,
+        "Width": 200.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072708",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4bc2c0b2-faa8-44f8-8869-39a4401e36e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-15T10:43:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAALDALK0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:15.599000+00:00",
+        "sequence_number": 144468
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6397",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "PRL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat elektrochemiczny Promiler iSober 30",
+            "ProductDescription": "Alkomat PROMILER iSOBER 30 Niebieski, Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat elektrochemiczny Promiler iSober 30",
+            "ProductDescription": "ALKOMAT PROMILER iSOBER 30"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat elektrochemiczny Promiler iSober 30",
+            "ProductDescription": "ALKOMAT PROMILER iSOBER 30"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901687922621"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ISOBER 30",
+        "Weight": 510.0,
+        "Height": 65.0,
+        "Width": 265.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53730
+              },
+              {
+                "CategoryId": 52227
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034095",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9ba59377-b9dc-4014-baf5-036c3ff24f35",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-25T02:59:42Z'",
+          "ModificationDate": "b'2025-06-04T12:14:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6397'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:44.864000+00:00",
+        "sequence_number": 105822
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ARMIBOALK0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "IBOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALKOMAT I-BOX 20F",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALKOMAT I-BOX 20F",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALKOMAT I-BOX 20F",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443048978"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IALKOK20F",
+        "Weight": 294.0,
+        "Height": 150.0,
+        "Width": 40.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046927",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "34b738d7-6d70-4a78-bfc0-11a56153aa2a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2014-03-03T09:11:38Z'",
+          "ModificationDate": "b'2025-06-04T12:21:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ARMIBOALK0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:19.046000+00:00",
+        "sequence_number": 149697
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIADTCALK0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "DATECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCOFIND ALKOMAT DA-5200",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCOFIND ALKOMAT DA-5200",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCOFIND ALKOMAT DA-5200",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485582"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DA5200",
+        "Weight": 210.0,
+        "Height": 150.0,
+        "Width": 205.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064843",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d662f7aa-7ab5-496e-9138-5973da04fea2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-10T12:05:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIADTCALK0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:35.854000+00:00",
+        "sequence_number": 121434
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIADTCALK0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "DATECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCOFIND ALKOMAT AF-35",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCOFIND ALKOMAT AF-35",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCOFIND ALKOMAT AF-35",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485858"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AF-35",
+        "Weight": 175.0,
+        "Height": 80.0,
+        "Width": 160.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53730
+              },
+              {
+                "CategoryId": 52227
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064844",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c7c0e0b-25dc-44a4-bc9f-f1672fc8ef27",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-10T12:11:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIADTCALK0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:35.854000+00:00",
+        "sequence_number": 121435
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAIBOALK0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "IBOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat HR01",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat HR01",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat HR01",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903968681302"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IALKOHR01",
+        "Weight": 160.0,
+        "Height": 40.0,
+        "Width": 145.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064845",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f5a68559-474f-4b6a-b44a-01ca341b9ec6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-18T13:51:58Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAIBOALK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:35.854000+00:00",
+        "sequence_number": 121436
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAHZI",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "BACSCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat BACscan F-30 AL-BSC-F30",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 alkomat 0 - 4% Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat BACscan F-30 AL-BSC-F30",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 alcohol tester 0 - 4% Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat BACscan F-30 AL-BSC-F30",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 Alkohol-Tester 0 - 4% Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907437062449"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BACscan F-30",
+        "Weight": 150.0,
+        "Height": 130.0,
+        "Width": 150.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063915",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0a0ed343-5561-4a01-b247-b4000d2ed370",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T12:43:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAHZI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:07.103000+00:00",
+        "sequence_number": 150854
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAALDALK0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "ALD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCODIGITAL ALKOMAT A110S",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCODIGITAL ALKOMAT A110S",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCODIGITAL ALKOMAT A110S",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485933"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "A110S",
+        "Weight": 173.0,
+        "Height": 200.0,
+        "Width": 180.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048746",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "57514a6c-28aa-49dc-98b7-8b4d730d3f92",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-30T17:00:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAALDALK0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:58.814000+00:00",
+        "sequence_number": 108539
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAZ05",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "BACSCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat Bacscan F-50 Ultra",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat Bacscan F-50 Ultra",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat Bacscan F-50 Ultra",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904507904845"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "47121",
+        "Weight": 180.0,
+        "Height": 58.0,
+        "Width": 129.0,
+        "Depth": 177.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083094",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "45b508c8-b7af-4f7f-9aeb-54758062e164",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-19T10:09:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAZ05'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:50.712000+00:00",
+        "sequence_number": 122183
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIADTCALK0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "DATECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCOFIND ALKOMAT DA-8100L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCOFIND ALKOMAT DA-8100L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCOFIND ALKOMAT DA-8100L",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485773"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DA-8100L",
+        "Weight": 230.0,
+        "Height": 150.0,
+        "Width": 210.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069664",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "44eb5292-dde3-49a1-8f5e-ae133dadca1c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-10T12:06:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIADTCALK0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:08.362000+00:00",
+        "sequence_number": 109027
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAXBLALK0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "Xblitz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "XBLITZ ALKOMAT SPIRIT",
+            "ProductDescription": "Xblitz SPIRIT alkomat 0 - 2% Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "XBLITZ ALKOMAT SPIRIT",
+            "ProductDescription": "Xblitz SPIRIT alcohol tester 0 - 2% Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "XBLITZ ALKOMAT SPIRIT",
+            "ProductDescription": "Xblitz SPIRIT Alkohol-Tester 0 - 2% Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902479671239"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Spirit",
+        "Weight": 150.0,
+        "Height": 85.0,
+        "Width": 165.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069668",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2080b540-a966-40ac-9d02-e5011691d7c4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-28T14:44:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAXBLALK0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:08.362000+00:00",
+        "sequence_number": 109031
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAXBLALK0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "Xblitz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "XBLITZ ALKOMAT ELEKTROCHEMICZNY ALCONTROL PRO",
+            "ProductDescription": "Xblitz ALControl 0,4 - 4% Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "XBLITZ ALKOMAT ELEKTROCHEMICZNY ALCONTROL PRO",
+            "ProductDescription": "Xblitz ALControl 0.4 - 4% White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "XBLITZ ALKOMAT ELEKTROCHEMICZNY ALCONTROL PRO",
+            "ProductDescription": "Xblitz ALControl 0,4 - 4% Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902479670515"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Alcontrol PRO",
+        "Weight": 371.0,
+        "Height": 240.0,
+        "Width": 130.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069669",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "21a2670f-20ca-44b0-bac7-80de7215b38f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-28T14:45:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAXBLALK0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:08.362000+00:00",
+        "sequence_number": 109032
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASID",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "Peiying",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tester trzeźwości Peiying AT567",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tester trzeźwości Peiying AT567",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tester trzeźwości Peiying AT567",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LEC-MIE2125",
+        "Weight": 75.0,
+        "Height": 182.0,
+        "Width": 112.0,
+        "Depth": 22.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083936",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e64e26d9-d80a-442d-a1d8-b962df211df6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T11:00:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASID'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:58.525000+00:00",
+        "sequence_number": 122587
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPAIK4PS0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "AISKO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat BACscan F-30 (WYPRZEDAŻ)",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 alkomat 0 - 4% Czarny Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat BACscan F-30 (WYPRZEDAŻ)",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 alcohol tester 0 - 4% Black Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat BACscan F-30 (WYPRZEDAŻ)",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 Alkohol-Tester 0 - 4% Schwarz Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907437062449"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BACscan F-30",
+        "Weight": 152.0,
+        "Height": 45.0,
+        "Width": 140.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050478",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "69e5a636-3c9a-449c-ba55-7b71aa26c166",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-18T11:03:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPAIK4PS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:12.900000+00:00",
+        "sequence_number": 137868
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAXBLALK0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "Xblitz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "XBLITZ ALKOMAT ELEKTROCHEMICZNY ALCONTROL ULTRA",
+            "ProductDescription": "Xblitz ALCONTROL ULTRA Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "XBLITZ ALKOMAT ELEKTROCHEMICZNY ALCONTROL ULTRA",
+            "ProductDescription": "Breathalyzer Xblitz Alcontrol Ultra (Electrochemical)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "XBLITZ ALKOMAT ELEKTROCHEMICZNY ALCONTROL ULTRA",
+            "ProductDescription": "Alkomat Xblitz Alcontrol Ultra (Elektrochemischer)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902479671130"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Alcontrol Ultra",
+        "Weight": 288.0,
+        "Height": 125.0,
+        "Width": 150.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050514",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2d0ce622-6cc4-4cc8-a16f-518fe667bd47",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-28T14:44:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAXBLALK0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:13.853000+00:00",
+        "sequence_number": 137901
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIADTCALK0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "DATECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCOFIND ALKOMAT DA-5000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCOFIND ALKOMAT DA-5000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCOFIND ALKOMAT DA-5000",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485308"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DA5000",
+        "Weight": 210.0,
+        "Height": 150.0,
+        "Width": 210.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051612",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "14c765ca-bceb-496f-ba0f-e7a4b1d9e2c8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-10T12:05:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIADTCALK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:33.856000+00:00",
+        "sequence_number": 138912
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAS49",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "Peiying",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat PEIYING KT-571",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat PEIYING KT-571",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat PEIYING KT-571",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901436751533"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0214",
+        "Weight": 205.0,
+        "Height": 130.0,
+        "Width": 150.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037952",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "10b3be94-1b9b-43f1-bf16-ed651d8cdb6f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-03T14:19:37Z'",
+          "ModificationDate": "b'2025-06-04T12:16:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAS49'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:04.495000+00:00",
+        "sequence_number": 162368
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAHYJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Alkomaty",
+        "Brand": "AlcoSafe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat Elektrochemiczny  AlcoSafe F-8 Black",
+            "ProductDescription": "Alkomat elektrochemiczny AlcoSafe F-8"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat Elektrochemiczny  AlcoSafe F-8 Black",
+            "ProductDescription": "Breathalyzers AlcoSafe F-8"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat Elektrochemiczny  AlcoSafe F-8 Black",
+            "ProductDescription": "Atemtester AlcoSafe F-8"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "F-8",
+        "Weight": 135.0,
+        "Height": 110.0,
+        "Width": 195.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036190",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2ad28347-cd17-4fb2-a642-4e608189df9e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-27T09:26:34Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAHYJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.013000+00:00",
+        "sequence_number": 111353
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAHZW",
+        "ProductVersion": "1.3",
+        "ProductType": "Alkomaty",
+        "Brand": "DATECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DATECH ALKOMAT PRO X-5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DATECH ALKOMAT PRO X-5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "DATECH ALKOMAT PRO X-5",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PRO X-5",
+        "Weight": 200.0,
+        "Height": 155.0,
+        "Width": 205.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036207",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8b4ba01d-f452-407d-aa12-06ebe46da073",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-22T15:43:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAHZW'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.013000+00:00",
+        "sequence_number": 111370
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIIE",
+        "ProductVersion": "1.3",
+        "ProductType": "Alkomaty",
+        "Brand": "ALCOFIND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akomat AlcoFind Elite",
+            "ProductDescription": "ALCOFIND ELITE alkomat 0.00 – 5.00 ‰"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akomat AlcoFind Elite",
+            "ProductDescription": "ALCOFIND ELITE alcohol tester 0.00 – 5.00 ‰"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akomat AlcoFind Elite",
+            "ProductDescription": "ALCOFIND ELITE Alkohol-Tester 0.00 – 5.00 ‰"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907437062326"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AlcoFind Elite",
+        "Weight": 180.0,
+        "Height": 164.0,
+        "Width": 81.0,
+        "Depth": 54.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036345",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a19227c1-2b04-4f55-bdf5-9957a9fce1eb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T16:19:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIIE'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.888000+00:00",
+        "sequence_number": 111434
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIKDX",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "PRL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "3Oth Speed Up Alkotesteris Alkomat PROMILER AL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "3Oth Speed Up Alkotesteris Alkomat PROMILER AL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "3Oth Speed Up Alkotesteris Alkomat PROMILER AL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AL-8000 plus",
+        "Weight": 180.0,
+        "Height": 110.0,
+        "Width": 170.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084660",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f87f3466-7a31-4bbe-a74f-bc70e8d5bc09",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T10:00:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIKDX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:04.546000+00:00",
+        "sequence_number": 124858
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFPUY",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "PRL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat PROMILER AL5500",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat PROMILER AL5500",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat PROMILER AL5500",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907461311728"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AL5500",
+        "Weight": 190.0,
+        "Height": 206.0,
+        "Width": 161.0,
+        "Depth": 58.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055466",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4e3f983b-aef4-4213-aae6-bceabe173628",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-14T08:38:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFPUY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:03.375000+00:00",
+        "sequence_number": 140442
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAALDALK0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "ALD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCODIGITAL ALKOMAT A110",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCODIGITAL ALKOMAT A110",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCODIGITAL ALKOMAT A110",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485810"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "A110",
+        "Weight": 165.0,
+        "Height": 130.0,
+        "Width": 150.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057961",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "21720051-8d8a-4564-a507-71eca7bec479",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-15T10:41:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAALDALK0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:06.682000+00:00",
+        "sequence_number": 118121
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAALDALK0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "ALD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCODIGITAL ALKOMAT AD-20",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCODIGITAL ALKOMAT AD-20",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCODIGITAL ALKOMAT AD-20",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485872"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD20",
+        "Weight": 197.0,
+        "Height": 190.0,
+        "Width": 120.0,
+        "Depth": 47.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057962",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1205853f-c0bd-456c-969e-3ac5365ce371",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-30T16:05:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAALDALK0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:06.682000+00:00",
+        "sequence_number": 118122
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIADTCALK0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "DATECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCOFIND ALKOMAT AF-35C",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCOFIND ALKOMAT AF-35C",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCOFIND ALKOMAT AF-35C",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485896"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AF-35C",
+        "Weight": 180.0,
+        "Height": 80.0,
+        "Width": 165.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076644",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "866f74ae-3a2b-4455-b929-82b4b40ef30b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-10T12:11:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIADTCALK0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:17.652000+00:00",
+        "sequence_number": 170803
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPORO2OO0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "oromed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat OroMed F11 PROFESSIONAL (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat OroMed F11 PROFESSIONAL (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat OroMed F11 PROFESSIONAL (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907763679267"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "F11 PROFESSIONAL",
+        "Weight": 156.0,
+        "Height": 47.0,
+        "Width": 150.0,
+        "Depth": 121.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081757",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "904660dc-54d7-4217-b476-a489197bac7e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T09:13:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPORO2OO0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:52.926000+00:00",
+        "sequence_number": 113261
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIADTCALK0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "DATECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCOFIND ALKOMAT DA-8100",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCOFIND ALKOMAT DA-8100",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCOFIND ALKOMAT DA-8100",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485537"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DA-8100",
+        "Weight": 223.0,
+        "Height": 220.0,
+        "Width": 150.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052855",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "83b0dd0f-3834-43e2-8df5-ff116519ad0b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-10T12:05:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIADTCALK0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:52.703000+00:00",
+        "sequence_number": 141540
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6335",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALKOMAT AlcoFind PRO-X-3 +ustniki , 12mc kalibracji",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALKOMAT AlcoFind PRO-X-3 +ustniki , 12mc kalibracji",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALKOMAT AlcoFind PRO-X-3 +ustniki , 12mc kalibracji",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901687922102"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "18376",
+        "Weight": 200.0,
+        "Height": 50.0,
+        "Width": 201.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055003",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "693fd6b1-a8e2-4aeb-b7d3-86ef8f40d983",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-27T13:52:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6335'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:59.234000+00:00",
+        "sequence_number": 141888
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABN2",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "PRL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat przesiewowy IBlow",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat przesiewowy IBlow",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat przesiewowy IBlow",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901687921921"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "iBlow",
+        "Weight": 796.0,
+        "Height": 58.0,
+        "Width": 197.0,
+        "Depth": 335.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055024",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bd87a190-98fc-46e0-9927-9ab15ad74c36",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-31T12:00:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABN2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:00.157000+00:00",
+        "sequence_number": 141909
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYMK",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "BACSCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat elektrochemiczny BACscan F-40",
+            "ProductDescription": "BACscan F-40 alkomat 0 - 4% 1% Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat elektrochemiczny BACscan F-40",
+            "ProductDescription": "BACscan F-40 alcohol tester 0 - 4% Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat elektrochemiczny BACscan F-40",
+            "ProductDescription": "BACscan F-40 Alkohol-Tester 0 - 4% Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907437062869"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "F-40",
+        "Weight": 150.0,
+        "Height": 41.0,
+        "Width": 150.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070869",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e2c44c65-ce0c-4b8e-ada5-95127f0443df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-05T13:09:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYMK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:14.438000+00:00",
+        "sequence_number": 127635
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIABLOALK0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Alkomaty",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BLOW ALKOMAT-TESTER TRZEŹWOŚCI BLOW 3300 BLACK",
+            "ProductDescription": "Alkomat-tester trzeźwości BLOW 3300"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BLOW ALKOMAT-TESTER TRZEŹWOŚCI BLOW 3300 BLACK",
+            "ProductDescription": "Alkomat-tester trzeźwości BLOW 3300"
+          },
+          {
+            "Language": "de",
+            "ProductName": "BLOW ALKOMAT-TESTER TRZEŹWOŚCI BLOW 3300 BLACK",
+            "ProductDescription": "Alkomat-tester trzeźwości BLOW 3300"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804135401"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50-526#",
+        "Weight": 50.0,
+        "Height": 30.0,
+        "Width": 140.0,
+        "Depth": 93.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086950",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6620134b-d73a-4df3-a926-1353a799c47f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-15T11:29:20Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIABLOALK0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:32.006000+00:00",
+        "sequence_number": 157891
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIABSCALK0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "BACSCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat BACscan F-50 Ultra",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat BACscan F-50 Ultra",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat BACscan F-50 Ultra",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "F-50 Ultra",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088731",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cd969858-5130-4d30-b1b7-87f4db2fc166",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-09T09:55:01Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIABSCALK0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:46.180000+00:00",
+        "sequence_number": 158522
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAXBLALK0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "Xblitz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat elektrochemiczny Xblitz ALControl",
+            "ProductDescription": "Xblitz ALControl 0,4 - 4% Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat elektrochemiczny Xblitz ALControl",
+            "ProductDescription": "Xblitz ALControl 0.4 - 4% White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat elektrochemiczny Xblitz ALControl",
+            "ProductDescription": "Xblitz ALControl 0,4 - 4% Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902479670515"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ALControl Mini",
+        "Weight": 371.0,
+        "Height": 240.0,
+        "Width": 130.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53730
+              },
+              {
+                "CategoryId": 52227
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049495",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9a5e34bd-4c69-48ee-9191-0b3d9f0b19a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-05-30T12:30:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAXBLALK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:14.214000+00:00",
+        "sequence_number": 116544
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPAIK4PS0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "AISKO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat BACscan F-30 (WYPRZEDAŻ)",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 alkomat 0 - 4% Czarny Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat BACscan F-30 (WYPRZEDAŻ)",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 alcohol tester 0 - 4% Black Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat BACscan F-30 (WYPRZEDAŻ)",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 Alkohol-Tester 0 - 4% Schwarz Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907437062449"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BACscan F-30",
+        "Weight": 138.0,
+        "Height": 47.0,
+        "Width": 149.0,
+        "Depth": 122.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075479",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "13b93871-7e5b-4194-b313-398bac50c02e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-24T08:22:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPAIK4PS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:41.461000+00:00",
+        "sequence_number": 145833
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIAALDALK0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "ALD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ALCODIGITAL ALKOMAT BAC10",
+            "ProductDescription": "AlcoDigital BAC10 0 - 4% Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ALCODIGITAL ALKOMAT BAC10",
+            "ProductDescription": "AlcoDigital BAC10 0 - 4% Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ALCODIGITAL ALKOMAT BAC10",
+            "ProductDescription": "AlcoDigital BAC10 0 - 4% Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906714485629"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BAC10",
+        "Weight": 98.0,
+        "Height": 30.0,
+        "Width": 50.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060939",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b33d9753-e5aa-4205-bddd-2db19e5237ab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-01-15T10:40:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIAALDALK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:17.947000+00:00",
+        "sequence_number": 118651
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIABSCALK0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Alkomaty",
+        "Brand": "BACSCAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat BACscan F-30",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 alkomat 0 - 4% 1% Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat BACscan F-30",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 alcohol tester 0 - 4% 1% Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat BACscan F-30",
+            "ProductDescription": "HI-TECH MEDICAL BACSCAN F-30 Alkohol-Tester 0 - 4% 1% Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907437062449"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BACscan F-30",
+        "Weight": 154.0,
+        "Height": 151.0,
+        "Width": 128.0,
+        "Depth": 47.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060942",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b9cd514b-5883-4e55-b999-8acf8d8ab494",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-03T16:13:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIABSCALK0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:17.947000+00:00",
+        "sequence_number": 118654
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "EIALCVALK0004",
+        "ProductVersion": "1.3",
+        "ProductType": "Alkomaty",
+        "Brand": "ALCOVISOR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Alkomat elektrochemiczny Alcovisor Mars BT BLUE",
+            "ProductDescription": "Alkomat elektrochemiczny ALCOVISOR Mars BT"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Alkomat elektrochemiczny Alcovisor Mars BT BLUE",
+            "ProductDescription": "Breathalyzers ALCOVISOR Mars BT"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Alkomat elektrochemiczny Alcovisor Mars BT BLUE",
+            "ProductDescription": "Atemtester ALCOVISOR Mars BT"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907222598351"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90271010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 168.0,
+        "Height": 78.0,
+        "Width": 157.0,
+        "Depth": 42.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.53.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52227
+              },
+              {
+                "CategoryId": 53730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54945
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100012825",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aa2ba8d9-36df-4bf5-aca5-59b4c9fa855e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-05-23T16:29:07Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'EIALCVALK0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:37.346000+00:00",
+        "sequence_number": 105457
+      }
+    }
+  ]
+}

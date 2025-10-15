@@ -1,0 +1,162 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "PORMLXTPA0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Transfer pacjenta",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Deska poślizgowa do transferu pacjentów",
+            "ProductDescription": "Deska poślizgowa do transferu pacjentów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Deska poślizgowa do transferu pacjentów",
+            "ProductDescription": "Patient transfer skid board"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Deska poślizgowa do transferu pacjentów",
+            "ProductDescription": "Kufenbrett für den Patiententransfer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001439021"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1655.0,
+        "Height": 10.0,
+        "Width": 800.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56419
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100025579",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fd1e63d1-e2db-4644-8cc6-3cb8f44145ab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T09:50:32Z'",
+          "ModificationDate": "b'2025-06-04T12:09:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORMLXTPA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110780
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORTM2TPA0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Transfer pacjenta",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Chusta ślizgowa ułatwiająca przesuwanie 122x71cm",
+            "ProductDescription": "Chusta ślizgowa ułatwiająca przesuwanie 122x71cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Chusta ślizgowa ułatwiająca przesuwanie 122x71cm",
+            "ProductDescription": "Sliding sling to facilitate movement 122x71cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Chusta ślizgowa ułatwiająca przesuwanie 122x71cm",
+            "ProductDescription": "Sling schieben zur Erleichterung der Bewegung 122x71cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8436035357642"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90219090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 140.0,
+        "Height": 280.0,
+        "Width": 260.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56419
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100025588",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "affed0d1-42a3-4537-bcd4-51045b553781",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-13T09:15:49Z'",
+          "ModificationDate": "b'2025-06-04T12:09:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORTM2TPA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110783
+      }
+    }
+  ]
+}

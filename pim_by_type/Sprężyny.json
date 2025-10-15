@@ -1,0 +1,178 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHNUC",
+        "ProductVersion": "1.3",
+        "ProductType": "Sprężyny",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sprężyna zawieszenia tył L/P DAEWOO MUSSO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sprężyna zawieszenia tył L/P DAEWOO MUSSO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sprężyna zawieszenia tył L/P DAEWOO MUSSO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900427364424"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87082990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S00040MT",
+        "Weight": 3500.0,
+        "Height": 165.0,
+        "Width": 435.0,
+        "Depth": 165.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "29.32.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53722
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079130",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1a554183-3fad-43f4-be48-b1604d72212c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T12:48:28Z'",
+          "ModificationDate": "b'2025-07-24T11:04:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHNUC'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:27.346000+00:00",
+        "sequence_number": 104210
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRHOCF",
+        "ProductVersion": "1.4",
+        "ProductType": "Sprężyny",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sprężyna gazowa uniwersalna KROSNO KR23627 bagażnik",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sprężyna gazowa uniwersalna KROSNO KR23627 bagażnik",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sprężyna gazowa uniwersalna KROSNO KR23627 bagażnik",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907696936147"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87082990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KR23627",
+        "Weight": 1060.0,
+        "Height": 820.0,
+        "Width": 35.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "29.32.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53722
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051764",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "683404ca-8734-402f-8d26-be435abadf32",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-01T16:00:11Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRHOCF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:42.481000+00:00",
+        "sequence_number": 125905
+      }
+    }
+  ]
+}

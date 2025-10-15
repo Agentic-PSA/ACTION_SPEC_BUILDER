@@ -1,0 +1,429 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "STZUMRGCH0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Green Gas, CO2, HPA",
+        "Brand": "UMAREX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kapsuła CO2 Umarex 5szt.12g konserwująco-czyszcząca",
+            "ProductDescription": "Kapsuła CO2 Umarex 5szt.12g konserwująco-czyszcząca"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kapsuła CO2 Umarex 5szt.12g konserwująco-czyszcząca",
+            "ProductDescription": "Umarex CO2 capsule 5 pcs. 12g preserving and cleaning"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kapsuła CO2 Umarex 5szt.12g konserwująco-czyszcząca",
+            "ProductDescription": "Umarex CO2 Kapsel 5 Stk. 12g Konservierung und Reinigung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000844850386"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "28112100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.121-229",
+        "Weight": 220.0,
+        "Height": 80.0,
+        "Width": 90.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "20.11.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56165
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047723",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "85bfcbdf-6e68-4346-b68b-2bfb42255e47",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-27T15:09:36Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZUMRGCH0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:49.871000+00:00",
+        "sequence_number": 108034
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZRZGGCH0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Green Gas, CO2, HPA",
+        "Brand": "RazorGun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pompka PCP RazorGun Recharge (337-153)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pompka PCP RazorGun Recharge (337-153)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pompka PCP RazorGun Recharge (337-153)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84142080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.337-153",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.13.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56165
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084183",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pompka PCP RazorGun Recharge (337-153)"
+      },
+      "properties": {
+        "message_id": "611c5f84-21e3-4d9c-9dae-029a954817a3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T15:35:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZRZGGCH0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:59.357000+00:00",
+        "sequence_number": 124618
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZRZGGCH0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Green Gas, CO2, HPA",
+        "Brand": "RazorGun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przecieraki filcowe Kolba (100 szt.) kal.4,5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przecieraki filcowe Kolba (100 szt.) kal.4,5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przecieraki filcowe Kolba (100 szt.) kal.4,5",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "93063090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.065-155",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.40.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56165
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084186",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Przecieraki filcowe Kolba (100 szt.) kal. 4,5 (FILC45 / VXFLC001)"
+      },
+      "properties": {
+        "message_id": "7172f1aa-cecd-4ae0-9266-b4c7d510d0b9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T15:36:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZRZGGCH0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:59.357000+00:00",
+        "sequence_number": 124621
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZUMRGCH0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Green Gas, CO2, HPA",
+        "Brand": "UMAREX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kapsuła CO2 Umarex 5szt.12g konserwująco-czyszcząca",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kapsuła CO2 Umarex 5szt.12g konserwująco-czyszcząca",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kapsuła CO2 Umarex 5szt.12g konserwująco-czyszcząca",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000844236777"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "28112100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.121-229",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "20.11.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56165
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091564",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8a805478-5216-4134-9875-31285cf60f8d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-21T10:39:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZUMRGCH0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:21.762000+00:00",
+        "sequence_number": 170993
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZRZGGCH0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Green Gas, CO2, HPA",
+        "Brand": "RazorGun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kapsuły CO2 RazorGun 12g - 50 sztuk w pudełku",
+            "ProductDescription": "Kapsuły CO2 RazorGun 12g - 50 sztuk w pudełku"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kapsuły CO2 RazorGun 12g - 50 sztuk w pudełku",
+            "ProductDescription": "RazorGun CO2 capsules 12g - 50 pieces per box"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kapsuły CO2 RazorGun 12g - 50 sztuk w pudełku",
+            "ProductDescription": "RazorGun CO2-Kapseln 12g - 50 Stück pro Schachtel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904441281842"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "28112100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "337-135",
+        "Weight": 2262.0,
+        "Height": 98.0,
+        "Width": 190.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "20.11.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56165
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068310",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ba4c3972-7445-4bad-83b5-e31d40fea469",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-27T09:37:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZRZGGCH0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:05.421000+00:00",
+        "sequence_number": 127145
+      }
+    }
+  ]
+}

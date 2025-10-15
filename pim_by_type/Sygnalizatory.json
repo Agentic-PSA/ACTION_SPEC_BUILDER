@@ -1,0 +1,2087 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR5251",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "ORNO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ORNO CZUJNIK X 2 Z SYGNAL. BEZPRZEW IP44 120M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ORNO CZUJNIK X 2 Z SYGNAL. BEZPRZEW IP44 120M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ORNO CZUJNIK X 2 Z SYGNAL. BEZPRZEW IP44 120M",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901752486027"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OR-MA-710",
+        "Weight": 380.0,
+        "Height": 140.0,
+        "Width": 120.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54065
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033958",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fa93ffc9-a984-41e5-9647-b8b5277c1b7c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-26T16:14:32Z'",
+          "ModificationDate": "b'2025-06-04T12:14:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR5251'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:44.020000+00:00",
+        "sequence_number": 105759
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYLI",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL SPL5010R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SPL-5010 R Syrena bezprzewodowa Wewnątrz/Na wolnym powietrzu Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL SPL5010R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SPL-5010 R Wireless siren Indoor/outdoor White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL SPL5010R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SPL-5010 R Drahtlose Sirene Drinnen/Draußen Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333246"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPL5010R",
+        "Weight": 792.0,
+        "Height": 214.0,
+        "Width": 313.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038924",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "425a6e67-a053-4038-970e-c8ac216701a6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-18T21:36:51Z'",
+          "ModificationDate": "b'2025-06-04T12:17:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYLI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:12.567000+00:00",
+        "sequence_number": 120323
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYPY",
+        "ProductVersion": "1.3",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel SP-4003BL Sygnalizator zewnętrzny optyczno",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel SP-4003BL Sygnalizator zewnętrzny optyczno",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel SP-4003BL Sygnalizator zewnętrzny optyczno",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333284"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP-4003BL",
+        "Weight": 920.0,
+        "Height": 72.0,
+        "Width": 262.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038998",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "62aae4f4-c916-4749-b2a9-6c5f8685cb00",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-08T08:57:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYPY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:13.489000+00:00",
+        "sequence_number": 120360
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYRH",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bez. sygnalizator wewnętrzny Hikvision DS-PS1-I-WE",
+            "ProductDescription": "Bezprzewodowy sygnalizator wewnętrzny Hikvision DS-PS1-I-WE/Blue"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bez. sygnalizator wewnętrzny Hikvision DS-PS1-I-WE",
+            "ProductDescription": "Wireless indoor siren Hikvision DS-PS1-I-WE/Blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bez. sygnalizator wewnętrzny Hikvision DS-PS1-I-WE",
+            "ProductDescription": "Drahtlose Innensirene Hikvision DS-PS1-I-WE/Blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941264054115"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS-PS1-I-WE",
+        "Weight": 200.0,
+        "Height": 90.0,
+        "Width": 90.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039011",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "862e9e6b-01a2-4538-b2d3-9768000d82e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-03T12:12:43Z'",
+          "ModificationDate": "b'2025-06-04T12:17:07Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYRH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:13.489000+00:00",
+        "sequence_number": 120373
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALSYG0020",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL SPL5010R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SPL-5010 R Wireless siren Wewnątrz/na wolnym powietrzu Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL SPL5010R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SPL-5010 R Wireless siren Indoor/Outdoor White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL SPL5010R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SPL-5010 R Wireless siren Indoor/Outdoor Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333246"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPL5010R",
+        "Weight": 871.0,
+        "Height": 310.0,
+        "Width": 80.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068111",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7cbfd7ef-7d5c-4714-a220-89cc2ae0d18c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-10-17T16:15:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALSYG0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107388
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALSYG0022",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL ASP-105R Bezprzewodowy sygnalizator zew.",
+            "ProductDescription": "Satel ASP-105 R Syrena bezprzewodowa Wewnątrz/Na wolnym powietrzu Czerwony, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL ASP-105R Bezprzewodowy sygnalizator zew.",
+            "ProductDescription": "Satel ASP-105 R Wireless siren Indoor/outdoor Red, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL ASP-105R Bezprzewodowy sygnalizator zew.",
+            "ProductDescription": "Satel ASP-105 R Drahtlose Sirene Drinnen/Draußen Rot, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335653"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ASP-105R",
+        "Weight": 1095.0,
+        "Height": 70.0,
+        "Width": 265.0,
+        "Depth": 165.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068112",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "01747517-c7f9-4706-98d3-9a9ffb18d05e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-11-20T11:03:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALSYG0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107389
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALSYG0023",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL MSP-300 R Bezprzewodowy sygnalizator MICRA",
+            "ProductDescription": "Satel MSP-300 R Wewnątrz Czerwony, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL MSP-300 R Bezprzewodowy sygnalizator MICRA",
+            "ProductDescription": "Satel MSP-300 R Indoor Red,White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL MSP-300 R Bezprzewodowy sygnalizator MICRA",
+            "ProductDescription": "Satel MSP-300 R Indoor Rot, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333734"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MSP-300R",
+        "Weight": 990.0,
+        "Height": 75.0,
+        "Width": 265.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068113",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dc98887c-7f1e-4bb4-b7b0-3c2fe5c896e8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-03-27T09:39:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALSYG0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107390
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDYALASY0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "Yale",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yale Zewnętrzna syrena żółta",
+            "ProductDescription": "Yale AL-ESY-1A-Y syrena Syrena bezprzewodowa Wewnętrzna Niebieski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yale Zewnętrzna syrena żółta",
+            "ProductDescription": "Yale AL-ESY-1A-Y siren Wireless siren Indoor Blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yale Zewnętrzna syrena żółta",
+            "ProductDescription": "Yale AL-ESY-1A-Y Sirene Drahtlose Sirene Drinnen Blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5052847131091"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AL-ESY-1A-Y",
+        "Weight": 1640.0,
+        "Height": 260.0,
+        "Width": 260.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54065
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072919",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Yale Zewnętrzna syrena żółta"
+      },
+      "properties": {
+        "message_id": "b73e22f6-a19d-494a-94af-ba6103165b9b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-13T15:43:25Z'",
+          "ModificationDate": "b'2025-09-30T13:40:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDYALASY0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:19.599000+00:00",
+        "sequence_number": 144664
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4974",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "CAME",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Semafor CAME PSSRV1 (czerwone-zielone) 230V ASF2RV",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Semafor CAME PSSRV1 (czerwone-zielone) 230V ASF2RV",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Semafor CAME PSSRV1 (czerwone-zielone) 230V ASF2RV",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Asf2rv",
+        "Weight": 2696.0,
+        "Height": 215.0,
+        "Width": 248.0,
+        "Depth": 409.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083729",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "073a4f95-17fa-44ac-b7fc-b7c76d1aa542",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T14:10:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4974'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:56.697000+00:00",
+        "sequence_number": 122499
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDYALASY0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "Yale",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yale Wewnętrzna - Syrena do 85dB",
+            "ProductDescription": "Yale Indoor Siren Syrena bezprzewodowa Wewnętrzna Szary, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yale Wewnętrzna - Syrena do 85dB",
+            "ProductDescription": "Yale Indoor Siren Wireless siren Grey, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yale Wewnętrzna - Syrena do 85dB",
+            "ProductDescription": "Yale Indoor Siren Drahtlose Sirene Drinnen Grau, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5052847131114"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AL-IS-1A-W",
+        "Weight": 240.0,
+        "Height": 130.0,
+        "Width": 120.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54065
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069849",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Yale Wewnętrzna syrena - Syrena z możliwością regulacji do 85dB"
+      },
+      "properties": {
+        "message_id": "bacb4392-d370-47b7-a193-a331cb4abbd9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-13T15:43:27Z'",
+          "ModificationDate": "b'2025-09-30T13:40:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDYALASY0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:27.845000+00:00",
+        "sequence_number": 151915
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6809",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL BEZPRZEW. SYGNALIZATOR ASP-215 R",
+            "ProductDescription": "Satel ASP-215 R syrena Syrena bezprzewodowa Zewnętrzna Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL BEZPRZEW. SYGNALIZATOR ASP-215 R",
+            "ProductDescription": "SATEL BEZW. INTERNAL SOUNDER. ASP-215 R (RED)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL BEZPRZEW. SYGNALIZATOR ASP-215 R",
+            "ProductDescription": "SATEL BEZW. INTERNER SOUNDER. ASP-215 R (ROT)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336803"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ASP-215R",
+        "Weight": 240.0,
+        "Height": 57.0,
+        "Width": 151.0,
+        "Depth": 104.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070748",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dae32978-602a-48a2-9e5b-e61061013bfa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-06T21:25:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6809'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.886000+00:00",
+        "sequence_number": 109553
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCOY9",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SYGNALIZATOR ZEWNĘTRZNY SATEL SPLZ-1011R",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SYGNALIZATOR ZEWNĘTRZNY SATEL SPLZ-1011R",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SYGNALIZATOR ZEWNĘTRZNY SATEL SPLZ-1011R",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPLZ-1011R",
+        "Weight": 1655.0,
+        "Height": 95.0,
+        "Width": 310.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070971",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e160ab88-baf6-4311-a118-10b4817b4795",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-11T11:49:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCOY9'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:20.762000+00:00",
+        "sequence_number": 109657
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALSYG0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL SP4003R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SP-4003 R Przewodowa syrena Wewnątrz/Na wolnym powietrzu Czerwony, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL SP4003R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SP-4003 R Wired siren Indoor/outdoor Red, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL SP4003R - Sygnalizator zewnętrzny opty-akust",
+            "ProductDescription": "Satel SP-4003 R Verdrahtete Sirene Drinnen/Draußen Rot, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333116"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP4003R",
+        "Weight": 1022.0,
+        "Height": 160.0,
+        "Width": 80.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054187",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "81db2453-ff5c-4abe-9774-6c5173499b9d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-07-06T15:23:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALSYG0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:53.546000+00:00",
+        "sequence_number": 139922
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDEZVASY0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "ezviz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Inteligentna syrena Ezviz CS-T9C",
+            "ProductDescription": " INTELIGENTNA SYRENA EZVIZ CS-T9C"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Inteligentna syrena Ezviz CS-T9C",
+            "ProductDescription": "INTELIGENTNA SYRENA EZVIZ CS-T9C"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Inteligentna syrena Ezviz CS-T9C",
+            "ProductDescription": "INTELIGENTNA SYRENA EZVIZ CS-T9C"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941545618241"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CS-T9C",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54065
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058134",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Inteligentna syrena Ezviz CS-T9C"
+      },
+      "properties": {
+        "message_id": "d5583947-0a65-41e8-973c-1fdac99fc7b6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-17T19:56:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDEZVASY0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:07.650000+00:00",
+        "sequence_number": 118178
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYOP",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel SP-4004 R sygnalizator zewnętrzny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel SP-4004 R sygnalizator zewnętrzny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel SP-4004 R sygnalizator zewnętrzny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033332003"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "?",
+        "Weight": 966.0,
+        "Height": 76.0,
+        "Width": 265.0,
+        "Depth": 162.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038981",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "db3cdf0a-c12e-4889-b6ae-5b3a8dfb7a99",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-05T08:45:08Z'",
+          "ModificationDate": "b'2025-06-04T12:17:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYOP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:08.652000+00:00",
+        "sequence_number": 162562
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALSYG0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL SP-4006R Sygnalizator Zewnętrzny Optyczno-aku",
+            "ProductDescription": "SATEL SP-4006R Sygnalizator Zewnętrzny Optyczno-akustyczny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL SP-4006R Sygnalizator Zewnętrzny Optyczno-aku",
+            "ProductDescription": "SATEL SP-4006R Acoustic-optical siren outdoor"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL SP-4006R Sygnalizator Zewnętrzny Optyczno-aku",
+            "ProductDescription": "SATEL SP-4006R Akustisch-optische Sirene extern"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333291"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SATELSP-4006R",
+        "Weight": 1260.0,
+        "Height": 72.0,
+        "Width": 260.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052766",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "04ce169d-f240-4807-b53b-4236f8890adc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-04-27T13:56:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALSYG0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:51.812000+00:00",
+        "sequence_number": 141463
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "INDYALASY0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Sygnalizatory",
+        "Brand": "Yale",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yale Zewnętrzna syrena szara",
+            "ProductDescription": "Yale Outdoor Siren Syrena bezprzewodowa Zewnętrzna Niebieski, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yale Zewnętrzna syrena szara",
+            "ProductDescription": "Yale Outdoor Siren Wireless siren Blue, Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yale Zewnętrzna syrena szara",
+            "ProductDescription": "Yale Outdoor Siren Drahtlose Sirene Draußen Blau, Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5052847131107"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AL-ESG-1A-G",
+        "Weight": 1620.0,
+        "Height": 260.0,
+        "Width": 260.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54065
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061133",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Yale Zewnętrzna syrena szara"
+      },
+      "properties": {
+        "message_id": "f0f15de9-b778-49c7-9a7d-d456eb2d9368",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-13T15:43:18Z'",
+          "ModificationDate": "b'2025-09-30T13:40:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'INDYALASY0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:57.155000+00:00",
+        "sequence_number": 126687
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALSYG0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL SPW220R - Sygnalizator wewnętrzny opty-akust",
+            "ProductDescription": "Satel SPW-220 R Wired siren Wewnątrz Czerwony, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL SPW220R - Sygnalizator wewnętrzny opty-akust",
+            "ProductDescription": "Satel SPW-220 R Wired siren Indoor Red,White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL SPW220R - Sygnalizator wewnętrzny opty-akust",
+            "ProductDescription": "Satel SPW-220 R Wired siren Indoor Rot, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333208"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPW-220R",
+        "Weight": 200.0,
+        "Height": 105.0,
+        "Width": 155.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062296",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b58ac579-8dff-4d43-b121-5c3bde57c66f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-07-21T12:20:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALSYG0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:45.049000+00:00",
+        "sequence_number": 155921
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4975",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "CAME",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Semafor CAME PSSRV2 (2-komorowy: czerwone-zielone)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Semafor CAME PSSRV2 (2-komorowy: czerwone-zielone)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Semafor CAME PSSRV2 (2-komorowy: czerwone-zielone)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8050456003393"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "35394",
+        "Weight": 432.0,
+        "Height": 130.0,
+        "Width": 60.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093130",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9be4949c-4cfc-45da-82dc-aa37196719a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T16:44:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4975'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:25.730000+00:00",
+        "sequence_number": 171185
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDZZC",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL SD-6000  R",
+            "ProductDescription": "Satel SD-6000 R syrena Syrena bezprzewodowa Wewnętrzna Czerwony, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL SD-6000  R",
+            "ProductDescription": "Satel SD-6000 R siren Wireless siren Indoor Red, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL SD-6000  R",
+            "ProductDescription": "Satel SD-6000 R Sirene Drahtlose Sirene Drinnen Rot, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033332027"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SD-6000 R",
+        "Weight": 1660.0,
+        "Height": 70.0,
+        "Width": 250.0,
+        "Depth": 235.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093214",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "04e904b7-f464-438a-8025-2c00254f7f6c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-30T12:40:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDZZC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:27.731000+00:00",
+        "sequence_number": 171264
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABRJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL BEZPRZEW. SYGNALIZATOR ZEW. ASP-200 R",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL BEZPRZEW. SYGNALIZATOR ZEW. ASP-200 R",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL BEZPRZEW. SYGNALIZATOR ZEW. ASP-200 R",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336797"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ASP-200-R",
+        "Weight": 914.0,
+        "Height": 80.0,
+        "Width": 160.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035062",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "86d4394a-63f4-48b4-a649-21a116aa6683",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-23T13:06:54Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABRJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:26.239000+00:00",
+        "sequence_number": 113924
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALSYG0021",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL SPL-2030 R Sygnalizator zewnętrzny",
+            "ProductDescription": "Satel SPL-2030 R syrena Wired siren Zewnątrz Czerwony, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL SPL-2030 R Sygnalizator zewnętrzny",
+            "ProductDescription": "Satel SPL-2030 R siren Wired siren Outdoor Red,White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL SPL-2030 R Sygnalizator zewnętrzny",
+            "ProductDescription": "Satel SPL-2030 R Sirene Wired siren Outdoor Rot, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333017"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPL-2030R",
+        "Weight": 860.0,
+        "Height": 210.0,
+        "Width": 310.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072089",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b81c967b-1a57-4aee-9945-49ee26f237a7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-02-13T09:40:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALSYG0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:09.985000+00:00",
+        "sequence_number": 142457
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGSM",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel sygnalizator SP-4001 w kolorze niebieskim",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel sygnalizator SP-4001 w kolorze niebieskim",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel sygnalizator SP-4001 w kolorze niebieskim",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333413"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP-4001BL",
+        "Weight": 900.0,
+        "Height": 73.0,
+        "Width": 262.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54174
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081893",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "daf5e925-d37e-46c3-9118-2a251d1b1816",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T12:50:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGSM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:29.595000+00:00",
+        "sequence_number": 128450
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4976",
+        "ProductVersion": "1.1",
+        "ProductType": "Sygnalizatory",
+        "Brand": "CAME",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampa CAME KIARO KLED24 24V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampa CAME KIARO KLED24 24V",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampa CAME KIARO KLED24 24V",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8050456011558"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "35864",
+        "Weight": 370.0,
+        "Height": 76.0,
+        "Width": 283.0,
+        "Depth": 184.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54065
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063874",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b9a24ba0-c848-4a50-9053-3fdf1541b888",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-24T07:27:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4976'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:25.403000+00:00",
+        "sequence_number": 163361
+      }
+    }
+  ]
+}

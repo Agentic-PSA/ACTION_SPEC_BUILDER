@@ -1,0 +1,1652 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "DVBCBTTUN0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Tunery",
+        "Brand": "CABLETECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Cabletech",
+            "ProductDescription": "Cabletech DEKODER DVB-T2 H.265 HEVC URZ0336"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Cabletech",
+            "ProductDescription": "Cabletech DEKODER DVB-T2 H.265 HEVC URZ0336"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Cabletech",
+            "ProductDescription": "Cabletech DEKODER DVB-T2 H.265 HEVC URZ0336"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890111171"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "URZ0336C",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072705",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Tuner DVB-T2 H.265 HEVC Cabletech"
+      },
+      "properties": {
+        "message_id": "45d3009e-c969-4d2a-a720-a4243e6affcd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-22T11:40:40Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DVBCBTTUN0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:15.599000+00:00",
+        "sequence_number": 144465
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DVBLTCTUN0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Tunery",
+        "Brand": "LTC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LTC TUNER DVB-T2 HD202 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "TUNER DVB-T2/HEVC HD202 Z PILOTEM PROGRAMOWALNYM H.265"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LTC TUNER DVB-T2 HD202 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "DVB-T2 / HEVC HD202  TUNER WITH H.265 PROGRAMMABLE REMOTE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LTC TUNER DVB-T2 HD202 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "DVB-T2 / HEVC HD202  TUNER MIT H.265 PROGRAMMIERBARER FERNBEDIENUNG"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902270772258"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5902270772258",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072706",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7e546962-33a8-4da4-9473-bf353fd803ae",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-03T12:34:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DVBLTCTUN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:15.599000+00:00",
+        "sequence_number": 144466
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBZB",
+        "ProductVersion": "1.3",
+        "ProductType": "Tunery",
+        "Brand": "FERGUSON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tuner DVB-T2 Ferguson Ariva T40 H.265",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tuner DVB-T2 Ferguson Ariva T40 H.265",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tuner DVB-T2 Ferguson Ariva T40 H.265",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907115004457"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "45174",
+        "Weight": 484.0,
+        "Height": 164.0,
+        "Width": 189.0,
+        "Depth": 59.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042641",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "67cf90e2-f0e5-40ee-b1a5-8fd0d1f218a8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-29T10:07:39Z'",
+          "ModificationDate": "b'2025-08-07T08:25:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBZB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:09.992000+00:00",
+        "sequence_number": 134061
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCPNW",
+        "ProductVersion": "1.3",
+        "ProductType": "Tunery",
+        "Brand": "Behringer",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Behringer TU300 Tuner chromatyczny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Behringer TU300 Tuner chromatyczny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Behringer TU300 Tuner chromatyczny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4033653052030"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "000-59400-00010",
+        "Weight": 430.0,
+        "Height": 90.0,
+        "Width": 160.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53969
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043849",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0e494c37-f12b-46de-bb3b-130d34578f65",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-29T10:14:27Z'",
+          "ModificationDate": "b'2025-08-07T08:25:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCPNW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:52.966000+00:00",
+        "sequence_number": 148284
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYL9",
+        "ProductVersion": "1.3",
+        "ProductType": "Tunery",
+        "Brand": "WIWA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 WIWA H.265",
+            "ProductDescription": "WIWA TUNER DVB-T/T2 H.265 WIWA H.265"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 WIWA H.265",
+            "ProductDescription": "WIWA TUNER DVB-T/T2 H.265"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 WIWA H.265",
+            "ProductDescription": "WIWA TUNER DVB-T/T2 H.265"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907678819499"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2790Z",
+        "Weight": 330.0,
+        "Height": 43.0,
+        "Width": 205.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53969
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038919",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1022a0fb-9fb7-4ef7-a43b-14efe7d6b9d0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-30T14:51:59Z'",
+          "ModificationDate": "b'2025-08-07T08:20:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYL9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:12.567000+00:00",
+        "sequence_number": 120318
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYMD",
+        "ProductVersion": "1.3",
+        "ProductType": "Tunery",
+        "Brand": "WIWA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 MAXX",
+            "ProductDescription": "Tuner DVB-T/T2 WIWA H.265 MAXX"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 MAXX",
+            "ProductDescription": "Tuner TV WIWA H.265 2790Z (DVB-T, HEVC/H.265, MPEG-4 AVC/H.264)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 MAXX",
+            "ProductDescription": "Tuner TV WIWA H.265 2790Z (DVB-T, HEVC/H.265, MPEG-4 AVC/H.264)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907678819574"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2790Z",
+        "Weight": 470.0,
+        "Height": 55.0,
+        "Width": 200.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53969
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038939",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1bb480fe-6c7c-4d5f-a9a7-c3562555d872",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-09T21:03:50Z'",
+          "ModificationDate": "b'2025-08-07T08:20:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYMD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:12.567000+00:00",
+        "sequence_number": 120338
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OAVESPTUN0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Tunery",
+        "Brand": "Esperanza",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ESPERANZA TUNER DVB-T2 H.265/HEVC EV107R",
+            "ProductDescription": "Esperanza EV107R set-top box (dekoder STB) Kabel. Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ESPERANZA TUNER DVB-T2 H.265/HEVC EV107R",
+            "ProductDescription": "Esperanza EV107R TV set-top box Cable Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ESPERANZA TUNER DVB-T2 H.265/HEVC EV107R",
+            "ProductDescription": "Esperanza EV107R TV Set-Top-Box Kabel Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901299958070"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EV107R",
+        "Weight": 405.0,
+        "Height": 51.0,
+        "Width": 192.0,
+        "Depth": 148.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53969
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061888",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9b6607ee-c23f-4973-8dac-f37365a52bb9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-16T10:32:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OAVESPTUN0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:08.626000+00:00",
+        "sequence_number": 135846
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DVBLTCTUN0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Tunery",
+        "Brand": "LTC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LTC TUNER DVB-T2 HD201 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "TUNER DVB-T2/HEVC HD201 Z PILOTEM PROGRAMOWALNYM H.265"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LTC TUNER DVB-T2 HD201 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "DVB-T2 / HEVC HD201 TUNER WITH H.265 PROGRAMMABLE REMOTE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LTC TUNER DVB-T2 HD201 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "DVB-T2 / HEVC HD201 TUNER MIT H.265 PROGRAMMIERBARER FERNBEDIENUNG"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902270772241"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5902270772241",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064840",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9e2ae59b-897e-432f-ba26-654389829b8f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-03T12:36:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DVBLTCTUN0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:35.854000+00:00",
+        "sequence_number": 121431
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFWLZ",
+        "ProductVersion": "1.2",
+        "ProductType": "Tunery",
+        "Brand": "Google",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Google TV Streamer 4K (Porcelain)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Google TV Streamer 4K (Porcelain)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Google TV Streamer 4K (Porcelain)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810037291315"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GA05662-US",
+        "Weight": 400.0,
+        "Height": 55.0,
+        "Width": 180.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53969
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048280",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "635c6975-eb31-42eb-9589-ca1626dcb873",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-10T11:31:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFWLZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:55.278000+00:00",
+        "sequence_number": 108311
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DVBBLOTUN0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Tunery",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BLOW TUNER DVB-T2 7000FHD MINI H.265",
+            "ProductDescription": "Tuner DVB-T2 BLOW 7000FHD MINI H.265"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BLOW TUNER DVB-T2 7000FHD MINI H.265",
+            "ProductDescription": "Tuner DVB-T2 BLOW 7000FHD MINI H.265"
+          },
+          {
+            "Language": "de",
+            "ProductName": "BLOW TUNER DVB-T2 7000FHD MINI H.265",
+            "ProductDescription": "Tuner DVB-T2 BLOW 7000FHD MINI H.265"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804124405"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77-044#",
+        "Weight": 220.0,
+        "Height": 35.0,
+        "Width": 185.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069661",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cdbc64f4-1aa2-4488-80f6-9d45928b7f49",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-03-29T12:22:52Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DVBBLOTUN0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:08.362000+00:00",
+        "sequence_number": 109024
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADZS",
+        "ProductVersion": "1.1",
+        "ProductType": "Tunery",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dekoder DVB-T2 H.265 Spacetronik U8 Mini",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dekoder DVB-T2 H.265 Spacetronik U8 Mini",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dekoder DVB-T2 H.265 Spacetronik U8 Mini",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903031032307"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "45133",
+        "Weight": 210.0,
+        "Height": 135.0,
+        "Width": 190.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053411",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "396126d6-dea7-4757-a970-f154af096d66",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-14T15:08:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADZS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:45.404000+00:00",
+        "sequence_number": 139543
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJGNH",
+        "ProductVersion": "1.1",
+        "ProductType": "Tunery",
+        "Brand": "Kruger & Matz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Kruger&Matz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Kruger&Matz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Kruger&Matz",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KM0550D",
+        "Weight": 320.0,
+        "Height": 40.0,
+        "Width": 190.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085587",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "28dc727f-7917-4790-8c50-63d1ea1fd4e5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T16:10:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJGNH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:11.890000+00:00",
+        "sequence_number": 125306
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYNC",
+        "ProductVersion": "1.3",
+        "ProductType": "Tunery",
+        "Brand": "WIWA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 PRO",
+            "ProductDescription": "WIWA TUNER DVB-T/T2 H.265 PRO"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 PRO",
+            "ProductDescription": "WIWA TUNER DVB-T/T2 H.265 PRO"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WIWA TUNER DVB-T/T2 H.265 PRO",
+            "ProductDescription": "WIWA TUNER DVB-T/T2 H.265 PRO"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907678819512"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2790Z",
+        "Weight": 380.0,
+        "Height": 41.0,
+        "Width": 195.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53969
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038955",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1b3920dd-5b90-47bb-9e4c-36bb3b744619",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-09T21:04:21Z'",
+          "ModificationDate": "b'2025-08-07T08:20:56Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYNC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:07.683000+00:00",
+        "sequence_number": 162536
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCXS",
+        "ProductVersion": "1.1",
+        "ProductType": "Tunery",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Modulator HDMI do DVB-T H.264 Labgear EM1001",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Modulator HDMI do DVB-T H.264 Labgear EM1001",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Modulator HDMI do DVB-T H.264 Labgear EM1001",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5050171082003"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "51081",
+        "Weight": 850.0,
+        "Height": 160.0,
+        "Width": 260.0,
+        "Depth": 82.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060265",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a48424ee-4e20-4bde-8a9e-c675e43faf7d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-28T13:01:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCXS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.123000+00:00",
+        "sequence_number": 126253
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OAVESPTUN0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Tunery",
+        "Brand": "Esperanza",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ESPERANZA TUNER DVB-T2 H.265/HEVC EV108R",
+            "ProductDescription": "Esperanza EV108R set-top box (dekoder STB) Kabel. Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ESPERANZA TUNER DVB-T2 H.265/HEVC EV108R",
+            "ProductDescription": "Esperanza EV108R TV set-top box Cable Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ESPERANZA TUNER DVB-T2 H.265/HEVC EV108R",
+            "ProductDescription": "Esperanza EV108R TV Set-Top-Box Kabel Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901299958117"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EV108R",
+        "Weight": 285.0,
+        "Height": 60.0,
+        "Width": 195.0,
+        "Depth": 107.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53969
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073705",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c0a0f09d-7a3a-4fad-8a78-8b392f8f4873",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-16T10:38:24Z'",
+          "ModificationDate": "b'2025-09-30T13:41:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OAVESPTUN0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:30.851000+00:00",
+        "sequence_number": 145265
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDD01",
+        "ProductVersion": "1.1",
+        "ProductType": "Tunery",
+        "Brand": "CABLETECH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Cabletech",
+            "ProductDescription": "Cabletech DEKODER DVB-T2 H.265 HEVC URZ0336"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Cabletech",
+            "ProductDescription": "Tuner DVB-T2 H.265 HEVC Cabletech"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tuner DVB-T2 H.265 HEVC Cabletech",
+            "ProductDescription": "Tuner DVB-T2 H.265 HEVC Cabletech"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890111171"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "URZ0336C",
+        "Weight": 460.0,
+        "Height": 196.0,
+        "Width": 176.0,
+        "Depth": 64.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075037",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f898d226-e83b-46d2-bf17-33f7d04b6056",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-17T17:37:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDD01'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:24.252000+00:00",
+        "sequence_number": 143184
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DVBBLOTUN0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Tunery",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BLOW TUNER DVB-T2 6000FHD MINI H.265",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BLOW TUNER DVB-T2 6000FHD MINI H.265",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BLOW TUNER DVB-T2 6000FHD MINI H.265",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804135807"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77-077#",
+        "Weight": 260.0,
+        "Height": 55.0,
+        "Width": 188.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086949",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8ef7d712-a65c-42fd-9990-19300a372b49",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-27T14:48:58Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DVBBLOTUN0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:32.006000+00:00",
+        "sequence_number": 157890
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DVBLTCTUN0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Tunery",
+        "Brand": "LTC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LTC TUNER DVB-T2 DVB102 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "TUNER DVB-T2/HEVC DVB102 Z PILOTEM PROGRAMOWALNYM H.265"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LTC TUNER DVB-T2 DVB102 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "DVB-T2 / HEVC DVB102 TUNER WITH H.265 PROGRAMMABLE REMOTE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LTC TUNER DVB-T2 DVB102 Z PILOTEM PROGRAMO. H.265",
+            "ProductDescription": "DVB-T2 / HEVC DVB102 TUNER MIT H.265 PROGRAMMIERBARER FERNBEDIENUNG"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902270773118"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LXDVB102",
+        "Weight": 402.0,
+        "Height": 189.0,
+        "Width": 148.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060937",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a6dee31b-ca98-4fe1-aa83-a87a373850cf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-03-29T11:25:06Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DVBLTCTUN0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:17.088000+00:00",
+        "sequence_number": 118649
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCGO5",
+        "ProductVersion": "1.3",
+        "ProductType": "Tunery",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tuner satelitarny Zgemma H11S DVB-S2X URZ0359",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tuner satelitarny Zgemma H11S DVB-S2X URZ0359",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tuner satelitarny Zgemma H11S DVB-S2X URZ0359",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890074162"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85287100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "URZ0359",
+        "Weight": 820.0,
+        "Height": 180.0,
+        "Width": 240.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53992
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54821
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042847",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "305fb340-3e82-42d1-b6ec-516df8b7f827",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-12T07:12:55Z'",
+          "ModificationDate": "b'2025-08-07T08:25:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCGO5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:48.496000+00:00",
+        "sequence_number": 148010
+      }
+    }
+  ]
+}

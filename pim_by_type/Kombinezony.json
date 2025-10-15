@@ -1,0 +1,190 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBBR",
+        "ProductVersion": "1.1",
+        "ProductType": "Kombinezony",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NEO tools 81-258-XL ubranie robocze",
+            "ProductDescription": "NEO tools 81-258-XL ubranie robocze"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NEO tools 81-258-XL ubranie robocze",
+            "ProductDescription": "NEO tools 81-258-XL work clothing"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NEO tools 81-258-XL ubranie robocze",
+            "ProductDescription": "NEO tools 81-258-XL Arbeitskleidung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558451900"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61019020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TOP-81-258-XL",
+        "Weight": 1607.0,
+        "Height": 75.0,
+        "Width": 360.0,
+        "Depth": 445.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.13.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54978
+              },
+              {
+                "CategoryId": 54979
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074929",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f17ec9e5-d511-40cf-8daf-8d43af77eb98",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-22T16:20:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBBR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:22.315000+00:00",
+        "sequence_number": 143084
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBKY",
+        "ProductVersion": "1.3",
+        "ProductType": "Kombinezony",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kombinezon roboczy HD Slim czarno szary suwak L",
+            "ProductDescription": "NEO tools 81-258-L ubranie robocze"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kombinezon roboczy HD Slim czarno szary suwak L",
+            "ProductDescription": "NEO tools 81-258-L work clothing"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kombinezon roboczy HD Slim czarno szary suwak L",
+            "ProductDescription": "NEO tools 81-258-L Arbeitskleidung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558451894"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "61019020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TOP-81-258-L",
+        "Weight": 1402.0,
+        "Height": 99.0,
+        "Width": 445.0,
+        "Depth": 358.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.13.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              },
+              {
+                "CategoryId": 54955
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54978
+              },
+              {
+                "CategoryId": 54979
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042524",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c5cf4368-4cb5-4998-8d8e-5a2ad6c84bca",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-31T16:31:28Z'",
+          "ModificationDate": "b'2025-08-07T08:25:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBKY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:34.731000+00:00",
+        "sequence_number": 159598
+      }
+    }
+  ]
+}

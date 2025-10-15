@@ -1,0 +1,6043 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAFP",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa analityczna – Smart",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa analityczna – Smart",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa analityczna – Smart",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905575903846"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ad_8187w",
+        "Weight": 1890.0,
+        "Height": 295.0,
+        "Width": 295.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051828",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3ec46f76-516c-455b-8c98-0bc542071eba",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-25T14:49:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAFP'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:50.523000+00:00",
+        "sequence_number": 117267
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDOROWAL0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "oromed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa ORO BLUETOOTH SMART BLACK OROMED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa ORO BLUETOOTH SMART BLACK OROMED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa ORO BLUETOOTH SMART BLACK OROMED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905972127876"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5905972127876",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052108",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga łazienkowa ORO BLUETOOTH SMART BLACK OROMED"
+      },
+      "properties": {
+        "message_id": "f92e2d8c-4a4a-4f11-abb4-9249f3da959d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:05:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDOROWAL0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:50.523000+00:00",
+        "sequence_number": 117298
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMS80",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga Huawei Scale 3 w kolorze białym Dobby-B19",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga Huawei Scale 3 w kolorze białym Dobby-B19",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga Huawei Scale 3 w kolorze białym Dobby-B19",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "55020ABM",
+        "Weight": 1000.0,
+        "Height": 298.0,
+        "Width": 40.0,
+        "Depth": 302.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089633",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7ac593db-f96f-4d5b-ae64-171a731913ff",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T15:12:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMS80'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:37.230000+00:00",
+        "sequence_number": 119661
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAWGK0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna z misą Blaupunkt FKS602",
+            "ProductDescription": "Waga kuchenna ze stalową misą Blaupunkt FKS602"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna z misą Blaupunkt FKS602",
+            "ProductDescription": "Blaupunkt Kitchen scales with steel bowl FKS602"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna z misą Blaupunkt FKS602",
+            "ProductDescription": "Blaupunkt Küchenwaage mit Stahlschüssel FKS602"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901750504884"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FKS602",
+        "Weight": 725.0,
+        "Height": 220.0,
+        "Width": 220.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059061",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga kuchenna z misą Blaupunkt FKS602"
+      },
+      "properties": {
+        "message_id": "2e14a5e0-f674-43d2-9d55-6c93efa687fe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-10-12T13:55:28Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAWGK0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:52.015000+00:00",
+        "sequence_number": 134989
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDESPWAL0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Esperanza",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ESPERANZA WAGA ŁAZIENKOWA JUKARI CZARNA EBS007K",
+            "ProductDescription": "Esperanza EBS007K waga Elektroniczna waga osobista Okrąg Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ESPERANZA WAGA ŁAZIENKOWA JUKARI CZARNA EBS007K",
+            "ProductDescription": "Esperanza EBS007K personal scale Electronic personal scale Circle Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ESPERANZA WAGA ŁAZIENKOWA JUKARI CZARNA EBS007K",
+            "ProductDescription": "Esperanza EBS007K Personenwaage Elektronische Personenwaage Kreis Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901299914083"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EBS007K",
+        "Weight": 1618.0,
+        "Height": 335.0,
+        "Width": 335.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059143",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4241858d-e1f8-48fb-becd-7a6d25e06c2c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-11-13T12:21:10Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDESPWAL0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:53.015000+00:00",
+        "sequence_number": 135033
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDESPWAL0024",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Esperanza",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ESPERANZA WAGA ŁAZIENKOWA CHA-CHA CZARNA EBS022K",
+            "ProductDescription": "Esperanza EBS022K waga Elektroniczna waga osobista Kwadrat Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ESPERANZA WAGA ŁAZIENKOWA CHA-CHA CZARNA EBS022K",
+            "ProductDescription": "Esperanza EBS022K personal scale Electronic personal scale Square Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ESPERANZA WAGA ŁAZIENKOWA CHA-CHA CZARNA EBS022K",
+            "ProductDescription": "Esperanza EBS022K Personenwaage Elektronische Personenwaage Quadratisch Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901299955468"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EBS022K",
+        "Weight": 1640.0,
+        "Height": 305.0,
+        "Width": 305.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059144",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a5764ce0-e60d-4aa8-9321-ae20aafbf0d8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-01-13T09:50:55Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDESPWAL0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:53.015000+00:00",
+        "sequence_number": 135034
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDGEFWGK0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna GEFU G-16430",
+            "ProductDescription": " WAGA KUCHENNA GEFU PREZISO G-16430"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna GEFU G-16430",
+            "ProductDescription": "GEFU PREZISO KITCHEN SCALES G-16430"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna GEFU G-16430",
+            "ProductDescription": "GEFU PREZISO KÜCHENWAAGE G-16430"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664164306"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-16430",
+        "Weight": 380.0,
+        "Height": 40.0,
+        "Width": 170.0,
+        "Depth": 161.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057131",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga kuchenna GEFU PREZISO G-16430"
+      },
+      "properties": {
+        "message_id": "90300edf-8bcf-4630-83cf-e7d8ebe1570e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-26T12:48:59Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDGEFWGK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:47.163000+00:00",
+        "sequence_number": 149792
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0023",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-185N 300 KG",
+            "ProductDescription": "WAGA PLATFORMOWA WAGI TARCZYN WT-185N 300kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-185N 300 KG",
+            "ProductDescription": "PLATFORM SCALE WAGI TARCZYN WT-185N 300kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-185N 300 KG",
+            "ProductDescription": "PLATTFORMWAAGE WAGI TARCZYN WT-185N 300kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541385"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90318080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-185N",
+        "Weight": 18000.0,
+        "Height": 200.0,
+        "Width": 800.0,
+        "Depth": 440.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.66.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053200",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga Platformowa WAGI TARCZYN WT-185N 300kg"
+      },
+      "properties": {
+        "message_id": "8c040179-16ff-4b8a-b317-557463020f75",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T16:01:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:54.414000+00:00",
+        "sequence_number": 117479
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDNEIWGK0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "NEI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NEDIS KUCHENNA WAGA RETRO ANALOGOWA CZARNA",
+            "ProductDescription": "Nedis KASC110BK waga kuchenna Czarny, Stal nierdzewna Blat Waga kuchenna mechaniczna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NEDIS KUCHENNA WAGA RETRO ANALOGOWA CZARNA",
+            "ProductDescription": "Nedis KASC110BK kitchen scale Black, Stainless steel Countertop Mechanical kitchen scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NEDIS KUCHENNA WAGA RETRO ANALOGOWA CZARNA",
+            "ProductDescription": "Nedis KASC110BK Küchenwaage Schwarz, Edelstahl Arbeitsplatte Mechanische Küchenwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5412810286645"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KASC110BK",
+        "Weight": 1400.0,
+        "Height": 160.0,
+        "Width": 270.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "NL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057195",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "df33ef80-d3ae-45c2-b550-0d3c8310c891",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-01-31T12:53:54Z'",
+          "ModificationDate": "b'2025-09-30T13:40:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDNEIWGK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:48.070000+00:00",
+        "sequence_number": 149816
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBFIL",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PSD Waga osobista Medisana",
+            "ProductDescription": "Medisana PSD Czarny, Biały Waga osobowa mechaniczna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PSD Waga osobista Medisana",
+            "ProductDescription": "Medisana PSD Personal Mechanical Scales, Retro Medisana | PSD | Maximum weight (capacity) 150 kg | Body scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PSD Waga osobista Medisana",
+            "ProductDescription": "Medisana PSD Mechanische Personenwaage, Retro Medisana | PSD | Maximales Gewicht (Kapazität) 150 kg | Körperwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588404610"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "40461",
+        "Weight": 3595.0,
+        "Height": 110.0,
+        "Width": 465.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040023",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "24817da4-7f41-44d2-94ed-249c57c1ea14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-24T00:34:36Z'",
+          "ModificationDate": "b'2025-06-04T12:17:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBFIL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:23.177000+00:00",
+        "sequence_number": 120870
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBG32",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "MESKO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa MESKO MS 8137",
+            "ProductDescription": "Mesko Home MS 8137 waga Prostokąt Przezroczysty, Biały Elektroniczna waga osobista"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa MESKO MS 8137",
+            "ProductDescription": "Mesko Home MS 8137 personal scale Rectangle Transparent, White Electronic personal scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa MESKO MS 8137",
+            "ProductDescription": "Mesko Home MS 8137 Personenwaage Rechteck Transparent, Weiß Elektronische Personenwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908256832381"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MS 8137",
+        "Weight": 1505.0,
+        "Height": 37.0,
+        "Width": 305.0,
+        "Depth": 290.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040081",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59681c79-b266-4f3a-b520-ca8b1b9da01a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-12T23:03:19Z'",
+          "ModificationDate": "b'2025-06-04T12:17:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBG32'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:23.177000+00:00",
+        "sequence_number": 120891
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBGSS",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa Xiaomi Mi Body Composition Scale 2",
+            "ProductDescription": "Xiaomi Mi Body Composition Scale 2 Kwadrat Przezroczysty, Biały Elektroniczna waga osobista"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa Xiaomi Mi Body Composition Scale 2",
+            "ProductDescription": "Xiaomi Mi Smart Scale 2 Body Compositi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa Xiaomi Mi Body Composition Scale 2",
+            "ProductDescription": "Xiaomi Mi Smart Scale 2 Body Compositi"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6934177707452"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NUN4048GL",
+        "Weight": 1880.0,
+        "Height": 340.0,
+        "Width": 323.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040134",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bf57a094-80b7-4133-9d0c-e2328c02b1a3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-08T12:46:07Z'",
+          "ModificationDate": "b'2025-06-04T12:17:46Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBGSS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:24.271000+00:00",
+        "sequence_number": 120907
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBGU8",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa ADLER AD 8169",
+            "ProductDescription": "Elektroniczna waga łazienkowa Adler AD 8169 LED"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa ADLER AD 8169",
+            "ProductDescription": "Electronic bathroom scale Adler AD 8169 LED"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa ADLER AD 8169",
+            "ProductDescription": "Elektronische Personenwaage Adler AD 8169 LED"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887803298"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 8169",
+        "Weight": 1775.0,
+        "Height": 320.0,
+        "Width": 330.0,
+        "Depth": 33.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040138",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "158def8d-bb00-4edf-b2a7-4424873b1368",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-12T19:45:56Z'",
+          "ModificationDate": "b'2025-06-04T12:17:46Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBGU8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:24.271000+00:00",
+        "sequence_number": 120911
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDADLWGK0025",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga Kuchenna elektr. ADLER  AD 3138 biała",
+            "ProductDescription": "Adler AD 3138 w waga kuchenna Elektroniczna waga kuchenna Biały Blat Kwadrat"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga Kuchenna elektr. ADLER  AD 3138 biała",
+            "ProductDescription": "Adler AD 3138 w kitchen scale Electronic kitchen scale White Countertop Square"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga Kuchenna elektr. ADLER  AD 3138 biała",
+            "ProductDescription": "Adler AD 3138 w Küchenwaage Elektronische Küchenwaage Weiß Arbeitsfläche Quadratisch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908256832268"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 3138 biała",
+        "Weight": 490.0,
+        "Height": 160.0,
+        "Width": 230.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062909",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0972ee6c-3d9b-49f0-8e83-51aa61ca8358",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-12-18T09:14:21Z'",
+          "ModificationDate": "b'2025-09-30T13:40:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDADLWGK0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:59.306000+00:00",
+        "sequence_number": 150406
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDADLWGK0055",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna ADLER AD 3183b czarna",
+            "ProductDescription": "Waga kuchenna ADLER AD 3183b Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna ADLER AD 3183b czarna",
+            "ProductDescription": "Kitchen scale ADLER AD 3183b Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna ADLER AD 3183b czarna",
+            "ProductDescription": "Küchenwaage ADLER AD 3183b Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905575906205"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 3183b",
+        "Weight": 515.0,
+        "Height": 170.0,
+        "Width": 230.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062910",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3b3a8330-ddca-43be-b062-50dbea780b6b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-14T11:43:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDADLWGK0055'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:59.306000+00:00",
+        "sequence_number": 150407
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHLD",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga cyfrowa ZWILLING Enfinigy Złota",
+            "ProductDescription": "ZWILLING Enfinigy Złoto, Biały Blat Owalny Elektroniczna waga kuchenna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga cyfrowa ZWILLING Enfinigy Złota",
+            "ProductDescription": "Zwilling Enfinigy Digital Scale - Gold"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga cyfrowa ZWILLING Enfinigy Złota",
+            "ProductDescription": "Zwilling Enfinigy Digitalwaage - Gold"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839646478"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "53011-055-0",
+        "Weight": 960.0,
+        "Height": 48.0,
+        "Width": 290.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040192",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c26b3c87-c737-40fa-83df-fdfec2ad1e22",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-18T10:43:07Z'",
+          "ModificationDate": "b'2025-06-04T12:17:48Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHLD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:35.445000+00:00",
+        "sequence_number": 137261
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDELDWAL0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "ELDOM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łaziekowa ELDOM GWO100N",
+            "ProductDescription": "Elektroniczna waga osobowa GWO100N ELDOM"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łaziekowa ELDOM GWO100N",
+            "ProductDescription": "Electronic personal scale GWO100N ELDOM"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łaziekowa ELDOM GWO100N",
+            "ProductDescription": "Elektronische Personenwaage GWO100N ELDOM"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906489880766"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GWO100N",
+        "Weight": 1772.0,
+        "Height": 325.0,
+        "Width": 340.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054859",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "66a66254-e354-4cd5-9d7b-9d71b5045bd1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-11-19T13:37:01Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELDWAL0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:59.196000+00:00",
+        "sequence_number": 117728
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBINY",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa ADLER AD 8172b",
+            "ProductDescription": "WAGA ŁAZIENKOWA ADLER AD 8172B"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa ADLER AD 8172b",
+            "ProductDescription": "ADLER AD 8172B BATHROOM SCALE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa ADLER AD 8172b",
+            "ProductDescription": "ADLER BADEZIMMERWAAGE AD 8172B"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887804189"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 8172b",
+        "Weight": 1978.0,
+        "Height": 59.0,
+        "Width": 392.0,
+        "Depth": 350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 52341
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040312",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b7f69aa0-3800-437f-9b0d-ab1f2932d5fe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-05T10:43:05Z'",
+          "ModificationDate": "b'2025-06-04T12:17:52Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBINY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:26.258000+00:00",
+        "sequence_number": 122855
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDESPWAL0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Esperanza",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ESPERANZA CYFROWA WAGA ŁAZIENKOWA PILATES CZARNA",
+            "ProductDescription": "Esperanza EBS008K waga Elektroniczna waga osobista Prostokąt Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ESPERANZA CYFROWA WAGA ŁAZIENKOWA PILATES CZARNA",
+            "ProductDescription": "Esperanza EBS008K personal scale Electronic personal scale Rectangle Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ESPERANZA CYFROWA WAGA ŁAZIENKOWA PILATES CZARNA",
+            "ProductDescription": "Esperanza EBS008K Personenwaage Elektronische Personenwaage Rechteck Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901299914106"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EBS008K",
+        "Weight": 1665.0,
+        "Height": 40.0,
+        "Width": 330.0,
+        "Depth": 335.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050405",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "97c5e2e3-fdf8-48f9-8c75-b16c16fb5357",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-12-19T15:46:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDESPWAL0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:11.181000+00:00",
+        "sequence_number": 137800
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDGEFWGK0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "GEFU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna GEFU G-21930",
+            "ProductDescription": "GEFU SCORE Stal nierdzewna Blat Prostokąt Elektroniczna waga kuchenna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna GEFU G-21930",
+            "ProductDescription": "GEFU SCORE Stainless steel Countertop Rectangle Electronic kitchen scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna GEFU G-21930",
+            "ProductDescription": "GEFU SCORE Edelstahl Arbeitsplatte Rechteck Elektronische Küchenwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006664219303"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "G-21930",
+        "Weight": 472.0,
+        "Height": 32.0,
+        "Width": 178.0,
+        "Depth": 236.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047835",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga kuchenna GEFU SCORE G-21930"
+      },
+      "properties": {
+        "message_id": "3720430b-b012-480c-881e-d102301e5d7f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-26T12:49:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDGEFWGK0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:00.243000+00:00",
+        "sequence_number": 115765
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0026",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga elektroniczna WAGI TARCZYN WT-202 40kg",
+            "ProductDescription": "Waga elektroniczna WAGI TARCZYN WT-202 40kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga elektroniczna WAGI TARCZYN WT-202 40kg",
+            "ProductDescription": "Electronic Scales WT-202 40kg."
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga elektroniczna WAGI TARCZYN WT-202 40kg",
+            "ProductDescription": "Elektronische Waage WT-202 40kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541347"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84238220",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-202 40kg",
+        "Weight": 2890.0,
+        "Height": 130.0,
+        "Width": 370.0,
+        "Depth": 370.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050800",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga elektroniczna WAGI TARCZYN WT-202 40kg"
+      },
+      "properties": {
+        "message_id": "77042ee9-ea28-4dae-bd7e-5c6b3b851439",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-04T11:25:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:19.025000+00:00",
+        "sequence_number": 138165
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDADLWGK0058",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna ADLER AD 3181b czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna ADLER AD 3181b czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna ADLER AD 3181b czarna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 3181b",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089735",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "20207c64-e1a3-4006-9112-ea8225dea8a8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T09:27:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDADLWGK0058'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:47.689000+00:00",
+        "sequence_number": 167789
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDELDWGK0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "ELDOM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ELDOM ELEKTRONICZNA WAGA KUCHENNA WK350",
+            "ProductDescription": "ELDOM Waga kuchenna elektr., ARI, szklana płytka, biała, do 10 kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ELDOM ELEKTRONICZNA WAGA KUCHENNA WK350",
+            "ProductDescription": "Electric kitchen scale, ARI, glass plate, white, up to 10 kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ELDOM ELEKTRONICZNA WAGA KUCHENNA WK350",
+            "ProductDescription": "Elektrische Küchenwaage, ARI, Glasplatte, weiß, bis 10 kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908277388263"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3343",
+        "Weight": 570.0,
+        "Height": 220.0,
+        "Width": 170.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068843",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "ELDOM ELEKTRONICZNA WAGA KUCHENNA WK350"
+      },
+      "properties": {
+        "message_id": "b3c4478b-7b1a-4fbb-bab2-eb84071e9615",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-20T11:32:11Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELDWGK0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:15.694000+00:00",
+        "sequence_number": 152918
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDELDWGK0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "ELDOM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WAGA KUCHENNA IDEAL IK3701",
+            "ProductDescription": "IDEAL Elektroniczna waga kuchenna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WAGA KUCHENNA IDEAL IK3701",
+            "ProductDescription": "IDEAL Electronics Waga Clean"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WAGA KUCHENNA IDEAL IK3701",
+            "ProductDescription": "IDEAL Electronics Waga Clean"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908277389208"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IK3701",
+        "Weight": 730.0,
+        "Height": 215.0,
+        "Width": 215.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068844",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "WAGA KUCHENNA IDEAL IK3701"
+      },
+      "properties": {
+        "message_id": "ee0860aa-c298-4f3c-8a91-d0d2aee4d342",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-20T11:32:19Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELDWGK0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:15.694000+00:00",
+        "sequence_number": 152919
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMURW",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Tefal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tefal Origin PP1600 Owalny Drewno Elektroniczna wag",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tefal Origin PP1600 Owalny Drewno Elektroniczna wag",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tefal Origin PP1600 Owalny Drewno Elektroniczna wag",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3121040082355"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PP1600",
+        "Weight": 1400.0,
+        "Height": 42.0,
+        "Width": 322.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 52341
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091930",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "73224498-fb89-475d-bff2-4ab1131a7c63",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-23T15:46:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMURW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:56.799000+00:00",
+        "sequence_number": 168215
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDOROWAL0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "oromed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa ORO BLUETOOTH SMART WHITE OROMED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa ORO BLUETOOTH SMART WHITE OROMED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa ORO BLUETOOTH SMART WHITE OROMED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905972127883"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5905972127883",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059247",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga łazienkowa ORO BLUETOOTH SMART WHITE OROMED"
+      },
+      "properties": {
+        "message_id": "64fe1e29-7d60-4a6b-8b99-fabefdc7cf7a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:04:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDOROWAL0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:47.355000+00:00",
+        "sequence_number": 124005
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DGNDEPWAG0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "DEPAN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa elektroniczna DAPAN",
+            "ProductDescription": "Waga łazienkowa elektroniczna DAPAN"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa elektroniczna DAPAN",
+            "ProductDescription": "Electronic bathroom scales DAPAN"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa elektroniczna DAPAN",
+            "ProductDescription": "Elektronische Personenwaagen DAPAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906742632125"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 890.0,
+        "Height": 270.0,
+        "Width": 275.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100007640",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga łazienkowa elektroniczna DAPAN"
+      },
+      "properties": {
+        "message_id": "630b7150-9dbe-4ede-8bd5-2a3cefad4b2e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-22T10:01:32Z'",
+          "ModificationDate": "b'2025-06-04T11:58:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DGNDEPWAG0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110766
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AKGFTBSMA0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "FitBit",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fitbit Smart Fitness Scales Aria Air Multiple users",
+            "ProductDescription": "Fitbit Aria Air Kwadrat Czarny Elektroniczna waga osobista"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fitbit Smart Fitness Scales Aria Air Multiple users",
+            "ProductDescription": "Fitbit Aria Air Square Black Electronic personal scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fitbit Smart Fitness Scales Aria Air Multiple users",
+            "ProductDescription": "Fitbit Aria Air Quadratisch Schwarz Elektronische Personenwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "811138038076"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FB203BK",
+        "Weight": 2200.0,
+        "Height": 42.0,
+        "Width": 340.0,
+        "Depth": 340.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074165",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Fitbit Smart Fitness Scales Aria Air Multiple users, Body Mass Index (BMI) measuring"
+      },
+      "properties": {
+        "message_id": "69b8670b-6607-4a11-8dad-cb08136c41d4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-05T12:43:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AKGFTBSMA0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:56.699000+00:00",
+        "sequence_number": 124469
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBH44",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa ADLER AD 8172w",
+            "ProductDescription": "Adler AD 8172W waga Prostokąt Biały Elektroniczna waga osobista"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa ADLER AD 8172w",
+            "ProductDescription": "Electronic bathroom scale Adler AD 8172w LED"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa ADLER AD 8172w",
+            "ProductDescription": "Elektronische Personenwaage Adler AD 8172w LED"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887804202"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 8172w",
+        "Weight": 1970.0,
+        "Height": 380.0,
+        "Width": 345.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074868",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "188fff27-0cef-427b-9d9a-225a440104dd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-26T22:16:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBH44'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:56.699000+00:00",
+        "sequence_number": 124499
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGZ6",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Extralink Smart Life Baby Scale B5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Extralink Smart Life Baby Scale B5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Extralink Smart Life Baby Scale B5",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906168632204"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.32204",
+        "Weight": 1543.0,
+        "Height": 50.0,
+        "Width": 560.0,
+        "Depth": 335.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54473
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53337
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035979",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "259762d2-6f65-490d-81e0-8f3ec0710d33",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-31T10:22:53Z'",
+          "ModificationDate": "b'2025-06-04T12:15:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGZ6'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:11.356000+00:00",
+        "sequence_number": 111253
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDMENWAL0034",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga analityczna Ecomed by Medisana BS-70E",
+            "ProductDescription": "Waga analityczna Ecomed by Medisana BS-70E"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga analityczna Ecomed by Medisana BS-70E",
+            "ProductDescription": "Analytical balance Ecomed by Medisana BS-70E"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga analityczna Ecomed by Medisana BS-70E",
+            "ProductDescription": "Analysenwaage Ecomed von Medisana BS-70E"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588235016"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "23501",
+        "Weight": 1730.0,
+        "Height": 30.0,
+        "Width": 330.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053384",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga analityczna Ecomed by Medisana BS-70E"
+      },
+      "properties": {
+        "message_id": "2105da41-3049-417c-ad8b-05ca13743f61",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T13:17:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDMENWAL0034'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:45.404000+00:00",
+        "sequence_number": 139519
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDXAOWAL0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa Xiaomi Smart Scale S200 ciemnoszary",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa Xiaomi Smart Scale S200 ciemnoszary",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa Xiaomi Smart Scale S200 ciemnoszary",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BHR9239GL",
+        "Weight": 1470.0,
+        "Height": 305.0,
+        "Width": 295.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085202",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8c0c008a-8fe7-40ee-bf9c-a81a5c28526f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T14:50:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDXAOWAL0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:09.358000+00:00",
+        "sequence_number": 125121
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRALU3",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Amazfit Waga łazienkowa Aurora Gradient",
+            "ProductDescription": "Amazfit Waga łazienkowa Aurora Gradient"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Amazfit Waga łazienkowa Aurora Gradient",
+            "ProductDescription": "Amazfit Aurora Gradient Bathroom Scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Amazfit Waga łazienkowa Aurora Gradient",
+            "ProductDescription": "Amazfit Aurora Gradient Badezimmerwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6971828190034"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "A2003AURORAGRADIENT",
+        "Weight": 2860.0,
+        "Height": 40.0,
+        "Width": 350.0,
+        "Depth": 350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54957
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54269
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036990",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b1b084ee-3112-4613-86da-71f605d97a5a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-24T11:02:30Z'",
+          "ModificationDate": "b'2025-06-04T12:15:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRALU3'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:20.857000+00:00",
+        "sequence_number": 111747
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJ526",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "WIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa WITHINGS Body Personenwaage",
+            "ProductDescription": "Withings Body Smart Kwadrat Czarny Elektroniczna waga osobista"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa WITHINGS Body Personenwaage",
+            "ProductDescription": "Withings Body Smart Square Black Electronic personal scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa WITHINGS Body Personenwaage",
+            "ProductDescription": "Withings Body Smart Quadratisch Schwarz Elektronische Personenwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10326931",
+        "Weight": 2832.0,
+        "Height": 377.0,
+        "Width": 371.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "FR",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085820",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ebea0414-fd16-4d2a-9f85-ceb62a815f38",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-01T18:00:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJ526'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:14.593000+00:00",
+        "sequence_number": 125420
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDZELWGK0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Zelmer",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WAGA KUCHENNA ZKS 1451 5kg IVORY z misą",
+            "ProductDescription": "Zelmer ZKS1451 Waga kuchenna elektroniczna Biała"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WAGA KUCHENNA ZKS 1451 5kg IVORY z misą",
+            "ProductDescription": "Zelmer ZKS1451 Electronic kitchen scale White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WAGA KUCHENNA ZKS 1451 5kg IVORY z misą",
+            "ProductDescription": "Zelmer ZKS1451 Elektronische Küchenwaage Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908269347223"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ZKS 1451",
+        "Weight": 490.0,
+        "Height": 198.0,
+        "Width": 95.0,
+        "Depth": 216.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054473",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4a515da6-6dcf-4310-9324-bdacff33d6cc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-27T14:24:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDZELWGK0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:58.327000+00:00",
+        "sequence_number": 140182
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAF5",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa - Mechaniczna Adler Adler",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa - Mechaniczna Adler Adler",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa - Mechaniczna Adler Adler",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887806886"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 8177",
+        "Weight": 3360.0,
+        "Height": 460.0,
+        "Width": 315.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 56461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055512",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bb8f4769-9ff4-48a4-aae6-c0cd59929706",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-28T09:39:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAF5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:04.500000+00:00",
+        "sequence_number": 140485
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBZWE",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga sprężynowa Eurohunt 0 - 200 kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga sprężynowa Eurohunt 0 - 200 kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga sprężynowa Eurohunt 0 - 200 kg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250392356094"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EH-560609",
+        "Weight": 1050.0,
+        "Height": 80.0,
+        "Width": 245.0,
+        "Depth": 205.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080715",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b5345d2-55d1-4ff8-a185-f8d70b84d378",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T16:10:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBZWE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:51.091000+00:00",
+        "sequence_number": 154654
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0019",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-1015 40 KG",
+            "ProductDescription": "Waga elektroniczna WAGI TARCZYN WT-1015 40kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-1015 40 KG",
+            "ProductDescription": "Electronic scale WAGI TARCZYN WT-1015 40kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-1015 40 KG",
+            "ProductDescription": "Elektronische Waage WAGI TARCZYN WT-1015 40kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541439"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84238220",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-1015",
+        "Weight": 3525.0,
+        "Height": 140.0,
+        "Width": 400.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056878",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga elektroniczna WAGI TARCZYN WT-1015 40kg"
+      },
+      "properties": {
+        "message_id": "46677aac-68cd-419f-8d29-64fe44b4539a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T16:01:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:04.978000+00:00",
+        "sequence_number": 118050
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0024",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-090N 150 KG",
+            "ProductDescription": "WAGA PLATFORMOWA WAGI TARCZYN WT-090N 150kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-090N 150 KG",
+            "ProductDescription": "PLATFORM SCALE WAGI TARCZYN WT-090N 150kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-090N 150 KG",
+            "ProductDescription": "PLATTFORMWAAGE WAGI TARCZYN WT-090N 150kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541354"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84238220",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-090N",
+        "Weight": 16000.0,
+        "Height": 150.0,
+        "Width": 540.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056879",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga Platformowa WAGI TARCZYN WT-090N 150kg Bezprzewodowy Wyświetlacz"
+      },
+      "properties": {
+        "message_id": "75ecaa00-77ea-4781-8060-8c05d46df443",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T16:01:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:05.837000+00:00",
+        "sequence_number": 118051
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDXAOWAL0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa Xiaomi Smart Scale S200 (biały)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa Xiaomi Smart Scale S200 (biały)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa Xiaomi Smart Scale S200 (biały)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941812705537"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "59203",
+        "Weight": 1335.0,
+        "Height": 300.0,
+        "Width": 300.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 52341
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080770",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1c686e87-9d17-4f08-9e44-dce6bcf29c8c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-05T09:02:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDXAOWAL0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:43.365000+00:00",
+        "sequence_number": 112792
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAWAL0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa Blaupunkt BSP201, czarna",
+            "ProductDescription": "Blaupunkt BSP201 Waga łazienkowa (max 150 kg) Szkło"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa Blaupunkt BSP201, czarna",
+            "ProductDescription": "Blaupunkt BSP201 Bathroom weight (max 150 kg) Glass"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa Blaupunkt BSP201, czarna",
+            "ProductDescription": "Blaupunkt BSP201 Badezimmergewicht (max 150 kg) Glas"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901750504983"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BSP201",
+        "Weight": 1160.0,
+        "Height": 300.0,
+        "Width": 280.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088557",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga łazienkowa Blaupunkt BSP201, czarna"
+      },
+      "properties": {
+        "message_id": "7d32f5af-a6e4-45f3-98e8-caab295ea9bd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-10-12T13:56:24Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAWAL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:19.543000+00:00",
+        "sequence_number": 170863
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAWAL0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa z Bluetooth Blaupunkt BSM601BT",
+            "ProductDescription": "Waga łazienkowa personalna z Bluetooth Blaupunkt BSM601BT"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa z Bluetooth Blaupunkt BSM601BT",
+            "ProductDescription": "Personal bathroom scale with Bluetooth Blaupunkt BSM601BT"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa z Bluetooth Blaupunkt BSM601BT",
+            "ProductDescription": "Persönliche Bluetooth-Badewaage Blaupunkt BSM601BT"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901750506956"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AGDBLBS008",
+        "Weight": 1510.0,
+        "Height": 320.0,
+        "Width": 330.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 52341
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088558",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga łazienkowa personalna z Bluetooth Blaupunkt BSM601BT"
+      },
+      "properties": {
+        "message_id": "aaa942d6-7a4c-4b77-84ca-709c8d0005e0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-06T15:52:02Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAWAL0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:19.543000+00:00",
+        "sequence_number": 170864
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAWGK0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna Blaupunkt FKS601",
+            "ProductDescription": "Waga kuchenna Blaupunkt FKS601"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna Blaupunkt FKS601",
+            "ProductDescription": "Blaupunkt Kitchen Scale FKS601"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna Blaupunkt FKS601",
+            "ProductDescription": "Blaupunkt Küchenwaage FKS601"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901750502682"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FKS601",
+        "Weight": 470.0,
+        "Height": 230.0,
+        "Width": 160.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088563",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "24e14bca-1084-4409-86f3-d1be49692fdf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-10-16T10:53:04Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAWGK0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:19.543000+00:00",
+        "sequence_number": 170869
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAWGK0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna Blaupunkt FKS401",
+            "ProductDescription": "Waga kuchenna Blaupunkt FKS401"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna Blaupunkt FKS401",
+            "ProductDescription": "Blaupunkt Kitchen Scale FKS401"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna Blaupunkt FKS401",
+            "ProductDescription": "Blaupunkt Küchenwaage FKS401"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901750506963"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AGDBLKS004",
+        "Weight": 605.0,
+        "Height": 170.0,
+        "Width": 240.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088564",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga kuchenna Blaupunt FKS401"
+      },
+      "properties": {
+        "message_id": "f0f09462-3bb8-451e-991a-ab4a240f81e9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-06T15:51:27Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAWGK0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:19.543000+00:00",
+        "sequence_number": 170870
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDCSOWAL0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "caso",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CASO WAGA ŁAZIENKOWA BF4 3414",
+            "ProductDescription": "Caso BF4 Prostokąt Biały Elektroniczna waga osobista"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CASO WAGA ŁAZIENKOWA BF4 3414",
+            "ProductDescription": "Caso BF4 Electronic personal scale Rectangle White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "CASO WAGA ŁAZIENKOWA BF4 3414",
+            "ProductDescription": "Caso BF4 Elektronische Personenwaage Rechteck Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4038437034141"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3414",
+        "Weight": 3120.0,
+        "Height": 415.0,
+        "Width": 430.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 56461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073817",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e7eb6928-0bd5-4299-b215-211383c4fc73",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-08-13T10:30:17Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDCSOWAL0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:32.632000+00:00",
+        "sequence_number": 145370
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBM20",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "ZWILLING",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga cyfrowa ZWILLING Enfinigy Różowa",
+            "ProductDescription": "ZWILLING Enfinigy Różowy, Biały Blat Owalny Elektroniczna waga kuchenna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga cyfrowa ZWILLING Enfinigy Różowa",
+            "ProductDescription": "Zwilling Enfinigy digital kitchen scale 53011-054-0, Pink"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga cyfrowa ZWILLING Enfinigy Różowa",
+            "ProductDescription": "Zwilling Enfinigy digitale Küchenwaage 53011-054-0, Rosa"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4009839646461"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "53011-054-0",
+        "Weight": 950.0,
+        "Height": 47.0,
+        "Width": 290.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055159",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "74d13e04-b433-4ad9-a25e-ccc8b1d5cd56",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-15T14:09:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBM20'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:02.298000+00:00",
+        "sequence_number": 142035
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0018",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-500S 30 KG",
+            "ProductDescription": "Waga elektroniczna WAGI TARCZYN WT-500S 30kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-500S 30 KG",
+            "ProductDescription": "Electronic scale WT-500S 30kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-500S 30 KG",
+            "ProductDescription": "Elektronische Waage WT-500S 30kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541330"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84238129",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-500S",
+        "Weight": 1155.0,
+        "Height": 70.0,
+        "Width": 245.0,
+        "Depth": 245.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076529",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga elektroniczna WAGI TARCZYN WT-500S 30kg"
+      },
+      "properties": {
+        "message_id": "598e0409-840b-4eb6-96a2-1b1496928d34",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T16:01:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:52.877000+00:00",
+        "sequence_number": 156227
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0021",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-170N 150 KG",
+            "ProductDescription": "WAGA PLATFORMOWA WAGI TARCZYN WT-170N 150kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-170N 150 KG",
+            "ProductDescription": "PLATFORM SCALE WAGI TARCZYN WT-170N 150kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-170N 150 KG",
+            "ProductDescription": "PLATTFORMWAAGE WAGI TARCZYN WT-170N 150kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541415"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84238220",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-170N",
+        "Weight": 11000.0,
+        "Height": 190.0,
+        "Width": 700.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076530",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga Platformowa WAGI TARCZYN WT-170N 150kg"
+      },
+      "properties": {
+        "message_id": "41dc7299-d396-44fc-a375-4da38e8b62ae",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T16:01:44Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:52.877000+00:00",
+        "sequence_number": 156228
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0027",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga Platformowa WAGI TARCZYN WT-180N 150kg",
+            "ProductDescription": "WAGA PLATFORMOWA WAGI TARCZYN WT-180N 150kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga Platformowa WAGI TARCZYN WT-180N 150kg",
+            "ProductDescription": "PLATFORM SCALE WAGI TARCZYN WT-180N 150kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga Platformowa WAGI TARCZYN WT-180N 150kg",
+            "ProductDescription": "PLATTFORMWAAGE WAGI TARCZYN WT-180N 150kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541378"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84238220",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-180N 150kg",
+        "Weight": 11000.0,
+        "Height": 190.0,
+        "Width": 700.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076531",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga Platformowa WAGI TARCZYN WT-180N 150kg"
+      },
+      "properties": {
+        "message_id": "d4f5b489-5444-440f-be2f-a8d2c67fbe11",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-04T11:25:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:52.877000+00:00",
+        "sequence_number": 156229
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0020",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-1020 40 KG",
+            "ProductDescription": "Waga elektroniczna WAGI TARCZYN WT-1020 40kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-1020 40 KG",
+            "ProductDescription": "Electronic scale WT-1020 40kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga elektroniczna Wagi Tarczyn WT-1020 40 KG",
+            "ProductDescription": "Elektronische Waage WT-1020 40kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541422"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84238220",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-1020",
+        "Weight": 3485.0,
+        "Height": 140.0,
+        "Width": 400.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068622",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga elektroniczna WAGI TARCZYN WT-1020 40kg"
+      },
+      "properties": {
+        "message_id": "a3a5ee54-75c1-43ff-91b6-cf449374530b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T16:01:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:08.140000+00:00",
+        "sequence_number": 127264
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDADLWGK0037",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna ADLER AD 3166",
+            "ProductDescription": "Adler AD 3166 waga kuchenna Elektroniczna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna ADLER AD 3166",
+            "ProductDescription": "Adler AD 3166 Electronic kitchen scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna ADLER AD 3166",
+            "ProductDescription": "Adler AD 3166 Elektronische Küchenwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902934834704"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 3166",
+        "Weight": 650.0,
+        "Height": 190.0,
+        "Width": 210.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068752",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fd197409-2781-48f5-9bce-3f96a2574ab3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-01-21T12:03:10Z'",
+          "ModificationDate": "b'2025-09-30T13:40:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDADLWGK0037'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:05.016000+00:00",
+        "sequence_number": 142170
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDNEIWGK0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "NEI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NEDIS RETRO WAGA KUCHENNA ANALOGOWA Z MISKĄ",
+            "ProductDescription": "Nedis KASC110RD waga kuchenna Czerwony, Stal nierdzewna Blat Waga kuchenna mechaniczna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NEDIS RETRO WAGA KUCHENNA ANALOGOWA Z MISKĄ",
+            "ProductDescription": "Nedis KASC110RD kitchen scale Red, Stainless steel Countertop Mechanical kitchen scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NEDIS RETRO WAGA KUCHENNA ANALOGOWA Z MISKĄ",
+            "ProductDescription": "Nedis KASC110RD Küchenwaage Rot, Edelstahl Arbeitsplatte Mechanische Küchenwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5412810286652"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KASC110RD",
+        "Weight": 1400.0,
+        "Height": 160.0,
+        "Width": 270.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "NL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068943",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9610f9af-9ab5-4a41-8a20-91af678878e9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-01-31T12:54:13Z'",
+          "ModificationDate": "b'2025-09-30T13:40:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDNEIWGK0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:07.001000+00:00",
+        "sequence_number": 142282
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPWAA4PS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga platformowa WAGI TARCZYN WT-1040 300 KG (WYP)",
+            "ProductDescription": "WAGA PLATFORMOWA WAGI TARCZYN  WT-1040 300 KG Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga platformowa WAGI TARCZYN WT-1040 300 KG (WYP)",
+            "ProductDescription": "PLATFORM SCALE  WT-1040 300 KG Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga platformowa WAGI TARCZYN WT-1040 300 KG (WYP)",
+            "ProductDescription": "PLATTFORMWAAGE  WT-1040 300 KG Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481507916"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90318080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-1040",
+        "Weight": 15000.0,
+        "Height": 615.0,
+        "Width": 540.0,
+        "Depth": 590.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.66.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071564",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a63141a4-fc56-426e-b4cf-22cf5d9dabe0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-10T14:02:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPWAA4PS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:19.954000+00:00",
+        "sequence_number": 127906
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAWGK0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna Blaupunkt FKS701",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna Blaupunkt FKS701",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna Blaupunkt FKS701",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FKS701",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085778",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2106c1cd-7b90-4d03-b5e6-ffbd203c27b6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-01T14:41:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAWGK0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:19.192000+00:00",
+        "sequence_number": 157344
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAWAL0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa Blaupunkt BSP202",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa Blaupunkt BSP202",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa Blaupunkt BSP202",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BSP202",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 52341
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085789",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "61db4fd8-7aef-4021-903c-72766435c753",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-01T15:15:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAWAL0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:19.192000+00:00",
+        "sequence_number": 157355
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCOZX",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa Xiaomi Mi BodyCompositionScale S400",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa Xiaomi Mi BodyCompositionScale S400",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa Xiaomi Mi BodyCompositionScale S400",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941812751985"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50966",
+        "Weight": 1796.0,
+        "Height": 38.0,
+        "Width": 333.0,
+        "Depth": 332.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 52341
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f3c0239c-28b3-443d-8add-be74002d3df2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-25T23:31:04Z'",
+          "ModificationDate": "b'2025-06-04T12:19:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCOZX'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:46.444000+00:00",
+        "sequence_number": 115012
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCAPN",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "CAMRY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa z funkcją ważenia niemowląt Camry",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa z funkcją ważenia niemowląt Camry",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa z funkcją ważenia niemowląt Camry",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887805377"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CR 8171b",
+        "Weight": 1735.0,
+        "Height": 370.0,
+        "Width": 385.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042407",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "19557022-888d-4b40-862c-afe15b1b0624",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-18T12:58:39Z'",
+          "ModificationDate": "b'2025-06-04T12:19:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCAPN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:02.302000+00:00",
+        "sequence_number": 143831
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCAPO",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "CAMRY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga łazienkowa z funkcją ważenia niemowląt Camry",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga łazienkowa z funkcją ważenia niemowląt Camry",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga łazienkowa z funkcją ważenia niemowląt Camry",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887805391"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CR 8171w",
+        "Weight": 1750.0,
+        "Height": 365.0,
+        "Width": 380.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042408",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59b0d477-f29f-498f-9664-1a3a731a7a1c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-10T11:21:58Z'",
+          "ModificationDate": "b'2025-06-04T12:19:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCAPO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:02.302000+00:00",
+        "sequence_number": 143832
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDMENWAL0033",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga osobowa Ecomed by Medisana PS-72E",
+            "ProductDescription": "Waga osobowa Ecomed by Medisana PS-72E"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga osobowa Ecomed by Medisana PS-72E",
+            "ProductDescription": "Personal scale Ecomed by Medisana PS-72E"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga osobowa Ecomed by Medisana PS-72E",
+            "ProductDescription": "Personenwaage Ecomed von Medisana PS-72E"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588235115"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "23511",
+        "Weight": 1700.0,
+        "Height": 30.0,
+        "Width": 330.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073925",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga osobowa Ecomed by Medisana PS-72E"
+      },
+      "properties": {
+        "message_id": "58827737-06c7-4c21-90d0-6c488c87ddd6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T13:17:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDMENWAL0033'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:34.647000+00:00",
+        "sequence_number": 145473
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCAR4",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "CAMRY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga dziecięca do 20kg z Automatyczną funkcją HOLD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga dziecięca do 20kg z Automatyczną funkcją HOLD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga dziecięca do 20kg z Automatyczną funkcją HOLD",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905575902221"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "cr_8185",
+        "Weight": 1380.0,
+        "Height": 345.0,
+        "Width": 535.0,
+        "Depth": 67.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52341
+              },
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055192",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "68c3cff6-577f-4aa0-a606-86f89d33259e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-05T16:49:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCAR4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:15.524000+00:00",
+        "sequence_number": 129519
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBZJN",
+        "ProductVersion": "1.3",
+        "ProductType": "Wagi",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga wisząca KERN HCB 200K500",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga wisząca KERN HCB 200K500",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga wisząca KERN HCB 200K500",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84238220",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2490193",
+        "Weight": 845.0,
+        "Height": 85.0,
+        "Width": 220.0,
+        "Depth": 152.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.39.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042176",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "15e592c5-3ab5-469c-ab5e-55e2e61996f1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-22T12:28:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBZJN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:31.778000+00:00",
+        "sequence_number": 159449
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCAP7",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Adler AD 8139 Waga dziecięca",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Adler AD 8139 Waga dziecięca",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Adler AD 8139 Waga dziecięca",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908256838352"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 8139",
+        "Weight": 2070.0,
+        "Height": 45.0,
+        "Width": 560.0,
+        "Depth": 340.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              },
+              {
+                "CategoryId": 56755
+              },
+              {
+                "CategoryId": 52341
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54898
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042397",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fba7603c-c297-4f33-a256-4687e7674540",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-28T11:02:30Z'",
+          "ModificationDate": "b'2025-06-04T12:19:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCAP7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:33.809000+00:00",
+        "sequence_number": 159550
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0022",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-175N 300 KG",
+            "ProductDescription": "WAGA PLATFORMOWA WAGI TARCZYN WT-175N 300kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-175N 300 KG",
+            "ProductDescription": "PLATFORM SCALE WAGI TARCZYN WT-175N 300kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-175N 300 KG",
+            "ProductDescription": "PLATTFORMWAAGE WAGI TARCZYN WT-175N 300kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541453"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90318080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-175N",
+        "Weight": 18000.0,
+        "Height": 200.0,
+        "Width": 790.0,
+        "Depth": 430.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.66.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066713",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga Platformowa WAGI TARCZYN WT-175N 300kg"
+      },
+      "properties": {
+        "message_id": "3c5c51f0-3957-4829-bcdf-202d2eeb8467",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T16:01:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:02.672000+00:00",
+        "sequence_number": 102969
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPWAAWAG0025",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Wagi Tarczyn",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-095N 300 KG",
+            "ProductDescription": "WAGA PLATFORMOWA WAGI TARCZYN WT-095N 300kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-095N 300 KG",
+            "ProductDescription": "PLATFORM SCALE WAGI TARCZYN WT-095N 300kg"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga Platformowa Wagi Tarczyn WT-095N 300 KG",
+            "ProductDescription": "PLATTFORMWAAGE WAGI TARCZYN WT-095N 300kg"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905481541361"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90318080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WT-095N",
+        "Weight": 18000.0,
+        "Height": 160.0,
+        "Width": 660.0,
+        "Depth": 460.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.66.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56130
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56064
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066714",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Waga Platformowa WAGI TARCZYN WT-095N 300kg Bezprzewodowy Wyświetlacz"
+      },
+      "properties": {
+        "message_id": "3f30c0d3-f32c-4d04-8ad0-4dbc2bb52b13",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T16:01:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPWAAWAG0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:02.672000+00:00",
+        "sequence_number": 102970
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAWGK0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Waga kuchenna Blaupunkt FKS501",
+            "ProductDescription": "Waga kuchenna Blaupunkt FKS501"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Waga kuchenna Blaupunkt FKS501",
+            "ProductDescription": "Blaupunkt Kitchen Scale FKS501"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Waga kuchenna Blaupunkt FKS501",
+            "ProductDescription": "Blaupunkt Küchenwaage FKS501"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901750502675"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FKS501",
+        "Weight": 660.0,
+        "Height": 200.0,
+        "Width": 250.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062934",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f304a410-02ce-4c3b-a8ee-640f1d58168b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-10-16T10:53:02Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAWGK0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:15.715000+00:00",
+        "sequence_number": 162937
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "BAGPORWBA0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "PORT DESIGNS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PORT DESIGNS LUGGAGE SCALE DIGITAL 900710",
+            "ProductDescription": "Port Designs 900710 waga podróżna 50 kg Elektroniczny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PORT DESIGNS LUGGAGE SCALE DIGITAL 900710",
+            "ProductDescription": "Port Designs 900710 luggage scales 50 kg Electronic"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PORT DESIGNS LUGGAGE SCALE DIGITAL 900710",
+            "ProductDescription": "Port Designs 900710 Gepäckwaage 50 kg Elektronisch"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3567049007102"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "900710",
+        "Weight": 113.0,
+        "Height": 110.0,
+        "Width": 220.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54957
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54269
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049613",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4fa6765f-b65c-4dde-bcd1-53a92c773daf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-09-22T12:41:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'BAGPORWBA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:14.214000+00:00",
+        "sequence_number": 116546
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDZELWGK0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Wagi",
+        "Brand": "Zelmer",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WAGA KUCHENNA ZKS 1500N 5kg",
+            "ProductDescription": "Zelmer ZKS1500N waga kuchenna Biały Elektroniczna waga kuchenna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WAGA KUCHENNA ZKS 1500N 5kg",
+            "ProductDescription": "Zelmer ZKS1500N kitchen scale White Electronic kitchen scale"
+          },
+          {
+            "Language": "de",
+            "ProductName": "WAGA KUCHENNA ZKS 1500N 5kg",
+            "ProductDescription": "Zelmer ZKS1500N Küchenwaage Weiß Elektronische Küchenwaage"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908269350957"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ZKS 1500N",
+        "Weight": 524.0,
+        "Height": 217.0,
+        "Width": 172.0,
+        "Depth": 31.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54869
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52340
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074103",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c34c0155-01b1-42cf-93a7-f287c490fc41",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-27T14:32:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDZELWGK0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:37.554000+00:00",
+        "sequence_number": 145638
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFHSH",
+        "ProductVersion": "1.2",
+        "ProductType": "Wagi",
+        "Brand": "iHealth",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Służba zdrowia | Bezprzewodowa waga",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Służba zdrowia | Bezprzewodowa waga",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Służba zdrowia | Bezprzewodowa waga",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "850044118038"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84231010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HS2SPRO",
+        "Weight": 2500.0,
+        "Height": 35.0,
+        "Width": 336.0,
+        "Depth": 336.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.32.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56461
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067241",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "45a159a2-f1e9-40ae-9dfd-746229089ef1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-27T14:00:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFHSH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:07.922000+00:00",
+        "sequence_number": 103220
+      }
+    }
+  ]
+}

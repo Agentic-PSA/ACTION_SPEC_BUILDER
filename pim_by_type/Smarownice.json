@@ -1,0 +1,526 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFKMD",
+        "ProductVersion": "1.3",
+        "ProductType": "Smarownice",
+        "Brand": "Beta",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BETA SMAROWNICA DŹWIG.750CC/1750/750",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BETA SMAROWNICA DŹWIG.750CC/1750/750",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BETA SMAROWNICA DŹWIG.750CC/1750/750",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8014230698632"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1750-750",
+        "Weight": 1000.0,
+        "Height": 210.0,
+        "Width": 20.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53048
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55258
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046785",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d1bf12f5-b718-4fd3-950c-f418f6660f8b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-01T09:00:54Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFKMD'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:53.586000+00:00",
+        "sequence_number": 115424
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCTXB",
+        "ProductVersion": "1.2",
+        "ProductType": "Smarownice",
+        "Brand": "Beta",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BETA SMAROWNICA DŹWIG.500CC/1750/500",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BETA SMAROWNICA DŹWIG.500CC/1750/500",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BETA SMAROWNICA DŹWIG.500CC/1750/500",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8014230698625"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1750",
+        "Weight": 1386.0,
+        "Height": 80.0,
+        "Width": 422.0,
+        "Depth": 141.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53048
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55258
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048875",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9fb9c7e4-ac36-4a28-bad2-10e9bddb0dcf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:21:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCTXB'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:59.721000+00:00",
+        "sequence_number": 108588
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREJDG",
+        "ProductVersion": "1.2",
+        "ProductType": "Smarownice",
+        "Brand": "MILWAUKEE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Smarownica MILWAUKEE M12GG-401B 1x4,0Ah",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Smarownica MILWAUKEE M12GG-401B 1x4,0Ah",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Smarownica MILWAUKEE M12GG-401B 1x4,0Ah",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002395001903"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "M12GG/4.0 Ah",
+        "Weight": 5580.0,
+        "Height": 120.0,
+        "Width": 560.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52974
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55258
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046466",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3bbca316-a2f5-46e3-96ef-f149f49fea6e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T10:16:31Z'",
+          "ModificationDate": "b'2025-06-04T12:21:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREJDG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:42.997000+00:00",
+        "sequence_number": 137703
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWK9",
+        "ProductVersion": "1.1",
+        "ProductType": "Smarownice",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Makita DGP180RT pistolet smarowy",
+            "ProductDescription": "Makita DGP180RT pistolet smarowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Makita DGP180RT pistolet smarowy",
+            "ProductDescription": "Makita DGP180RT power grease gun"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Makita DGP180RT pistolet smarowy",
+            "ProductDescription": "Makita DGP180RT Strombetriebene Fettpresse"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381886772"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DGP180RT",
+        "Weight": 11100.0,
+        "Height": 660.0,
+        "Width": 452.0,
+        "Depth": 159.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52974
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55258
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080849",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eade77c1-d6a6-411e-9176-80564edc5c87",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-05T12:32:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWK9'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:44.504000+00:00",
+        "sequence_number": 112831
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0583",
+        "ProductVersion": "1.3",
+        "ProductType": "Smarownice",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YT-07067 SMAROWNICA PNEUMATYCZNA 12L YATO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YT-07067 SMAROWNICA PNEUMATYCZNA 12L YATO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "YT-07067 SMAROWNICA PNEUMATYCZNA 12L YATO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083026812"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-07067",
+        "Weight": 12710.0,
+        "Height": 855.0,
+        "Width": 330.0,
+        "Depth": 365.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53048
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55258
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033052",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2d40a047-e883-41fa-9efe-2ef0ebd842c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-12T09:03:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0583'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:46.108000+00:00",
+        "sequence_number": 141223
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBRZI",
+        "ProductVersion": "1.2",
+        "ProductType": "Smarownice",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Towotnica Aku 18v DGP180Z  MAKITA",
+            "ProductDescription": "Makita DGP180Z pistolet smarowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Towotnica Aku 18v DGP180Z  MAKITA",
+            "ProductDescription": "MAKITA. TOWOTNICA 18V DGP180Z"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Towotnica Aku 18v DGP180Z  MAKITA",
+            "ProductDescription": "MAKITA. TOWOTNICA 18V DGP180Z"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381886819"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DGP180Z",
+        "Weight": 6100.0,
+        "Height": 265.0,
+        "Width": 625.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52974
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55258
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041554",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dc3d599a-63a3-4086-9f9a-902a80009544",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-30T13:50:17Z'",
+          "ModificationDate": "b'2025-06-04T12:18:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBRZI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:44.762000+00:00",
+        "sequence_number": 147843
+      }
+    }
+  ]
+}

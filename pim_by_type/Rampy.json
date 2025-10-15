@@ -1,0 +1,336 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "PORMLXRPP0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Rampy",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rampa progowa aluminiowa 40x76",
+            "ProductDescription": "Rampa progowa aluminiowa 40x76"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rampa progowa aluminiowa 40x76",
+            "ProductDescription": "Aluminium sill ramp 40x76"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rampa progowa aluminiowa 40x76",
+            "ProductDescription": "Aluminium-Schwellerrampe 40x76"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001415001"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "76169990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3450.0,
+        "Height": 220.0,
+        "Width": 800.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56422
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100025575",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4304a0a6-0fc0-4d26-a333-261e749feb8c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T13:44:39Z'",
+          "ModificationDate": "b'2025-06-04T12:09:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORMLXRPP0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110778
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORMLXRPP0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Rampy",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rampa teleskopowa dla wózków inwalidzkich 300 cm",
+            "ProductDescription": "Rampa teleskopowa dla wózków inwalidzkich 300 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rampa teleskopowa dla wózków inwalidzkich 300 cm",
+            "ProductDescription": "Telescopic wheelchair ramp 300 cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rampa teleskopowa dla wózków inwalidzkich 300 cm",
+            "ProductDescription": "Teleskopische Rollstuhlrampe 300 cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001441055"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "76169990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 24000.0,
+        "Height": 1320.0,
+        "Width": 130.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56422
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100025577",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9fa4ff2e-4c8a-4c42-afc9-659f71a75693",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T13:57:07Z'",
+          "ModificationDate": "b'2025-06-04T12:09:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORMLXRPP0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110779
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SKAHUDRAM0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Rampy",
+        "Brand": "HUDORA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HUDORA RAMPA 5 ELEMENTÓW",
+            "ProductDescription": "HUDORA 11118 rampa skateboardowa Czarny 4 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HUDORA RAMPA 5 ELEMENTÓW",
+            "ProductDescription": "HUDORA 11118 skateboard ramp Black 4 pc(s)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "HUDORA RAMPA 5 ELEMENTÓW",
+            "ProductDescription": "HUDORA 11118 Skateboardrampe Schwarz 4 Stück(e)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4005998128589"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "11118",
+        "Weight": 7030.0,
+        "Height": 418.0,
+        "Width": 633.0,
+        "Depth": 298.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56012
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54960
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088077",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ff6020ad-1124-4319-ad82-f00673208a5d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-12-14T16:30:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SKAHUDRAM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:12.969000+00:00",
+        "sequence_number": 161350
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCIDA",
+        "ProductVersion": "1.2",
+        "ProductType": "Rampy",
+        "Brand": "SPIN MASTER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Tech Deck TED ACS PrfrmncWdRmp Blind GML",
+            "ProductDescription": "Tech Deck TED ACS PrfrmncWdRmp Blind GML Zestaw deskorolek na palec"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Tech Deck TED ACS PrfrmncWdRmp Blind GML",
+            "ProductDescription": "Tech Deck Performance Series, Shred Pyramid Set with Metal Rail and Exclusive Blind Fingerboard, Made with Real Wood, Kids Toy for Boys and Girls Ages 6 and up"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Tech Deck TED ACS PrfrmncWdRmp Blind GML",
+            "ProductDescription": "Tech Deck Performance Series, Shred Pyramid-Set mit Metallgeländer und besonderem Blind-Fingerboard, hergestellt aus Echtholz, Kinderspielzeug für Jungen und Mädchen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "778988418208"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "8730336",
+        "Weight": 780.0,
+        "Height": 185.0,
+        "Width": 385.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54960
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56012
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043058",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a6350cbf-8130-4ced-a760-e62f09fc48a0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-19T11:03:55Z'",
+          "ModificationDate": "b'2025-06-04T12:19:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCIDA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:49.309000+00:00",
+        "sequence_number": 148075
+      }
+    }
+  ]
+}

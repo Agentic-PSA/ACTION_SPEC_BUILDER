@@ -1,0 +1,2339 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SYPSU2POR0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "SUNDO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka do wanny na przyssawki",
+            "ProductDescription": "Poduszka do wanny na przyssawki"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka do wanny na przyssawki",
+            "ProductDescription": "Suction cup bath cushion"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka do wanny na przyssawki",
+            "ProductDescription": "Saugnapf-Badekissen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250629305994"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "18640",
+        "Weight": 120.0,
+        "Height": 240.0,
+        "Width": 320.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056669",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2aad2d40-f245-4246-9410-c14e3471f547",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-18T15:32:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPSU2POR0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:17.186000+00:00",
+        "sequence_number": 149557
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka lędźwiowa- Shape&Rest memory lumbar pillo",
+            "ProductDescription": "Poduszka lędźwiowa- Shape&Rest memory lumbar pillo"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka lędźwiowa- Shape&Rest memory lumbar pillo",
+            "ProductDescription": "Shape&Rest memory lumbar pillow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka lędźwiowa- Shape&Rest memory lumbar pillo",
+            "ProductDescription": "Shape&Rest memory Lendenkissen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780449582"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DRQE3S0BBXUXP",
+        "Weight": 885.0,
+        "Height": 140.0,
+        "Width": 460.0,
+        "Depth": 420.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068396",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ee809110-f82b-400e-99de-bdcb9ddc269e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-23T11:48:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:18.616000+00:00",
+        "sequence_number": 107513
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0023",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLEX PILLOW poduszka wielofuncyjna",
+            "ProductDescription": "FLEX PILLOW poduszka wielofuncyjna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLEX PILLOW poduszka wielofuncyjna",
+            "ProductDescription": "FLEX PILLOW multifunctional cushion"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLEX PILLOW poduszka wielofuncyjna",
+            "ProductDescription": "FLEX PILLOW Multifunktionskissen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780451721"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DRQE3F1CDXUXP",
+        "Weight": 316.0,
+        "Height": 100.0,
+        "Width": 100.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047490",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "246ab8d2-7f29-440a-91f1-1d5c2c406d24",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T13:43:37Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:47.653000+00:00",
+        "sequence_number": 107921
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0019",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW - L",
+            "ProductDescription": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW - L"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW - L",
+            "ProductDescription": "Rehabilitation sleep cushion CONTOUR PILLOW - L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW - L",
+            "ProductDescription": "Reha-Schlafkissen CONTOUR PILLOW - L"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901095203749"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MDQ0011",
+        "Weight": 2204.0,
+        "Height": 575.0,
+        "Width": 171.0,
+        "Depth": 344.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066491",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a0f4a16f-d22e-4d6d-b8fe-ccbfd025321a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-23T11:48:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:16.453000+00:00",
+        "sequence_number": 151350
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0020",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW - S",
+            "ProductDescription": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW - S"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW - S",
+            "ProductDescription": "Rehabilitation sleep cushion CONTOUR PILLOW - S"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW - S",
+            "ProductDescription": "Reha-Schlafkissen CONTOUR PILLOW - S"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901095203732"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MDQ001102",
+        "Weight": 1580.0,
+        "Height": 573.0,
+        "Width": 139.0,
+        "Depth": 359.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066492",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d5c9a628-13bb-4920-acbe-3df1b2d96af0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-23T11:48:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:16.453000+00:00",
+        "sequence_number": 151351
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPREHPOR0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Uniwersalny krążek przeciwodleżynowy w pokrowcu - 8",
+            "ProductDescription": "Reha Fund Uniwersalny krążek przeciwodleżynowy w pokrowcu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Uniwersalny krążek przeciwodleżynowy w pokrowcu - 8",
+            "ProductDescription": "Reha Fund Universal pressure sore puck in a cover"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Uniwersalny krążek przeciwodleżynowy w pokrowcu - 8",
+            "ProductDescription": "Reha Fund Universeller Dekubitus-Puck in einer Hülle"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940711119"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "8809-PP-3",
+        "Weight": 60.0,
+        "Height": 180.0,
+        "Width": 180.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066497",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "19ee8c8d-0a53-4f29-b26f-ae17665efd02",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-29T14:51:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPREHPOR0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:17.312000+00:00",
+        "sequence_number": 151356
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPREH2OO0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna Morfeusz do terapii. (WYP)",
+            "ProductDescription": "Poduszka ortopedyczna Morfeusz (CPAP) do terapii Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna Morfeusz do terapii. (WYP)",
+            "ProductDescription": "Morpheus orthopaedic pillow (CPAP) for therapy Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna Morfeusz do terapii. (WYP)",
+            "ProductDescription": "Orthopädisches Morpheus-Kissen (CPAP) für die Therapie Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940700052"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "665",
+        "Weight": 1870.0,
+        "Height": 160.0,
+        "Width": 656.0,
+        "Depth": 429.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071543",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9df18b73-8bd1-4844-8cae-686f6671e6a7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-28T09:57:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPREH2OO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:30.936000+00:00",
+        "sequence_number": 112247
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMDH2OO0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rehabilitacyjna poduszka z otworem QMED (WYPRZEDAŻ)",
+            "ProductDescription": "Rehabilitacyjna poduszka z otworem QMED Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rehabilitacyjna poduszka z otworem QMED (WYPRZEDAŻ)",
+            "ProductDescription": "Rehabilitation pillow with a hole QMED Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rehabilitacyjna poduszka z otworem QMED (WYPRZEDAŻ)",
+            "ProductDescription": "Reha-Kissen mit Loch QMED Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780446673"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 779.0,
+        "Height": 450.0,
+        "Width": 410.0,
+        "Depth": 87.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100150126",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e45dd9b3-ae5b-4217-951f-52cafc2e43c1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-07T12:26:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMDH2OO0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:39.063000+00:00",
+        "sequence_number": 170219
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAR3POR0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "ARmedical",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna lędźwiowa MFP-5344",
+            "ProductDescription": "Poduszka ortopedyczna lędźwiowa MFP-5344"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna lędźwiowa MFP-5344",
+            "ProductDescription": "Orthopedic lumbar pillow MFP-5344"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna lędźwiowa MFP-5344",
+            "ProductDescription": "Orthopädisches Lendenkissen MFP-5344"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907713380373"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1160.0,
+        "Height": 85.0,
+        "Width": 520.0,
+        "Depth": 430.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028582",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dc6a4470-bb0f-448f-852c-9a94f0963909",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-22T15:47:50Z'",
+          "ModificationDate": "b'2025-06-04T12:11:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAR3POR0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140812
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAR3POR0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "ARmedical",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka przeciwodleżynowa PREVENT CLASSIC",
+            "ProductDescription": "Poduszka przeciwodleżynowa PREVENT CLASSIC"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka przeciwodleżynowa PREVENT CLASSIC",
+            "ProductDescription": "PREVENT CLASSIC pressure-relief cushion"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka przeciwodleżynowa PREVENT CLASSIC",
+            "ProductDescription": "PREVENT CLASSIC Druckentlastungskissen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907713382452"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 710.0,
+        "Height": 165.0,
+        "Width": 465.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028583",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "50269a61-d91c-4f8c-a9ab-cb411015bdaf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T14:01:19Z'",
+          "ModificationDate": "b'2025-06-04T12:11:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAR3POR0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140813
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPHEBPOR0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "HELBO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Medyczna poduszka powietrzna w zestawie z pompką DE",
+            "ProductDescription": "Medyczna poduszka powietrzna w zestawie z pompką DEPAN"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Medyczna poduszka powietrzna w zestawie z pompką DE",
+            "ProductDescription": "Medical air cushion included with inflator DEPAN"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Medyczna poduszka powietrzna w zestawie z pompką DE",
+            "ProductDescription": "Medizinisches Luftkissen mit Inflator DEPAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906742631289"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 220.0,
+        "Height": 125.0,
+        "Width": 205.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028598",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6ab0ae94-c68c-4136-92b4-d515a957e128",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-29T14:14:23Z'",
+          "ModificationDate": "b'2025-06-04T12:11:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPHEBPOR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140814
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "STANDARD PLUS poduszka ortopedyczna do snu z wcięci",
+            "ProductDescription": "Poduszka ortopedyczna profilowana do spania Qmed Standard Plus Pillow"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "STANDARD PLUS poduszka ortopedyczna do snu z wcięci",
+            "ProductDescription": "Qmed Standard Plus Pillow orthopaedic contoured sleeping pillow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "STANDARD PLUS poduszka ortopedyczna do snu z wcięci",
+            "ProductDescription": "Qmed Standard Plus Pillow orthopädisch geformtes Schlafkissen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780401085"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1065.0,
+        "Height": 120.0,
+        "Width": 330.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028630",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b9a69c4f-000a-4779-bee7-bcf98f5acac6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-12T12:24:01Z'",
+          "ModificationDate": "b'2025-06-04T12:11:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140818
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rehabilitacyjna poduszka z otworem QMED",
+            "ProductDescription": "Rehabilitacyjna poduszka z otworem QMED"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rehabilitacyjna poduszka z otworem QMED",
+            "ProductDescription": "Rehabilitation pillow with a hole QMED"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rehabilitacyjna poduszka z otworem QMED",
+            "ProductDescription": "Reha-Kissen mit Loch QMED"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780446673"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 779.0,
+        "Height": 85.0,
+        "Width": 410.0,
+        "Depth": 450.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028635",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a61b977f-1011-471d-8d26-33d9489b0b7f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-08T10:28:57Z'",
+          "ModificationDate": "b'2025-06-04T12:11:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140819
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QMED BREATHABLE KID PILLOW",
+            "ProductDescription": "Qmed Breathable kid pillow"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QMED BREATHABLE KID PILLOW",
+            "ProductDescription": "Qmed Breathable kid pillow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QMED BREATHABLE KID PILLOW",
+            "ProductDescription": "Qmed Breathable kid pillow"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780441500"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 825.0,
+        "Height": 60.0,
+        "Width": 510.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028636",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "66c58308-e0a2-4a1c-be32-b7c7bad565db",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-08T10:31:33Z'",
+          "ModificationDate": "b'2025-06-04T12:11:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140820
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VARIO PILLOW poduszka profilowana do snu",
+            "ProductDescription": "VARIO PILLOW poduszka profilowana do snu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VARIO PILLOW poduszka profilowana do snu",
+            "ProductDescription": "VARIO PILLOW profiled pillow for sleep"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VARIO PILLOW poduszka profilowana do snu",
+            "ProductDescription": "VARIO PILLOW profiliertes Kopfkissen für den Schlaf"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780425623"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1735.0,
+        "Height": 600.0,
+        "Width": 405.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028637",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8cfa3f21-8ad6-4e8f-90b5-9c3d9c9d8f8e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-08T10:39:47Z'",
+          "ModificationDate": "b'2025-06-04T12:11:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140821
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Premium Pillow poduszka profilowana do snu",
+            "ProductDescription": "PREMIUM PILLOW Poduszka profilowana do snu QMED"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Premium Pillow poduszka profilowana do snu",
+            "ProductDescription": "PREMIUM PILLOW Profiled pillow for sleep QMED"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Premium Pillow poduszka profilowana do snu",
+            "ProductDescription": "PREMIUM PILLOW Profiliertes Kopfkissen für den Schlaf QMED"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901549384987"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1620.0,
+        "Height": 350.0,
+        "Width": 560.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028638",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d473b375-b9f2-4d7a-afc7-619e2a2571f4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-11T11:05:28Z'",
+          "ModificationDate": "b'2025-06-04T12:11:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140822
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMLXPOR0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna SoftSleep L",
+            "ProductDescription": "Poduszka ortopedyczna SoftSleep L"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna SoftSleep L",
+            "ProductDescription": "SoftSleep orthopaedic pillow L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna SoftSleep L",
+            "ProductDescription": "SoftSleep orthopädisches Kissen L"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001403817"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1180.0,
+        "Height": 120.0,
+        "Width": 540.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028646",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "22c7b448-c582-40cb-a18a-90fa06d09443",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-20T11:08:50Z'",
+          "ModificationDate": "b'2025-06-04T12:11:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMLXPOR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140825
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMLXPOR0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna SoftSleep ból szyi CONTOUR M",
+            "ProductDescription": "Poduszka ortopedyczna SoftSleep ból szyi CONTOUR M"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna SoftSleep ból szyi CONTOUR M",
+            "ProductDescription": "SoftSleep orthopaedic pillow for neck pain CONTOUR M"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna SoftSleep ból szyi CONTOUR M",
+            "ProductDescription": "SoftSleep orthopädisches Kissen für Nackenschmerzen CONTOUR M"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001403503"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1180.0,
+        "Height": 120.0,
+        "Width": 540.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028647",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "940da27b-2d68-4ad7-b2e4-7d52593abc54",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T12:59:29Z'",
+          "ModificationDate": "b'2025-06-04T12:11:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMLXPOR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140826
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPTM2POR0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka separator kończyn dolnych SPACER",
+            "ProductDescription": "Poduszka ortopedyczna dwuczęściowa kończyn dolnych - TIMAGO SPACER Szara"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka separator kończyn dolnych SPACER",
+            "ProductDescription": "Orthopaedic two-piece lower limb cushion - TIMAGO SPACER Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka separator kończyn dolnych SPACER",
+            "ProductDescription": "Orthopädisches zweiteiliges Kissen für die unteren Gliedmaßen - TIMAGO SPACER Grey"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983727071"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 760.0,
+        "Height": 190.0,
+        "Width": 270.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028698",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e0b4f730-8ece-4f95-8565-359cb1e773c9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-30T15:51:41Z'",
+          "ModificationDate": "b'2025-06-04T12:11:17Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPTM2POR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140833
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASTY",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna z pianki REBEL RBA-6001",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna z pianki REBEL RBA-6001",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna z pianki REBEL RBA-6001",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890102155"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-6001",
+        "Weight": 1465.0,
+        "Height": 90.0,
+        "Width": 600.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052390",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0aa8f7eb-e935-42e0-b483-acbdeae70730",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-21T11:19:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASTY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:47.185000+00:00",
+        "sequence_number": 126143
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPTM2POR0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka piankowa z otworem SUPPORT TIM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka piankowa z otworem SUPPORT TIM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka piankowa z otworem SUPPORT TIM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983728115"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 900.0,
+        "Height": 85.0,
+        "Width": 390.0,
+        "Depth": 390.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082818",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "98b56cb3-5813-4678-96a0-d20f62dc4e52",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T12:57:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPTM2POR0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:04.640000+00:00",
+        "sequence_number": 155316
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDHPOR0018",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mała poduszka rehabilitacyjna do snu marki Qmed",
+            "ProductDescription": "QMED PSPO046 Poduszka rehabilitacyjna podróżna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mała poduszka rehabilitacyjna do snu marki Qmed",
+            "ProductDescription": "QMED PSPO046 Rehabilitation travel pillow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mała poduszka rehabilitacyjna do snu marki Qmed",
+            "ProductDescription": "QMED PSPO046 Reha-Reisekissen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780446369"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSPO046",
+        "Weight": 462.0,
+        "Height": 110.0,
+        "Width": 305.0,
+        "Depth": 445.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7a1e5aa2-b851-4692-b3b8-e671810130c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-23T11:48:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDHPOR0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:11.446000+00:00",
+        "sequence_number": 129351
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPPDSPOR0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "PDS CARE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka rehabilitacyjna do snu ROZM.M",
+            "ProductDescription": "QMed Poduszka ortopedyczna pod głowę"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka rehabilitacyjna do snu ROZM.M",
+            "ProductDescription": "QMed Orthopedic head pillow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka rehabilitacyjna do snu ROZM.M",
+            "ProductDescription": "QMed Orthopädisches Kopfkissen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901095203725"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MDQ0011",
+        "Weight": 1795.0,
+        "Height": 130.0,
+        "Width": 570.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072383",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poduszka rehabilitacyjna do snu CONTOUR PILLOW ROZMIAR M"
+      },
+      "properties": {
+        "message_id": "a3280109-47c4-46d6-b921-0abb9ed475c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-27T10:20:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPPDSPOR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:08.739000+00:00",
+        "sequence_number": 144167
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAIVPOR0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna, CERVICAL MED PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna, CERVICAL MED PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna, CERVICAL MED PILLOW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PO100AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091005",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poduszka ortopedyczna, CERVICAL MED PILLOW"
+      },
+      "properties": {
+        "message_id": "dafdcbb0-a52f-45bd-a32a-3d5e4f412351",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:31:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAIVPOR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131666
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAIVPOR0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna, ANATOMICAL MED PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna, ANATOMICAL MED PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna, ANATOMICAL MED PILLOW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PO200AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091006",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poduszka ortopedyczna, ANATOMICAL MED PILLOW"
+      },
+      "properties": {
+        "message_id": "0184b246-d275-4040-b90c-ea8001ad3405",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:31:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAIVPOR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131667
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAIVPOR0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna, CLASSIC MED PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna, CLASSIC MED PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna, CLASSIC MED PILLOW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PO300AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091007",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poduszka ortopedyczna, CLASSIC MED PILLOW"
+      },
+      "properties": {
+        "message_id": "f1abe2fe-750b-4063-ba5a-e71997a7940e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:31:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAIVPOR0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131668
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAIVPOR0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna, TRAVEL PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna, TRAVEL PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna, TRAVEL PILLOW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PO400AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091008",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poduszka ortopedyczna, TRAVEL PILLOW"
+      },
+      "properties": {
+        "message_id": "865f4830-983c-402c-8eac-4379dda6f4d7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:31:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAIVPOR0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131669
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAIVPOR0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna, KNEE PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna, KNEE PILLOW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna, KNEE PILLOW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PO500AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091009",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poduszka ortopedyczna, KNEE PILLOW"
+      },
+      "properties": {
+        "message_id": "5e0eb1f4-74a9-44f5-83a9-b11eac204b66",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:31:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAIVPOR0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131670
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAIVPOR0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka ortopedyczna obrotowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka ortopedyczna obrotowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka ortopedyczna obrotowa",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PO600AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091010",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poduszka ortopedyczna obrotowa"
+      },
+      "properties": {
+        "message_id": "0ad0dde7-f7d6-4138-b938-9b506e25dee4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:33:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAIVPOR0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131671
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPAIVPOR0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Poduszki ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poduszka rehabilitacyjna do obracania pacjenta",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poduszka rehabilitacyjna do obracania pacjenta",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poduszka rehabilitacyjna do obracania pacjenta",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PR100AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56406
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091011",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Poduszka rehabilitacyjna do obracania pacjenta"
+      },
+      "properties": {
+        "message_id": "988fa8d3-9b75-4269-acb9-2e5d94ff977c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:33:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAIVPOR0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131672
+      }
+    }
+  ]
+}

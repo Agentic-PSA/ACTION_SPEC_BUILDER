@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "ESAVIGBEZ0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Bezpieczniki",
+        "Brand": "Victron Energy",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bezpiecznik Victron Energy CIP137200010",
+            "ProductDescription": "Bezpiecznik Victron Energy Mega 200A/58V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bezpiecznik Victron Energy CIP137200010",
+            "ProductDescription": "Victron Energy Mega 200A/58V"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bezpiecznik Victron Energy CIP137200010",
+            "ProductDescription": "Victron Energie Mega 200A/58V"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8719076016694"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85369095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CIP137200010",
+        "Weight": 15.0,
+        "Height": 10.0,
+        "Width": 90.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.33.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53749
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069674",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bezpiecznik Victron Energy Mega 200A/58V (CIP137200010)"
+      },
+      "properties": {
+        "message_id": "e3759e22-1ee2-40ac-a22d-3d2a9f63df84",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-12T10:29:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESAVIGBEZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:08.362000+00:00",
+        "sequence_number": 109037
+      }
+    }
+  ]
+}

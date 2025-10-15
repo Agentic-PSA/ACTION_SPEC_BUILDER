@@ -1,0 +1,178 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "NSPGRHNDZ0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Nożyce do żywopłotu",
+        "Brand": "GRAPHITE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nożyce do żywopłotu Graphite 58G955 spalinowe 550mm",
+            "ProductDescription": "Nożyce do żywopłotu Graphite spalinowe 0,75 KW, szerokość cięcia 550mm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nożyce do żywopłotu Graphite 58G955 spalinowe 550mm",
+            "ProductDescription": "Graphite petrol hedge trimmer 0,75 KW, cutting width 550mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nożyce do żywopłotu Graphite 58G955 spalinowe 550mm",
+            "ProductDescription": "Graphite Benzin-Heckenschere 0,75 KW, 550mm Schnittbreite"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902062045003"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "58G955",
+        "Weight": 112000.0,
+        "Height": 230.0,
+        "Width": 230.0,
+        "Depth": 230.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55229
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53119
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058963",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nożyce do żywopłotu Graphite spalinowe 0,75 KW, szerokość cięcia 550mm"
+      },
+      "properties": {
+        "message_id": "6c2d35cf-c6f0-4beb-b18e-fe93bf1d9101",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-17T12:40:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NSPGRHNDZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:45.276000+00:00",
+        "sequence_number": 123881
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIP1",
+        "ProductVersion": "1.3",
+        "ProductType": "Nożyce do żywopłotu",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nożyce do żywopłotu spalinowe EH5000W MAKITA",
+            "ProductDescription": "Makita EH5000W urządzenie elektryczne do strzyżenia żywopłotów Podwójne ostrze 4,8 kg"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nożyce do żywopłotu spalinowe EH5000W MAKITA",
+            "ProductDescription": "MAKITA PETROL HEDGE TRIMMER 2-STROKE 0.92HP 50cm EH5000W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nożyce do żywopłotu spalinowe EH5000W MAKITA",
+            "ProductDescription": "MAKITA BENZIN HECKENSCHERE 2-TAKT 0,92PS 50cm EH5000W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381617123"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EH5000W",
+        "Weight": 6900.0,
+        "Height": 340.0,
+        "Width": 1220.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55229
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53119
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036418",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aea1b198-cbb0-4adf-92ed-bf8348ee0478",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-16T09:13:43Z'",
+          "ModificationDate": "b'2025-08-07T08:18:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIP1'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:16.028000+00:00",
+        "sequence_number": 111470
+      }
+    }
+  ]
+}

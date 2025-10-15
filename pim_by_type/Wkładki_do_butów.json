@@ -1,0 +1,190 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCSN",
+        "ProductVersion": "1.3",
+        "ProductType": "Wkładki do butów",
+        "Brand": "Glovii",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GLOVII WKŁADKI DO BUTÓW OGRZEWANE UNIWERSALNE M",
+            "ProductDescription": "Glovii GW2M wkładka do buta Unisex W każdym wieku Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GLOVII WKŁADKI DO BUTÓW OGRZEWANE UNIWERSALNE M",
+            "ProductDescription": "Heated insoles with remote control, size: M (35-40), L (41-46)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GLOVII WKŁADKI DO BUTÓW OGRZEWANE UNIWERSALNE M",
+            "ProductDescription": "Beheizte Einlegesohlen mit Fernbedienung, Größe: M (35-40), L (41-46)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908246723118"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "64069050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GW2M",
+        "Weight": 520.0,
+        "Height": 53.0,
+        "Width": 320.0,
+        "Depth": 122.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.20.40.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54312
+              },
+              {
+                "CategoryId": 53864
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044824",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59b61333-ad63-4b28-a1df-18623d7678fd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-20T15:02:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCSN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:58.685000+00:00",
+        "sequence_number": 148596
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPGVI2OO0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Wkładki do butów",
+        "Brand": "Glovii",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GLOVII WKŁADKI DO BUTÓW OGRZEWANE UNIWER. L (WYP)",
+            "ProductDescription": "Glovii GW2L wkładka do buta Unisex W każdym wieku Czarny Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GLOVII WKŁADKI DO BUTÓW OGRZEWANE UNIWER. L (WYP)",
+            "ProductDescription": "Glovii GW2L shoe insole Unisex All Black Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GLOVII WKŁADKI DO BUTÓW OGRZEWANE UNIWER. L (WYP)",
+            "ProductDescription": "Glovii GW2L Schuheinlage Unisex Alle Schwarz Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908246723019"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "64069050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GW2L",
+        "Weight": 540.0,
+        "Height": 125.0,
+        "Width": 325.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.20.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54312
+              },
+              {
+                "CategoryId": 53864
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075509",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8e8a32e3-8379-4144-a378-a035a4736064",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-19T12:04:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPGVI2OO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:42.383000+00:00",
+        "sequence_number": 145860
+      }
+    }
+  ]
+}

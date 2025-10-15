@@ -1,0 +1,214 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "KOMAAAPWS0054",
+        "ProductVersion": "1.7",
+        "ProductType": "Stacje robocze",
+        "Brand": "Action",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Actina Prime WS R7600X/16GB/1TBSSD/W7600/600W/W11P",
+            "ProductDescription": "Actina 5901443386940 workstation AMD Ryzen™ 5 7600X 16 GB DDR5-SDRAM 1 TB SSD AMD Radeon Pro W7600 Windows 11 Pro Midi Tower PC Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Actina Prime WS R7600X/16GB/1TBSSD/W7600/600W/W11P",
+            "ProductDescription": "Actina 5901443386940 workstation AMD Ryzen™ 5 7600X 16 GB DDR5-SDRAM 1 TB SSD AMD Radeon Pro W7600 Windows 11 Pro Midi Tower PC Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Actina Prime WS R7600X/16GB/1TBSSD/W7600/600W/W11P",
+            "ProductDescription": "Actina 5901443386940 workstation AMD Ryzen™ 5 7600X 16 GB DDR5-SDRAM 1 TB SSD AMD Radeon Pro W7600 Windows 11 Pro Midi Tower PC Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [
+          {
+            "ComponentItemId": "OBUMODOBU0032",
+            "ComponentQty": 1
+          },
+          {
+            "ComponentItemId": "DIASA1SSD0056",
+            "ComponentQty": 1
+          },
+          {
+            "ComponentItemId": "ZASCHFOBU0090",
+            "ComponentQty": 1
+          },
+          {
+            "ComponentItemId": "OPRMICOSY0404",
+            "ComponentQty": 1
+          },
+          {
+            "ComponentItemId": "PAMSA4DR50005",
+            "ComponentQty": 1
+          },
+          {
+            "ComponentItemId": "PLYASUAM50034",
+            "ComponentQty": 1
+          },
+          {
+            "ComponentItemId": "PROAMDRYZ0252",
+            "ComponentQty": 1
+          },
+          {
+            "ComponentItemId": "CHLENDCPU0003",
+            "ComponentQty": 1
+          }
+        ],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443386940"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84714100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOMAAAPWS0054",
+        "Weight": 10680.0,
+        "Height": 620.0,
+        "Width": 600.0,
+        "Depth": 345.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55062
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53404
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57375
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100017253",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2499a48d-8c06-4630-8224-39838def02f1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-05T11:51:41Z'",
+          "ModificationDate": "b'2025-10-09T16:34:16Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KOMAAAPWS0054'"
+        },
+        "enqueued_time_utc": "2025-10-09 14:39:10.613000+00:00",
+        "sequence_number": 174623
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRWAAASTA0003",
+        "ProductVersion": "1.4",
+        "ProductType": "Stacje robocze",
+        "Brand": "Action",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Solar G100 S7+ W-2265/2x16/480/2TB/RTXA4500/1200W",
+            "ProductDescription": "Actina Solar Solar G100 S7+ serwer 480 GB SSD + 2000 GB HDD Midi Tower Intel Xeon W 4,1 GHz 32 GB DDR4-SDRAM 1200 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Solar G100 S7+ W-2265/2x16/480/2TB/RTXA4500/1200W",
+            "ProductDescription": "Actina Solar Solar G100 S7+ server 480 GB SSD + 2000 GB HDD Midi Tower Intel Xeon W 4,1 GHz 32 GB DDR4-SDRAM 1200 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Solar G100 S7+ W-2265/2x16/480/2TB/RTXA4500/1200W",
+            "ProductDescription": "Actina Solar Solar G100 S7+ Server 480 GB SSD + 2000 GB HDD Midi Tower Intel Xeon W 4,1 GHz 32 GB DDR4-SDRAM 1200 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84714100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53404
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55062
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100027468",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e967fec5-2896-422f-8332-854a88fb3b0b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-12T11:08:10Z'",
+          "ModificationDate": "b'2025-07-24T10:43:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRWAAASTA0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110784
+      }
+    }
+  ]
+}

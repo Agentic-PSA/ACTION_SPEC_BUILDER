@@ -1,0 +1,2838 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4083",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zewnętrzny akumulator UPS Digitus UPS 6 kVA,10 kVA",
+            "ProductDescription": "Digitus Zewnętrzny akumulator UPS do modeli UPS 6 kVA i 10 kVA (moduł rozszerzający)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zewnętrzny akumulator UPS Digitus UPS 6 kVA,10 kVA",
+            "ProductDescription": "DIGITUS USV-Batteriepack     6kVA/10kVA"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zewnętrzny akumulator UPS Digitus UPS 6 kVA,10 kVA",
+            "ProductDescription": "DIGITUS - Batteriegehäuse (in Rack montierbar/extern) - 20 x Batterie - Bleisäure - 9 Ah - 48.3 cm (19\") - Schwarz - für DIGITUS DN-170106, DN-170107"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032473596"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DN-170108",
+        "Weight": 71500.0,
+        "Height": 775.0,
+        "Width": 565.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033679",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8515820e-55f5-4a0f-8225-a6a1e9583aaa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T16:16:37Z'",
+          "ModificationDate": "b'2025-06-04T12:14:03Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4083'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:40.910000+00:00",
+        "sequence_number": 105627
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSICBPMOD0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "CyberPower",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MODUŁ BATERII CYBERPOWER BPSE72V45ART2U",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MODUŁ BATERII CYBERPOWER BPSE72V45ART2U",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "MODUŁ BATERII CYBERPOWER BPSE72V45ART2U",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BPSE72V45ART2U",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              },
+              {
+                "CategoryId": 54222
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089566",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e7b770ab-9a88-4501-b774-be15e13641e9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T13:52:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSICBPMOD0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:36.168000+00:00",
+        "sequence_number": 119594
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDMSW",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Huawei LUNA2000-7-E1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Huawei LUNA2000-7-E1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Huawei LUNA2000-7-E1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LUNA2000-7-E1",
+        "Weight": 68000.0,
+        "Height": 465.0,
+        "Width": 735.0,
+        "Depth": 370.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55547
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045704",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e46d6f81-9b76-4756-9c65-49847ed8f011",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-13T09:58:15Z'",
+          "ModificationDate": "b'2025-06-04T12:20:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDMSW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:02.451000+00:00",
+        "sequence_number": 148784
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0034",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC APCRBC123",
+            "ProductDescription": "APC APCRBC123 akumulator Ołowiany (VRLA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC APCRBC123",
+            "ProductDescription": "APC Replacement Battery Cartridge, VRLA battery, 7Ah, 24VDC, 2-year warranty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC APCRBC123",
+            "ProductDescription": "APC Ersatzbatterie für Smart-UPS Line Interactive, 24V 7Ah Blei-Säure-Batterie, 2 Jahre Garantie Reparatur oder Ersatz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304284369"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "APCRBC123",
+        "Weight": 4750.0,
+        "Height": 270.0,
+        "Width": 240.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048988",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge # 123"
+      },
+      "properties": {
+        "message_id": "d95d752b-9c74-4cd3-98fb-2612e1b82f62",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-28T12:45:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0034'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:47.405000+00:00",
+        "sequence_number": 134712
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGKXJ",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria APC OEM MM-48-BP alternatywa dla RBC48",
+            "ProductDescription": "multimatic EDELSTROM RBC48"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria APC OEM MM-48-BP alternatywa dla RBC48",
+            "ProductDescription": "multimatic EDELSTROM RBC48"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria APC OEM MM-48-BP alternatywa dla RBC48",
+            "ProductDescription": "multimatic EDELSTROM RBC48"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85072080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MM-48-BP",
+        "Weight": 4520.0,
+        "Height": 182.0,
+        "Width": 170.0,
+        "Depth": 199.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078724",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9402e2bd-10bf-41c0-90b6-5779df459354",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-23T11:08:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGKXJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:22.518000+00:00",
+        "sequence_number": 104003
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIYOLMOD0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "Yolco",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bateria Zewnętrzna Yopowerbank CSX5",
+            "ProductDescription": "Bateria zewnętrzna powerbank do lodówek Yolco CSX5"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bateria Zewnętrzna Yopowerbank CSX5",
+            "ProductDescription": "External battery powerbank for Yolco CSX5 refrigerators"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bateria Zewnętrzna Yopowerbank CSX5",
+            "ProductDescription": "Externe Batterie-Powerbank für Yolco CSX5 Kühlschränke"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902721194226"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CSX5",
+        "Weight": 1772.0,
+        "Height": 86.0,
+        "Width": 287.0,
+        "Depth": 214.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064775",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bateria Zewnętrzna Yopowerbank CSX5"
+      },
+      "properties": {
+        "message_id": "75234b94-3278-4378-a9c6-90528494de71",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-08T10:51:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIYOLMOD0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:31.512000+00:00",
+        "sequence_number": 130311
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0039",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC APCRBC116",
+            "ProductDescription": "APC APCRBC116 akumulator Ołowiany (VRLA) 48 V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC APCRBC116",
+            "ProductDescription": "APC Replacement Battery Cartridge #116 with 2 Year Warranty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC APCRBC116",
+            "ProductDescription": "APC Ersatzbatterie Nr. 116 mit 2 Jahren Garantie"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304281696"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "APCRBC116",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088279",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #116"
+      },
+      "properties": {
+        "message_id": "b8ae8178-d9e7-4dad-a4d4-3953302d1d45",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-28T12:46:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0039'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:30.230000+00:00",
+        "sequence_number": 137004
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0049",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC17",
+            "ProductDescription": "APC RBC17 akumulator Ołowiany (VRLA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC17",
+            "ProductDescription": "APC Replacement Battery Cartridge, VRLA battery, 9Ah, 12VDC, 2-year warranty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC17",
+            "ProductDescription": "APC Ersatzbatterie für Back-UPS, 12V 9Ah Blei-Säure-Batterie, 2 Jahre Garantie Reparatur oder Ersatz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304206811"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC17",
+        "Weight": 2629.0,
+        "Height": 85.0,
+        "Width": 215.0,
+        "Depth": 177.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088280",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #17"
+      },
+      "properties": {
+        "message_id": "2faf1465-ad88-49b4-a17c-ed6482137689",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-31T22:21:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0049'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:30.230000+00:00",
+        "sequence_number": 137005
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0024",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC43",
+            "ProductDescription": "APC Replacement Battery Cartridge #43 Ołowiany (VRLA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC43",
+            "ProductDescription": "APC Replacement Battery Cartridge RBC43"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC43",
+            "ProductDescription": "APC Batterie-Ersatzkartusche RBC43 (Original)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304218463"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC43",
+        "Weight": 21400.0,
+        "Height": 400.0,
+        "Width": 760.0,
+        "Depth": 230.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067730",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #43"
+      },
+      "properties": {
+        "message_id": "9d5838c2-e1d6-4714-a5c4-7d24738736c7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-21T11:32:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:35.310000+00:00",
+        "sequence_number": 130508
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0028",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC55",
+            "ProductDescription": "APC RBC55 akumulator Ołowiowo-kwasowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC55",
+            "ProductDescription": "APC Battery Replacement Cartridge RBC55 (Original)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC55",
+            "ProductDescription": "APC Batterie-Ersatzkartusche RBC55 (Original)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304233510"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC55",
+        "Weight": 24410.0,
+        "Height": 276.0,
+        "Width": 519.0,
+        "Depth": 301.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050725",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #55"
+      },
+      "properties": {
+        "message_id": "3267da8b-244f-40d4-916e-7a969f4a17d1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-21T11:32:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:17.150000+00:00",
+        "sequence_number": 138096
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIPWAMOD0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 2000/3000 ICT IOT",
+            "ProductDescription": "PowerWalker BP I72T-12x9Ah Moduł bateryjny UPS Tower"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 2000/3000 ICT IOT",
+            "ProductDescription": "PowerWalker BP I72T-12x9Ah UPS battery cabinet Tower"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 2000/3000 ICT IOT",
+            "ProductDescription": "PowerWalker BP I72T-12x9Ah USV-Batterieschrank Tower"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074982923"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10134052",
+        "Weight": 40000.0,
+        "Height": 475.0,
+        "Width": 330.0,
+        "Depth": 590.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071660",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "00a68cbe-828b-475f-a20e-aababe9325f7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-08-30T16:24:24Z'",
+          "ModificationDate": "b'2025-09-30T13:41:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIPWAMOD0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:33.471000+00:00",
+        "sequence_number": 152235
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWHUAMBA0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł bateryjny 5kW Huawei Luna2000",
+            "ProductDescription": "Moduł bateryjny 5kW Huawei Luna2000"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł bateryjny 5kW Huawei Luna2000",
+            "ProductDescription": "5kW Huawei Luna2000 battery module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł bateryjny 5kW Huawei Luna2000",
+            "ProductDescription": "5kW Huawei Luna2000 battery module"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LUNA2000-5-E0",
+        "Weight": 54450.0,
+        "Height": 460.0,
+        "Width": 722.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55547
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076712",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Moduł bateryjny 5kW Huawei Luna2000"
+      },
+      "properties": {
+        "message_id": "97464eda-7023-4d72-96d6-bfe7a020e61f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-08T17:00:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWHUAMBA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:37.502000+00:00",
+        "sequence_number": 152459
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWHUAMBA0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Huawei Moduł akumulatora; pojemność 5kWh",
+            "ProductDescription": "Moduł bateryjny 5kW Huawei LUNA2000-5-E0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Huawei Moduł akumulatora; pojemność 5kWh",
+            "ProductDescription": "Huawei LUNA2000-5-E0 5kW battery module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Huawei Moduł akumulatora; pojemność 5kWh",
+            "ProductDescription": "Huawei LUNA2000-5-E0 5kW Batteriemodul"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LUNA2000-5-E0",
+        "Weight": 53700.0,
+        "Height": 465.0,
+        "Width": 750.0,
+        "Depth": 275.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55547
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076713",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "57fc9cd3-b6e8-40f2-ad91-e6887d9403be",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-02T22:38:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWHUAMBA0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:38.378000+00:00",
+        "sequence_number": 152460
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0043",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC XBP48RM1U-LI",
+            "ProductDescription": "APC XBP48RM1U-LI akumulator Litowo-jonowa (Li-Ion) 48 V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC XBP48RM1U-LI",
+            "ProductDescription": "APC XBP48RM1U-LI UPS battery Lithium-Ion (Li-Ion) 48 V"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC XBP48RM1U-LI",
+            "ProductDescription": "APC LI-Batteriemodul Smart-UPS, 48 V, 585 Wh"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304339601"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "XBP48RM1U-LI",
+        "Weight": 18200.0,
+        "Height": 215.0,
+        "Width": 560.0,
+        "Depth": 830.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051426",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Smart-UPS 48V 585 WH/LI Battery Pack In"
+      },
+      "properties": {
+        "message_id": "43518e31-35eb-4b31-bcfd-7eec53b0a671",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-28T12:47:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0043'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:30.121000+00:00",
+        "sequence_number": 138738
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFRH7",
+        "ProductVersion": "1.3",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 2000/3000",
+            "ProductDescription": "PowerWalker BP I72R-12x9Ah Moduł bateryjny UPS Rack"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 2000/3000",
+            "ProductDescription": "PowerWalker BP I72R-12x9Ah UPS battery cabinet Rackmount"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 2000/3000",
+            "ProductDescription": "PowerWalker BP I72R-12x9Ah USV-Batterieschrank Rackmount"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074982947"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10134054",
+        "Weight": 44500.0,
+        "Height": 240.0,
+        "Width": 785.0,
+        "Depth": 580.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046872",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7cd183a2-9f05-42d0-ac79-a8c879adac0d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-04T14:39:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFRH7'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:38.201000+00:00",
+        "sequence_number": 110613
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3751",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "Huawei",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł zasilania Huawei LUNA2000-5KW-C0",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł zasilania Huawei LUNA2000-5KW-C0",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł zasilania Huawei LUNA2000-5KW-C0",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "2000001253465"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LUNA2000-5KW-C0",
+        "Weight": 16130.0,
+        "Height": 280.0,
+        "Width": 385.0,
+        "Depth": 710.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55547
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033623",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cadb60dc-4863-4f0a-b292-fc7385711402",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-25T05:30:31Z'",
+          "ModificationDate": "b'2025-06-04T12:14:01Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3751'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:05.589000+00:00",
+        "sequence_number": 110949
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZASPWAUAK0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER BATTERY PACK DLA VFI 2000/3000 LCD",
+            "ProductDescription": "PowerWalker 10120585 akumulator 12 V 9 Ah"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER BATTERY PACK DLA VFI 2000/3000 LCD",
+            "ProductDescription": "PowerWalker 10120585 UPS battery 12 V 9 Ah"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER BATTERY PACK DLA VFI 2000/3000 LCD",
+            "ProductDescription": "PowerWalker 10120585 USV-Batterie 12 V 9 Ah"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074976267"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10120585",
+        "Weight": 67500.0,
+        "Height": 335.0,
+        "Width": 570.0,
+        "Depth": 685.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075589",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2a4a5d07-29f3-4616-993d-100cddb1d449",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-06-17T13:30:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZASPWAUAK0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:57.560000+00:00",
+        "sequence_number": 124546
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIORVMOD0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "Orvaldi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VBBRT72Vx6-9Ah_2U do ORVALDI V3000+ sinus",
+            "ProductDescription": "Orvaldi VBBRT72Vx6-9Ah_2U 72 V  9 Ah"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VBBRT72Vx6-9Ah_2U do ORVALDI V3000+ sinus",
+            "ProductDescription": "Orvaldi VBBRT72Vx6-9Ah_2U 72 V 9 Ah"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VBBRT72Vx6-9Ah_2U do ORVALDI V3000+ sinus",
+            "ProductDescription": "Orvaldi VBBRT72Vx6-9Ah_2U 72 V 9 Ah"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904006036498"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VBBRT72Vx6-9Ah_",
+        "Weight": 11450.0,
+        "Height": 565.0,
+        "Width": 220.0,
+        "Depth": 695.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075667",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Moduł bateryjny VBBRT72Vx6-9Ah_2U do ORVALDI V3000+ sinus"
+      },
+      "properties": {
+        "message_id": "cfe246b3-b99b-4143-8a78-f405ad5ab730",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-05-13T23:42:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIORVMOD0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:58.419000+00:00",
+        "sequence_number": 124584
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIPWAMOD0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 1000/1500 ICR IOT",
+            "ProductDescription": "PowerWalker BP I36R-6x9Ah 12 V  9 Ah"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 1000/1500 ICR IOT",
+            "ProductDescription": "PowerWalker BP I36R-6x9Ah 12 V 9 Ah"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 1000/1500 ICR IOT",
+            "ProductDescription": "PowerWalker BP I36R-6x9Ah 12 V 9 Ah"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074982930"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10134053",
+        "Weight": 11000.0,
+        "Height": 590.0,
+        "Width": 500.0,
+        "Depth": 230.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              },
+              {
+                "CategoryId": 54581
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048160",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9c3d5ffb-43cf-4922-99a9-6213fab2c143",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-08-30T16:24:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIPWAMOD0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:03.010000+00:00",
+        "sequence_number": 115938
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0033",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC117",
+            "ProductDescription": "APC APCRBC117 akumulator Ołowiany (VRLA) 120 V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC117",
+            "ProductDescription": "APC Replacement Battery Cartridge 117 with 2 Year Warranty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC117",
+            "ProductDescription": "APC Ersatzbatterie für Smart-UPS Line Interactive, 120V 5Ah Blei-Säure-Batterie, 2- year repair or replace warranty"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304282679"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC117",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              },
+              {
+                "CategoryId": 54581
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055916",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #117"
+      },
+      "properties": {
+        "message_id": "6953e296-254e-4821-b9bc-0dab036edc30",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-21T11:32:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0033'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:08.328000+00:00",
+        "sequence_number": 140703
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0048",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC124",
+            "ProductDescription": "APC APCRBC124 akumulator Ołowiany (VRLA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC124",
+            "ProductDescription": "APC Replacement Battery Cartridge, VRLA battery, 9Ah, 24VDC, 2-year warranty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC124",
+            "ProductDescription": "APC Ersatzbatterie für Smart-UPS Line Interactive, 24V 9Ah Blei-Säure-Batterie, 2 Jahre Garantie Reparatur oder Ersatz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304284383"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC124",
+        "Weight": 5340.0,
+        "Height": 142.0,
+        "Width": 275.0,
+        "Depth": 235.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055917",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge # 124"
+      },
+      "properties": {
+        "message_id": "c110932b-3070-4de5-b937-f939bfd09429",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-31T22:21:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0048'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:08.328000+00:00",
+        "sequence_number": 140704
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0037",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC7",
+            "ProductDescription": "APC RBC7 akumulator Ołowiany (VRLA) 24 V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC7",
+            "ProductDescription": "APC Battery Replacement Cartridge RBC7 (Original)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC7",
+            "ProductDescription": "APC Batterie-Ersatzkartusche RBC7 (Original)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304003298"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC7",
+        "Weight": 12350.0,
+        "Height": 270.0,
+        "Width": 300.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093551",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #7"
+      },
+      "properties": {
+        "message_id": "ddde6974-d3ed-41c9-ba5a-d5562b082568",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-28T12:46:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0037'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:32.888000+00:00",
+        "sequence_number": 171533
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0052",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC Network UPS 12Vdc 3A Lithium Battery",
+            "ProductDescription": "APC CP12036LI zasilacz UPS 36 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC Network UPS 12Vdc 3A Lithium Battery",
+            "ProductDescription": "APC mini UPS CP12036LI - Emergency power supply 12Vdc, 36W, Li-ion, protects WiFi, Routers, IP cameras, etc"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC Network UPS 12Vdc 3A Lithium Battery",
+            "ProductDescription": "APC Mini-USV CP12036LI - USV 12 V DC, 36 W, Li-Ion, schützt WLAN, Router, IP-Kameras usw"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304632399"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CP12036LI",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093552",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8eabdd5c-a619-4f68-97ff-900e0de81cea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-11-27T20:02:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0052'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:32.888000+00:00",
+        "sequence_number": 171534
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAMRE",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł bateryjny APC RBC110",
+            "ProductDescription": "APC APCRBC110 akumulator Ołowiany (VRLA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł bateryjny APC RBC110",
+            "ProductDescription": "APC APCRBC110 UPS battery Sealed Lead Acid (VRLA)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł bateryjny APC RBC110",
+            "ProductDescription": "APC APCRBC110 USV-Batterie Plombierte Bleisäure (VRLA)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304248217"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC110",
+        "Weight": 2306.0,
+        "Height": 215.0,
+        "Width": 175.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037168",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d00fdbae-c9b9-4f56-8040-8948541720a6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-04T08:29:49Z'",
+          "ModificationDate": "b'2025-06-04T12:16:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAMRE'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:32.085000+00:00",
+        "sequence_number": 114238
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCSAU",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC akumulator APCRBC106",
+            "ProductDescription": "APC APCRBC106 akumulator Ołowiany (VRLA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC akumulator APCRBC106",
+            "ProductDescription": "APC Replacement Battery Cartridge #106"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC akumulator APCRBC106",
+            "ProductDescription": "APC Batterie f. div. GerĂ¤te #RBC106"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304244400"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "APCRBC106",
+        "Weight": 2283.0,
+        "Height": 88.0,
+        "Width": 176.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044010",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "851edb51-076a-47b3-bfa4-30809d42c108",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-03T14:54:43Z'",
+          "ModificationDate": "b'2025-06-04T12:20:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCSAU'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:47.321000+00:00",
+        "sequence_number": 115086
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIPWAMOD0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 1000/1500 CG LCD",
+            "ProductDescription": "PowerWalker VFI 1500 CG PF1 Podwójnej konwersji (online) 1,5 kVA 1500 W 4 x gniazdo sieciowe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 1000/1500 CG LCD",
+            "ProductDescription": "PowerWalker VFI 1500 CG PF1 Double-conversion (Online) 1.5 kVA 1500 W 4 AC outlet(s)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER BATTERY PACK DO VFI 1000/1500 CG LCD",
+            "ProductDescription": "PowerWalker VFI 1500 CG PF1 Doppelwandler (Online) 1,5 kVA 1500 W 4 AC-Ausgänge"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074979923"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10120546",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048867",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "633622d4-953b-4cdc-8eb2-0707d06648aa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-11-17T11:16:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIPWAMOD0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:09.541000+00:00",
+        "sequence_number": 116261
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0032",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC141",
+            "ProductDescription": "APC APCRBC141 akumulator Ołowiany (VRLA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC141",
+            "ProductDescription": "APC APCRBC141 UPS battery Sealed Lead Acid (VRLA)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC141",
+            "ProductDescription": "APC Ersatzbatterie für Smart-UPS On-Line, 12V 5.1Ah Blei-Säure-Batterie, 2 Jahre Garantie Reparatur oder Ersatz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304292531"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC141",
+        "Weight": 15000.0,
+        "Height": 355.0,
+        "Width": 530.0,
+        "Depth": 195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              },
+              {
+                "CategoryId": 54222
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088355",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #141"
+      },
+      "properties": {
+        "message_id": "1431333a-c5b2-4b35-9b6d-bff78e645c41",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-21T11:32:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0032'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:42.523000+00:00",
+        "sequence_number": 158384
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0021",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC6",
+            "ProductDescription": "APC RBC6 akumulator Ołowiany (VRLA)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC6",
+            "ProductDescription": "APC Replacement Battery Cartridge, VRLA battery, 11Ah, 12VDC, 2-year warranty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC6",
+            "ProductDescription": "APC Ersatzbatterie Nr. 6 mit 2 Jahren Garantie"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304003281"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC6",
+        "Weight": 8630.0,
+        "Height": 195.0,
+        "Width": 310.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060864",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #6"
+      },
+      "properties": {
+        "message_id": "f8427e1c-94f0-474b-bb8a-c648904d3e12",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-21T11:32:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:19.353000+00:00",
+        "sequence_number": 129724
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCMOD0045",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC RBC48",
+            "ProductDescription": "APC RBC48 akumulator Ołowiany (VRLA) 7 Ah"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC RBC48",
+            "ProductDescription": "APC Replacement Battery Cartridge, VRLA battery, 7Ah, 24VDC, 2-year warranty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC RBC48",
+            "ProductDescription": "APC RBC48 Ersatzbatterie Nr. 48"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304221586"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBC48",
+        "Weight": 4947.0,
+        "Height": 185.0,
+        "Width": 230.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060865",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC Replacement Battery Cartridge #48"
+      },
+      "properties": {
+        "message_id": "026ac0b4-0831-4b88-9b2b-7d7b88e85e1e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-31T22:21:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCMOD0045'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:19.353000+00:00",
+        "sequence_number": 129725
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR3531",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Qoltec Obudowa modułu bateryjnego | 12Ah | 12kW",
+            "ProductDescription": "Qoltec 53958 Obudowa modułu bateryjnego | 12Ah | 12kW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Qoltec Obudowa modułu bateryjnego | 12Ah | 12kW",
+            "ProductDescription": "Qoltec Battery Module Enclosure | 12Ah | 12kW"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Qoltec Obudowa modułu bateryjnego | 12Ah | 12kW",
+            "ProductDescription": "Qoltec Batteriemodul-Gehäuse | 12Ah | 12kW"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878539584"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072020",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "53958",
+        "Weight": 17300.0,
+        "Height": 780.0,
+        "Width": 470.0,
+        "Depth": 620.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033570",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0c0ee697-e17d-4d31-8d9d-c53f40df5723",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-02T11:39:32Z'",
+          "ModificationDate": "b'2025-06-04T12:14:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR3531'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:41.933000+00:00",
+        "sequence_number": 147652
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCKCO",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły bateryjne",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PowerWalker 10134011 akumulator 48 V",
+            "ProductDescription": "PowerWalker 10134011 akumulator 48 V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PowerWalker 10134011 akumulator 48 V",
+            "ProductDescription": "PowerWalker 10134011 UPS battery 48 V"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PowerWalker 10134011 akumulator 48 V",
+            "ProductDescription": "PowerWalker 10134011 USV-Batterie 48 V"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074977547"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85072080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1317314",
+        "Weight": 28950.0,
+        "Height": 220.0,
+        "Width": 540.0,
+        "Depth": 540.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54222
+              },
+              {
+                "CategoryId": 54581
+              },
+              {
+                "CategoryId": 55998
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043275",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e4b677b5-b312-46e5-aa27-932823223715",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-27T18:27:14Z'",
+          "ModificationDate": "b'2025-06-04T12:19:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCKCO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:51.028000+00:00",
+        "sequence_number": 148181
+      }
+    }
+  ]
+}

@@ -1,0 +1,952 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SYPAIVMPP0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Materace",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac przeciwodleżynowy bąbelkowy zmiennociśnieni",
+            "ProductDescription": "Materac przeciwodleżynowy bąbelkowy zmiennociśnieniowy M100AM"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac przeciwodleżynowy bąbelkowy zmiennociśnieni",
+            "ProductDescription": "Anti-bedsore bubble mattress variable pressure M100AM"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac przeciwodleżynowy bąbelkowy zmiennociśnieni",
+            "ProductDescription": "Anti-Dekubitus-Luftpolster-Matratze mit variablem Druck M100AM"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410843"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "M100AM",
+        "Weight": 2900.0,
+        "Height": 170.0,
+        "Width": 280.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56402
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056666",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "35504089-4794-4e3a-a6c2-52e3141fb30d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-13T09:17:16Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPAIVMPP0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:16.233000+00:00",
+        "sequence_number": 149554
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDTMPP0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Materace",
+        "Brand": "MDT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x10",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x10",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x10",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906142341054"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSM075-10",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56402
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068397",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c05d7806-275b-47b6-a3ab-f5bab7da26f3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:20:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDTMPP0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:18.616000+00:00",
+        "sequence_number": 107514
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDTMPP0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Materace",
+        "Brand": "MDT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x12",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x12",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x12",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906142341061"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSM075-12",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56402
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062579",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0297c6d9-6ad6-4e85-8203-fab3ed99f918",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:20:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDTMPP0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:57.509000+00:00",
+        "sequence_number": 150351
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDTMPP0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Materace",
+        "Brand": "MDT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x15",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x15",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac Gofr w pokrowcu 200x90x15",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906142341078"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSM075-15",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56402
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066493",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "97081b90-4635-4d61-852d-8b05056b43bf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:20:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDTMPP0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:17.312000+00:00",
+        "sequence_number": 151352
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDTMPP0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Materace",
+        "Brand": "MDT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x15",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x15",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x15",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906142341047"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSM074-15",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56402
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066494",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4ec2cb22-5510-48e0-9bdf-31f939da9699",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:20:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDTMPP0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:17.312000+00:00",
+        "sequence_number": 151353
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDTMPP0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Materace",
+        "Brand": "MDT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x10",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x10",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x10",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906142341023"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSM074-10",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56402
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066495",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6c10dd9a-9028-484d-bffa-3ef27c231361",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:20:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDTMPP0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:17.312000+00:00",
+        "sequence_number": 151354
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMEPMOM0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Materace",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac Polyplot 90X200X14 cm",
+            "ProductDescription": "Materac dwufunkcyjny rehabilitacyjny i przeciwodleżynowy Polyplot Niebieski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac Polyplot 90X200X14 cm",
+            "ProductDescription": "Rehabilitation and anti-decubitus dual function mattress Polyplot Blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac Polyplot 90X200X14 cm",
+            "ProductDescription": "Rehabilitations- und Anti-Dekubitus-Matratze mit Doppelfunktion Polyplot Blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3700368611326"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P102MPLPMHI",
+        "Weight": 13030.0,
+        "Height": 380.0,
+        "Width": 900.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56415
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066496",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e3dfed6d-30fc-4748-b236-9b77be12682d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T12:24:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMEPMOM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:17.312000+00:00",
+        "sequence_number": 151355
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDTMPP0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Materace",
+        "Brand": "MDT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x8",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x8",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x8",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906142341016"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSM074-8",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56402
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076330",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2f92b581-28a2-4752-b749-f5d840200aeb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:20:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDTMPP0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:37.268000+00:00",
+        "sequence_number": 152429
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMDTMPP0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Materace",
+        "Brand": "MDT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x12",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x12",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac szpitalny w pokrowcu 200x90x12",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906142341030"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSM074-12",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56402
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051708",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2524ac72-d710-4b68-b68b-de5412759383",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T14:20:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMDTMPP0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:35.060000+00:00",
+        "sequence_number": 138999
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPREHMPZ0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Materace",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac pneumatyczny komorowy, 17 komór CPR",
+            "ProductDescription": "Materac pneumatyczny komorowy, 17 komór CPR"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac pneumatyczny komorowy, 17 komór CPR",
+            "ProductDescription": "Anti-decubitus mattress pneumatic compartment 17 compartments with CPR safety valve"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac pneumatyczny komorowy, 17 komór CPR",
+            "ProductDescription": "Dekubitus-Matratze pneumatische Kammer 17 Kammern mit CPR-Sicherheitsventil"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940700151"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 6800.0,
+        "Height": 360.0,
+        "Width": 215.0,
+        "Depth": 425.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56401
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028661",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bc7f95eb-1770-4f16-8608-ff6734a1fabd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T13:53:13Z'",
+          "ModificationDate": "b'2025-06-04T12:11:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPREHMPZ0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140828
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPREHMPZ0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Materace",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac przeciwodleżynowy rurowy BioFlote 5000",
+            "ProductDescription": "Materac przeciwodleżynowy BioFlote 5000 na III stopień odleżyn do 160 kg Niebieski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac przeciwodleżynowy rurowy BioFlote 5000",
+            "ProductDescription": "BioFlote 5000 anti-bedsore mattress for stage III pressure sores up to 160 kg Blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac przeciwodleżynowy rurowy BioFlote 5000",
+            "ProductDescription": "BioFlote 5000 Anti-Dekubitus-Matratze für Dekubitus der Stufe III bis 160 kg Blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940700182"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 7350.0,
+        "Height": 269.0,
+        "Width": 461.0,
+        "Depth": 389.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56401
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028662",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "67bcd9a1-5ee2-4e02-b4cc-c22b0b2e1007",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-26T13:42:23Z'",
+          "ModificationDate": "b'2025-06-04T12:11:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPREHMPZ0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140829
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPHAXMPZ0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Materace",
+        "Brand": "Haxe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac przeciwodleżynowy z pompką FU-AM001",
+            "ProductDescription": "Haxe FU-AM0001 Materac przeciwodleżynowy z pompką"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac przeciwodleżynowy z pompką FU-AM001",
+            "ProductDescription": "Haxe FU-AM0001 Pressure sore mattress with pump"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac przeciwodleżynowy z pompką FU-AM001",
+            "ProductDescription": "Haxe FU-AM0001 Dekubitusmatratze mit Pumpe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902696000225"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3100.0,
+        "Height": 290.0,
+        "Width": 195.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56401
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072382",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d0e45d9b-15c2-460c-8a60-d0b65c70f7ce",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-12T15:11:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPHAXMPZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:08.739000+00:00",
+        "sequence_number": 144166
+      }
+    }
+  ]
+}

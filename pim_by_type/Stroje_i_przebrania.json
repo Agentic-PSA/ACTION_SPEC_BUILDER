@@ -1,0 +1,961 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCWBT",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "Hasbro",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NERF ELITE 2.0 Stormcharge F7376 /4",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NERF ELITE 2.0 Stormcharge F7376 /4",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NERF ELITE 2.0 Stormcharge F7376 /4",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5010996129963"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "230337",
+        "Weight": 960.0,
+        "Height": 285.0,
+        "Width": 605.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044216",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5bbf0ec9-fc1c-47b8-b07a-ee222cabcd90",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-18T17:34:30Z'",
+          "ModificationDate": "b'2025-06-04T12:20:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCWBT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:54.778000+00:00",
+        "sequence_number": 148361
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD340",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "Hasbro",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NERF Elite N-Strike Rough A1691 /3",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NERF Elite N-Strike Rough A1691 /3",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NERF Elite N-Strike Rough A1691 /3",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5010993303878"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "68569",
+        "Weight": 1887.0,
+        "Height": 675.0,
+        "Width": 220.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044685",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d6d7865a-c040-4330-82b9-5887338e368a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-28T12:40:20Z'",
+          "ModificationDate": "b'2025-06-04T12:20:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD340'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:57.825000+00:00",
+        "sequence_number": 148531
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBAAE",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "Hasbro",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nerf Minecraft F4415EU5 broń zabawkowa",
+            "ProductDescription": "Nerf Minecraft F4415EU5 broń zabawkowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nerf Minecraft F4415EU5 broń zabawkowa",
+            "ProductDescription": "Nerf Minecraft Pillager's Crossbow Dart-Blasting Crossbow, Real Crossbow Action, Includes 3 Official Elite Darts"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nerf Minecraft F4415EU5 broń zabawkowa",
+            "ProductDescription": "Nerf Minecraft F4415EU5 Spielzeugwaffe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5010994125752"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "F4415",
+        "Weight": 890.0,
+        "Height": 305.0,
+        "Width": 85.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039391",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b42cea0f-2a5f-4245-932a-481676be6de5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-27T13:35:17Z'",
+          "ModificationDate": "b'2025-06-04T12:17:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBAAE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:22.873000+00:00",
+        "sequence_number": 164829
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBAEL",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "Smoby",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektroniczny wózek medyczny dźwięk SMOBY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektroniczny wózek medyczny dźwięk SMOBY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektroniczny wózek medyczny dźwięk SMOBY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3032163402077"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GXP-833621",
+        "Weight": 2600.0,
+        "Height": 600.0,
+        "Width": 210.0,
+        "Depth": 420.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039408",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e09efae7-9ff4-4e50-bb9a-1848dd12f81a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-31T16:16:10Z'",
+          "ModificationDate": "b'2025-06-04T12:17:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBAEL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:22.873000+00:00",
+        "sequence_number": 164846
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBTYO",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "ZURU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wyrzutnia Excel Regenerator pomarańczowa",
+            "ProductDescription": "XSHOT 36173 broń zabawkowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wyrzutnia Excel Regenerator pomarańczowa",
+            "ProductDescription": "Excel Regenerator Launcher Orange"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wyrzutnia Excel Regenerator pomarańczowa",
+            "ProductDescription": "Excel-Regenerator-Startprogramm Orange"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894680022119"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "36173",
+        "Weight": 1630.0,
+        "Height": 80.0,
+        "Width": 800.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041781",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4e1d124a-0cc3-4976-8b26-57671c14d908",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-25T12:00:46Z'",
+          "ModificationDate": "b'2025-06-04T12:18:43Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBTYO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:26.904000+00:00",
+        "sequence_number": 165018
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBCUK",
+        "ProductVersion": "1.3",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "Hasbro",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Hasbro Nerf Elite - Wyrzutnia Double Punch + strzał",
+            "ProductDescription": "Nerf Elite 2.0 Double Punch"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Hasbro Nerf Elite - Wyrzutnia Double Punch + strzał",
+            "ProductDescription": "NERF Elite 2.0 Double Punch Blaster + Hasbro F6363 Darts"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Hasbro Nerf Elite - Wyrzutnia Double Punch + strzał",
+            "ProductDescription": "NERF Elite 2.0 Double Punch Blaster + Hasbro F6363 Darts"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5010996137319"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "528044",
+        "Weight": 1470.0,
+        "Height": 82.0,
+        "Width": 290.0,
+        "Depth": 660.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039564",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d1632ec4-11a7-4cd5-bc43-c507caaf0ed3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-17T08:58:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBCUK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:18.364000+00:00",
+        "sequence_number": 120631
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBTKH",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "ZURU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wyrzutnia Excel Omega 98 strzałek",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wyrzutnia Excel Omega 98 strzałek",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wyrzutnia Excel Omega 98 strzałek",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894680022294"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9322575",
+        "Weight": 1560.0,
+        "Height": 90.0,
+        "Width": 380.0,
+        "Depth": 700.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041720",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "78d63777-478c-40f5-8a42-3cc1a43132fa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-19T12:56:04Z'",
+          "ModificationDate": "b'2025-06-04T12:18:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBTKH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:39.104000+00:00",
+        "sequence_number": 123524
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIBLW",
+        "ProductVersion": "1.1",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "Simba",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "*****Plecak lekarza 554-1005",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "*****Plecak lekarza 554-1005",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "*****Plecak lekarza 554-1005",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006592093075"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "245192",
+        "Weight": 1000.0,
+        "Height": 200.0,
+        "Width": 300.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092708",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ffc9759c-2da4-4e2e-b312-fccb1d3c3f49",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-28T07:20:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIBLW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:08.855000+00:00",
+        "sequence_number": 168856
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUAR",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "ZURU",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw wyrzutni ZURU Pakiet Ultimate GXP-872351",
+            "ProductDescription": "XSHOT 36251 broń zabawkowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw wyrzutni ZURU Pakiet Ultimate GXP-872351",
+            "ProductDescription": "Ultimate Shootout Vigilante Bundle Launcher Bundle"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw wyrzutni ZURU Pakiet Ultimate GXP-872351",
+            "ProductDescription": "Ultimate Shootout Vigilante Bundle Launcher Bundle"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894680022089"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030081",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "36251",
+        "Weight": 2120.0,
+        "Height": 420.0,
+        "Width": 70.0,
+        "Depth": 900.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041810",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "602ca4ec-9c85-4810-8e4c-62a996276e34",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-09T11:01:21Z'",
+          "ModificationDate": "b'2025-06-04T12:18:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUAR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:40.726000+00:00",
+        "sequence_number": 125808
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUBZ",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wyrzutnia Excel Fortress 48 strzałek Zuru X-Shot",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wyrzutnia Excel Fortress 48 strzałek Zuru X-Shot",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wyrzutnia Excel Fortress 48 strzałek Zuru X-Shot",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "193052040190"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9322578",
+        "Weight": 1580.0,
+        "Height": 380.0,
+        "Width": 80.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041815",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5de3fcbb-1689-4d5a-b83b-2c973e6351e8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-26T14:02:53Z'",
+          "ModificationDate": "b'2025-06-04T12:18:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUBZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:41.652000+00:00",
+        "sequence_number": 125813
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBAWT",
+        "ProductVersion": "1.2",
+        "ProductType": "Stroje i przebrania",
+        "Brand": "TM Toys",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LASER X EVOLUTION Blaster zestaw podwójny 88908",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LASER X EVOLUTION Blaster zestaw podwójny 88908",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LASER X EVOLUTION Blaster zestaw podwójny 88908",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "042409889084"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030095",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LAS 88908",
+        "Weight": 1887.0,
+        "Height": 675.0,
+        "Width": 220.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55871
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55815
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039451",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "878fc179-b1b9-4d62-8d2d-83470c28a50a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-11T16:19:06Z'",
+          "ModificationDate": "b'2025-06-04T12:17:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBAWT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:05.257000+00:00",
+        "sequence_number": 133821
+      }
+    }
+  ]
+}

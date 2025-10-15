@@ -1,0 +1,937 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LITAN1PMN0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Przybory do mycia",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wanna pneumatyczna do mycia AT51049",
+            "ProductDescription": "Wanna pneumatyczna do mycia AT51049"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wanna pneumatyczna do mycia AT51049",
+            "ProductDescription": "Pneumatic wash tub AT51049"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wanna pneumatyczna do mycia AT51049",
+            "ProductDescription": "Pneumatischer Waschzuber AT51049"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571405490"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 2363.0,
+        "Height": 115.0,
+        "Width": 295.0,
+        "Depth": 293.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56384
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018205",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f9138a70-bb04-4038-9116-213ade1bcfb6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-09T10:19:35Z'",
+          "ModificationDate": "b'2025-06-04T12:05:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAN1PMN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:24.477000+00:00",
+        "sequence_number": 122712
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAN1PSA0002",
+        "ProductVersion": "1.3",
+        "ProductType": "Przybory do mycia",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Basen sanitarny - nocnik",
+            "ProductDescription": " Basen sanitarny - nocnik"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Basen sanitarny - nocnik",
+            "ProductDescription": "Sanitary pool - potty"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Basen sanitarny - nocnik",
+            "ProductDescription": "Sanitärpool - Töpfchen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571493787"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 385.0,
+        "Height": 125.0,
+        "Width": 410.0,
+        "Depth": 285.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56385
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018206",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4ff227ca-fd39-46fe-ad00-98fc5898dea2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-13T09:21:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAN1PSA0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:24.477000+00:00",
+        "sequence_number": 122713
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBOK1",
+        "ProductVersion": "1.2",
+        "ProductType": "Przybory do mycia",
+        "Brand": "teesa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw akcesoriów łazienkowych (6 szt.) czarny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw akcesoriów łazienkowych (6 szt.) czarny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw akcesoriów łazienkowych (6 szt.) czarny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890071963"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TSA0400-B",
+        "Weight": 1025.0,
+        "Height": 286.0,
+        "Width": 202.0,
+        "Depth": 203.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56385
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040977",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a6c2dd28-c2ef-486f-ac88-9d32bbe16c51",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-25T11:01:22Z'",
+          "ModificationDate": "b'2025-06-04T12:18:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBOK1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:40.088000+00:00",
+        "sequence_number": 137550
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITPRDPSA0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Przybory do mycia",
+        "Brand": "ProMedix",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMEDIX DOZOWNIK MYDŁA ŻELU PŁYNU PR-540 B",
+            "ProductDescription": "Automatyczny dozownik Promedix, pojemnik dyspenser do płynnych mydeł, płynów dezynfekujących, 300ml, 4xAA, czarny, PR-540 B"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMEDIX DOZOWNIK MYDŁA ŻELU PŁYNU PR-540 B",
+            "ProductDescription": "Promedix automatic dispenser, dispenser container for liquid soaps, disinfectant liquids, 300ml, 4xAA, black, PR-540 B"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMEDIX DOZOWNIK MYDŁA ŻELU PŁYNU PR-540 B",
+            "ProductDescription": "Promedix automatischer Seifenspender für Flüssigseifen, Desinfektionsflüssigkeiten, 300ml, 4xAA, schwarz, PR-540 B"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211137474"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PR-540 B",
+        "Weight": 240.0,
+        "Height": 75.0,
+        "Width": 200.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56385
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058642",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "386cd10d-09d9-47fd-9b88-78ab4d488ef3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-10T12:35:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITPRDPSA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123720
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITREHPMN0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Przybory do mycia",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nadmuchiwany basen do mycia głowy",
+            "ProductDescription": "Nadmuchiwany basen do mycia głowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nadmuchiwany basen do mycia głowy",
+            "ProductDescription": "Inflatable head wash pool"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nadmuchiwany basen do mycia głowy",
+            "ProductDescription": "Aufblasbares Kopfwaschbecken"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940712246"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RF-960",
+        "Weight": 850.0,
+        "Height": 295.0,
+        "Width": 295.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56384
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058643",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "047002a5-0bb4-4960-9f81-7ecf430db4c4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-24T14:56:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITREHPMN0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123721
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITTM2PMN0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Przybory do mycia",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do ciała CLEANT",
+            "ProductDescription": "Cleanet Myjka typu gąbka nasączona mydłem"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do ciała CLEANT",
+            "ProductDescription": "Cleanet Soap-soaked sponge washer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do ciała CLEANT",
+            "ProductDescription": "Cleanet Mit Seife getränkter Waschschwamm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8437008551111"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "34011900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 70.0,
+        "Height": 210.0,
+        "Width": 260.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "20.41.31.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56384
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047988",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "88d75c73-3f22-4533-bb05-8fdb8f4fab06",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-18T10:26:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITTM2PMN0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:01.197000+00:00",
+        "sequence_number": 115842
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIYU8",
+        "ProductVersion": "1.2",
+        "ProductType": "Przybory do mycia",
+        "Brand": "NEI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dyspenser na tabletki Nedis SmartLife 28 przegródek",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dyspenser na tabletki Nedis SmartLife 28 przegródek",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dyspenser na tabletki Nedis SmartLife 28 przegródek",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5412810443383"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WIFIPD10WT",
+        "Weight": 960.0,
+        "Height": 250.0,
+        "Width": 70.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56385
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080056",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5b27badd-756e-4a17-8624-1166a7d456fa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-02T07:23:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIYU8'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:35.707000+00:00",
+        "sequence_number": 104657
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITTM2PMN0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Przybory do mycia",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wanna pneumatyczna do mycia w łóżku - EASY BATH",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wanna pneumatyczna do mycia w łóżku - EASY BATH",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wanna pneumatyczna do mycia w łóżku - EASY BATH",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983728337"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EASY BATH",
+        "Weight": 2480.0,
+        "Height": 295.0,
+        "Width": 290.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56384
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082808",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d7051567-f9c4-4615-9a71-2e5010169dc7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T12:44:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITTM2PMN0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:03.734000+00:00",
+        "sequence_number": 155306
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITPDSPSA0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Przybory do mycia",
+        "Brand": "PDS CARE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pojemnik do dobowej zbiórki moczu TULIPAN",
+            "ProductDescription": "Pojemnik do dobowej zbiórki moczu 2,5l tulipan"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pojemnik do dobowej zbiórki moczu TULIPAN",
+            "ProductDescription": "2.5 l tulip container for daily urine collection"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pojemnik do dobowej zbiórki moczu TULIPAN",
+            "ProductDescription": "2,5 l Tulpenbehälter für die tägliche Urinsammlung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905279578135"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 162.0,
+        "Height": 150.0,
+        "Width": 190.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56385
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018249",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "82674e5e-d965-4a56-9c2a-58583dc42c2b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-28T13:25:14Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITPDSPSA0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147572
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVPMN0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Przybory do mycia",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dmuchana wanna do mycia niepełnosprawnego",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dmuchana wanna do mycia niepełnosprawnego",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dmuchana wanna do mycia niepełnosprawnego",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DW100AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56384
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090994",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Dmuchana wanna do mycia niepełnosprawnego"
+      },
+      "properties": {
+        "message_id": "9ac69627-cd37-45b4-91f6-33b11959eb0d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:33:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVPMN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131655
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVPMN0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Przybory do mycia",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dmuchana miska do mycia, SELECT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dmuchana miska do mycia, SELECT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dmuchana miska do mycia, SELECT",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PM100AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56384
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090995",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Dmuchana miska do mycia, SELECT"
+      },
+      "properties": {
+        "message_id": "2cfae38d-fd47-471a-acd5-afbfc58c8486",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:33:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVPMN0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131656
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVPMN0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Przybory do mycia",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dmuchana miska do mycia, ADVANCE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dmuchana miska do mycia, ADVANCE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dmuchana miska do mycia, ADVANCE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PM200AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56384
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090996",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Dmuchana miska do mycia, ADVANCE"
+      },
+      "properties": {
+        "message_id": "a8658aef-35e2-416a-8ed8-5ff748690ae2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:33:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVPMN0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131657
+      }
+    }
+  ]
+}

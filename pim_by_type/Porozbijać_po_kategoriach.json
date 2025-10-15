@@ -1,0 +1,478 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "PCOSU2CWG0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Porozbijać po kategoriach",
+        "Brand": "SUNDO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stojak do kart na stolik PCH007",
+            "ProductDescription": "Sundo Stojak do kart na stół Przeźroczysty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stojak do kart na stolik PCH007",
+            "ProductDescription": "Sundo Table card stand Transparent"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stojak do kart na stolik PCH007",
+            "ProductDescription": "Sundo Tischkartenständer Transparent"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4713280206111"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95044000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PCH007",
+        "Weight": 175.0,
+        "Height": 120.0,
+        "Width": 260.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56368
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056162",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "42e71d0c-3c7c-4563-a989-b548e713c8c0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-25T11:27:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PCOSU2CWG0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:41.280000+00:00",
+        "sequence_number": 101826
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCGMZ",
+        "ProductVersion": "1.2",
+        "ProductType": "Porozbijać po kategoriach",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw Lup Classic 4D 50/65/75Mm 12Szt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw Lup Classic 4D 50/65/75Mm 12Szt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw Lup Classic 4D 50/65/75Mm 12Szt",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907478941130"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90029000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NAR0816",
+        "Weight": 970.0,
+        "Height": 130.0,
+        "Width": 230.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56369
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042833",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4308d6e0-e68b-4672-b9ab-2342c5877542",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-14T07:22:12Z'",
+          "ModificationDate": "b'2025-06-04T12:19:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCGMZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:38.106000+00:00",
+        "sequence_number": 159748
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PCOSU2CWG0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Porozbijać po kategoriach",
+        "Brand": "SUNDO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stojak na książki - metalowy PCH008",
+            "ProductDescription": "Sundo Stojak na książki metalowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stojak na książki - metalowy PCH008",
+            "ProductDescription": "Sundo Metal bookstand"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stojak na książki - metalowy PCH008",
+            "ProductDescription": "Sundo Bücherständer aus Metall"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4713280206098"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "76169990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PCH008",
+        "Weight": 655.0,
+        "Height": 250.0,
+        "Width": 320.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56368
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047870",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ba3f87b3-c826-44d9-b0e2-c47e59c589fb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-25T11:33:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PCOSU2CWG0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:51.575000+00:00",
+        "sequence_number": 108101
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PCOGVIPRO0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Porozbijać po kategoriach",
+        "Brand": "Glovii",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GLOVII PRZENOŚNY TERMOFOR NA POWERBANK GHW1",
+            "ProductDescription": "Glovii GHW1 podgrzewacz ciała"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GLOVII PRZENOŚNY TERMOFOR NA POWERBANK GHW1",
+            "ProductDescription": "Glovii GHW1 body warmer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GLOVII PRZENOŚNY TERMOFOR NA POWERBANK GHW1",
+            "ProductDescription": "Glovii GHW1 Körperwärmer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908246727499"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63079010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GHW1",
+        "Weight": 150.0,
+        "Height": 80.0,
+        "Width": 200.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.29.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56367
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066002",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f84e6d3f-75ec-4a1c-9d79-d1c606cc679d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-26T09:59:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PCOGVIPRO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:40.933000+00:00",
+        "sequence_number": 121663
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBU48",
+        "ProductVersion": "1.2",
+        "ProductType": "Porozbijać po kategoriach",
+        "Brand": "Piatnik",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Piatnik Maszynka do tasowania kart automatyczna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Piatnik Maszynka do tasowania kart automatyczna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Piatnik Maszynka do tasowania kart automatyczna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "9001890280191"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9001890280191",
+        "Weight": 730.0,
+        "Height": 160.0,
+        "Width": 270.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56368
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041798",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a27bd9f5-ca81-413f-9172-3fb7fe2253a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-10T16:15:42Z'",
+          "ModificationDate": "b'2025-06-04T12:18:43Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBU48'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:40.726000+00:00",
+        "sequence_number": 125796
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PCOHAXGDD0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Porozbijać po kategoriach",
+        "Brand": "Haxe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektryczny aspirator do nosa HAXE NS1",
+            "ProductDescription": "Elektryczny aspirator do nosa HAXE NS1"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektryczny aspirator do nosa HAXE NS1",
+            "ProductDescription": "Electric nasal aspirator HAXE NS1"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektryczny aspirator do nosa HAXE NS1",
+            "ProductDescription": "Elektrischer Nasensauger HAXE NS1"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710953421734"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90192090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 270.0,
+        "Height": 60.0,
+        "Width": 210.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56369
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100024081",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1732a007-e1ec-4f73-b3ae-0100f9e60c74",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-04T14:42:19Z'",
+          "ModificationDate": "b'2025-06-04T12:08:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PCOHAXGDD0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:36.948000+00:00",
+        "sequence_number": 140753
+      }
+    }
+  ]
+}

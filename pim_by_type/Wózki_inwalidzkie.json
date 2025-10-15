@@ -1,0 +1,1890 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WIBTM2WOI0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek toaletowy transportowy FS 692",
+            "ProductDescription": "Wózek toaletowy transportowy FS 692"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek toaletowy transportowy FS 692",
+            "ProductDescription": "Toilet wheelchair FS 692"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek toaletowy transportowy FS 692",
+            "ProductDescription": "Toilettenrollstuhl FS 692"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983721024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FS 692",
+        "Weight": 12900.0,
+        "Height": 580.0,
+        "Width": 560.0,
+        "Depth": 540.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056956",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Wózek toaletowy transportowy FS 692"
+      },
+      "properties": {
+        "message_id": "c0b4589f-2855-4829-91fc-d464b8af1923",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-27T10:20:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBTM2WOI0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:17.186000+00:00",
+        "sequence_number": 149570
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBVRRWOI0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "VRR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Wózek ze stopów lekkich - model D200 szer. siedz. 44"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Light alloy wheelchair - model D200 seat width. 44"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Leichtmetallrollstuhl - Modell D200 Sitzbreite. 44"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5415174221031"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "d200-44",
+        "Weight": 19050.0,
+        "Height": 940.0,
+        "Width": 820.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056957",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "75770d11-e47c-4338-974c-f1cda67e9fd1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-05T13:03:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBVRRWOI0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:17.186000+00:00",
+        "sequence_number": 149571
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBAN1WOI0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek inwalidzki aluminiowy AT52316",
+            "ProductDescription": "Wózek inwalidzki aluminiowy AT52316"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek inwalidzki aluminiowy AT52316",
+            "ProductDescription": "Wheelchair aluminium AT52316"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek inwalidzki aluminiowy AT52316",
+            "ProductDescription": "Rollstuhl Aluminium AT52316"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571488424"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 10500.0,
+        "Height": 545.0,
+        "Width": 290.0,
+        "Depth": 780.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100030676",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1bd40cf2-8ba7-450e-8f77-0d48c2df1d60",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-25T10:25:23Z'",
+          "ModificationDate": "b'2025-06-04T12:12:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBAN1WOI0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:26.258000+00:00",
+        "sequence_number": 122819
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBAN1WOI0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek inwalidzki AT52322",
+            "ProductDescription": "Wózek inwalidzki AT52322"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek inwalidzki AT52322",
+            "ProductDescription": "Wheelchair AT52322"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek inwalidzki AT52322",
+            "ProductDescription": "Rollstuhl AT52322"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571487373"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 15500.0,
+        "Height": 790.0,
+        "Width": 250.0,
+        "Depth": 750.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100030677",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "57a9493a-786a-443f-a7ae-880073772dcd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-30T11:40:41Z'",
+          "ModificationDate": "b'2025-06-04T12:12:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBAN1WOI0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:26.258000+00:00",
+        "sequence_number": 122820
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBVRRWOI0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "VRR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Wózek ze stopów lekkich - model D200 szer. siedz. 42"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Light alloy wheelchair - model D200 seat width. 42"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Leichtmetallrollstuhl - Modell D200 Sitzbreite. 42"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5415174221024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "d200-42",
+        "Weight": 19150.0,
+        "Height": 940.0,
+        "Width": 820.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050492",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c3734233-9ce1-4817-ae9c-738339cff719",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-05T13:03:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBVRRWOI0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:12.900000+00:00",
+        "sequence_number": 137882
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMEPWOI0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Etac Clean - 49 cm hamulce 2 szt",
+            "ProductDescription": "ETAC Clean Wózek inwalidzki 49 cm/ 2 hamulce z funkcją toalety Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Etac Clean - 49 cm hamulce 2 szt",
+            "ProductDescription": "ETAC Clean Wheelchair 49 cm/ 2 brakes with toilet function White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Etac Clean - 49 cm hamulce 2 szt",
+            "ProductDescription": "ETAC Clean Rollstuhl 49 cm/ 2 Bremsen mit Toilettenfunktion Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7320451391858"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "80229273",
+        "Weight": 16000.0,
+        "Height": 1090.0,
+        "Width": 520.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070710",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3967cb50-c8f8-4d88-8035-b8d8b47bcc65",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T12:24:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMEPWOI0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:31.455000+00:00",
+        "sequence_number": 152108
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBVRRWOI0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "VRR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Wózek ze stopów lekkich - model D200 szer. siedz. 40"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Light alloy wheelchair - model D200 seat width. 40"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Leichtmetallrollstuhl - Modell D200 Sitzbreite. 40"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5415174221017"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "d200-40",
+        "Weight": 18900.0,
+        "Height": 940.0,
+        "Width": 820.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054546",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a4afaf92-afb4-426b-840b-af8680417c14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-05T13:03:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBVRRWOI0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:46.720000+00:00",
+        "sequence_number": 167726
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMEPWOI0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Etac Clean - 55 cm hamulce 4 szt",
+            "ProductDescription": "ETAC Clean 55 cm / 4 hamulce Wózek inwalidzki z funkcją toalety Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Etac Clean - 55 cm hamulce 4 szt",
+            "ProductDescription": "ETAC Clean 55 cm / 4 brakes Wheelchair with toilet function White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Etac Clean - 55 cm hamulce 4 szt",
+            "ProductDescription": "ETAC Clean 55 cm / 4 Bremsen Rollstuhl mit Toilettenfunktion Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7320451391841"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "80229271",
+        "Weight": 16000.0,
+        "Height": 1080.0,
+        "Width": 600.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092874",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54d739cf-2697-4904-85fe-0b1219da1cc0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T12:24:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMEPWOI0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:11.871000+00:00",
+        "sequence_number": 169011
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBAN1WOI0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lekki stalowy wózek inwalidzki z hamulcami AT52301",
+            "ProductDescription": "Lekki stalowy wózek inwalidzki z hamulcami AT52301"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lekki stalowy wózek inwalidzki z hamulcami AT52301",
+            "ProductDescription": "Lightweight steel Wheelchair with brakes AT52301"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lekki stalowy wózek inwalidzki z hamulcami AT52301",
+            "ProductDescription": "Leichter Stahl Rollstuhl mit Bremsen AT52301"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571466040"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1400.0,
+        "Height": 230.0,
+        "Width": 950.0,
+        "Depth": 730.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054376",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b986e89d-bc68-456b-98d8-592e25170dcd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-12T11:37:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBAN1WOI0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:56.562000+00:00",
+        "sequence_number": 140091
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMDHWOI0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek inwalidzki Basic PLUS 42cm",
+            "ProductDescription": "Wózek inwalidzki Basic PLUS 42cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek inwalidzki Basic PLUS 42cm",
+            "ProductDescription": "Wheelchair Basic PLUS 42cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek inwalidzki Basic PLUS 42cm",
+            "ProductDescription": "Rollstuhl Basic PLUS 42cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780416386"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 21000.0,
+        "Height": 930.0,
+        "Width": 820.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100145872",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "52fc80f8-4f4b-44c4-ad6d-b0a385dd0653",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-25T12:40:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMDHWOI0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:36.891000+00:00",
+        "sequence_number": 170137
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMDHWOI0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek inwalidzki Basic PLUS 50cm",
+            "ProductDescription": "Wózek inwalidzki Basic PLUS 50cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek inwalidzki Basic PLUS 50cm",
+            "ProductDescription": "Wheelchair Basic PLUS 50cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek inwalidzki Basic PLUS 50cm",
+            "ProductDescription": "Rollstuhl Basic PLUS 50cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780416409"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 21000.0,
+        "Height": 930.0,
+        "Width": 820.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100145873",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6bad72a4-7f13-4f60-95e7-a8c520927465",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-25T12:43:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMDHWOI0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:36.891000+00:00",
+        "sequence_number": 170138
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBREHWOI0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek transportowo-toaletowy MARCO RF-802",
+            "ProductDescription": "Wózek transportowo-toaletowy MARCO RF-802"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek transportowo-toaletowy MARCO RF-802",
+            "ProductDescription": "Transport and toilet trolley MARCO RF-802"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek transportowo-toaletowy MARCO RF-802",
+            "ProductDescription": "Transport- und Toilettenwagen MARCO RF-802"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940702445"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100030727",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "31c4b24f-1e1c-4d3f-8836-14c053e95183",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-25T12:31:17Z'",
+          "ModificationDate": "b'2025-06-04T12:12:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBREHWOI0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:41.542000+00:00",
+        "sequence_number": 140970
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBREHWOI0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek transportowo-toaletowy MARCO RF-802",
+            "ProductDescription": "Wózek toaletowy transportowy FS 692"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek transportowo-toaletowy MARCO RF-802",
+            "ProductDescription": "Transport and toilet trolley MARCO RF-802"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek transportowo-toaletowy MARCO RF-802",
+            "ProductDescription": "Transport- und Toilettenwagen MARCO RF-802"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940700465"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 15500.0,
+        "Height": 610.0,
+        "Width": 715.0,
+        "Depth": 340.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100030728",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "01694af9-29ea-4b4d-8540-1b38ceb0719d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-06T12:25:26Z'",
+          "ModificationDate": "b'2025-06-04T12:12:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBREHWOI0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:41.542000+00:00",
+        "sequence_number": 140971
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMDH2OO0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek inwalidzki Basic PLUS 42cm (WYPRZEDAŻ)",
+            "ProductDescription": "Wózek inwalidzki Basic PLUS 42cm Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek inwalidzki Basic PLUS 42cm (WYPRZEDAŻ)",
+            "ProductDescription": "Wheelchair Basic PLUS 42cm Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek inwalidzki Basic PLUS 42cm (WYPRZEDAŻ)",
+            "ProductDescription": "Rollstuhl Basic PLUS 42cm Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780416386"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 21000.0,
+        "Height": 930.0,
+        "Width": 820.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100031176",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b0653a5d-7e8e-4b82-bbab-177fa5a9999c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-23T11:13:26Z'",
+          "ModificationDate": "b'2025-06-04T12:12:43Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMDH2OO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:41.542000+00:00",
+        "sequence_number": 140998
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMLXWOI0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ręczny wózek SEAL 273040+HAMULCE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ręczny wózek SEAL 273040+HAMULCE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ręczny wózek SEAL 273040+HAMULCE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001446005"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082961",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d98e6e67-606c-454d-985a-b455f060d767",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T15:28:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMLXWOI0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:05.765000+00:00",
+        "sequence_number": 155377
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMLXWOI0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ręczny wózek SEAL 273050+hamulce",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ręczny wózek SEAL 273050+hamulce",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ręczny wózek SEAL 273050+hamulce",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001446029"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082962",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5662b8ad-67c9-4d47-a439-dfe1e2e34a5c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T15:32:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMLXWOI0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:05.765000+00:00",
+        "sequence_number": 155378
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMEPWOI0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Etac Clean - 55 cm hamulce 2 szt",
+            "ProductDescription": "ETAC Clean 55 cm / 2 hamulce Wózek inwalidzki z funkcją toalety Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Etac Clean - 55 cm hamulce 2 szt",
+            "ProductDescription": "ETAC Clean 55 cm / 2 brakes Wheelchair with toilet function White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Etac Clean - 55 cm hamulce 2 szt",
+            "ProductDescription": "ETAC Clean 55 cm / 2 Bremsen Rollstuhl mit Toilettenfunktion Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7320451391865"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "80229274",
+        "Weight": 16000.0,
+        "Height": 1080.0,
+        "Width": 600.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076606",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "08214fe0-f109-4c4a-81c1-12bf17674e7b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T12:24:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMEPWOI0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:54.112000+00:00",
+        "sequence_number": 156262
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMEPWOI0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Etac Clean z regulacją wysokości siedziska - 4 hamu",
+            "ProductDescription": "ETAC Clean 60 Wózek inwalidzki z funkcją toalety Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Etac Clean z regulacją wysokości siedziska - 4 hamu",
+            "ProductDescription": "ETAC Clean 60 Wheelchair with toilet function White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Etac Clean z regulacją wysokości siedziska - 4 hamu",
+            "ProductDescription": "ETAC Clean 60 Rollstuhl mit Toilettenfunktion Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7320451391377"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "80229208",
+        "Weight": 16000.0,
+        "Height": 1080.0,
+        "Width": 600.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076607",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f4a39ec5-b44a-41ef-8871-5bc8e7aa7606",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T12:24:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMEPWOI0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:54.112000+00:00",
+        "sequence_number": 156263
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMLXWOI0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ręczny wózek SEAL 273040+HAMULCE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ręczny wózek SEAL 273040+HAMULCE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ręczny wózek SEAL 273040+HAMULCE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 23200.0,
+        "Height": 300.0,
+        "Width": 780.0,
+        "Depth": 820.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083740",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4aa42a3c-8fc5-4869-8d35-62c3a06c5ed2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T14:46:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMLXWOI0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:04.972000+00:00",
+        "sequence_number": 156731
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMLXWOI0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ręczny wózek SEAL 273050+hamulce",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ręczny wózek SEAL 273050+hamulce",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ręczny wózek SEAL 273050+hamulce",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 23250.0,
+        "Height": 280.0,
+        "Width": 800.0,
+        "Depth": 820.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083741",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bf20f52b-c073-410d-8bef-753ab5aa15cc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T14:47:16Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMLXWOI0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:04.972000+00:00",
+        "sequence_number": 156732
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBAN1WOI0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lekki wózek inwalidzki aluminiowy AT52311",
+            "ProductDescription": "Wózek inwalidzki aluminiowy AT52311"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lekki wózek inwalidzki aluminiowy AT52311",
+            "ProductDescription": "Wheelchair aluminium AT52311"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lekki wózek inwalidzki aluminiowy AT52311",
+            "ProductDescription": "Rollstuhl Aluminium AT52311"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571478234"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 12500.0,
+        "Height": 760.0,
+        "Width": 770.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094756",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "742dfd3b-f8b4-4344-926e-8b07a4858cfe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-14T15:11:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBAN1WOI0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:54.298000+00:00",
+        "sequence_number": 172645
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBMEPWOI0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Etac Clean - 49 cm hamulce 4 szt",
+            "ProductDescription": "ETAC Clean Wózek inwalidzki z funkcją toalety Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Etac Clean - 49 cm hamulce 4 szt",
+            "ProductDescription": "ETAC Clean Wheelchair with toilet function White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Etac Clean - 49 cm hamulce 4 szt",
+            "ProductDescription": "ETAC Clean Rollstuhl mit Toilettenfunktion Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7320451391834"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "80229270",
+        "Weight": 16000.0,
+        "Height": 1080.0,
+        "Width": 600.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062838",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3d730796-6f15-4b25-a953-c073fb404895",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-09T12:24:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMEPWOI0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:14.731000+00:00",
+        "sequence_number": 162884
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBVRRWOI0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "VRR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Wózek ze stopów lekkich - model D200 szer. siedz. 48"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Light alloy wheelchair - model D200 seat width. 48"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Leichtmetallrollstuhl - Modell D200 Sitzbreite. 48"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5415174221055"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "d200-48",
+        "Weight": 19200.0,
+        "Height": 940.0,
+        "Width": 820.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062839",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "51c9dd80-1e63-4ff8-99bf-f237c690d970",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-05T13:03:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBVRRWOI0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:14.731000+00:00",
+        "sequence_number": 162885
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBVRRWOI0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Wózki inwalidzkie",
+        "Brand": "VRR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Wózek ze stopów lekkich - model D200 szer. siedz. 50"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Light alloy wheelchair - model D200 seat width. 50"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wózek ze stopów lekkich - model D200 szer. siedz. w",
+            "ProductDescription": "Leichtmetallrollstuhl - Modell D200 Sitzbreite. 50"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5415174221062"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "d200-50",
+        "Weight": 19050.0,
+        "Height": 940.0,
+        "Width": 820.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56435
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062840",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c172085b-6616-4969-8c79-27f1049d5bf6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-05T13:03:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBVRRWOI0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:14.731000+00:00",
+        "sequence_number": 162886
+      }
+    }
+  ]
+}

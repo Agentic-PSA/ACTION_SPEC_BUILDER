@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREKA3",
+        "ProductVersion": "1.3",
+        "ProductType": "Sondy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw lawinowy Ortovox Avalanche Rescue Set Diract",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw lawinowy Ortovox Avalanche Rescue Set Diract",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw lawinowy Ortovox Avalanche Rescue Set Diract",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250875277243"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85269120",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2975400001",
+        "Weight": 2322.0,
+        "Height": 150.0,
+        "Width": 495.0,
+        "Depth": 242.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.51.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56634
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046480",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0e637abf-c893-455f-b228-1aa7e42e97ab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-24T12:00:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREKA3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:08.186000+00:00",
+        "sequence_number": 149078
+      }
+    }
+  ]
+}

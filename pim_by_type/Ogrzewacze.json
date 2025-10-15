@@ -1,0 +1,1570 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHYY",
+        "ProductVersion": "1.3",
+        "ProductType": "Ogrzewacze",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROMIENNIK GAZOWY NA BUTLĘ",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROMIENNIK GAZOWY NA BUTLĘ",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROMIENNIK GAZOWY NA BUTLĘ",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907544446590"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PG-009G",
+        "Weight": 2155.0,
+        "Height": 250.0,
+        "Width": 320.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043036",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3fa89822-e745-4053-9564-1692fa5da6ef",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-14T04:09:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHYY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:40.263000+00:00",
+        "sequence_number": 159832
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBIZ",
+        "ProductVersion": "1.1",
+        "ProductType": "Ogrzewacze",
+        "Brand": "TOPEX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lampa lutownicza gazowa na naboje + 6 naboi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lampa lutownicza gazowa na naboje + 6 naboi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lampa lutownicza gazowa na naboje + 6 naboi",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902062019257"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84162010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TOP-44E148",
+        "Weight": 2200.0,
+        "Height": 180.0,
+        "Width": 300.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.21.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064060",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "237eb2c1-5a14-47a4-a7a0-1855660703a8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-19T10:24:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBIZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:28.980000+00:00",
+        "sequence_number": 119210
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASLF",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "teesa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Promiennik tarasowy elektryczny Teesa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Promiennik tarasowy elektryczny Teesa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Promiennik tarasowy elektryczny Teesa",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890057479"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85162991",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TSA8050",
+        "Weight": 9076.0,
+        "Height": 569.0,
+        "Width": 559.0,
+        "Depth": 248.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.26.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038059",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cf352a66-8954-43c1-afe1-83e9fa42841e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-07T08:35:09Z'",
+          "ModificationDate": "b'2025-06-04T12:16:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASLF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:04.035000+00:00",
+        "sequence_number": 119900
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPSN",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "MASTER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nagrzewnica gazowa MASTER BLP11M/DE MA-4015.030",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nagrzewnica gazowa MASTER BLP11M/DE MA-4015.030",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nagrzewnica gazowa MASTER BLP11M/DE MA-4015.030",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8053670890411"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84162010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4015.030",
+        "Weight": 5225.0,
+        "Height": 215.0,
+        "Width": 405.0,
+        "Depth": 311.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.21.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060098",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b3c5dceb-f802-46b9-8a4d-47628b6f79e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-14T10:06:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPSN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:00.797000+00:00",
+        "sequence_number": 135452
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBLMX",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel grzewczy na podczerwień 450W NEO-Tools 90-102",
+            "ProductDescription": "NEO tools 90-102 grzejnik"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel grzewczy na podczerwień 450W NEO-Tools 90-102",
+            "ProductDescription": "450W Infrared Heating Panel"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel grzewczy na podczerwień 450W NEO-Tools 90-102",
+            "ProductDescription": "450W Infrarot-Heizpaneel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558461695"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85162999",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "90-102",
+        "Weight": 4500.0,
+        "Height": 100.0,
+        "Width": 1005.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.26.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040678",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f228f851-c2e6-4ad2-8f4b-b23f3fbe0116",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-24T14:03:37Z'",
+          "ModificationDate": "b'2025-06-04T12:18:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBLMX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:37.179000+00:00",
+        "sequence_number": 137391
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJ91",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel grzewczy na podczerwień 450W NEO Tools 90-105",
+            "ProductDescription": "NEO tools 90-105 grzejnik"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel grzewczy na podczerwień 450W NEO Tools 90-105",
+            "ProductDescription": "450W infrared heating panel, WIFI"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel grzewczy na podczerwień 450W NEO Tools 90-105",
+            "ProductDescription": "450W Infrarot-Heizplatte, WIFI"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558461725"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85162999",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "90-105",
+        "Weight": 4500.0,
+        "Height": 1005.0,
+        "Width": 100.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.26.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040370",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "edd2fcb6-36fb-4aa3-b8a1-d1a85219cecf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T00:31:04Z'",
+          "ModificationDate": "b'2025-06-04T12:17:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJ91'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:27.055000+00:00",
+        "sequence_number": 122876
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBKBT",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel grzewczy na podczerwień NEO-Tools 90-106",
+            "ProductDescription": "NEO tools 90-106 grzejnik"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel grzewczy na podczerwień NEO-Tools 90-106",
+            "ProductDescription": "600W infrared heating panel, WIFI"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel grzewczy na podczerwień NEO-Tools 90-106",
+            "ProductDescription": "600W Infrarot-Heizplatte, WIFI"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558461732"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85162999",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "90-106",
+        "Weight": 5400.0,
+        "Height": 110.0,
+        "Width": 1105.0,
+        "Depth": 705.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.26.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040520",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "51f9a7ec-358f-4a0a-a4cb-cb191b21a6a1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-16T08:52:22Z'",
+          "ModificationDate": "b'2025-06-04T12:17:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBKBT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:28.337000+00:00",
+        "sequence_number": 122952
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPACJ2OO0297",
+        "ProductVersion": "1.1",
+        "ProductType": "Ogrzewacze",
+        "Brand": "Activejet",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stalowy ogrzewacz taras. Activejet APH-CS2000 (WYP)",
+            "ProductDescription": "Activejet Stalowy ogrzewacz tarasowy APH-CS2000 Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stalowy ogrzewacz taras. Activejet APH-CS2000 (WYP)",
+            "ProductDescription": "Activejet steel patio heater APH-CS2000 Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stalowy ogrzewacz taras. Activejet APH-CS2000 (WYP)",
+            "ProductDescription": "Activejet Stahl-Terrassenheizer APH-CS2000 Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443121282"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85162950",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 6760.0,
+        "Height": 1070.0,
+        "Width": 190.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.26.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55461
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100147160",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3e4bc0e8-e322-4679-929e-7a239c7a741d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-20T13:05:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPACJ2OO0297'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:13.302000+00:00",
+        "sequence_number": 167432
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBNIX",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel grzewczy na podczerwień 600W NEO-Tools 90-103",
+            "ProductDescription": "Panel grzewczy na podczerwień 600W NEO-Tools 90-103"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel grzewczy na podczerwień 600W NEO-Tools 90-103",
+            "ProductDescription": "Infrared Heating Panel 600W NEO Tools 90-103"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel grzewczy na podczerwień 600W NEO-Tools 90-103",
+            "ProductDescription": "Infrarot-Heizpaneel 600W NEO Tools 90-103"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558461701"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85162999",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "90-103",
+        "Weight": 6200.0,
+        "Height": 100.0,
+        "Width": 1100.0,
+        "Depth": 720.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.26.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55461
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040866",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c6f19145-b921-47b5-8692-95612aa60a3b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-03T18:15:20Z'",
+          "ModificationDate": "b'2025-06-04T12:18:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBNIX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:31.853000+00:00",
+        "sequence_number": 123113
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPWK",
+        "ProductVersion": "1.3",
+        "ProductType": "Ogrzewacze",
+        "Brand": "Volteno",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VOLTENO PIEC GAZOWY 1500/2800/4200  Z",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VOLTENO PIEC GAZOWY 1500/2800/4200  Z",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "VOLTENO PIEC GAZOWY 1500/2800/4200  Z",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907477041008"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VO2821",
+        "Weight": 8500.0,
+        "Height": 700.0,
+        "Width": 150.0,
+        "Depth": 430.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041300",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f307cffe-4e63-434b-a1aa-a32734df6746",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-29T16:49:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPWK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:35.525000+00:00",
+        "sequence_number": 123326
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAGNOLOGZ0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Ogrzewacze",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nagrzewnica gazowa 15KW NEO Tools 90-083",
+            "ProductDescription": "Nagrzewnica gazowa 15KW NEO Tools 90-083"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nagrzewnica gazowa 15KW NEO Tools 90-083",
+            "ProductDescription": "Gas heater 15KW NEO Tools 90-083"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nagrzewnica gazowa 15KW NEO Tools 90-083",
+            "ProductDescription": "Gasheizgerät 15KW NEO Tools 90-083"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558457940"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907558457940",
+        "Weight": 4890.0,
+        "Height": 220.0,
+        "Width": 393.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052915",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nagrzewnica gazowa 15KW NEO Tools 90-083"
+      },
+      "properties": {
+        "message_id": "4687aaab-4d33-4d18-b959-751d4e3a8009",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-10T13:35:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAGNOLOGZ0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:53.672000+00:00",
+        "sequence_number": 141597
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "REGACJOGT0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "Activejet",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stalowy ogrzewacz tarasowy Activejet APH-IH1500",
+            "ProductDescription": "Activejet Stalowy ogrzewacz tarasowy APH-IH1500"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stalowy ogrzewacz tarasowy Activejet APH-IH1500",
+            "ProductDescription": "Activejet steel patio heater APH-IH1500"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stalowy ogrzewacz tarasowy Activejet APH-IH1500",
+            "ProductDescription": "Activejet Stahl-Terrassenheizer APH-IH1500"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443121275"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85162950",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "APH-IH1500",
+        "Weight": 3710.0,
+        "Height": 280.0,
+        "Width": 475.0,
+        "Depth": 475.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.26.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55461
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048780",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "27bb430e-550a-44d0-b9d9-b50c3f70df31",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-03T11:44:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'REGACJOGT0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:08.744000+00:00",
+        "sequence_number": 116212
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAABG",
+        "ProductVersion": "1.3",
+        "ProductType": "Ogrzewacze",
+        "Brand": "CAMRY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ogrzewacz do patio - stojący",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ogrzewacz do patio - stojący",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ogrzewacz do patio - stojący",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903887805360"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85162950",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CR 7737",
+        "Weight": 8920.0,
+        "Height": 490.0,
+        "Width": 530.0,
+        "Depth": 230.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.26.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034797",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d32de4da-5d36-4817-b1ba-a32b4e5b5698",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-23T12:43:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAABG'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:23.380000+00:00",
+        "sequence_number": 113800
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAGNOLOGZ0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nagrzewnica gazowa 50KW NEO Tools 90-085",
+            "ProductDescription": "Nagrzewnica gazowa 50KW NEO Tools 90-085"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nagrzewnica gazowa 50KW NEO Tools 90-085",
+            "ProductDescription": "Gas heater 50KW NEO Tools 90-085"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nagrzewnica gazowa 50KW NEO Tools 90-085",
+            "ProductDescription": "Gasheizgerät 50KW NEO Tools 90-085"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558457964"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907558457964",
+        "Weight": 9600.0,
+        "Height": 280.0,
+        "Width": 390.0,
+        "Depth": 700.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070559",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nagrzewnica gazowa 50KW NEO Tools 90-085"
+      },
+      "properties": {
+        "message_id": "59ffd8fc-ce9a-4584-946f-5766dce0ed92",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-10T13:35:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAGNOLOGZ0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:13.469000+00:00",
+        "sequence_number": 127557
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAGGRHOGZ0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Ogrzewacze",
+        "Brand": "GRAPHITE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nagrzewnica gazowa 30KW Graphite 58GE101",
+            "ProductDescription": "Nagrzewnica gazowa 30KW Graphite 58GE101"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nagrzewnica gazowa 30KW Graphite 58GE101",
+            "ProductDescription": "Gas heater 30KW Graphite 58GE101"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nagrzewnica gazowa 30KW Graphite 58GE101",
+            "ProductDescription": "Gasheizgerät 30KW Graphit 58GE101"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902062069757"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5902062069757",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058852",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nagrzewnica gazowa 30KW Graphite 58GE101"
+      },
+      "properties": {
+        "message_id": "1844514f-79ff-4953-9fb6-385cc75f81c6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-10T13:35:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAGGRHOGZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:11.962000+00:00",
+        "sequence_number": 118354
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NAGNOLOGZ0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nagrzewnica gazowa 30KW NEO Tools 90-084",
+            "ProductDescription": "Nagrzewnica gazowa 30KW NEO Tools 90-084"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nagrzewnica gazowa 30KW NEO Tools 90-084",
+            "ProductDescription": "Gas heater 30KW NEO Tools 90-084"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nagrzewnica gazowa 30KW NEO Tools 90-084",
+            "ProductDescription": "Gasheizgerät 30KW NEO Tools 90-084"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558457957"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907558457957",
+        "Weight": 7550.0,
+        "Height": 375.0,
+        "Width": 490.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058853",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nagrzewnica gazowa 30KW NEO Tools 90-084"
+      },
+      "properties": {
+        "message_id": "e98e3528-f053-47f3-9073-be7cf0b3fd25",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-10-10T13:35:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAGNOLOGZ0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:11.962000+00:00",
+        "sequence_number": 118355
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCI72",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "BRADAS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Promiennik gazowy nagrzewnica do butli na stojaku",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Promiennik gazowy nagrzewnica do butli na stojaku",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Promiennik gazowy nagrzewnica do butli na stojaku",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907544446583"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73218100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PG-009C",
+        "Weight": 2480.0,
+        "Height": 140.0,
+        "Width": 330.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.52.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074952",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59b49bbc-1f89-4d94-8d67-ba576ed187c8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-07T10:12:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCI72'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:22.315000+00:00",
+        "sequence_number": 143104
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREHBH",
+        "ProductVersion": "1.2",
+        "ProductType": "Ogrzewacze",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "AW NAGRZEWNICA GAZOWA 50KW HG50 /BLACK LINE",
+            "ProductDescription": "AWTOOLS AW85732BL grzejnik"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "AW NAGRZEWNICA GAZOWA 50KW HG50 /BLACK LINE",
+            "ProductDescription": "AW GAS HEATER 50KW HG50 /BLACK LINE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "AW NAGRZEWNICA GAZOWA 50KW HG50 /BLACK LINE",
+            "ProductDescription": "AW GASHEIZUNG 50KW HG50 /BLACK LINE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903678617455"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84162010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW85732BL",
+        "Weight": 8400.0,
+        "Height": 370.0,
+        "Width": 260.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.21.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52990
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54877
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075144",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "be1cdb51-6e25-4869-b460-e2ee38cc6652",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-17T13:48:48Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREHBH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:26.190000+00:00",
+        "sequence_number": 143283
+      }
+    }
+  ]
+}

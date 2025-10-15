@@ -1,0 +1,557 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SYPMEPPPN0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Podkłady i prześcieradła nieprzemakalne",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac przeciwodleżynowy Viscoflex Evolutive",
+            "ProductDescription": "Materac przeciwodleżynowy Viscoflex Evolutive"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac przeciwodleżynowy Viscoflex Evolutive",
+            "ProductDescription": "Anti-decubitus mattress Viscoflex Evolutive"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac przeciwodleżynowy Viscoflex Evolutive",
+            "ProductDescription": "Dekubitus-Matratze Viscoflex Evolutive"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3700368611647"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P161MOEPMHI",
+        "Weight": 19910.0,
+        "Height": 895.0,
+        "Width": 375.0,
+        "Depth": 375.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56407
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056668",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bf535e2d-5396-4b27-b6eb-52fcefbcb778",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T15:28:44Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMEPPPN0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:17.186000+00:00",
+        "sequence_number": 149556
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPMEPPPN0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Podkłady i prześcieradła nieprzemakalne",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Materac przeciwodleżynowy Viscoflex Evolutive",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Materac przeciwodleżynowy Viscoflex Evolutive",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Materac przeciwodleżynowy Viscoflex Evolutive",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908252459605"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "63064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P161MOEPMHI",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56407
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049964",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a4567e47-187e-4cd5-b0b5-46f2749121d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-03T12:56:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPMEPPPN0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:29.055000+00:00",
+        "sequence_number": 121106
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPSU2PPN0010",
+        "ProductVersion": "1.2",
+        "ProductType": "Podkłady i prześcieradła nieprzemakalne",
+        "Brand": "SUNDO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wkłady higieniczne do krzeseł toaletowych",
+            "ProductDescription": "Sundo Carebag Worki higieniczne do krzesła toaletowego 20 szt"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wkłady higieniczne do krzeseł toaletowych",
+            "ProductDescription": "Hygiene inserts for toilet chairs"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wkłady higieniczne do krzeseł toaletowych",
+            "ProductDescription": "Hygieneeinsätze für Toilettenstühle"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250629301149"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39211310",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "48000",
+        "Weight": 770.0,
+        "Height": 115.0,
+        "Width": 205.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.21.41.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56407
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076331",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a13fb93d-047b-4766-a41f-fe4e8bd854a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-16T10:34:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPSU2PPN0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:37.268000+00:00",
+        "sequence_number": 152430
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPHLCPPN0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Podkłady i prześcieradła nieprzemakalne",
+        "Brand": "HALCAMP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podkład nieprzemak. PNSK frotte różne kolory 50x100",
+            "ProductDescription": "Podkład nieprzemakalny PNSK frotte 50x100"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podkład nieprzemak. PNSK frotte różne kolory 50x100",
+            "ProductDescription": "PNSK waterproof terry towelling 50x100"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podkład nieprzemak. PNSK frotte różne kolory 50x100",
+            "ProductDescription": "PNSK wasserdichtes Frottee 50x100"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902175392261"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39211310",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 211.0,
+        "Height": 180.0,
+        "Width": 270.0,
+        "Depth": 15.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.21.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56407
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028610",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Podkład nieprzemakalny PNSK frotte 50x100"
+      },
+      "properties": {
+        "message_id": "a8d52953-b85f-48a9-8e67-526f1f0802be",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-21T11:09:19Z'",
+          "ModificationDate": "b'2025-06-04T12:11:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPHLCPPN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140815
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPPDSPPN0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Podkłady i prześcieradła nieprzemakalne",
+        "Brand": "PDS CARE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prześcieradło nieprzemakalne PNSA z bandą 160x200",
+            "ProductDescription": "Prześcieradło nieprzemakalne PNSA z bandą 160x200"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prześcieradło nieprzemakalne PNSA z bandą 160x200",
+            "ProductDescription": "PNSA waterproof sheet with band 160x200"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prześcieradło nieprzemakalne PNSA z bandą 160x200",
+            "ProductDescription": "PNSA wasserdichte Platte mit Band 160x200"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902175393121"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39211310",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 824.0,
+        "Height": 350.0,
+        "Width": 300.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.21.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56407
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028654",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Prześcieradło nieprzemakalne PNSA z bandą 160x200"
+      },
+      "properties": {
+        "message_id": "779cfcb6-9d63-411a-8829-769beb3f3fd9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-22T10:02:29Z'",
+          "ModificationDate": "b'2025-06-04T12:11:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPPDSPPN0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140827
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPTM2PPN0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Podkłady i prześcieradła nieprzemakalne",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prześcieradło z gumką - SleepTim",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prześcieradło z gumką - SleepTim",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prześcieradło z gumką - SleepTim",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905471202777"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39211310",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 600.0,
+        "Height": 80.0,
+        "Width": 340.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.21.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56407
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082817",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a81a69df-4c4a-4b48-8eb6-4e8b7ebdf204",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T12:54:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPTM2PPN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:04.640000+00:00",
+        "sequence_number": 155315
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPSU2PPN0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Podkłady i prześcieradła nieprzemakalne",
+        "Brand": "SUNDO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Osłona na materac",
+            "ProductDescription": "Osłona na materac"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Osłona na materac",
+            "ProductDescription": "Mattress cover"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Osłona na materac",
+            "ProductDescription": "Matratzenbezug"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250629310059"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39211310",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "40900",
+        "Weight": 60.0,
+        "Height": 80.0,
+        "Width": 130.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.21.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56407
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048480",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Osłona na materac"
+      },
+      "properties": {
+        "message_id": "0511fb3a-4ddb-4fbf-b705-13d81754fe5d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-19T16:11:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPSU2PPN0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:05.806000+00:00",
+        "sequence_number": 116065
+      }
+    }
+  ]
+}

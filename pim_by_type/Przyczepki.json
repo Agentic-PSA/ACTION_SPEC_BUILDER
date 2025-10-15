@@ -1,0 +1,347 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SIRBUYPRZ0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Przyczepki",
+        "Brand": "BUY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BURLEY NOMAD CARGO RACK (bagażnik do Nomad'a)",
+            "ProductDescription": "Burley Nomad Cargo Rack Bagażnik do przyczepki rowerowej Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BURLEY NOMAD CARGO RACK (bagażnik do Nomad'a)",
+            "ProductDescription": "Burley Nomad Cargo Rack Luggage carrier for bicycle trailer Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "BURLEY NOMAD CARGO RACK (bagażnik do Nomad'a)",
+            "ProductDescription": "Burley Nomad Cargo Rack Gepäckträger für Fahrradanhänger Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "840840000774"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87164000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BU-4329601",
+        "Weight": 1100.0,
+        "Height": 40.0,
+        "Width": 620.0,
+        "Depth": 540.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "29.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55568
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047551",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "BURLEY NOMAD CARGO RACK (bagażnik do Nomad'a)"
+      },
+      "properties": {
+        "message_id": "3f69ecf0-e758-4928-8f58-ed77abe453d1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-12T11:10:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRBUYPRZ0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:47.653000+00:00",
+        "sequence_number": 107942
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRBUYPRZ0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Przyczepki",
+        "Brand": "BUY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BURLEY  Przyczepka Bagażowa NOMAD",
+            "ProductDescription": "Burley Nomad Przyczepka bagażowa Czarny, Żółty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BURLEY  Przyczepka Bagażowa NOMAD",
+            "ProductDescription": "Burley Nomad Luggage Carrier Black, Yellow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "BURLEY  Przyczepka Bagażowa NOMAD",
+            "ProductDescription": "Burley Nomad Gepäckträger Schwarz, Gelb"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "840840014153"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87164000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BU-945204",
+        "Weight": 9950.0,
+        "Height": 290.0,
+        "Width": 850.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "29.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55568
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051342",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "BURLEY  Przyczepka Bagażowa NOMAD"
+      },
+      "properties": {
+        "message_id": "83fe0868-f0b6-4d7e-9a59-84469810d4b6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-12T11:10:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRBUYPRZ0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.980000+00:00",
+        "sequence_number": 138659
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPBUY2OO0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Przyczepki",
+        "Brand": "BUY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BURLEY  Przyczepka Bagażowa NOMAD (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BURLEY  Przyczepka Bagażowa NOMAD (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "BURLEY  Przyczepka Bagażowa NOMAD (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "87164000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BU-945204",
+        "Weight": 9950.0,
+        "Height": 290.0,
+        "Width": 850.0,
+        "Depth": 600.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "29.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55568
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086111",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "BURLEY  Przyczepka Bagażowa NOMAD"
+      },
+      "properties": {
+        "message_id": "6829cc1a-c527-4940-8dd3-3f1f24cc6127",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T12:26:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPBUY2OO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:24.208000+00:00",
+        "sequence_number": 157516
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRBUYPRZ0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Przyczepki",
+        "Brand": "BUY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "BURLEY Przyczepka dla psów TAIL WAGON new",
+            "ProductDescription": "Burley Tail Wagon Przyczepka dla psów Czarny, Zielony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "BURLEY Przyczepka dla psów TAIL WAGON new",
+            "ProductDescription": "Burley Tail Wagon Dog Carrier Black, Green"
+          },
+          {
+            "Language": "de",
+            "ProductName": "BURLEY Przyczepka dla psów TAIL WAGON new",
+            "ProductDescription": "Burley Tail Wagon Hundetrage Schwarz, Grün"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "840840014139"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87164000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BU-947108",
+        "Weight": 12200.0,
+        "Height": 270.0,
+        "Width": 920.0,
+        "Depth": 630.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "29.20.23.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55568
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049373",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "BURLEY Przyczepka dla psów TAIL WAGON new"
+      },
+      "properties": {
+        "message_id": "22845871-d2dc-4604-9fcc-a796744a0c20",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-12T11:10:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRBUYPRZ0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:42.303000+00:00",
+        "sequence_number": 116866
+      }
+    }
+  ]
+}

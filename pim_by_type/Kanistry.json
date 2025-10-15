@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDMYA",
+        "ProductVersion": "1.1",
+        "ProductType": "Kanistry",
+        "Brand": "PRESSOL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kanister na benzynę 10 L PRESSOL",
+            "ProductDescription": "KANISTER NA BENZYNĘ 10 L PRESSOL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kanister na benzynę 10 L PRESSOL",
+            "ProductDescription": "10 L PRESSOL GASOLINE CANISTER"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kanister na benzynę 10 L PRESSOL",
+            "ProductDescription": "10 L PRESSOL-BENZINKANISTER"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4103810211331"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39233090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "21133",
+        "Weight": 840.0,
+        "Height": 300.0,
+        "Width": 280.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54943
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55803
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088485",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d74c7852-f151-466d-9439-3b6051ac3917",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-24T15:19:11Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDMYA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:17.672000+00:00",
+        "sequence_number": 161546
+      }
+    }
+  ]
+}

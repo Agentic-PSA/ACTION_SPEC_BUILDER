@@ -1,0 +1,4485 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCGKD",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki kart",
+        "Brand": "TECHly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kart zbliżeniowych TECHLY NFC RFID 13.56MHz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kart zbliżeniowych TECHLY NFC RFID 13.56MHz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kart zbliżeniowych TECHLY NFC RFID 13.56MHz",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8059018367324"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "13279",
+        "Weight": 150880.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54496
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042813",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b466d994-3e10-459f-8e59-5dbb4d638527",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-09T13:16:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCGKD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:38.106000+00:00",
+        "sequence_number": 159728
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCGLR",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Qoltec Zestaw Antena LoRa | 5.8 dBi + kabel",
+            "ProductDescription": "Qoltec 52342 kabel USB USB 2.0 0,5 m USB C Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Qoltec Zestaw Antena LoRa | 5.8 dBi + kabel",
+            "ProductDescription": "Qoltec LoRa Antenna Kit | 5.8 dBi + Power Cable"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Qoltec Zestaw Antena LoRa | 5.8 dBi + kabel",
+            "ProductDescription": "Qoltec LoRa-Antennen-Kit | 5,8 dBi + Stromkabel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878570198"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "52342",
+        "Weight": 540.0,
+        "Height": 40.0,
+        "Width": 525.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042820",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b6934a7c-e85c-4602-ba9c-2d3db6bc44fd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-18T16:39:08Z'",
+          "ModificationDate": "b'2025-06-04T12:19:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCGLR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:38.106000+00:00",
+        "sequence_number": 159735
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6970",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki kart",
+        "Brand": "roger",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT12EM-BK-G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT12EM-BK-G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT12EM-BK-G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907608962455"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7218",
+        "Weight": 260.0,
+        "Height": 50.0,
+        "Width": 230.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034159",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54e1a22e-b503-48ab-83d6-ac912363f0dc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-03T14:44:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6970'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:44.864000+00:00",
+        "sequence_number": 105849
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR9188",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik dostępu Ubiquiti UA-G2-Pro",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik dostępu Ubiquiti UA-G2-Pro",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik dostępu Ubiquiti UA-G2-Pro",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084691656"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "8982627",
+        "Weight": 586.0,
+        "Height": 70.0,
+        "Width": 210.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034320",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5e5ffca6-f7f3-42b5-a82d-e963d8cda0a6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-06T21:03:54Z'",
+          "ModificationDate": "b'2025-06-04T12:14:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR9188'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:46.614000+00:00",
+        "sequence_number": 105936
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KNDSALCKD0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL ACCO-SCR-BG - Czytnik zbliżeniowy klawiatura",
+            "ProductDescription": "SATEL ACCO-SCR-BG - Czytnik zbliżeniowy klawiatura"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL ACCO-SCR-BG - Czytnik zbliżeniowy klawiatura",
+            "ProductDescription": "SATEL ACCO-SCR-BG - Proximity card reader with keypad"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL ACCO-SCR-BG - Czytnik zbliżeniowy klawiatura",
+            "ProductDescription": "SATEL ACCO-SCR-BG Näherungsleser mit Tastatur"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336339"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ACCO-SCR-BG",
+        "Weight": 365.0,
+        "Height": 140.0,
+        "Width": 175.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065274",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ab29d72e-49ad-4101-9427-a31d8a9c91df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-12-06T11:10:22Z'",
+          "ModificationDate": "b'2025-09-30T13:40:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KNDSALCKD0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:37.295000+00:00",
+        "sequence_number": 163982
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDDAF",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ubiquiti UA-G2-Pro-Black Czytnik dostępu",
+            "ProductDescription": "Ubiquiti Access Reader G2 Professional Podstawowy czytnik kontroli dostępu Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ubiquiti UA-G2-Pro-Black Czytnik dostępu",
+            "ProductDescription": "Ubiquiti UA-G2-Pro-Black | NFC Bluetooth Access Reader | UniFi Access Reader G2 Pro, Touchscreen, Camera, Intercom, BT4.1, IP55, PoE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ubiquiti UA-G2-Pro-Black Czytnik dostępu",
+            "ProductDescription": "Ubiquiti UA-G2-Pro-Schwarz | NFC-Bluetooth-Zugangsleser | UniFi Access Reader G2 Pro, Touchscreen, Kamera, Gegensprechanlage, BT4.1, IP55, PoE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084692349"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UA-G2-PRO-BLACK",
+        "Weight": 580.0,
+        "Height": 95.0,
+        "Width": 210.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044877",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "41aa04d0-e15f-41df-b699-987cbf9fcabb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T16:44:38Z'",
+          "ModificationDate": "b'2025-06-04T12:20:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDDAF'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:55.193000+00:00",
+        "sequence_number": 106390
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREAYS",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HIKVISION Czytnik kart AX PRO DS-PT1-WE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HIKVISION Czytnik kart AX PRO DS-PT1-WE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HIKVISION Czytnik kart AX PRO DS-PT1-WE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941264061342"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS-PT1-WE",
+        "Weight": 270.0,
+        "Height": 185.0,
+        "Width": 125.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046301",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f33a0dc0-67e5-46a7-a1b7-e5a74a225aab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-04T12:56:29Z'",
+          "ModificationDate": "b'2025-06-04T12:21:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREAYS'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:07.913000+00:00",
+        "sequence_number": 107079
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBRGX",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "AXAGON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Axagon CRE-S3 External card reader USB-A",
+            "ProductDescription": "Axagon CRE-S3 External card reader USB-A 3.2 Gen 1 3-slot & lun SD/microSD/CF czytnik kart USB 3.2 Gen 1 (3.1 Gen 1) Type-A Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Axagon CRE-S3 External card reader USB-A",
+            "ProductDescription": "Axagon CRE-S3 External USB-A 3.2 Gen 1 3-slot & lun SD/microSD/CF card reader USB 3.2 Gen 1 (3.1 Gen 1) Type-A Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Axagon CRE-S3 External card reader USB-A",
+            "ProductDescription": "Axagon CRE-S3 External card reader USB-A 3.2 Gen 1 3-slot & lun SD/microSD/CF Kartenleser USB 3.2 Gen 1 (3.1 Gen 1) Type-A Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595247906625"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CRE-S3",
+        "Weight": 96.0,
+        "Height": 180.0,
+        "Width": 121.0,
+        "Depth": 31.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060101",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a9f0b866-6963-4226-89e2-2784046d7cb7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-22T14:08:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBRGX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:00.797000+00:00",
+        "sequence_number": 135455
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KNDNONCKD0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": "Ubiquiti G2 Starter Kit system ochrony dostępu Czarny, Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": "Ubiquiti UA-G2-SK | UniFi Access Starter Kit | G2 Access Reader + Hub + Cards (10 pieces)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": "Ubiquiti UA-G2-SK | UniFi Access Starter-Kit | G2 Access Reader + Hub + Karten (10 Stück)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084691670"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UA-G2-SK",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54118
+              },
+              {
+                "CategoryId": 54495
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053929",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cd4ee0ad-5598-4aee-8a36-461f46395333",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-22T12:21:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KNDNONCKD0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:55.246000+00:00",
+        "sequence_number": 117523
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCLAD",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "StarTech",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kart USB StarTech CFASTRWU3 3.1",
+            "ProductDescription": "StarTech.com CFASTRWU3 czytnik kart USB 3.2 Gen 1 (3.1 Gen 1) Czarny, Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kart USB StarTech CFASTRWU3 3.1",
+            "ProductDescription": "CARD READER USB 3.1 A/F. CFAST 2.0 7+17PIN"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kart USB StarTech CFASTRWU3 3.1",
+            "ProductDescription": "KARTENLESER USB 3.1 A/F. CFAST 2.0 7+17PIN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "065030867382"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CFASTRWU3",
+        "Weight": 55.0,
+        "Height": 100.0,
+        "Width": 180.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043475",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aa8e09f1-5ba8-4641-be1e-33b328970de2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T10:19:56Z'",
+          "ModificationDate": "b'2025-06-04T12:19:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCLAD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:44.795000+00:00",
+        "sequence_number": 160031
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6828",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki kart",
+        "Brand": "roger",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT12LT-G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT12LT-G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT12LT-G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907608962592"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PRT12LT-G",
+        "Weight": 255.0,
+        "Height": 50.0,
+        "Width": 107.0,
+        "Depth": 235.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034145",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1b221630-79ab-45c3-895f-1163b2c0ee66",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-22T15:13:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6828'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:35:58.353000+00:00",
+        "sequence_number": 162066
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6829",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki kart",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik zbliżeniowy RUD-2 ROGER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik zbliżeniowy RUD-2 ROGER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik zbliżeniowy RUD-2 ROGER",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907608963674"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RUD-2",
+        "Weight": 150.0,
+        "Height": 125.0,
+        "Width": 120.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034146",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "01d69e72-5fdb-4eb6-bc09-86cd7411c378",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-25T07:51:28Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6829'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:35:58.353000+00:00",
+        "sequence_number": 162067
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBRGA",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Akasa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akasa AK-ICR-09 Czytnik identyfikatorów",
+            "ProductDescription": "Akasa AK-ICR-09 czytnik kart USB 2.0 Wewnętrzny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akasa AK-ICR-09 Czytnik identyfikatorów",
+            "ProductDescription": "Akasa AK-ICR-09 ID and Smart Card Reader 3.5 inch - black/white"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akasa AK-ICR-09 Czytnik identyfikatorów",
+            "ProductDescription": "Akasa AK-ICR-09 ID and Smart Card Reader 3,5 Zoll - black/white"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710614532113"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-ICR-09",
+        "Weight": 310.0,
+        "Height": 120.0,
+        "Width": 215.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52591
+              },
+              {
+                "CategoryId": 53478
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041403",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8120b648-8837-4f5b-9080-bc53fc1f177c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-29T08:39:40Z'",
+          "ModificationDate": "b'2025-06-04T12:18:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBRGA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:42.732000+00:00",
+        "sequence_number": 137655
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBILE",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "UNITEK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "UNITEK CZYTNIK KART ALL-IN-ONE USB-C 3.0, Y-9313D",
+            "ProductDescription": "UNITEK Y-9313D czytnik kart USB 3.2 Gen 1 (3.1 Gen 1) Type-A Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "UNITEK CZYTNIK KART ALL-IN-ONE USB-C 3.0, Y-9313D",
+            "ProductDescription": "Unitek Y-9313D USB Type-C All-in-One Card Reader"
+          },
+          {
+            "Language": "de",
+            "ProductName": "UNITEK CZYTNIK KART ALL-IN-ONE USB-C 3.0, Y-9313D",
+            "ProductDescription": "Unitek Y-9313D USB Typ-C All-in-One-Kartenleser"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894160017468"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Y-9313D",
+        "Weight": 125.0,
+        "Height": 30.0,
+        "Width": 190.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040298",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d06ef5c5-1df1-4b79-af86-72c0a0505396",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-01T12:55:52Z'",
+          "ModificationDate": "b'2025-06-04T12:17:52Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBILE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:26.258000+00:00",
+        "sequence_number": 122841
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KNDQOCCKD0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KART I BRELOKÓW ZBLIŻENIOWY RFID",
+            "ProductDescription": "Qoltec 52446 Zbliżeniowy czytnik kart i breloków RFID | Metalowa obudowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KART I BRELOKÓW ZBLIŻENIOWY RFID",
+            "ProductDescription": "Qoltec 52446 Proximity card and key fob reader"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KART I BRELOKÓW ZBLIŻENIOWY RFID",
+            "ProductDescription": "Qoltec 52446 Lesegerät für berührungslose Karten und Schlüsselanhänger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878524467"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "52446",
+        "Weight": 290.0,
+        "Height": 55.0,
+        "Width": 110.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077036",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "695a709b-8b19-48a2-8f39-2d1da79ce1be",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-02-28T14:05:42Z'",
+          "ModificationDate": "b'2025-09-30T13:40:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KNDQOCCKD0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:40.065000+00:00",
+        "sequence_number": 152584
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KNDSALCKD0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL ACCO-KP - Kontroler przejścia",
+            "ProductDescription": "SATEL ACCO-KP - Kontroler przejścia"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL ACCO-KP - Kontroler przejścia",
+            "ProductDescription": "SATEL ACCO-KP - Door controller module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL ACCO-KP - Kontroler przejścia",
+            "ProductDescription": "SATEL ACCO-KP - Türcontroller"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336308"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ACCO-KP",
+        "Weight": 365.0,
+        "Height": 55.0,
+        "Width": 230.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54118
+              },
+              {
+                "CategoryId": 54495
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077040",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "56851294-79c9-417f-88ae-8c3190f74424",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-12-06T10:26:53Z'",
+          "ModificationDate": "b'2025-09-30T13:40:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KNDSALCKD0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:40.065000+00:00",
+        "sequence_number": 152588
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KNDUBQCKD0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": "Ubiquiti G2 Starter Kit system ochrony dostępu Czarny, Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": "Ubiquiti G2 Starter Kit security access control system Black, Silver"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": "Ubiquiti G2 Starter Kit Sicherheitszugangskontrollsystem Schwarz, Silber"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084691670"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UA-G2-SK",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54118
+              },
+              {
+                "CategoryId": 54495
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077041",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cbd28d06-553a-4f53-849e-d9cba3ce5f97",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-22T12:35:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KNDUBQCKD0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:40.065000+00:00",
+        "sequence_number": 152589
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABY1",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki kart",
+        "Brand": "roger",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT62LT-G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT62LT-G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT62LT-G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907608962967"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PRT62LT-G",
+        "Weight": 180.0,
+        "Height": 225.0,
+        "Width": 100.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54118
+              },
+              {
+                "CategoryId": 54495
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035096",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e9e712ae-0556-4d82-adb4-a535e2f8bb81",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-03T14:44:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABY1'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:29.184000+00:00",
+        "sequence_number": 110123
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULIBOCZP0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "IBOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK KART I-BOX 85w1 + USB, CZARNY (wew)",
+            "ProductDescription": "iBox ICKWHIR022 czytnik kart Wewnętrzny Czarny USB 2.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK KART I-BOX 85w1 + USB, CZARNY (wew)",
+            "ProductDescription": "iBox ICKWHIR022 card reader Internal Black USB 2.0"
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK KART I-BOX 85w1 + USB, CZARNY (wew)",
+            "ProductDescription": "iBox ICKWHIR022 Kartenleser Eingebaut Schwarz USB 2.0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904356223272"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ICKWHIR022",
+        "Weight": 82.0,
+        "Height": 100.0,
+        "Width": 125.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52591
+              },
+              {
+                "CategoryId": 53478
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046935",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3d6c5138-1437-46d0-b649-c1b160bd37bc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2010-12-20T11:32:52Z'",
+          "ModificationDate": "b'2025-06-04T12:21:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULIBOCZP0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:38.201000+00:00",
+        "sequence_number": 110639
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULIBOCZP0018",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "IBOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK KART I-BOX 82w1 + BLUETOOTH, CZARNY (wew)",
+            "ProductDescription": "iBox ICKWHIR015 czytnik kart Wewnętrzny Czarny, Metaliczny USB 2.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK KART I-BOX 82w1 + BLUETOOTH, CZARNY (wew)",
+            "ProductDescription": "iBox ICKWHIR015 card reader Internal Black,Metallic USB 2.0"
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK KART I-BOX 82w1 + BLUETOOTH, CZARNY (wew)",
+            "ProductDescription": "iBox ICKWHIR015 Kartenleser Eingebaut Schwarz, Metallisch USB 2.0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904356223296"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ICKWHIR015",
+        "Weight": 200.0,
+        "Height": 130.0,
+        "Width": 105.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52591
+              },
+              {
+                "CategoryId": 53478
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046936",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9abbd749-7e8a-4ada-a112-f2aafad9e02c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2011-01-04T12:57:12Z'",
+          "ModificationDate": "b'2025-06-04T12:21:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULIBOCZP0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:38.201000+00:00",
+        "sequence_number": 110640
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULIBOCZP0022",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "IBOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK KART I-BOX 88w1 + USB 3.0 wewn",
+            "ProductDescription": "iBox ICKWFR055 czytnik kart Wewnętrzny Czarny, Metaliczny USB 3.2 Gen 1 (3.1 Gen 1)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK KART I-BOX 88w1 + USB 3.0 wewn",
+            "ProductDescription": "iBox ICKWFR055 card reader Internal Black,Metallic USB 3.2 Gen 1 (3.1 Gen 1)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK KART I-BOX 88w1 + USB 3.0 wewn",
+            "ProductDescription": "iBox ICKWFR055 Kartenleser Eingebaut Schwarz, Metallisch USB 3.2 Gen 1 (3.1 Gen 1)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443047254"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ICKWFR055",
+        "Weight": 209.0,
+        "Height": 120.0,
+        "Width": 37.0,
+        "Depth": 173.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046937",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8d84c4e9-e995-4580-b3fa-39d7a68b1eed",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2013-01-14T10:13:38Z'",
+          "ModificationDate": "b'2025-06-04T12:21:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULIBOCZP0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:38.201000+00:00",
+        "sequence_number": 110641
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULIBOCZP0024",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "IBOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK KART I-BOX R024 USB LINKA MicroSD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK KART I-BOX R024 USB LINKA MicroSD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK KART I-BOX R024 USB LINKA MicroSD",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443047896"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ICKZGR024",
+        "Weight": 12.0,
+        "Height": 123.0,
+        "Width": 10.0,
+        "Depth": 73.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52591
+              },
+              {
+                "CategoryId": 53478
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046938",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4e41ecd4-fcc9-4789-8920-9143bf693fe5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2013-07-25T14:44:32Z'",
+          "ModificationDate": "b'2025-06-04T12:21:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULIBOCZP0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:38.201000+00:00",
+        "sequence_number": 110642
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULTPLCZP0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "TP-LINK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kart TP-LINK UA430",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kart TP-LINK UA430",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kart TP-LINK UA430",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8885020626971"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UA430",
+        "Weight": 70.0,
+        "Height": 90.0,
+        "Width": 160.0,
+        "Depth": 25.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077499",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a56421a3-784c-4c8b-af1c-e30adf0e6bf3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-25T10:05:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULTPLCZP0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:22.382000+00:00",
+        "sequence_number": 153270
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULUGRCZP0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "UGREEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ugreen czytnik kart SD/micro SD na USB 3.0 (czarny)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ugreen czytnik kart SD/micro SD na USB 3.0 (czarny)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ugreen czytnik kart SD/micro SD na USB 3.0 (czarny)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6957303894178"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6957303822508",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092517",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ugreen czytnik kart SD / micro SD na USB 3.0 czarny (CR127 20250)"
+      },
+      "properties": {
+        "message_id": "27f1a33c-b769-4417-9151-93e761c30079",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-25T14:15:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULUGRCZP0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:05.698000+00:00",
+        "sequence_number": 168673
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULUGRCZP0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "UGREEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ugreen czytnik do kart SD/microSD-USBA 3.0/USBC 3.0",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ugreen czytnik do kart SD/microSD-USBA 3.0/USBC 3.0",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ugreen czytnik do kart SD/microSD-USBA 3.0/USBC 3.0",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6957303857067"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50706",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092518",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ugreen czytnik do kart SD/micro SD na USB-A 3.0/USB-C 3.0 CM185 (szary)"
+      },
+      "properties": {
+        "message_id": "ec2e2f30-b760-4161-af4c-a498c1430d15",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-25T14:16:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULUGRCZP0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:05.698000+00:00",
+        "sequence_number": 168674
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULUGRCZP0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "UGREEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ugreen czytnik kart pamięci z kablem USB 3.0 1m",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ugreen czytnik kart pamięci z kablem USB 3.0 1m",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ugreen czytnik kart pamięci z kablem USB 3.0 1m",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6957303832316"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "30231",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52591
+              },
+              {
+                "CategoryId": 53478
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092519",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ugreen czytnik kart pamięci SD/microSD / CF/MS z kablem USB 3.0 1m CR125 (czarny)"
+      },
+      "properties": {
+        "message_id": "11402d4e-44da-4086-aff6-edd15dceb5f2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-25T14:16:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULUGRCZP0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:05.698000+00:00",
+        "sequence_number": 168675
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFIUY",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki kart",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ubiquiti UA-Ultra Access Ultra",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ubiquiti UA-Ultra Access Ultra",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ubiquiti UA-Ultra Access Ultra",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084694305"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1748853",
+        "Weight": 380.0,
+        "Height": 81.0,
+        "Width": 175.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092664",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4759ddce-ee6f-4842-9d74-39a5d0ce3a7b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-17T12:56:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFIUY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:08.855000+00:00",
+        "sequence_number": 168812
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJDZI",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kontroler dostępu ZKTeco GL-C3-PRO100",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kontroler dostępu ZKTeco GL-C3-PRO100",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kontroler dostępu ZKTeco GL-C3-PRO100",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GL-C3-PRO100",
+        "Weight": 280.0,
+        "Height": 71.0,
+        "Width": 192.0,
+        "Depth": 24.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084979",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "899119f3-143a-46b9-9347-aaa0eeadcea0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T17:26:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJDZI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:07.452000+00:00",
+        "sequence_number": 125018
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULNATCZP0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "NATEC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NATEC CZYTNIK KART SCARAB 2 SD/MICRO SD USB 3.0",
+            "ProductDescription": "NATEC Scarab 2 czytnik kart Czarny USB 3.0 Type-A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NATEC CZYTNIK KART SCARAB 2 SD/MICRO SD USB 3.0",
+            "ProductDescription": "NATEC Scarab 2 card reader Black USB 3.0 Type-A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NATEC CZYTNIK KART SCARAB 2 SD/MICRO SD USB 3.0",
+            "ProductDescription": "NATEC Scarab 2 Kartenleser Schwarz USB 3.0 Type-A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901969432879"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NCZ-1874",
+        "Weight": 25.0,
+        "Height": 80.0,
+        "Width": 130.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073593",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54c07408-6a56-494f-a22a-a82a76fb2166",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-01-17T13:11:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:03Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULNATCZP0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145161
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULSAVCZP0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "SAVIO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SAVIO CZYTNIK KART SD, USB 2.0, AK-63",
+            "ProductDescription": "SAVIO Czytnik kart SD, USB 2.0, AK-63"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SAVIO CZYTNIK KART SD, USB 2.0, AK-63",
+            "ProductDescription": "SAVIO SD card reader, USB 2.0, AK-63"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SAVIO CZYTNIK KART SD, USB 2.0, AK-63",
+            "ProductDescription": "SAVIO SD-Kartenleser, USB 2.0, AK-63"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901986048145"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-63",
+        "Weight": 11.0,
+        "Height": 80.0,
+        "Width": 40.0,
+        "Depth": 12.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073595",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "36b90589-ab89-4e87-a713-20de515fbb2b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-08-22T09:21:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULSAVCZP0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145163
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULUTKCZP0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "UNITEK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "UNITEK CZYTNIK KART SD I MICROSD USB-A, Y-9327A",
+            "ProductDescription": "UNITEK Y-9327A czytnik kart USB 3.2 Gen 1 (3.1 Gen 1) Type-A Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "UNITEK CZYTNIK KART SD I MICROSD USB-A, Y-9327A",
+            "ProductDescription": "UNITEK Y-9327A card reader USB 3.2 Gen 1 (3.1 Gen 1) Type-A Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "UNITEK CZYTNIK KART SD I MICROSD USB-A, Y-9327A",
+            "ProductDescription": "UNITEK Y-9327A Kartenleser USB 3.2 Gen 1 (3.1 Gen 1) Type-A Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4894160036438"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Y-9327A",
+        "Weight": 28.0,
+        "Height": 150.0,
+        "Width": 90.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073596",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4ed650e2-22af-413e-899f-cad6901f9abf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-19T14:04:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULUTKCZP0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145164
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAMWU",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Cherry",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CHERRY SMARTTERMINAL CONTACT",
+            "ProductDescription": "CHERRY SmartTerminal ST-1144 czytnik do kart chipowych USB 2.0 Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CHERRY SMARTTERMINAL CONTACT",
+            "ProductDescription": "CHERRY SmartTerminal ST-1144 - SMART-k"
+          },
+          {
+            "Language": "de",
+            "ProductName": "CHERRY SMARTTERMINAL CONTACT",
+            "ProductDescription": "CHERRY Smartcard Terminal ST-1144UB pale grey USB Contact Smart Card Terminal"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4025112086892"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ST-1144UB",
+        "Weight": 375.0,
+        "Height": 120.0,
+        "Width": 150.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037193",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b856a7c3-10cf-4730-a92c-8590ffcaa843",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-29T09:31:47Z'",
+          "ModificationDate": "b'2025-06-04T12:16:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAMWU'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:22.560000+00:00",
+        "sequence_number": 111840
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFGN4",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DS-K1TA70MI-T Terminal rozpoznawania",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DS-K1TA70MI-T Terminal rozpoznawania",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "DS-K1TA70MI-T Terminal rozpoznawania",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7480023",
+        "Weight": 1730.0,
+        "Height": 135.0,
+        "Width": 375.0,
+        "Depth": 175.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085914",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d188c451-cdde-4f2a-8eed-16d92a681a8c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-02T12:40:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFGN4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:15.609000+00:00",
+        "sequence_number": 125474
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREKJS",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ubiquiti Angled mounting accessory",
+            "ProductDescription": "Ubiquiti UACC-Reader-Pro-AM-W Pudełko montażowe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ubiquiti Angled mounting accessory",
+            "ProductDescription": "Ubiquiti Angled mounting accessory for"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ubiquiti Angled mounting accessory",
+            "ProductDescription": "Ubiquiti Abgewinkeltes Montagezubehör für"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084694466"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "W128888584",
+        "Weight": 110.0,
+        "Height": 55.0,
+        "Width": 180.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54118
+              },
+              {
+                "CategoryId": 54495
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055400",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ade49870-dffe-400c-8584-39697c693009",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-18T10:43:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREKJS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:02.484000+00:00",
+        "sequence_number": 140381
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYUM",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laskomex Unifon LM-8/W-6 CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laskomex Unifon LM-8/W-6 CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laskomex Unifon LM-8/W-6 CZARNY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905331031493"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "24721",
+        "Weight": 230.0,
+        "Height": 65.0,
+        "Width": 230.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039038",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "125169d7-f0f5-433c-87c1-5ed383965e44",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-28T21:59:35Z'",
+          "ModificationDate": "b'2025-06-04T12:17:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYUM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:08.652000+00:00",
+        "sequence_number": 162582
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6855",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "roger",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik zbliżeniowy ROGER MCT12M-BK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik zbliżeniowy ROGER MCT12M-BK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik zbliżeniowy ROGER MCT12M-BK",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907608961106"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MCT12M-BK",
+        "Weight": 224.0,
+        "Height": 54.0,
+        "Width": 109.0,
+        "Depth": 232.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052331",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b57869c7-0c04-401d-b418-6961342925ea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-05T14:01:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6855'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:47.185000+00:00",
+        "sequence_number": 126124
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFGNO",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY Z KLAWIATURĄ HIKVISION",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY Z KLAWIATURĄ HIKVISION",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY Z KLAWIATURĄ HIKVISION",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6931847150235"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7585849",
+        "Weight": 230.0,
+        "Height": 50.0,
+        "Width": 150.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054925",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "df178ca1-17ab-4af1-aae8-58d0fa7febdb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-06T18:01:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFGNO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:58.344000+00:00",
+        "sequence_number": 141815
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMYSD",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kontroli dostępu Hikvision DS-K1T805MBFWX s",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kontroli dostępu Hikvision DS-K1T805MBFWX s",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kontroli dostępu Hikvision DS-K1T805MBFWX s",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6942160415628"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "302920251",
+        "Weight": 777.0,
+        "Height": 192.0,
+        "Width": 71.0,
+        "Depth": 24.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093634",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "942d576b-e1ee-40fc-9cf6-0ae59093c8da",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-31T14:10:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMYSD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:33.826000+00:00",
+        "sequence_number": 171607
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABEH",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Akasa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kart Akasa AK-ICR-17",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kart Akasa AK-ICR-17",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kart Akasa AK-ICR-17",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710614532458"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-ICR-17",
+        "Weight": 500.0,
+        "Height": 40.0,
+        "Width": 160.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52591
+              },
+              {
+                "CategoryId": 53478
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034996",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4326952f-9985-47dd-903c-e069841a83e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-06T14:35:14Z'",
+          "ModificationDate": "b'2025-06-04T12:14:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABEH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:25.364000+00:00",
+        "sequence_number": 113894
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABU5",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki kart",
+        "Brand": "roger",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT64EM-G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT64EM-G",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY ROGER PRT64EM-G",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907608963124"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9692",
+        "Weight": 270.0,
+        "Height": 50.0,
+        "Width": 230.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54118
+              },
+              {
+                "CategoryId": 54495
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035081",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a95689f0-88d6-4372-a8dd-9fc52be3cf3f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-21T17:18:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABU5'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:26.239000+00:00",
+        "sequence_number": 113943
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULTPLCZP0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "TP-LINK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kart TP-LINK UA430C",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kart TP-LINK UA430C",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kart TP-LINK UA430C",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8885020626940"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UA430C",
+        "Weight": 70.0,
+        "Height": 87.0,
+        "Width": 155.0,
+        "Depth": 22.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070558",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e61afd2f-68c5-4276-b7d3-dd086d45e686",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-25T10:07:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULTPLCZP0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:13.469000+00:00",
+        "sequence_number": 127556
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADX1",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki kart",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw startowy UniFi Access Ubiquiti UA-G2-SK",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084691670"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UA-G2-SK",
+        "Weight": 1420.0,
+        "Height": 85.0,
+        "Width": 245.0,
+        "Depth": 213.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035367",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dcd39738-af82-4aa5-b035-d717d3c9730c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-06T21:03:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADX1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:50.739000+00:00",
+        "sequence_number": 133102
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6908",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY Z KLAWIATURĄ DS-K1108AMK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY Z KLAWIATURĄ DS-K1108AMK",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZYTNIK ZBLIŻENIOWY Z KLAWIATURĄ DS-K1108AMK",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941264062905"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "8248116",
+        "Weight": 350.0,
+        "Height": 110.0,
+        "Width": 160.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074719",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "96c790f8-0918-4daf-95a6-25a83f6cef29",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-09T15:24:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6908'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:18.408000+00:00",
+        "sequence_number": 142886
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6964",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "roger",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik zbliżeniowy ROGER MCT68ME-IO-I",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik zbliżeniowy ROGER MCT68ME-IO-I",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik zbliżeniowy ROGER MCT68ME-IO-I",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907608961212"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "13332",
+        "Weight": 504.0,
+        "Height": 182.0,
+        "Width": 266.0,
+        "Depth": 91.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54118
+              },
+              {
+                "CategoryId": 54495
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c59ea13c-5d68-48c7-87a6-74241239d142",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T16:47:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6964'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:18.408000+00:00",
+        "sequence_number": 142888
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AIDTRUCKI0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "Trust",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kart chipowych TRUST Primo Smartcard Reader",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kart chipowych TRUST Primo Smartcard Reader",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kart chipowych TRUST Primo Smartcard Reader",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8713439238907"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "23890",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54496
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czytnik kart chipowych TRUST Primo Smartcard Reader (23890)"
+      },
+      "properties": {
+        "message_id": "96c034f1-8d84-4a14-822c-08e50b42432a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-07T13:12:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AIDTRUCKI0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:54.298000+00:00",
+        "sequence_number": 172613
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREKKH",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki kart",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ubiquiti Junction box for UniFi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ubiquiti Junction box for UniFi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ubiquiti Junction box for UniFi",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084694459"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "W128888586",
+        "Weight": 310.0,
+        "Height": 95.0,
+        "Width": 230.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54495
+              },
+              {
+                "CategoryId": 54118
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54905
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087355",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e2fe56a6-9f89-4757-b97f-f307ca822408",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-18T10:43:44Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREKKH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:36.006000+00:00",
+        "sequence_number": 158058
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AIDQOCCKI0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK CHIPOWYCH KART ID SCR-0634",
+            "ProductDescription": "Qoltec 50634 Inteligentny czytnik chipowych kart ID SCR-0634 | USB typ C"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK CHIPOWYCH KART ID SCR-0634",
+            "ProductDescription": "Qoltec 50634 Intelligent Smart ID chip card reader SCR-0634 | USB Type C"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK CHIPOWYCH KART ID SCR-0634",
+            "ProductDescription": "Qoltec 50634 Intelligenter Chipkartenleser Smart ID SCR-0634 | USB-Typ C"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878506340"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50634",
+        "Weight": 100.0,
+        "Height": 140.0,
+        "Width": 140.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54496
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074123",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8c44dc33-e631-4b33-a292-8c9c34dafc5a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-08-09T12:08:29Z'",
+          "ModificationDate": "b'2025-09-30T13:40:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AIDQOCCKI0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:38.445000+00:00",
+        "sequence_number": 145658
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBRHM",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "Akasa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Akasa AK-ICR-11 Wewnętrzny czytnik kart pamięci",
+            "ProductDescription": "Akasa AK-ICR-11 czytnik kart USB 2.0 Wewnętrzny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Akasa AK-ICR-11 Wewnętrzny czytnik kart pamięci",
+            "ProductDescription": "Akasa AK-ICR-11 Internal Media Card Reader 3.5 inch with Bluetooth"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Akasa AK-ICR-11 Wewnętrzny czytnik kart pamięci",
+            "ProductDescription": "Akasa AK-ICR-11 Internal Media Card Reader 3,5 Zoll with Bluetooth"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4710614531581"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AK-ICR-11",
+        "Weight": 270.0,
+        "Height": 220.0,
+        "Width": 32.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041413",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "778b47a6-98b7-44b1-a163-c090cba9b01c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-07T11:19:58Z'",
+          "ModificationDate": "b'2025-06-04T12:18:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBRHM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:44.762000+00:00",
+        "sequence_number": 147811
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "MULUGRCZP0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "UGREEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "UGREEN CZYTNIK KART 4 W 1, USB 3.0, 1 METR CZARNY",
+            "ProductDescription": "Czytnik kart 4 w 1 USB 3.0 UGREEN 1m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "UGREEN CZYTNIK KART 4 W 1, USB 3.0, 1 METR CZARNY",
+            "ProductDescription": "Card reader 4in1 USB 3.0 UGREEN 1m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "UGREEN CZYTNIK KART 4 W 1, USB 3.0, 1 METR CZARNY",
+            "ProductDescription": "Kartenleser 4in1 USB 3.0 UGREEN 1m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6957303832316"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "30231",
+        "Weight": 140.0,
+        "Height": 125.0,
+        "Width": 180.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061804",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "73ba883f-7030-418c-be2b-c9db9fde88e3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-04-03T14:41:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'MULUGRCZP0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:21.760000+00:00",
+        "sequence_number": 118858
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATLM",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki kart",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kart 5-portowy USB 3.0 SuperSpeed",
+            "ProductDescription": "Digitus Czytnik kart All-in-one, USB 3.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kart 5-portowy USB 3.0 SuperSpeed",
+            "ProductDescription": "DIGITUS DA-70330-1 - kortlaser - USB 3"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kart 5-portowy USB 3.0 SuperSpeed",
+            "ProductDescription": "Digitus DA-70330-1 USB 3.0 All-in-One Kartenleser"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032431497"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DA-70330-1",
+        "Weight": 140.0,
+        "Height": 50.0,
+        "Width": 150.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53478
+              },
+              {
+                "CategoryId": 52591
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54732
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038391",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "00cac58b-59a9-4d82-adee-f606db193fb4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-09T11:15:42Z'",
+          "ModificationDate": "b'2025-06-04T12:16:46Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATLM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:03.367000+00:00",
+        "sequence_number": 133710
+      }
+    }
+  ]
+}

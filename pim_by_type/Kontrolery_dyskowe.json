@@ -1,0 +1,2714 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCGYW",
+        "ProductVersion": "1.2",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "Adaptec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Adaptec SmartRAID 3102-8i kontroler RAID PCI",
+            "ProductDescription": "Adaptec SmartRAID 3102-8i kontroler RAID PCI Express x8 3.0 12 Gbit/s"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Adaptec SmartRAID 3102-8i kontroler RAID PCI",
+            "ProductDescription": "Adaptec SmartRAID 3102-8i RAID controller PCI Express x8 3.0 12 Gbit/s"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Adaptec SmartRAID 3102-8i kontroler RAID PCI",
+            "ProductDescription": "Adaptec SmartRAID 3102-8i RAID-Controller PCI Express x8 3.0 12 Gbit/s"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "760884157848"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1801199",
+        "Weight": 345.0,
+        "Height": 47.0,
+        "Width": 370.0,
+        "Depth": 235.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52556
+              },
+              {
+                "CategoryId": 53372
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042898",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "821eba91-19b0-497e-a508-f11435fb60f4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-04T18:14:17Z'",
+          "ModificationDate": "b'2025-06-04T12:19:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCGYW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:39.216000+00:00",
+        "sequence_number": 159774
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE NS204i-p x2 Lanes NVMe P12965-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE NS204i-p x2 Lanes NVMe P12965-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE NS204i-p x2 Lanes NVMe P12965-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017354101"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P12965-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065102",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE NS204i-p x2 Lanes NVMe PCIe3 x8 OS Boot Device P12965-B21"
+      },
+      "properties": {
+        "message_id": "8361b939-fa02-49dc-bcb7-2d5fc9cb7f51",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:35.060000+00:00",
+        "sequence_number": 163896
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0022",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant SN1200E 16Gb 1p FC HBA Q0L13A",
+            "ProductDescription": "HPE SN1200E Wewnętrzny Włókno 16000 Mbit/s"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant SN1200E 16Gb 1p FC HBA Q0L13A",
+            "ProductDescription": "HPE SN1200E Internal Fiber 16000 Mbit/s"
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant SN1200E 16Gb 1p FC HBA Q0L13A",
+            "ProductDescription": "HPE SN1200E Eingebaut Faser 16000 Mbit/s"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017103747"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Q0L13A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065103",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant SN1200E 16Gb 1p FC HBA Q0L13A"
+      },
+      "properties": {
+        "message_id": "a2079e65-590d-4840-b355-4ccb4a73ae2b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:56:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:35.060000+00:00",
+        "sequence_number": 163897
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KONLSIAKC0035",
+        "ProductVersion": "1.3",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "LSI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CACHE VAULT KIT LSICVM02 DO KONTR. LSI 9361/9380",
+            "ProductDescription": "Broadcom CVM02 Moduł ochrony skrytki"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CACHE VAULT KIT LSICVM02 DO KONTR. LSI 9361/9380",
+            "ProductDescription": "Broadcom CVM02 Cache protection module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "CACHE VAULT KIT LSICVM02 DO KONTR. LSI 9361/9380",
+            "ProductDescription": "Broadcom CVM02 Zwischenspeicher-Schutzmodul"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "830343003082"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 235.0,
+        "Height": 155.0,
+        "Width": 50.0,
+        "Depth": 175.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53373
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100017491",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "93e4379c-44ec-43d2-bc2d-e7731c12152c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2014-07-30T14:25:16Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KONLSIAKC0035'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:03.160000+00:00",
+        "sequence_number": 119840
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFTUK",
+        "ProductVersion": "1.2",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "ASUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kontroler Asus 2x Thunderbolt 4 ThunderboltEX 4",
+            "ProductDescription": "ASUS ThunderboltEX 4 adapter Wewnętrzny Mini DisplayPort, PCIe, Thunderbolt, USB 2.0, USB 3.2 Gen 2 (3.1 Gen 2)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kontroler Asus 2x Thunderbolt 4 ThunderboltEX 4",
+            "ProductDescription": "ASUS THUNDERBOLTEX 4 Card"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kontroler Asus 2x Thunderbolt 4 ThunderboltEX 4",
+            "ProductDescription": "ASUS Thunderbolt EX4 PCIe 3.0 x4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4711081115243"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "90MC09P0-M0EAY0",
+        "Weight": 460.0,
+        "Height": 188.0,
+        "Width": 47.0,
+        "Depth": 88.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52556
+              },
+              {
+                "CategoryId": 53372
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046908",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "11d9dfa4-71f3-484f-80ed-588344681ec0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-27T10:42:54Z'",
+          "ModificationDate": "b'2025-06-04T12:21:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFTUK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:10.936000+00:00",
+        "sequence_number": 149210
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE MR216i-p ProLiant Gen10+ P26324-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE MR216i-p ProLiant Gen10+ P26324-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE MR216i-p ProLiant Gen10+ P26324-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017444048"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P26324-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058214",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Broadcom MR216i-p Cntrl for HPE ProLiant Gen10+ P26324-B21"
+      },
+      "properties": {
+        "message_id": "d81e2fec-07df-48d8-b516-69b5bb3d4f53",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:54.681000+00:00",
+        "sequence_number": 150201
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant P408i-a SR Gen10 804331-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant P408i-a SR Gen10 804331-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant P408i-a SR Gen10 804331-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4514953854161"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "804331-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058215",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant Smart Array P408i-a SR Gen10 Ctrlr 804331-B21"
+      },
+      "properties": {
+        "message_id": "e26baa51-6e2b-47b1-9908-2bfc31cf6fe2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:54.681000+00:00",
+        "sequence_number": 150202
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE MR416i-o Storage Controller P47781-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE MR416i-o Storage Controller P47781-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE MR416i-o Storage Controller P47781-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017544144"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P47781-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058216",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE MR416i-o Gen11 x16 Lanes 8GB Cache OCP SPDM Storage Controller P47781-B21"
+      },
+      "properties": {
+        "message_id": "73341e5b-8997-4244-82ee-ba8fcbbadeb8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:56:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:54.681000+00:00",
+        "sequence_number": 150203
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0021",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant SN1100Q 16Gb 1p FC HBA P9D93A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant SN1100Q 16Gb 1p FC HBA P9D93A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant SN1100Q 16Gb 1p FC HBA P9D93A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017036809"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P9D93A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058217",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant SN1100Q 16Gb 1p FC HBA P9D93A"
+      },
+      "properties": {
+        "message_id": "3f22ffc0-2f42-4878-a0ed-e25243328000",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:56:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:54.681000+00:00",
+        "sequence_number": 150204
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE MR416i-p Gen11 Storage Controller P47777-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE MR416i-p Gen11 Storage Controller P47777-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE MR416i-p Gen11 Storage Controller P47777-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017544106"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P47777-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073000",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE MR416i-p Gen11 x16 Lanes 8GB Cache PCI SPDM Plug-in Storage Controller P47777-B21"
+      },
+      "properties": {
+        "message_id": "1518f290-ec42-45b0-bb0a-1198ee890b4c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:20.693000+00:00",
+        "sequence_number": 144740
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Broadcom MR416i-a Cntrl for HPE P26279-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Broadcom MR416i-a Cntrl for HPE P26279-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Broadcom MR416i-a Cntrl for HPE P26279-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017443775"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P26279-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073001",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Broadcom MR416i-a Cntrl for HPE ProLiant Gen10+ P26279-B21"
+      },
+      "properties": {
+        "message_id": "8c019578-3996-4f27-ad01-61a8a3db0e84",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:20.693000+00:00",
+        "sequence_number": 144741
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant E208i-p SR Gen10 804394-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant E208i-p SR Gen10 804394-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant E208i-p SR Gen10 804394-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4514953854307"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "804394-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048197",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant Smart Array E208i-p SR Gen10 Ctrlr 804394-B21"
+      },
+      "properties": {
+        "message_id": "69df94fb-5e81-41f2-823c-73f0f78976a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:54.466000+00:00",
+        "sequence_number": 108268
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSBDCMOD0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "BROADCOM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Broadcom CacheVault CVPM05 05-50039-00",
+            "ProductDescription": "Broadcom CVPM05 Moduł ochrony skrytki"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Broadcom CacheVault CVPM05 05-50039-00",
+            "ProductDescription": "Broadcom CVPM05 Cache protection module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Broadcom CacheVault CVPM05 05-50039-00",
+            "ProductDescription": "Broadcom CVPM05 Zwischenspeicher-Schutzmodul"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "830343003655"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85076000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "05-50039-00",
+        "Weight": 180.0,
+        "Height": 50.0,
+        "Width": 175.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.20.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53373
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087894",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Broadcom CacheVault CVPM05 for 9679, 9660, 9580, 9560, 9460, 9480 Series Cache Protection Module"
+      },
+      "properties": {
+        "message_id": "59f86e81-b0a3-48be-aff0-aad198d59ef5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-06T15:52:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSBDCMOD0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:30.230000+00:00",
+        "sequence_number": 136970
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE SN1200E 16Gb Dual Port FC HBA Q0L14A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE SN1200E 16Gb Dual Port FC HBA Q0L14A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE SN1200E 16Gb Dual Port FC HBA Q0L14A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017103754"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Q0L14A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069928",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE SN1200E 16Gb Dual Port Fibre Channel Host Bus Adapter Q0L14A"
+      },
+      "properties": {
+        "message_id": "1953f7a0-f02d-45f3-a586-ebe17cb9994f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:28.032000+00:00",
+        "sequence_number": 151954
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE SN1610Q 32Gb 2-port FC HBA R2J63A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE SN1610Q 32Gb 2-port FC HBA R2J63A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE SN1610Q 32Gb 2-port FC HBA R2J63A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017358987"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R2J63A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069929",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE SN1610Q 32Gb 2-port Fibre Channel Host Bus Adapter R2J63A"
+      },
+      "properties": {
+        "message_id": "79aa4773-6019-4799-a884-1ef29ad3f753",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:28.032000+00:00",
+        "sequence_number": 151955
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MR216i-p Gen11 P47785-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MR216i-p Gen11 P47785-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MR216i-p Gen11 P47785-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017544182"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P47785-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069930",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MR216i-p Gen11 SPDM Storage Cntlr P47785-B21"
+      },
+      "properties": {
+        "message_id": "b66626b1-246d-4742-94e5-9e273295712a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:28.032000+00:00",
+        "sequence_number": 151956
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE MR408i-o Storage Controller P58335-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE MR408i-o Storage Controller P58335-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE MR408i-o Storage Controller P58335-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017623740"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P58335-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069931",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE MR408i-o Gen11 x8 Lanes 4GB Cache OCP SPDM Storage Controller P58335-B21"
+      },
+      "properties": {
+        "message_id": "dabff60e-e2a9-4e9b-a462-8e1f60344895",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:56:01Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:28.032000+00:00",
+        "sequence_number": 151957
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0018",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE SR932i-p Controller P04220-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE SR932i-p Controller P04220-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE SR932i-p Controller P04220-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017282763"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P04220-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069932",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE SR932i-p x32 Lanes 8GB Wide Cache NVMe/SAS 24G Controller P04220-B21"
+      },
+      "properties": {
+        "message_id": "853e0f99-c763-4a64-bf94-7ef0b9d8cac9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:56:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:28.032000+00:00",
+        "sequence_number": 151958
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGK78",
+        "ProductVersion": "1.2",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "BROADCOM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Broadcom MegaRAID 9361-8i 1GB 05-25420-08",
+            "ProductDescription": "Broadcom MegaRAID SAS 9361-8i kontroler RAID PCI Express x8 3.0 12 Gbit/s"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Broadcom MegaRAID 9361-8i 1GB 05-25420-08",
+            "ProductDescription": "Broadcom MegaRAID SAS 9361-8i RAID controller PCI Express x8 3.0 12 Gbit/s"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Broadcom MegaRAID 9361-8i 1GB 05-25420-08",
+            "ProductDescription": "Broadcom MegaRAID SAS 9361-8i RAID-Controller PCI Express x8 3.0 12 Gbit/s"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "830343003075"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "05-25420-08",
+        "Weight": 235.0,
+        "Height": 55.0,
+        "Width": 228.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53372
+              },
+              {
+                "CategoryId": 52556
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047586",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ce9249a4-c3bb-4d1a-811c-19c4e14e478b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-14T10:08:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGK78'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:57.351000+00:00",
+        "sequence_number": 115631
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant SN1100Q 16Gb 2p FC HBA P9D94A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant SN1100Q 16Gb 2p FC HBA P9D94A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant SN1100Q 16Gb 2p FC HBA P9D94A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017036816"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P9D94A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047680",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant SN1100Q 16Gb 2p FC HBA P9D94A"
+      },
+      "properties": {
+        "message_id": "9702c3ce-b41e-433b-a77e-7f0d99026166",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:58.195000+00:00",
+        "sequence_number": 115687
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant SN1610Q 32Gb 2p FC HBA R2E09A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant SN1610Q 32Gb 2p FC HBA R2E09A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant SN1610Q 32Gb 2p FC HBA R2E09A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017354712"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R2E09A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050513",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant SN1610Q 32Gb 2p FC HBA R2E09A"
+      },
+      "properties": {
+        "message_id": "df7f0057-b377-4ace-b627-565b67527401",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:13.853000+00:00",
+        "sequence_number": 137900
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0020",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE MR416i-p Controller P06367-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE MR416i-p Controller P06367-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE MR416i-p Controller P06367-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017298498"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P06367-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050692",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE MR416i-p Gen10 Plus x16 Lanes 4GB Cache NVMe/SAS 12G Controller P06367-B21"
+      },
+      "properties": {
+        "message_id": "142924f9-e17e-4927-9e78-983731744967",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:56:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:17.150000+00:00",
+        "sequence_number": 138069
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant SN1600E 32Gb 2p FC HBA Q0L12A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant SN1600E 32Gb 2p FC HBA Q0L12A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant SN1600E 32Gb 2p FC HBA Q0L12A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017103631"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Q0L12A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076884",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant SN1600E 32Gb 2p FC HBA Q0L12A"
+      },
+      "properties": {
+        "message_id": "041cb285-2bb3-4766-93a7-7a02307319f3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:39.237000+00:00",
+        "sequence_number": 152513
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant E208e-p SR Gen10 804398-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant E208e-p SR Gen10 804398-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant E208e-p SR Gen10 804398-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4514953854321"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "804398-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076885",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant Smart Array E208e-p SR Gen10 Ctrlr 804398-B21"
+      },
+      "properties": {
+        "message_id": "b61ec91d-c20c-4dfa-ad69-adc103ba6c26",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:39.237000+00:00",
+        "sequence_number": 152514
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE SR416i-a Controller P12688-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE SR416i-a Controller P12688-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE SR416i-a Controller P12688-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017496917"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P12688-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076886",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE SR416i-a x16 Lanes 4GB Cache NVMe/SAS 24G Controller P12688-B21"
+      },
+      "properties": {
+        "message_id": "3260757b-3b80-4a11-a4a3-33cad49a8ae0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:56:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:39.237000+00:00",
+        "sequence_number": 152515
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDXN3",
+        "ProductVersion": "1.4",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "Xerox",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Xerox 115R00089 grzałka utrwalająca",
+            "ProductDescription": "Xerox 115R00089 grzałka utrwalająca"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Xerox 115R00089 grzałka utrwalająca",
+            "ProductDescription": "Xerox VersaLink C40X / WorkCentre 6655 Fuser 220V (Long-Life Item, Typically Not Required At Average Usage Levels)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Xerox 115R00089 grzałka utrwalająca",
+            "ProductDescription": "Xerox VersaLink C40X / WorkCentre 6655 220-V-Fixiereinheit (Long-Life Item, Typically Not Required At Average Usage Levels)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "095205863901"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84439990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "115R00089",
+        "Weight": 1690.0,
+        "Height": 523.0,
+        "Width": 273.0,
+        "Depth": 247.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.23.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54492
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53373
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079980",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c7dc2a75-5885-403d-a9e1-dfc0762fb20f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-30T15:50:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDXN3'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:34.660000+00:00",
+        "sequence_number": 104621
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PE MR216i-o Storage Controller P47789-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PE MR216i-o Storage Controller P47789-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PE MR216i-o Storage Controller P47789-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017544229"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P47789-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061203",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PE MR216i-o Gen11 x16 Lanes without Cache OCP SPDM Storage Controller P47789-B21"
+      },
+      "properties": {
+        "message_id": "03381a41-74e1-4fde-bad7-4c824505d4ff",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:55:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:58.296000+00:00",
+        "sequence_number": 126717
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KON4WOFIW0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "4World",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KONTROLER 4 PORTY (3+1) FiIREWIRE/1394 NA PCI",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KONTROLER 4 PORTY (3+1) FiIREWIRE/1394 NA PCI",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KONTROLER 4 PORTY (3+1) FiIREWIRE/1394 NA PCI",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907808444515"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "01801",
+        "Weight": 125.0,
+        "Height": 130.0,
+        "Width": 185.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52551
+              },
+              {
+                "CategoryId": 53370
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077158",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b5f89d55-7c0e-4438-a609-7002feb81434",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2007-07-10T00:00:00Z'",
+          "ModificationDate": "b'2025-09-30T13:40:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KON4WOFIW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:00.050000+00:00",
+        "sequence_number": 156516
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSBDCRAI0040",
+        "ProductVersion": "1.2",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "BROADCOM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Broadcom MegaRAID SAS 9440-8i 12Gb/s 05-50008-02",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Broadcom MegaRAID SAS 9440-8i 12Gb/s 05-50008-02",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Broadcom MegaRAID SAS 9440-8i 12Gb/s 05-50008-02",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "05-50008-02",
+        "Weight": 250.0,
+        "Height": 31.0,
+        "Width": 230.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52556
+              },
+              {
+                "CategoryId": 53372
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082184",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Broadcom MegaRAID SAS 9440-8i 12Gb/s SATA/SAS PCIe 3.1, 2 x SFF-8643 mini-SAS HD"
+      },
+      "properties": {
+        "message_id": "fddf1d1b-f4f7-4074-90a2-5b004ae7fd45",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-16T11:45:54Z'",
+          "ModificationDate": "b'2025-09-30T13:40:55Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSBDCRAI0040'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:32.439000+00:00",
+        "sequence_number": 128588
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCSNT",
+        "ProductVersion": "1.2",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "Adaptec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Microsemi HBA 1100-4i adapter Wewnętrzny Mini-SAS",
+            "ProductDescription": "Microsemi HBA 1100-4i adapter Wewnętrzny Mini-SAS HD"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Microsemi HBA 1100-4i adapter Wewnętrzny Mini-SAS",
+            "ProductDescription": "Microsemi HBA 1100-4i interface cards/adapter Internal Mini-SAS HD"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Microsemi HBA 1100-4i adapter Wewnętrzny Mini-SAS",
+            "ProductDescription": "Microsemi HBA 1100-4i Schnittstellenkarte/Adapter Eingebaut Mini-SAS HD"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "760884157770"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD2293400-R",
+        "Weight": 35.0,
+        "Height": 240.0,
+        "Width": 370.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53371
+              },
+              {
+                "CategoryId": 52552
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044084",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "70946efa-2634-48b4-8c26-7bf72c116d6e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-04T08:00:24Z'",
+          "ModificationDate": "b'2025-06-04T12:20:02Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCSNT'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:48.241000+00:00",
+        "sequence_number": 115125
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "KDSHPNDED0019",
+        "ProductVersion": "1.1",
+        "ProductType": "Kontrolery dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PE NS204i-u Storage Device P48183-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PE NS204i-u Storage Device P48183-B21",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PE NS204i-u Storage Device P48183-B21",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017546834"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P48183-B21",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54604
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051407",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "PE NS204i-u Gen11 NVMe Hot Plug Boot Optimized Storage Device P48183-B21"
+      },
+      "properties": {
+        "message_id": "4d8d02c1-38f0-4f6c-9e4e-fb8fb41a6da6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T16:56:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'KDSHPNDED0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:12.322000+00:00",
+        "sequence_number": 129366
+      }
+    }
+  ]
+}

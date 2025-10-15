@@ -1,0 +1,608 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "NAKMAKTIW0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Taczki i wózki",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Samobieżny wózek transportowy MAKITA DCU180Z 18V",
+            "ProductDescription": "Makita DCU180Z bez kategorii"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Samobieżny wózek transportowy MAKITA DCU180Z 18V",
+            "ProductDescription": "Makita DCU180Z not categorized"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Samobieżny wózek transportowy MAKITA DCU180Z 18V",
+            "ProductDescription": "Makita DCU180Z Nicht kategorisiert"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381849760"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87168000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DCU180Z",
+        "Weight": 41000.0,
+        "Height": 500.0,
+        "Width": 600.0,
+        "Depth": 1100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.99.10.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52981
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55245
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065755",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3b01f291-f5ba-4202-8c41-6a72e7f0bd69",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-03-05T16:13:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAKMAKTIW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:41.811000+00:00",
+        "sequence_number": 164205
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDNWZ",
+        "ProductVersion": "1.3",
+        "ProductType": "Taczki i wózki",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "AWTOOLS TACZKA BUDOWLANA 85L/1,5mm",
+            "ProductDescription": "AWTOOLS AW00031 wózek i taczka ogrodowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "AWTOOLS TACZKA BUDOWLANA 85L/1,5mm",
+            "ProductDescription": "AWTOOLS WHEELBARROW CONSTRUCTION 85L/1.5mm BROWN+WHEEL COVER"
+          },
+          {
+            "Language": "de",
+            "ProductName": "AWTOOLS TACZKA BUDOWLANA 85L/1,5mm",
+            "ProductDescription": "AWTOOLS SCHUBKARRE KONSTRUKTION 85L/1.5mm BRAUN+RADABDECKUNG"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "87168000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW00031",
+        "Weight": 21000.0,
+        "Height": 1350.0,
+        "Width": 870.0,
+        "Depth": 760.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.99.10.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53099
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55245
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045790",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8cba09f0-9a21-4936-a138-90d37f442815",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-19T13:40:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDNWZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:03.381000+00:00",
+        "sequence_number": 106826
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWRE",
+        "ProductVersion": "1.2",
+        "ProductType": "Taczki i wózki",
+        "Brand": "NILS eXtreme",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NC1606 WÓZEK NIEBIESKO-SZARY 125L NILS CAMP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NC1606 WÓZEK NIEBIESKO-SZARY 125L NILS CAMP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NC1606 WÓZEK NIEBIESKO-SZARY 125L NILS CAMP",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695557466"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87168000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "15-03-503",
+        "Weight": 9850.0,
+        "Height": 190.0,
+        "Width": 770.0,
+        "Depth": 540.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.99.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53099
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55245
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046024",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "42642a32-c913-44d9-a425-c72fecb37d14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-12T10:16:04Z'",
+          "ModificationDate": "b'2025-06-04T12:21:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWRE'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:05.147000+00:00",
+        "sequence_number": 106949
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJYF",
+        "ProductVersion": "1.2",
+        "ProductType": "Taczki i wózki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taczka ogrodowa LOAD & GO II - czarny",
+            "ProductDescription": "Taczka ogrodowa Prosperplast Load & Go II"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taczka ogrodowa LOAD & GO II - czarny",
+            "ProductDescription": "Wheelbarrow Prosperplast Load & Go II"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taczka ogrodowa LOAD & GO II - czarny",
+            "ProductDescription": "Schubkarre Prosperplast Load & Go II"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197979656"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87168000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IWO85C-S411",
+        "Weight": 3830.0,
+        "Height": 800.0,
+        "Width": 545.0,
+        "Depth": 750.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.99.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53099
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55245
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040483",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1f8d52a7-8177-4ff7-abe4-9c1f12b54251",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-15T15:19:28Z'",
+          "ModificationDate": "b'2025-06-04T12:17:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJYF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:24.826000+00:00",
+        "sequence_number": 164946
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREE06",
+        "ProductVersion": "1.3",
+        "ProductType": "Taczki i wózki",
+        "Brand": "TOYA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FLO WÓZEK OGRODOWY/TRANSPORTOWY 150kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FLO WÓZEK OGRODOWY/TRANSPORTOWY 150kg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "FLO WÓZEK OGRODOWY/TRANSPORTOWY 150kg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083078736"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87168000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "90204",
+        "Weight": 12200.0,
+        "Height": 200.0,
+        "Width": 500.0,
+        "Depth": 900.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.99.10.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53099
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55245
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046383",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f6abfc9a-b06d-4ae4-886a-3fcc2baea620",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-04T13:53:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREE06'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:08.834000+00:00",
+        "sequence_number": 107125
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBKYM",
+        "ProductVersion": "1.2",
+        "ProductType": "Taczki i wózki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taczka ogrodowa Prosperplast LOAD&GO IWO55C-S411",
+            "ProductDescription": "Prosperplast Load&go Taczka 55l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taczka ogrodowa Prosperplast LOAD&GO IWO55C-S411",
+            "ProductDescription": "Prosperplast Load&go Wheelbarrow 55l"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taczka ogrodowa Prosperplast LOAD&GO IWO55C-S411",
+            "ProductDescription": "Prosperplast Load&go Schubkarre 55l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197089928"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87168000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IWO55C-S411",
+        "Weight": 1885.0,
+        "Height": 840.0,
+        "Width": 530.0,
+        "Depth": 500.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.99.10.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53099
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55245
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040602",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9678fcfd-f125-45a1-a96a-171045b5dd17",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-17T08:45:20Z'",
+          "ModificationDate": "b'2025-06-04T12:18:02Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBKYM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:36.273000+00:00",
+        "sequence_number": 137350
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBLPJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Taczki i wózki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Taczka ogrodowa LOAD & GO III - czarny",
+            "ProductDescription": "Prosperplast Load&go III Ręczna taczka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Taczka ogrodowa LOAD & GO III - czarny",
+            "ProductDescription": "PP. LOAD&GO III GARDEN WHEELBARROW BLACK"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Taczka ogrodowa LOAD & GO III - czarny",
+            "ProductDescription": "PP. LOAD&GO III GARTENSCHUBKARRE SCHWARZ"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197979694"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87168000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IWO95C-S411",
+        "Weight": 4000.0,
+        "Height": 510.0,
+        "Width": 960.0,
+        "Depth": 800.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.99.10.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53099
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55245
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040691",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b886a1a-8ee1-48d9-8fe8-f1358370f2c6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-19T18:30:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBLPJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:38.054000+00:00",
+        "sequence_number": 137404
+      }
+    }
+  ]
+}

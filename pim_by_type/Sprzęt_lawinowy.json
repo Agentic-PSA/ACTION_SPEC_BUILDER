@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD882",
+        "ProductVersion": "1.1",
+        "ProductType": "Sprzęt lawinowy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pokrowiec evo5 holster ARVA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pokrowiec evo5 holster ARVA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pokrowiec evo5 holster ARVA",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3700507913458"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "42021299",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0009228400000035",
+        "Weight": 140.0,
+        "Height": 58.0,
+        "Width": 162.0,
+        "Depth": 107.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56777
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56688
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067101",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2b13449d-c20e-4792-bae2-c6f2113bb339",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-17T14:32:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD882'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:06.891000+00:00",
+        "sequence_number": 103160
+      }
+    }
+  ]
+}

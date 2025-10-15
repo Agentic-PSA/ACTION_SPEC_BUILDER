@@ -1,0 +1,173 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAYD",
+        "ProductVersion": "1.1",
+        "ProductType": "Kufry",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RAYEN Pokrowiec na motocykl L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RAYEN Pokrowiec na motocykl L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "RAYEN Pokrowiec na motocykl L",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "42021299",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6380.50",
+        "Weight": 770.0,
+        "Height": 75.0,
+        "Width": 375.0,
+        "Depth": 215.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53713
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54943
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084316",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3bb4d6bf-c17a-4b83-8979-408aa06ceba3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T11:50:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAYD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:41.123000+00:00",
+        "sequence_number": 130855
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGHM1",
+        "ProductVersion": "1.1",
+        "ProductType": "Kufry",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NEO Pokrowiec oddychający na motocykl 10-472",
+            "ProductDescription": "NEO tools 10-472 pokrowiec na sprzęt"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NEO Pokrowiec oddychający na motocykl 10-472",
+            "ProductDescription": "NEO tools 10-472 equipment dust cover"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NEO Pokrowiec oddychający na motocykl 10-472",
+            "ProductDescription": "NEO tools 10-472 Abdeckhaube"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558471090"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "42029298",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10-472",
+        "Weight": 700.0,
+        "Height": 240.0,
+        "Width": 330.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54943
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53713
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054175",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f90d0326-5ab7-41ad-9308-485bf96a53c1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T07:30:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGHM1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:13.212000+00:00",
+        "sequence_number": 129437
+      }
+    }
+  ]
+}

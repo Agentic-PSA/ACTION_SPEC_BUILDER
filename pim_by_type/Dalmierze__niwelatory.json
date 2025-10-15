@@ -1,0 +1,2343 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASYW",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "UNI-T",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Miernik dystansu Uni-T LM120A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Miernik dystansu Uni-T LM120A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Miernik dystansu Uni-T LM120A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890074803"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MIE0449",
+        "Weight": 220.0,
+        "Height": 65.0,
+        "Width": 170.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038197",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ffada41b-11da-49c3-8a99-3fc8308bd006",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-02T16:06:52Z'",
+          "ModificationDate": "b'2025-06-04T12:16:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASYW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:06.082000+00:00",
+        "sequence_number": 119965
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHRA",
+        "ProductVersion": "1.1",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "PULSAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pulsar Telos LRF XQ35",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pulsar Telos LRF XQ35",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pulsar Telos LRF XQ35",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4779022926013"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "77512",
+        "Weight": 1720.0,
+        "Height": 307.0,
+        "Width": 278.0,
+        "Depth": 395.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093059",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6542b745-bd05-4f32-af9a-5261864272ae",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T12:40:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHRA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:29.890000+00:00",
+        "sequence_number": 165208
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCATF",
+        "ProductVersion": "1.1",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "TOPEX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Topex 31C800 koło miernicze",
+            "ProductDescription": "Topex 31C800 koło miernicze"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Topex 31C800 koło miernicze",
+            "ProductDescription": "Topex 31C800 measuring wheel"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Topex 31C800 koło miernicze",
+            "ProductDescription": "Topex 31C800 Messrad"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TOP-31C800",
+        "Weight": 1355.0,
+        "Height": 85.0,
+        "Width": 170.0,
+        "Depth": 700.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090007",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "58c0a755-9458-4845-a848-4eb09cb5f19f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-16T10:06:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCATF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:52.455000+00:00",
+        "sequence_number": 168027
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFLEJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy YT 50m",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy YT 50m",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy YT 50m",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083108006"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-731251",
+        "Weight": 174.0,
+        "Height": 179.0,
+        "Width": 81.0,
+        "Depth": 48.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067260",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8edcb351-f528-456b-b881-e72457c0c7ba",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-25T13:27:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFLEJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:14.803000+00:00",
+        "sequence_number": 152870
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAITF",
+        "ProductVersion": "1.3",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "bosch",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy GLM 50-27C 0601072T00 BOSCH",
+            "ProductDescription": "Bosch GLM 50-27 C PROFESSIONAL Dalmierz laserowy Czarny, Niebieski 50 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy GLM 50-27C 0601072T00 BOSCH",
+            "ProductDescription": "Bosch GLM 50-27 C PROFESSIONAL Laser distance meter Black, Blue 50 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy GLM 50-27C 0601072T00 BOSCH",
+            "ProductDescription": "Bosch GLM 50-27 C PROFESSIONAL Laser-Distanzmessgerät Schwarz, Blau 50 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4059952518824"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0601072T00",
+        "Weight": 550.0,
+        "Height": 135.0,
+        "Width": 160.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036459",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1683f92f-0910-47e0-a127-ff0d3022add6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T17:55:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAITF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:01.714000+00:00",
+        "sequence_number": 162251
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAITG",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy DEWALT DW099S-XJ Bluetooth 30ms",
+            "ProductDescription": "DeWALT DW099S Niwelator liniowy 30 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy DEWALT DW099S-XJ Bluetooth 30ms",
+            "ProductDescription": "DeWalt DW099S-XJ - laserdistancemaler"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy DEWALT DW099S-XJ Bluetooth 30ms",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5035048666135"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DW099S-XJ",
+        "Weight": 306.0,
+        "Height": 40.0,
+        "Width": 135.0,
+        "Depth": 184.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036460",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "01c5b3ae-8f1f-4824-b989-908e496d0086",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-19T10:02:57Z'",
+          "ModificationDate": "b'2025-06-04T12:15:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAITG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:01.714000+00:00",
+        "sequence_number": 162252
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGFR3",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "SMART365",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laser krzyżowy zielony 30 m SMART365 SM-06-02030G",
+            "ProductDescription": "Laser krzyżowy zielony 30 m SMART365 SM-06-02030G"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laser krzyżowy zielony 30 m SMART365 SM-06-02030G",
+            "ProductDescription": "Green crossed laser 30 m SMART365 SM-06-02030G"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laser krzyżowy zielony 30 m SMART365 SM-06-02030G",
+            "ProductDescription": "Grüner gekreuzter Laser 30 m SMART365 SM-06-02030G"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901769685550"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SM-06-02030G",
+        "Weight": 460.0,
+        "Height": 105.0,
+        "Width": 125.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051997",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b24d626-7ace-4530-9ccd-b0846e8ee9cc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-21T12:11:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGFR3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:37.716000+00:00",
+        "sequence_number": 139102
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIHD",
+        "ProductVersion": "1.3",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DeWalt DE0892-XJ 50m",
+            "ProductDescription": "DeWALT DE0892 niwelator obrotowy Niwelator liniowy 50 m 510 nm (< 1 mW)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DeWalt DE0892-XJ 50m",
+            "ProductDescription": "Laser Beam Detector for DW088K & DW089K"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DeWalt DE0892-XJ 50m",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5035048338636"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DE0892-XJ",
+        "Weight": 570.0,
+        "Height": 75.0,
+        "Width": 220.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036330",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6e60f166-d02b-4fdb-a58f-23058f1fc2d6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-02T11:12:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIHD'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.888000+00:00",
+        "sequence_number": 111419
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIHO",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy GLM 40 BOSCH 0601072900",
+            "ProductDescription": "Bosch GLM 40 Professional dalmierz 0,15 - 40 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy GLM 40 BOSCH 0601072900",
+            "ProductDescription": "BOSCH RANGEFINDER GLM 40"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy GLM 40 BOSCH 0601072900",
+            "ProductDescription": "BOSCH ENTFERNUNGSMESSER GLM 40"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3165140883214"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0601072900",
+        "Weight": 438.0,
+        "Height": 160.0,
+        "Width": 130.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036334",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b8d43ca1-21d7-4c14-9617-402b4d4cc1ad",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-24T14:54:49Z'",
+          "ModificationDate": "b'2025-06-04T12:15:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIHO'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.888000+00:00",
+        "sequence_number": 111423
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIW3",
+        "ProductVersion": "1.3",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy MAKITA LD050P 50m",
+            "ProductDescription": "Makita LD050P metrówka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy MAKITA LD050P 50m",
+            "ProductDescription": "MAKITA LASER RANGEFINDER 50m LD050P"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy MAKITA LD050P 50m",
+            "ProductDescription": "MAKITA LASER-ENTFERNUNGSMESSER 50m LD050P"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381635141"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LD050P",
+        "Weight": 252.0,
+        "Height": 50.0,
+        "Width": 180.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "HU",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036471",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fc98d616-0461-441e-b11f-4c231a3ad83d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-21T07:42:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIW3'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:16.028000+00:00",
+        "sequence_number": 111486
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGFRD",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "SMART365",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laser płaszczyznowy green 40m SMART365",
+            "ProductDescription": "Laser płaszczyznowy zielony 40m SMART365 SM-06-03040G"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laser płaszczyznowy green 40m SMART365",
+            "ProductDescription": "Green plane laser 40m SMART365 SM-06-03040G"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laser płaszczyznowy green 40m SMART365",
+            "ProductDescription": "Grüner Planlaser 40m SMART365 SM-06-03040G"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901769687271"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SM-06-03040G",
+        "Weight": 2128.0,
+        "Height": 142.0,
+        "Width": 295.0,
+        "Depth": 337.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079462",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4c0f376e-cde0-4465-8671-3a769826eb14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T07:20:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGFRD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:37.885000+00:00",
+        "sequence_number": 154041
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGAL4",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "SMART365",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "dalmierz laserowy 100m smart365",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "dalmierz laserowy 100m smart365",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "dalmierz laserowy 100m smart365",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SM-06-01100",
+        "Weight": 188.0,
+        "Height": 62.0,
+        "Width": 194.0,
+        "Depth": 112.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085903",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6da1c176-dd36-454a-b2e3-c2cd3b065fe3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-02T12:25:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGAL4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:15.609000+00:00",
+        "sequence_number": 125463
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPDEW2OO0039",
+        "ProductVersion": "1.1",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Detektor laserowy DE0892-XJ DEWALT (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Detektor laserowy DE0892-XJ DEWALT (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Detektor laserowy DE0892-XJ DEWALT (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5035048338636"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DE0892-XJ",
+        "Weight": 570.0,
+        "Height": 120.0,
+        "Width": 220.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080368",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6d4116e7-18ed-45a8-8fc4-8a330a66c11a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-03T13:55:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPDEW2OO0039'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:38.718000+00:00",
+        "sequence_number": 112590
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPNOLDAL0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy Neo Tools 75-206 zasięg 100m IP54",
+            "ProductDescription": "Dalmierz laserowy Neo Tools zasięg 100m, IP54"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy Neo Tools 75-206 zasięg 100m IP54",
+            "ProductDescription": "Neo Tools laser rangefinder 100 m range, IP54"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy Neo Tools 75-206 zasięg 100m IP54",
+            "ProductDescription": "Laser-Entfernungsmesser Neo Tools Reichweite 100 m, IP54"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558463323"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "75-206",
+        "Weight": 290.0,
+        "Height": 45.0,
+        "Width": 175.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056876",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Dalmierz laserowy Neo Tools zasięg 100 m, IP54"
+      },
+      "properties": {
+        "message_id": "270fd562-736d-4be7-b220-138840af024f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-17T12:38:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPNOLDAL0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:04.978000+00:00",
+        "sequence_number": 118048
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0260",
+        "ProductVersion": "1.3",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy DeWalt DW03050 50m",
+            "ProductDescription": "DeWALT DW03050-XJ metrówka Dalmierz laserowy Czarny, Żółty 50 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy DeWalt DW03050 50m",
+            "ProductDescription": "DeWalt DW03050-XJ - laserdistancemaler"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy DeWalt DW03050 50m",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5035048448496"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DW03050-XJ",
+        "Weight": 480.0,
+        "Height": 60.0,
+        "Width": 240.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100032905",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "63332827-1db1-40ef-88d1-66103e0eafe6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-02T10:54:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0260'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:43.326000+00:00",
+        "sequence_number": 141086
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0284",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO DALMIERZ LASEROWY 60m YT-73127",
+            "ProductDescription": "Dalmierz laserowy YATO YT-73127 60m IP65 Pomarańczowy, Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO DALMIERZ LASEROWY 60m YT-73127",
+            "ProductDescription": "YATO LASER RANGEFINDER 60m YT-73127"
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO DALMIERZ LASEROWY 60m YT-73127",
+            "ProductDescription": "YATO LASER ENTFERNUNGSMESSER 60m YT-73127"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083029301"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-73127",
+        "Weight": 320.0,
+        "Height": 50.0,
+        "Width": 145.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100032918",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c28d1a89-0101-4ddb-a58c-a3dbcc0f5c72",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-14T09:10:23Z'",
+          "ModificationDate": "b'2025-06-04T12:13:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0284'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:43.326000+00:00",
+        "sequence_number": 141099
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPMAKDAL0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy MAKITA LD050P 50m",
+            "ProductDescription": "Makita LD050P metrówka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy MAKITA LD050P 50m",
+            "ProductDescription": "Makita LD050P distance meter"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy MAKITA LD050P 50m",
+            "ProductDescription": "Makita LD050P Entfernungsmesser"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381635141"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LD050P",
+        "Weight": 252.0,
+        "Height": 50.0,
+        "Width": 180.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "HU",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093136",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3593b5cc-b343-4469-8ff2-61ae3f5ea101",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-04-17T12:45:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPMAKDAL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:25.730000+00:00",
+        "sequence_number": 171191
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDHKZ",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "DELTA optical",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy Delta Titanium RF-2000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy Delta Titanium RF-2000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy Delta Titanium RF-2000",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901691627017"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DO-2701",
+        "Weight": 410.0,
+        "Height": 73.0,
+        "Width": 150.0,
+        "Depth": 117.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054661",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "83f98310-dcf3-43dd-844f-0eca69b1597e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-11T16:26:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDHKZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:56.467000+00:00",
+        "sequence_number": 160585
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPNOLDAL0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy Neo Tools 75-202 zasięg 20 m",
+            "ProductDescription": "Dalmierz laserowy Neo Tools zasięg 20 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy Neo Tools 75-202 zasięg 20 m",
+            "ProductDescription": "Neo Tools laser rangefinder 20m range"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy Neo Tools 75-202 zasięg 20 m",
+            "ProductDescription": "Laser-Entfernungsmesser Neo Tools 20 m Reichweite"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558431858"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "75-202",
+        "Weight": 140.0,
+        "Height": 125.0,
+        "Width": 200.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076527",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Dalmierz laserowy Neo Tools zasięg 20 m"
+      },
+      "properties": {
+        "message_id": "f558e93d-8827-4df9-b328-92beb6d9edf7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-26T14:29:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPNOLDAL0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:52.877000+00:00",
+        "sequence_number": 156225
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGSCG",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy DL-40M5 z miarą zwijaną 5 metrów",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy DL-40M5 z miarą zwijaną 5 metrów",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy DL-40M5 z miarą zwijaną 5 metrów",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571517797"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3-01-06-L1-084",
+        "Weight": 380.0,
+        "Height": 65.0,
+        "Width": 192.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071399",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "873b8cb5-981b-4d75-94d9-b370b8c38252",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-07T07:21:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGSCG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:18.235000+00:00",
+        "sequence_number": 127817
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRG357",
+        "ProductVersion": "1.1",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "BR1",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myśliwski dalmierz laserowy Levenhuk Camo LC1500",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myśliwski dalmierz laserowy Levenhuk Camo LC1500",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myśliwski dalmierz laserowy Levenhuk Camo LC1500",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905555018805"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "83086",
+        "Weight": 1000.0,
+        "Height": 200.0,
+        "Width": 200.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094148",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9b68df40-ff19-4b9d-a07b-63952c82e7a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-05T09:50:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRG357'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:43.829000+00:00",
+        "sequence_number": 172079
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJAB8",
+        "ProductVersion": "1.1",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "DEDRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy monookular 1000m",
+            "ProductDescription": "DEDRA MC0940 dalmierz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy monookular 1000m",
+            "ProductDescription": "DEDRA MC0940 rangefinder"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy monookular 1000m",
+            "ProductDescription": "DEDRA MC0940 Entfernungsmesser"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902628991409"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MC0940",
+        "Weight": 300.0,
+        "Height": 185.0,
+        "Width": 47.0,
+        "Depth": 305.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094354",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5f444cc1-abc3-4e54-a618-9ffa407a1044",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-06T07:11:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJAB8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:47.641000+00:00",
+        "sequence_number": 172272
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCOYH",
+        "ProductVersion": "1.3",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy Xiaomi Smart Laser Measure BT",
+            "ProductDescription": "Xiaomi MJJGCJYD001QW Dalmierz laserowy Czarny 40 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy Xiaomi Smart Laser Measure BT",
+            "ProductDescription": "Xiaomi MJJGCJYD001QW Laser distance meter Black 40 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy Xiaomi Smart Laser Measure BT",
+            "ProductDescription": "Xiaomi MJJGCJYD001QW Laser-Distanzmessgerät Schwarz 40 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6934177761218"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BHR5596GL",
+        "Weight": 160.0,
+        "Height": 35.0,
+        "Width": 80.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043712",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e4540797-e315-4ccc-938f-747607d6ea5b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-30T12:37:11Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCOYH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:45.663000+00:00",
+        "sequence_number": 115003
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFLEL",
+        "ProductVersion": "1.1",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy 100m",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy 100m",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy 100m",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083108013"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1042908",
+        "Weight": 170.0,
+        "Height": 80.0,
+        "Width": 180.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075193",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4fd07809-3c3e-4708-9ddb-f91652bbd38f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T10:46:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFLEL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:27.081000+00:00",
+        "sequence_number": 143328
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPMAKDAL0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy 30m LD030P MAKITA",
+            "ProductDescription": "Makita LD030P dalmierz Czarny, Turkusowy 0 - 30 m"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy 30m LD030P MAKITA",
+            "ProductDescription": "Makita LD030P rangefinder Black, Turquoise 0 - 30 m"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy 30m LD030P MAKITA",
+            "ProductDescription": "Makita LD030P Entfernungsmesser Schwarz, Türkis 0 - 30 m"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381699914"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LD030P",
+        "Weight": 185.0,
+        "Height": 40.0,
+        "Width": 130.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "HU",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066710",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8ccf0dca-d315-4495-ad8b-ffcb309580a2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-03-19T12:43:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPMAKDAL0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:02.672000+00:00",
+        "sequence_number": 102966
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPNOLDAL0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy Neo Tools zasięg 60m, IP54",
+            "ProductDescription": "Dalmierz laserowy Neo Tools zasięg 60m, IP54"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy Neo Tools zasięg 60m, IP54",
+            "ProductDescription": "Neo Tools laser rangefinder 60m range, IP54"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy Neo Tools zasięg 60m, IP54",
+            "ProductDescription": "Laser-Entfernungsmesser Neo Tools Reichweite 60m, IP54"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558463316"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "75-204",
+        "Weight": 300.0,
+        "Height": 40.0,
+        "Width": 175.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066711",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Dalmierz laserowy Neo Tools zasięg 60m, IP54"
+      },
+      "properties": {
+        "message_id": "c135db60-8c33-42b6-9ce8-b66174d84bf1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-19T13:35:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPNOLDAL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:02.672000+00:00",
+        "sequence_number": 102967
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URPXAODAL0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Dalmierze, niwelatory",
+        "Brand": "Xiaomi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dalmierz laserowy Xiaomi Smart Laser Measure BT",
+            "ProductDescription": "Dalmierz Inteligentny z Bluetooth Xiaomi Smart Laser Measure BT"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dalmierz laserowy Xiaomi Smart Laser Measure BT",
+            "ProductDescription": "Xiaomi Smart Laser Measure"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dalmierz laserowy Xiaomi Smart Laser Measure BT",
+            "ProductDescription": "Xiaomi Smart Laser Measure BT Laser-Entfernungsmesser"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6934177761218"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90151000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BHR5596GL",
+        "Weight": 170.0,
+        "Height": 35.0,
+        "Width": 85.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.70.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55289
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53255
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088182",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f8ee07de-cb2f-4021-b6cf-3b446df335d1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-06-06T12:26:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URPXAODAL0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:15.156000+00:00",
+        "sequence_number": 161413
+      }
+    }
+  ]
+}

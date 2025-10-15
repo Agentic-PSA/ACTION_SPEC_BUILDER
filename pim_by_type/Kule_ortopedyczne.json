@@ -1,0 +1,774 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "PORMLXLOR0001",
+        "ProductVersion": "1.5",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska inwalidzka aluminiowa ozdobna Kwiaty",
+            "ProductDescription": "Laska inwalidzka aluminiowa ozdobna Kwiaty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska inwalidzka aluminiowa ozdobna Kwiaty",
+            "ProductDescription": "Walking stick aluminium decorative Flowers"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska inwalidzka aluminiowa ozdobna Kwiaty",
+            "ProductDescription": "Spazierstock Aluminium dekorative Blumen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001406146"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 350.0,
+        "Height": 165.0,
+        "Width": 695.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100000004",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9bffb0f2-b833-4e61-9814-eae6ae1bde80",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-16T14:27:54Z'",
+          "ModificationDate": "b'2025-10-09T16:11:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORMLXLOR0001'"
+        },
+        "enqueued_time_utc": "2025-10-09 14:18:43.488000+00:00",
+        "sequence_number": 174568
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORMDHLOR0001",
+        "ProductVersion": "1.3",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska trójnóg rehabilitacyjny",
+            "ProductDescription": "Laska trójnóg rehabilitacyjny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska trójnóg rehabilitacyjny",
+            "ProductDescription": "Rehabilitation tripod walking stick"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska trójnóg rehabilitacyjny",
+            "ProductDescription": "Rehabilitation Dreibein Gehstock"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901095207099"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 764.0,
+        "Height": 745.0,
+        "Width": 250.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100025570",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ac3a7370-38ed-4658-993f-90e3d9cafa24",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-14T13:38:50Z'",
+          "ModificationDate": "b'2025-08-07T08:10:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORMDHLOR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:25.762000+00:00",
+        "sequence_number": 109923
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORREHLOR0001",
+        "ProductVersion": "1.3",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska aluminiowa składana czarna RF-520",
+            "ProductDescription": "Laska składana teleskopowa z regulacją wysokości RF-520 - Czarna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska aluminiowa składana czarna RF-520",
+            "ProductDescription": "Telescopic height-adjustable folding cane RF-520 - Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska aluminiowa składana czarna RF-520",
+            "ProductDescription": "Faltbarer Teleskop-Gehstock mit Höhenverstellung RF-520 - Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940702254"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 425.0,
+        "Height": 160.0,
+        "Width": 40.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100025583",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4cb0481a-5651-4696-990d-2cb74319c137",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-13T11:36:43Z'",
+          "ModificationDate": "b'2025-08-07T08:10:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORREHLOR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110781
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORREHLOR0002",
+        "ProductVersion": "1.3",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska aluminiowa składana brązowa",
+            "ProductDescription": "Laska składana teleskopowa z regulacją wysokości RF-520 - Brązowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska aluminiowa składana brązowa",
+            "ProductDescription": "Telescopic height-adjustable folding cane RF-520 - Brown"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska aluminiowa składana brązowa",
+            "ProductDescription": "Faltbarer Teleskop-Gehstock mit Höhenverstellung RF-520 - Braun"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940702261"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 420.0,
+        "Height": 160.0,
+        "Width": 40.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100025584",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7fc895a4-fb17-4da2-8947-2b9a29ac1a0c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-13T11:40:06Z'",
+          "ModificationDate": "b'2025-08-07T08:10:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORREHLOR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:01.886000+00:00",
+        "sequence_number": 110782
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORMLXLOR0001",
+        "ProductVersion": "1.4",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska inwalidzka aluminiowa ozdobna Kwiaty",
+            "ProductDescription": "Laska inwalidzka aluminiowa ozdobna Kwiaty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska inwalidzka aluminiowa ozdobna Kwiaty",
+            "ProductDescription": "Walking stick aluminium decorative Flowers"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska inwalidzka aluminiowa ozdobna Kwiaty",
+            "ProductDescription": "Spazierstock Aluminium dekorative Blumen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001406146"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 350.0,
+        "Height": 165.0,
+        "Width": 695.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100000004",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aba4d09a-2cd5-42fc-936a-655113764ef5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-16T14:27:54Z'",
+          "ModificationDate": "b'2025-08-07T07:34:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORMLXLOR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:00.473000+00:00",
+        "sequence_number": 143716
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORAIVLOR0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska inwalidzka, składana (czarna)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska inwalidzka, składana (czarna)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska inwalidzka, składana (czarna)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI100AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090984",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Laska inwalidzka, składana (czarna)"
+      },
+      "properties": {
+        "message_id": "a469429f-5d21-41d6-acd6-9af7c5bdbd34",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:30:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORAIVLOR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131645
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORAIVLOR0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska inwalidzka, składana (srebrna)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska inwalidzka, składana (srebrna)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska inwalidzka, składana (srebrna)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI101AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090985",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Laska inwalidzka, składana (srebrna)"
+      },
+      "properties": {
+        "message_id": "245f3095-4eab-4f3c-ab15-451d2b80a8a6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:30:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORAIVLOR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131646
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORAIVLOR0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska inwalidzka, regulowana (czarna)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska inwalidzka, regulowana (czarna)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska inwalidzka, regulowana (czarna)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI200AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090986",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Laska inwalidzka, regulowana (czarna)"
+      },
+      "properties": {
+        "message_id": "5ff78f60-d994-49c1-9df2-699c41cf6dba",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:30:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORAIVLOR0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131647
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORAIVLOR0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska inwalidzka, regulowana (miedziana)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska inwalidzka, regulowana (miedziana)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska inwalidzka, regulowana (miedziana)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI201AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090987",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Laska inwalidzka, regulowana (miedziana)"
+      },
+      "properties": {
+        "message_id": "0af0b6fb-88f9-455e-bca3-e1bac0adbce3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:30:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORAIVLOR0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131648
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PORAR3LOR0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Kule ortopedyczne",
+        "Brand": "ARmedical",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Laska inwalidzka aluminiowa z miękkim uchwytem - sr",
+            "ProductDescription": "Laska inwalidzka aluminiowa z miękkim uchwytem"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Laska inwalidzka aluminiowa z miękkim uchwytem - sr",
+            "ProductDescription": "Aluminium walking stick with soft grip"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Laska inwalidzka aluminiowa z miękkim uchwytem - sr",
+            "ProductDescription": "Aluminium Gehstock mit Softgriff"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907713382421"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "66020000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AR-014E",
+        "Weight": 350.0,
+        "Height": 600.0,
+        "Width": 130.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56416
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075937",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6fc2891a-ab98-491d-8b62-53c71d5e4100",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-19T10:41:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PORAR3LOR0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:47.149000+00:00",
+        "sequence_number": 146136
+      }
+    }
+  ]
+}

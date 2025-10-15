@@ -1,0 +1,526 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREGTF",
+        "ProductVersion": "1.2",
+        "ProductType": "Dłuta",
+        "Brand": "MILWAUKEE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MILWAUKEE DŁUTO SDS S.DO PŁYTEK 250x40mm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MILWAUKEE DŁUTO SDS S.DO PŁYTEK 250x40mm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "MILWAUKEE DŁUTO SDS S.DO PŁYTEK 250x40mm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002395320202"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82079099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4932353424",
+        "Weight": 336.0,
+        "Height": 25.0,
+        "Width": 307.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53053
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046419",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "61e04a15-b0b1-4871-872d-e01d44f0beb3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-26T14:25:36Z'",
+          "ModificationDate": "b'2025-06-04T12:21:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREGTF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:07.264000+00:00",
+        "sequence_number": 149054
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJYY",
+        "ProductVersion": "1.2",
+        "ProductType": "Dłuta",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw dłut MAKITA D-42466G SDS-Max 4cz.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw dłut MAKITA D-42466G SDS-Max 4cz.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw dłut MAKITA D-42466G SDS-Max 4cz.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381404921"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82079099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "D-42466G",
+        "Weight": 3500.0,
+        "Height": 420.0,
+        "Width": 175.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53053
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040485",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3a21cadd-e15e-4056-bfac-daeef53badeb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-27T12:00:00Z'",
+          "ModificationDate": "b'2025-06-04T12:17:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJYY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:24.826000+00:00",
+        "sequence_number": 164948
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBKTN",
+        "ProductVersion": "1.2",
+        "ProductType": "Dłuta",
+        "Brand": "DREL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dłuto do drewna półokrągłe:14/18/24/38mm, 4szt DREL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dłuto do drewna półokrągłe:14/18/24/38mm, 4szt DREL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dłuto do drewna półokrągłe:14/18/24/38mm, 4szt DREL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902143147343"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82079099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DR-BCR-9004",
+        "Weight": 1301.0,
+        "Height": 130.0,
+        "Width": 310.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53053
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040592",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5e166fae-b686-41cc-8417-eae127805f3e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-17T10:32:08Z'",
+          "ModificationDate": "b'2025-06-04T12:18:02Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBKTN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:29.133000+00:00",
+        "sequence_number": 122987
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBM75",
+        "ProductVersion": "1.3",
+        "ProductType": "Dłuta",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DT6838-QZ",
+            "ProductDescription": "DeWALT DT6838-QZ wiertło 1 szt."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DT6838-QZ",
+            "ProductDescription": "Bush hammer sds-max45mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DT6838-QZ",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5035048034255"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82079099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DT6838-QZ",
+        "Weight": 653.0,
+        "Height": 50.0,
+        "Width": 285.0,
+        "Depth": 37.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.40.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53053
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040734",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ed3fcfce-afc5-478f-b70f-a9a47651fb29",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-12T16:45:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBM75'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:30.853000+00:00",
+        "sequence_number": 123055
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREF65",
+        "ProductVersion": "1.2",
+        "ProductType": "Dłuta",
+        "Brand": "DeWalt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "zestaw dłut do drewna 6 szt. DeWalt [DWHT16852-9",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "zestaw dłut do drewna 6 szt. DeWalt [DWHT16852-9",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "zestaw dłut do drewna 6 szt. DeWalt [DWHT16852-9",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3253569168521"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82079099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DWHT16852-9",
+        "Weight": 1836.0,
+        "Height": 64.0,
+        "Width": 297.0,
+        "Depth": 351.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.40.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53053
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049232",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "41289c51-0635-4a0e-89d2-037c47dbb4a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-04T10:48:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREF65'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:11.338000+00:00",
+        "sequence_number": 116395
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCYRJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Dłuta",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dłuto do młota udarowego Makita SDS MAX 80x300mm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dłuto do młota udarowego Makita SDS MAX 80x300mm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dłuto do młota udarowego Makita SDS MAX 80x300mm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381932349"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82079099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3063102",
+        "Weight": 655.0,
+        "Height": 80.0,
+        "Width": 395.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53053
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067088",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5fa3c1a2-e380-44d9-9b3b-e5c281900068",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T10:38:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCYRJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:06+00:00",
+        "sequence_number": 103147
+      }
+    }
+  ]
+}

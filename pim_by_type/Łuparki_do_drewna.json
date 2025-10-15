@@ -1,0 +1,173 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0289",
+        "ProductVersion": "1.4",
+        "ProductType": "Łuparki do drewna",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO YT-79943 ŁUPARKA DO DREWNA NOŻNA",
+            "ProductDescription": "Łuparka do drewna YATO YT-79943 nożna 1,2 t Czerwony, Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO YT-79943 ŁUPARKA DO DREWNA NOŻNA",
+            "ProductDescription": "YATO WOOD SPLITTER FOOT SPLITTER"
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO YT-79943 ŁUPARKA DO DREWNA NOŻNA",
+            "ProductDescription": "YATO HOLZSPALTER FUSSSPALTER"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84651010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-79943",
+        "Weight": 10490.0,
+        "Height": 806.0,
+        "Width": 195.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.49.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52995
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55288
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100032922",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bd9b8bed-8e64-4363-aaa6-526d54f601c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-09T08:36:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0289'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:43.326000+00:00",
+        "sequence_number": 141103
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0527",
+        "ProductVersion": "1.4",
+        "ProductType": "Łuparki do drewna",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO ŁUPARKA DO DREWNA RĘCZNA",
+            "ProductDescription": "Yato YT-79940 łuparka do drewna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO ŁUPARKA DO DREWNA RĘCZNA",
+            "ProductDescription": "YATO MANUAL LOG SPLITTER"
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO ŁUPARKA DO DREWNA RĘCZNA",
+            "ProductDescription": "YATO MANUELLER HOLZSPALTER"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083048661"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84651010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-79940",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.49.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52995
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55288
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033027",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ad9d5998-6430-4ace-aa59-5c78e0b6b539",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-11-22T10:16:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0527'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:45.249000+00:00",
+        "sequence_number": 141201
+      }
+    }
+  ]
+}

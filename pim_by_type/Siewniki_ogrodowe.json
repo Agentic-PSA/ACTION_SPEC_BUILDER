@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN93",
+        "ProductVersion": "1.2",
+        "ProductType": "Siewniki ogrodowe",
+        "Brand": "RYO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Siewnik RYOBI OSS1800 18V wersja zerowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Siewnik RYOBI OSS1800 18V wersja zerowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Siewnik RYOBI OSS1800 18V wersja zerowa",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4892210160201"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84248290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5133003729",
+        "Weight": 2000.0,
+        "Height": 305.0,
+        "Width": 325.0,
+        "Depth": 215.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.30.60.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55228
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53089
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064463",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "283b35b4-06a3-45e3-bdfa-f99f66bd5ec9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-23T08:16:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN93'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:29.699000+00:00",
+        "sequence_number": 130222
+      }
+    }
+  ]
+}

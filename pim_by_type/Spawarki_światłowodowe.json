@@ -1,0 +1,173 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR8984",
+        "ProductVersion": "1.3",
+        "ProductType": "Spawarki światłowodowe",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Extralink SPAWARKA ŚWIATŁOWODOWA AI-9",
+            "ProductDescription": "Extralink Spawarka światłowodowa AI-9 akumulator 7800mAh, lampa LED, wyświetlacz LCD 5,1\""
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Extralink SPAWARKA ŚWIATŁOWODOWA AI-9",
+            "ProductDescription": "SIGNAL FIRE AI-9 FIBER OPTIC SPLICER"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Extralink SPAWARKA ŚWIATŁOWODOWA AI-9",
+            "ProductDescription": "SIGNAL FIRE AI-9 LWL-SPLEISSGERÄT"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903148916125"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85153990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.16125",
+        "Weight": 8355.0,
+        "Height": 370.0,
+        "Width": 330.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.31.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54214
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54740
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034248",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5362e135-1cba-49e8-91d2-ad05fe76eeae",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-07T10:37:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR8984'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:46.614000+00:00",
+        "sequence_number": 105901
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPEXT4PS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Spawarki światłowodowe",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Extralink SPAWARKA ŚWIATŁOWODOWA AI-9 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Extralink SPAWARKA ŚWIATŁOWODOWA AI-9 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Extralink SPAWARKA ŚWIATŁOWODOWA AI-9 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85153990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.16125",
+        "Weight": 8350.0,
+        "Height": 375.0,
+        "Width": 335.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.31.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54214
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54740
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085642",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bc9bd7dd-4bc3-4c0f-9332-9f089bbdd12a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-01T09:30:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPEXT4PS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:17.895000+00:00",
+        "sequence_number": 157290
+      }
+    }
+  ]
+}

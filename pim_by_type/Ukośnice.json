@@ -1,0 +1,1217 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREGP5",
+        "ProductVersion": "1.0",
+        "ProductType": "Ukośnice",
+        "Brand": "EINHELL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Piła ukośna TC-SM 2534/1 4300395 EINHELL",
+            "ProductDescription": "Einhell TC-SM 2534/1 Dual 4000 RPM 2350 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Piła ukośna TC-SM 2534/1 4300395 EINHELL",
+            "ProductDescription": "Einhell TC-SM 2534/1 Dual 4000 RPM 2350 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Piła ukośna TC-SM 2534/1 4300395 EINHELL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006825644890"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4300395",
+        "Weight": 18250.0,
+        "Height": 580.0,
+        "Width": 430.0,
+        "Depth": 810.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156507",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ad2a1a20-10ae-4661-90df-235a748d4b07",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T14:22:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREGP5'"
+        },
+        "enqueued_time_utc": "2025-10-06 14:56:41.514000+00:00",
+        "sequence_number": 173924
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJXU",
+        "ProductVersion": "1.3",
+        "ProductType": "Ukośnice",
+        "Brand": "Scheppach",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ukośnica Scheppach HM254",
+            "ProductDescription": "Scheppach HM254 (SCH5901216901) 2000 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ukośnica Scheppach HM254",
+            "ProductDescription": "SCHEPPACH MITER SAW HM254 2000W 254mm/ 340 x 90mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ukośnica Scheppach HM254",
+            "ProductDescription": "SCHEPPACH GEHRUNGSSÄGE HM254 2000W 254mm/ 340 x 90mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4046664069935"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SCH5901216901",
+        "Weight": 17500.0,
+        "Height": 400.0,
+        "Width": 485.0,
+        "Depth": 810.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040479",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2acb2598-0774-47ed-a09c-bcedf8353b97",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-14T10:24:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJXU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:24.826000+00:00",
+        "sequence_number": 164942
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJEE",
+        "ProductVersion": "1.3",
+        "ProductType": "Ukośnice",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Piła ukośnica 1430W MAKITA LS1018LN",
+            "ProductDescription": "Makita LS1018LN piła ukośna 4300 RPM 1430 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Piła ukośnica 1430W MAKITA LS1018LN",
+            "ProductDescription": "MAKITA MITER SAW 1430W 260mm WITH FEED LASER LS1018LN"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Piła ukośnica 1430W MAKITA LS1018LN",
+            "ProductDescription": "MAKITA GEHRUNGSSÄGE 1430W 260mm MIT VORSCHUBLASER LS1018LN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381868143"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LS1018LN",
+        "Weight": 26100.0,
+        "Height": 500.0,
+        "Width": 840.0,
+        "Depth": 540.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040389",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4e07ea00-ad30-48fb-9ad2-47f4777dc5a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-16T09:43:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJEE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:36.273000+00:00",
+        "sequence_number": 137316
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBR17",
+        "ProductVersion": "1.3",
+        "ProductType": "Ukośnice",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "METABO STÓŁ DO UKOŚNIC KSU 100",
+            "ProductDescription": "Metabo KSU 100 stojak do piłowania drewna 4 x noga Czarny, Zielony, Czerwony, Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "METABO STÓŁ DO UKOŚNIC KSU 100",
+            "ProductDescription": "METABO MITRE SAW TABLE KSU 100"
+          },
+          {
+            "Language": "de",
+            "ProductName": "METABO STÓŁ DO UKOŚNIC KSU 100",
+            "ProductDescription": "METABO GEHRUNGSSÄGETISCH KSU 100"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4007430311221"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "629004000",
+        "Weight": 13000.0,
+        "Height": 340.0,
+        "Width": 250.0,
+        "Depth": 1080.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041333",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6d41e0a1-31f4-4687-b7e2-020fbf75ec5f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-13T15:45:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBR17'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:41.824000+00:00",
+        "sequence_number": 137620
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREHPU",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukośnice",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Makita LS0815FLN",
+            "ProductDescription": "Makita LS0815FLN"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Makita LS0815FLN",
+            "ProductDescription": "Makita LS0815FLN"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Makita LS0815FLN",
+            "ProductDescription": "Makita LS0815FLN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381868075"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1564684",
+        "Weight": 19640.0,
+        "Height": 805.0,
+        "Width": 545.0,
+        "Depth": 375.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071145",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0f2f9f55-a30a-402f-bc7a-20c7e001778e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-09T14:55:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREHPU'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:22.027000+00:00",
+        "sequence_number": 109752
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NELBOSUKO0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Ukośnice",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Piła ukośnica 2000 W GCM 12GDL BOSCH",
+            "ProductDescription": "Bosch GCM 12 GDL Professional 4000 RPM 2000 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Piła ukośnica 2000 W GCM 12GDL BOSCH",
+            "ProductDescription": "Bosch GCM 12 GDL Professional 4000 RPM 2000 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Piła ukośnica 2000 W GCM 12GDL BOSCH",
+            "ProductDescription": "Bosch Kapp- und Gehrungssäge GCM 12 GDL Professional"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3165140584890"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0601B23600",
+        "Weight": 28000.0,
+        "Height": 790.0,
+        "Width": 560.0,
+        "Depth": 630.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073632",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f5dc27ad-6dc3-4717-98a8-31d7a7cac5b1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-08-09T10:13:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NELBOSUKO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:29.163000+00:00",
+        "sequence_number": 145197
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREHFP",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukośnice",
+        "Brand": "EINHELL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Einhell TC-SM 2531/2 U 4800 RPM 1900 W",
+            "ProductDescription": "Einhell TC-SM 2531/2 U 4800 RPM 1900 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Einhell TC-SM 2531/2 U 4800 RPM 1900 W",
+            "ProductDescription": "Einhell TC-SM 2531/2 U 4800 RPM 1900 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Einhell TC-SM 2531/2 U 4800 RPM 1900 W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006825645637"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4300805",
+        "Weight": 15520.0,
+        "Height": 410.0,
+        "Width": 560.0,
+        "Depth": 635.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060368",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "096e4580-74d1-4216-bf7d-fcfa237da4f5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-28T15:14:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREHFP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:50.780000+00:00",
+        "sequence_number": 126317
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0592",
+        "ProductVersion": "1.3",
+        "ProductType": "Ukośnice",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pilarka ukosowa z posuwem 1800W YATO YT-82173",
+            "ProductDescription": "Yato YT-82173 piła ukośna 5000 RPM 1800 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pilarka ukosowa z posuwem 1800W YATO YT-82173",
+            "ProductDescription": "YATO MITER SAW 1800W WITH FEED, LASER 255mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pilarka ukosowa z posuwem 1800W YATO YT-82173",
+            "ProductDescription": "YATO GEHRUNGSSÄGE 1800W MIT VORSCHUB, LASER 255mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083047275"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672230",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-82173",
+        "Weight": 16300.0,
+        "Height": 410.0,
+        "Width": 480.0,
+        "Depth": 790.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033058",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cf8da336-42d6-404d-b38b-023031068df5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-08T14:41:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0592'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:46.108000+00:00",
+        "sequence_number": 141229
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0630",
+        "ProductVersion": "1.3",
+        "ProductType": "Ukośnice",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO PIŁA UKOŚNICA 1800W Z POSUWEM",
+            "ProductDescription": "Yato YT-82175 piła ukośna 5000 RPM 1800 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO PIŁA UKOŚNICA 1800W Z POSUWEM",
+            "ProductDescription": "YATO MITER SAW 1800W WITH FEED, LASER 305mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO PIŁA UKOŚNICA 1800W Z POSUWEM",
+            "ProductDescription": "YATO GEHRUNGSSÄGE 1800W MIT VORSCHUB, LASER 305mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083047299"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-82175",
+        "Weight": 26000.0,
+        "Height": 380.0,
+        "Width": 580.0,
+        "Depth": 980.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033081",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0b4d12c6-2b86-4a13-b5ea-f989ff6a7618",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-16T10:13:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0630'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:46.108000+00:00",
+        "sequence_number": 141250
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0731",
+        "ProductVersion": "1.3",
+        "ProductType": "Ukośnice",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "YATO PIŁA UKOŚNICA DO DREWNA I STALI 1800W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "YATO PIŁA UKOŚNICA DO DREWNA I STALI 1800W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "YATO PIŁA UKOŚNICA DO DREWNA I STALI 1800W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083047282"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-82174",
+        "Weight": 17000.0,
+        "Height": 410.0,
+        "Width": 490.0,
+        "Depth": 790.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033109",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "503ebe3f-35e2-4334-86dc-17c8dae5f422",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-05T23:30:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0731'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:47.999000+00:00",
+        "sequence_number": 141278
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NELSCPUKO0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukośnice",
+        "Brand": "Scheppach",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ukośnica Scheppach HM254",
+            "ProductDescription": "Scheppach HM254 (SCH5901216901) 2000 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ukośnica Scheppach HM254",
+            "ProductDescription": "Scheppach HM254 (SCH5901216901) 2000 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ukośnica Scheppach HM254",
+            "ProductDescription": "Scheppach HM254 (SCH5901216901) 2000 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4046664069935"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SCH5901216901",
+        "Weight": 17500.0,
+        "Height": 400.0,
+        "Width": 485.0,
+        "Depth": 810.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073661",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "efd34946-d23f-402f-b9e8-24a2c089ce87",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-07-27T13:08:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NELSCPUKO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:30.007000+00:00",
+        "sequence_number": 145224
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBMB8",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukośnice",
+        "Brand": "Scheppach",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ukośnica Scheppach HM216 softstart",
+            "ProductDescription": "Scheppach HM216 Softstart (SCH59012159958) 2000 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ukośnica Scheppach HM216 softstart",
+            "ProductDescription": "Scheppach HM216 Softstart (SCH59012159958) 2000 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ukośnica Scheppach HM216 softstart",
+            "ProductDescription": "Scheppach HM216 Softstart (SCH59012159958) 2000 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4046664220060"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SCH59012159958",
+        "Weight": 15000.0,
+        "Height": 350.0,
+        "Width": 790.0,
+        "Depth": 420.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093804",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "50d2a424-8e3d-47b2-92c2-7dff6d2417e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-01T16:01:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBMB8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:36.779000+00:00",
+        "sequence_number": 171761
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPTR",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukośnice",
+        "Brand": "Metabo",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Metabo KGS 254 M 4500 RPM 1450 W",
+            "ProductDescription": "Metabo KGS 254 M 4500 RPM 1450 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Metabo KGS 254 M 4500 RPM 1450 W",
+            "ProductDescription": "Metabo KGS 254 M 4500 RPM 1450 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Metabo KGS 254 M 4500 RPM 1450 W",
+            "ProductDescription": "Metabo KGS 254 M 4500 RPM 1450 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4061792218192"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "613254000",
+        "Weight": 16100.0,
+        "Height": 790.0,
+        "Width": 550.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087278",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "43c10bfe-e32a-4358-a9ee-5b31503a401e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-05T19:10:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPTR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:34.990000+00:00",
+        "sequence_number": 158021
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUJJ",
+        "ProductVersion": "1.2",
+        "ProductType": "Ukośnice",
+        "Brand": "Scheppach",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SCHEPPACH PIŁA UKOŚNICA HM140L z przesuwem",
+            "ProductDescription": "Scheppach HM140L 7000 RPM 2000 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SCHEPPACH PIŁA UKOŚNICA HM140L z przesuwem",
+            "ProductDescription": "Scheppach HM140L 7000 RPM 2000 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SCHEPPACH PIŁA UKOŚNICA HM140L z przesuwem",
+            "ProductDescription": "Scheppach HM140L 7000 RPM 2000 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84672290",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SCH5901218901",
+        "Weight": 21000.0,
+        "Height": 530.0,
+        "Width": 540.0,
+        "Depth": 960.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53030
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090490",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "44498449-ed10-40c9-98b2-976abf3a70f9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-16T13:39:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUJJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:48.545000+00:00",
+        "sequence_number": 131191
+      }
+    }
+  ]
+}

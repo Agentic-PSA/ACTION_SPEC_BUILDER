@@ -1,0 +1,271 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "NTOGVICZA0024",
+        "ProductVersion": "1.2",
+        "ProductType": "Czapki",
+        "Brand": "Glovii",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GLOVII CZAPKA OGRZEWANA GC2B",
+            "ProductDescription": "Glovii GC2B nakrycie głowy Czapeczka Poliester"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GLOVII CZAPKA OGRZEWANA GC2B",
+            "ProductDescription": "Glovii GC2B headwear Bonnet Polyester"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GLOVII CZAPKA OGRZEWANA GC2B",
+            "ProductDescription": "Glovii GC2B Kopfbedeckung Mütze Polyester"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908246727376"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "65050090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GC2B",
+        "Weight": 250.0,
+        "Height": 130.0,
+        "Width": 230.0,
+        "Depth": 290.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.19.42.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54301
+              },
+              {
+                "CategoryId": 53853
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54955
+              },
+              {
+                "CategoryId": 56777
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053924",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "97903dff-3563-4f69-9aa1-8762e8d1c76d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-09-14T15:12:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NTOGVICZA0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:55.246000+00:00",
+        "sequence_number": 117518
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "GDGMLCCZA0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Czapki",
+        "Brand": "MLC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czapka Mil-Tec Beanie Cap - Czarny - 12138002",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czapka Mil-Tec Beanie Cap - Czarny - 12138002",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czapka Mil-Tec Beanie Cap - Czarny - 12138002",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4046872149955"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "65050030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP.1582",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.19.42.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53505
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56730
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082620",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czapka Mil-Tec Beanie Cap - Czarny - 12138002"
+      },
+      "properties": {
+        "message_id": "7e200387-9cbe-441f-9f99-eb3c285527eb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T09:46:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'GDGMLCCZA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:56:00.614000+00:00",
+        "sequence_number": 113684
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "GDGCENCZA0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Czapki",
+        "Brand": "Cenega Publishing",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czapka z daszkiem GL Fallout Vintage Baseball Cap",
+            "ProductDescription": " Czapka z daszkiem Good Loot Fallout Vintage Baseball Cap"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czapka z daszkiem GL Fallout Vintage Baseball Cap",
+            "ProductDescription": " Good Loot Fallout Vintage Baseball Cap"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czapka z daszkiem GL Fallout Vintage Baseball Cap",
+            "ProductDescription": " Gute Beute Fallout Vintage Baseballmütze"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908305246404"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "65050030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908305246404",
+        "Weight": 90.0,
+        "Height": 190.0,
+        "Width": 116.0,
+        "Depth": 221.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "14.19.42.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56730
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53505
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049659",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czapka z daszkiem Good Loot Fallout Vintage Baseball Cap"
+      },
+      "properties": {
+        "message_id": "4333fae8-eb93-4caa-bd08-130899f86014",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-02T11:26:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'GDGCENCZA0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:44.585000+00:00",
+        "sequence_number": 116992
+      }
+    }
+  ]
+}

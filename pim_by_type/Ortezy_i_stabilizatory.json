@@ -1,0 +1,784 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "OSTHEBKOL0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "HELBO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Opaska uciskowa HELBO Depan Staza 3,8x95cm (100322)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Opaska uciskowa HELBO Depan Staza 3,8x95cm (100322)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Opaska uciskowa HELBO Depan Staza 3,8x95cm (100322)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90211010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "100322",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56448
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084368",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Opaska uciskowa HELBO Depan Staza 3,8 x 95 cm Tourniquet (100322)"
+      },
+      "properties": {
+        "message_id": "fb01bda8-af0a-404d-bb49-767f9f88de55",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T13:21:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTHEBKOL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:18.252000+00:00",
+        "sequence_number": 136356
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTBCBNID0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "BCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Opaska chłodząca BCB Neck Cooling",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Opaska chłodząca BCB Neck Cooling",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Opaska chłodząca BCB Neck Cooling",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "90211010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CL085S",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56450
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084677",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Opaska chłodząca na szyję lub nadgarstek BCB Neck Cooling"
+      },
+      "properties": {
+        "message_id": "471c24f8-7590-495b-ba36-b535ea438575",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T10:32:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTBCBNID0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:19.205000+00:00",
+        "sequence_number": 136393
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTMDHSTO0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Post operative shoe - Rozmiar XL",
+            "ProductDescription": "MDH Post operative shoe - Rozmiar XL But pooperacyjny Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Post operative shoe - Rozmiar XL",
+            "ProductDescription": "MDH Post operative shoe - Size XL Post operative shoe Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Post operative shoe - Rozmiar XL",
+            "ProductDescription": "MDH Postoperativer Schuh - Größe XL Postoperativer Schuh Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780400842"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "64039113",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 356.0,
+        "Height": 95.0,
+        "Width": 310.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.20.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56761
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065928",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fcb9f1a4-fe0a-4846-aad6-2865ec5e5cca",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-30T09:03:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTMDHSTO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:13.499000+00:00",
+        "sequence_number": 151181
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTMDHKOR0064",
+        "ProductVersion": "1.1",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Aparat na halluksy - Szyna Thomsena",
+            "ProductDescription": "Aparat na halluksy - Szyna Thomsena"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Aparat na halluksy - Szyna Thomsena",
+            "ProductDescription": "Hallux valgus brace - Thomsen splint"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Aparat na halluksy - Szyna Thomsena",
+            "ProductDescription": "Hallux-valgus-Bandage - Thomsen-Schiene"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901095206412"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90211010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "I101",
+        "Weight": 56.0,
+        "Height": 181.0,
+        "Width": 110.0,
+        "Depth": 48.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56454
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067841",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "02fb9c7f-a574-4182-b2db-56a6d4a9316a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-23T11:27:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTMDHKOR0064'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:19.374000+00:00",
+        "sequence_number": 151507
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTHEBKOL0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "HELBO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Opaska uciskowa HELBO Depan Staza 3,8x95cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Opaska uciskowa HELBO Depan Staza 3,8x95cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Opaska uciskowa HELBO Depan Staza 3,8x95cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906742631753"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90211010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "100322",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56448
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092024",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Opaska uciskowa HELBO Depan Staza 3,8 x 95 cm Tourniquet (100322)"
+      },
+      "properties": {
+        "message_id": "f610501b-79db-45bd-b8ef-1da2863fbd14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-24T10:44:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTHEBKOL0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:57.893000+00:00",
+        "sequence_number": 168301
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTMDHSTO0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Post operative shoe - Rozmiar S",
+            "ProductDescription": "MDH Post operative shoe - Rozmiar S But pooperacyjny Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Post operative shoe - Rozmiar S",
+            "ProductDescription": "MDH Post operative shoe - Size S Post operative shoe Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Post operative shoe - Rozmiar S",
+            "ProductDescription": "MDH Postoperativer Schuh - Größe S Postoperativer Schuh Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780400811"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "64039113",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 251.0,
+        "Height": 95.0,
+        "Width": 225.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.20.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56449
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100022349",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6971af40-b588-4410-8afa-39a17d916926",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-30T08:57:22Z'",
+          "ModificationDate": "b'2025-06-04T12:07:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTMDHSTO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:36.948000+00:00",
+        "sequence_number": 140713
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTMDHSTO0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Post operative shoe - Rozmiar M",
+            "ProductDescription": "MDH Post operative shoe - Rozmiar M But pooperacyjny Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Post operative shoe - Rozmiar M",
+            "ProductDescription": "MDH Post operative shoe - Size M Post operative shoe Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Post operative shoe - Rozmiar M",
+            "ProductDescription": "MDH Postoperativer Schuh - Größe M Postoperativer Schuh Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780400828"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "64039113",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 271.0,
+        "Height": 120.0,
+        "Width": 270.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.20.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56449
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100022350",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Post operative shoe - Rozmiar M"
+      },
+      "properties": {
+        "message_id": "2007f485-41ac-4490-9029-ed13be18f1d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-30T08:59:56Z'",
+          "ModificationDate": "b'2025-06-04T12:07:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTMDHSTO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:36.948000+00:00",
+        "sequence_number": 140714
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTMDHSTO0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Post operative shoe - Rozmiar L",
+            "ProductDescription": "MDH Post operative shoe - Rozmiar L But pooperacyjny Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Post operative shoe - Rozmiar L",
+            "ProductDescription": "MDH Post operative shoe - Size L Post operative shoe Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Post operative shoe - Rozmiar L",
+            "ProductDescription": "MDH Postoperativer Schuh - Größe L Postoperativer Schuh Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780400835"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "64039113",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 316.0,
+        "Height": 80.0,
+        "Width": 282.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.20.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56449
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100022351",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "303aa423-bb59-4260-872e-faf0a90d0e77",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-30T09:01:54Z'",
+          "ModificationDate": "b'2025-06-04T12:07:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTMDHSTO0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:36.948000+00:00",
+        "sequence_number": 140715
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTQMETUL0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "Qmed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostotrzymacz ósemkowy QSM0009",
+            "ProductDescription": "Prostotrzymacz ósemkowy QSM0009"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostotrzymacz ósemkowy QSM0009",
+            "ProductDescription": "Eight-bar probe QSM0009"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostotrzymacz ósemkowy QSM0009",
+            "ProductDescription": "Acht-Stab-Sonde QSM0009"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780443030"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39249000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 198.0,
+        "Height": 273.0,
+        "Width": 143.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56453
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100022352",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "06bca6e9-fb52-449a-b3f4-31995dbba250",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-20T14:38:22Z'",
+          "ModificationDate": "b'2025-06-04T12:07:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTQMETUL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:36.948000+00:00",
+        "sequence_number": 140716
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSTTM2KOL0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Ortezy i stabilizatory",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Orteza stawu kolanowego - GenuStrap",
+            "ProductDescription": "Orteza stawu kolanowego - GenuStrap"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Orteza stawu kolanowego - GenuStrap",
+            "ProductDescription": "Knee brace - GenuStrap"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Orteza stawu kolanowego - GenuStrap",
+            "ProductDescription": "Knieschiene - GenuStrap"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902983727484"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90211010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 150.0,
+        "Height": 325.0,
+        "Width": 180.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56448
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100022363",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "18870c63-01be-424d-9f2c-f8ee1982b087",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-15T10:41:31Z'",
+          "ModificationDate": "b'2025-06-04T12:07:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSTTM2KOL0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:36.948000+00:00",
+        "sequence_number": 140717
+      }
+    }
+  ]
+}

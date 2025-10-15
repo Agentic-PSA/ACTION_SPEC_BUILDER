@@ -1,0 +1,86 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WYPCLA2OO0091",
+        "ProductVersion": "1.1",
+        "ProductType": "Urządzenia do hot dogów",
+        "Brand": "Clatronic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Urządzenie do Hot Dogów CLATRONIC HDM 3420 (WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Urządzenie do Hot Dogów CLATRONIC HDM 3420 (WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Urządzenie do Hot Dogów CLATRONIC HDM 3420 (WYP)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HDM 3420",
+        "Weight": 988.0,
+        "Height": 170.0,
+        "Width": 245.0,
+        "Depth": 215.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52334
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089791",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "25d3a3c8-88b3-482d-b58f-7f376b7877df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T12:18:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPCLA2OO0091'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:48.689000+00:00",
+        "sequence_number": 167835
+      }
+    }
+  ]
+}

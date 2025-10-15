@@ -1,0 +1,265 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDSIMSZG0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Szuflady grzewcze",
+        "Brand": "Siemens",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szuflada grzewcza SIEMENS BI710C1B1",
+            "ProductDescription": "Siemens iQ700 BI710C1B1 szafka grzewcza 20 l 12 komplet. 820 W Stal nierdzewna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szuflada grzewcza SIEMENS BI710C1B1",
+            "ProductDescription": "Siemens iQ700 BI710C1B1 warming drawer 20 L 12 place settings 820 W Stainless steel"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szuflada grzewcza SIEMENS BI710C1B1",
+            "ProductDescription": "Siemens iQ700 BI710C1B1 Wärmeschublade 20 l 12 Maßgedecke 820 W Edelstahl"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4242003900123"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BI710C1B1",
+        "Weight": 20750.0,
+        "Height": 240.0,
+        "Width": 690.0,
+        "Depth": 645.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54861
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52329
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086883",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7e032dd8-b6f6-4ff4-900b-98ba5b9be29a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T11:48:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSIMSZG0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:27.554000+00:00",
+        "sequence_number": 136813
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBOSSZG0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Szuflady grzewcze",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szuflada grzewcza BOSCH BIC 630NB1",
+            "ProductDescription": "Bosch BIC630NB1 szafka grzewcza 20 l 810 W Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szuflada grzewcza BOSCH BIC 630NB1",
+            "ProductDescription": "Bosch BIC630NB1 warming drawer 20 L 810 W Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szuflada grzewcza BOSCH BIC 630NB1",
+            "ProductDescription": "Bosch BIC630NB1 Wärmeschublade 20 l 810 W Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4242002813837"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 19000.0,
+        "Height": 200.0,
+        "Width": 660.0,
+        "Depth": 660.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52329
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54861
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100106346",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cde19458-a37c-486e-9d32-265d78ae2d33",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-20T15:36:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBOSSZG0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:11.750000+00:00",
+        "sequence_number": 155689
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBOSSZG0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Szuflady grzewcze",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Szuflada grzewcza BOSCH BIC7101B1",
+            "ProductDescription": "Bosch Serie 8 BIC7101B1 szafka grzewcza 20 l 12 komplet. Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Szuflada grzewcza BOSCH BIC7101B1",
+            "ProductDescription": "Bosch Serie 8 BIC7101B1 warming drawer 20 L 12 place settings Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Szuflada grzewcza BOSCH BIC7101B1",
+            "ProductDescription": "Bosch Serie 8 BIC7101B1 Wärmeschublade 20 l 12 Maßgedecke Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4242005311804"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BIC7101B1",
+        "Weight": 21350.0,
+        "Height": 650.0,
+        "Width": 700.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52329
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54861
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068791",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "98fb1241-c3b3-4b90-8413-ed441ab0845a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-20T16:11:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBOSSZG0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:05.204000+00:00",
+        "sequence_number": 142206
+      }
+    }
+  ]
+}

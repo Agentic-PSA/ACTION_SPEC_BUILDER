@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJZB",
+        "ProductVersion": "1.2",
+        "ProductType": "Modularne Systemy Wi-Fi",
+        "Brand": "TOTOLINK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TOTOLINK T10 GIGABIT ROUTER WI-FI AC1200 MESH",
+            "ProductDescription": "TOTOLINK T10 router bezprzewodowy Gigabit Ethernet Dual-band (2.4 GHz/5 GHz) Beżowy, Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TOTOLINK T10 GIGABIT ROUTER WI-FI AC1200 MESH",
+            "ProductDescription": "Totolink T10 | WiFi Router | AC1200, Dual Band, MU-MIMO, 3x RJ45 1000Mbps, 1x USB"
+          },
+          {
+            "Language": "de",
+            "ProductName": "TOTOLINK T10 GIGABIT ROUTER WI-FI AC1200 MESH",
+            "ProductDescription": "Totolink T10 | WLAN-Router | AC1200, Dualband, MU-MIMO, 3x RJ45 1000Mbps, 1x USB"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6952887401606"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "T10",
+        "Weight": 460.0,
+        "Height": 150.0,
+        "Width": 250.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54761
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54110
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040487",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9ffe6482-7019-494c-b6fd-fdf1d2d9396a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-07T12:15:01Z'",
+          "ModificationDate": "b'2025-06-04T12:17:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJZB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:25.029000+00:00",
+        "sequence_number": 164950
+      }
+    }
+  ]
+}

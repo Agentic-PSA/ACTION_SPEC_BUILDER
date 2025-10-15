@@ -1,0 +1,1135 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHY6",
+        "ProductVersion": "1.3",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROSPERPLAST KOMPOSTOWNIK  340L CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROSPERPLAST KOMPOSTOWNIK  340L CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROSPERPLAST KOMPOSTOWNIK  340L CZARNY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197995618"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKECO340-S411",
+        "Weight": 6000.0,
+        "Height": 1050.0,
+        "Width": 800.0,
+        "Depth": 800.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043034",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "26e5e7db-21eb-48b7-9e8e-b3e71e85ce4a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-29T20:36:34Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHY6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:40.263000+00:00",
+        "sequence_number": 159830
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHSM",
+        "ProductVersion": "1.2",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik - COMPOGREEN 320L",
+            "ProductDescription": "Kompostownik COMPOGREEN 320 l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik - COMPOGREEN 320L",
+            "ProductDescription": "Composter COMPOGREEN 320 l"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik - COMPOGREEN 320L",
+            "ProductDescription": "Komposter COMPOGREEN 320 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197268132"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKL320C-S412",
+        "Weight": 4650.0,
+        "Height": 600.0,
+        "Width": 780.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040217",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "264670f0-2807-489c-8369-ed205ec45fd9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-09T09:37:12Z'",
+          "ModificationDate": "b'2025-06-04T12:17:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHSM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:24.693000+00:00",
+        "sequence_number": 120953
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBKWH",
+        "ProductVersion": "1.2",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik PROSPERPLAST Compogreen 220L IKL220C",
+            "ProductDescription": "Kompostownik COMPOGREEN 220 l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik PROSPERPLAST Compogreen 220L IKL220C",
+            "ProductDescription": "Composter COMPOGREEN 220 l"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik PROSPERPLAST Compogreen 220L IKL220C",
+            "ProductDescription": "Komposter COMPOGREEN 220 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197268125"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKL220C-S412",
+        "Weight": 3990.0,
+        "Height": 500.0,
+        "Width": 740.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040597",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3e0cb94b-f805-47b0-9504-373898d29000",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-09T10:16:04Z'",
+          "ModificationDate": "b'2025-06-04T12:18:02Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBKWH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:29.133000+00:00",
+        "sequence_number": 122992
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUTW",
+        "ProductVersion": "1.1",
+        "ProductType": "Kompostowniki",
+        "Brand": "KETER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KETER KOMPOSTOWNIK 340L BRĄZ",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KETER KOMPOSTOWNIK 340L BRĄZ",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KETER KOMPOSTOWNIK 340L BRĄZ",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3253929000171"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CEN-72976",
+        "Weight": 8300.0,
+        "Height": 150.0,
+        "Width": 730.0,
+        "Depth": 730.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070912",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5e5ae600-4d4a-4502-9dd9-9f87d0606d4f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-25T10:04:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUTW'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:19.715000+00:00",
+        "sequence_number": 109637
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBLWZ",
+        "ProductVersion": "1.3",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik COMPOGREEN - czarny poj.380L",
+            "ProductDescription": "Prosperplast IKST380C-S411 Compogreen kompostownik 380 l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik COMPOGREEN - czarny poj.380L",
+            "ProductDescription": "Prosperplast IKST380C-S411 Compogreen composter 380 l"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik COMPOGREEN - czarny poj.380L",
+            "ProductDescription": "Prosperplast IKST380C-S411 Compogreen Kompostierer 380 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197595498"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKST380C-S411",
+        "Weight": 5805.0,
+        "Height": 130.0,
+        "Width": 780.0,
+        "Depth": 605.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040716",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "17c7961a-8b62-4f09-a260-7b3f9c8c28fa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-05T07:14:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBLWZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:30.040000+00:00",
+        "sequence_number": 123037
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIA4",
+        "ProductVersion": "1.2",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik COMPOTHERMO - ZIELONY LEŚNY",
+            "ProductDescription": "Prosperplast IKB900-G851 kompostownik 900 L Zielony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik COMPOTHERMO - ZIELONY LEŚNY",
+            "ProductDescription": "Prosperplast IKB900-G851 composter 900 L Green"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik COMPOTHERMO - ZIELONY LEŚNY",
+            "ProductDescription": "Prosperplast IKB900-G851 Kompostierer 900 l Grün"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197695570"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKB900-G851",
+        "Weight": 12500.0,
+        "Height": 1115.0,
+        "Width": 810.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036247",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1f9b6c59-2f4a-4c0c-b950-bb99ec8a034c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-26T08:28:16Z'",
+          "ModificationDate": "b'2025-06-04T12:15:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIA4'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.013000+00:00",
+        "sequence_number": 111373
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIA5",
+        "ProductVersion": "1.3",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik EVOGREEN - CZARNY",
+            "ProductDescription": "Prosperplast IKEV850C-S411 kompostownik 850 l Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik EVOGREEN - CZARNY",
+            "ProductDescription": "PROSPERPLAST COMPOSTER 800L BLACK"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik EVOGREEN - CZARNY",
+            "ProductDescription": "PROSPERPLAST KOMPOSTER 800L SCHWARZ"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197595559"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKEV850C-S411",
+        "Weight": 12500.0,
+        "Height": 1115.0,
+        "Width": 810.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036248",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f25341c7-5bef-47e5-9510-4c91cd26e4c7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-09T16:01:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIA5'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.013000+00:00",
+        "sequence_number": 111374
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIBD",
+        "ProductVersion": "1.3",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - czarny poj.1600L",
+            "ProductDescription": "Prosperplast IKSM1600C-S411 COMPOGREEN kompostownik 1600 l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - czarny poj.1600L",
+            "ProductDescription": "Prosperplast IKSM1600C-S411 COMPOGREEN composter 1600 l"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - czarny poj.1600L",
+            "ProductDescription": "Prosperplast IKSM1600C-S411 COMPOGREEN Kompostierer 1600 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197595443"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKSM1600C-S411",
+        "Weight": 17000.0,
+        "Height": 350.0,
+        "Width": 785.0,
+        "Depth": 580.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036264",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e70b2148-38d3-430c-b034-78980d7b53e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-13T12:43:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIBD'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.013000+00:00",
+        "sequence_number": 111390
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIGC",
+        "ProductVersion": "1.2",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - czarny poj.1200L",
+            "ProductDescription": "Prosperplast IKSM1200C-S411 Module Compogreen kompostownik 1200 l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - czarny poj.1200L",
+            "ProductDescription": "Prosperplast IKSM1200C-S411 Module Compogreen composter 1200 l"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - czarny poj.1200L",
+            "ProductDescription": "Prosperplast IKSM1200C-S411 Module Compogreen Kompostierer 1200 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197595436"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKSM1200C-S411",
+        "Weight": 8000.0,
+        "Height": 600.0,
+        "Width": 800.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036318",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7ed79bfe-16f0-4d35-aa2a-b981f8c7772f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-04T07:14:43Z'",
+          "ModificationDate": "b'2025-06-04T12:15:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIGC'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:14.888000+00:00",
+        "sequence_number": 111407
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIOE",
+        "ProductVersion": "1.2",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - CZARNY",
+            "ProductDescription": "Prosperplast Module Compogreen 800 L Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - CZARNY",
+            "ProductDescription": "Prosperplast Module Compogreen 800 L Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik MODULE COMPOGREEN - CZARNY",
+            "ProductDescription": "Prosperplast Module Compogreen 800 l Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197595429"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKSM800C-S411",
+        "Weight": 10340.0,
+        "Height": 810.0,
+        "Width": 600.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036411",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f2a65712-68ed-437d-92db-7a042fbe7fab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-26T10:43:08Z'",
+          "ModificationDate": "b'2025-06-04T12:15:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIOE'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:16.028000+00:00",
+        "sequence_number": 111463
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBMPU",
+        "ProductVersion": "1.2",
+        "ProductType": "Kompostowniki",
+        "Brand": "KETER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik Ogrodowy Keter Mega Composter 650L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik Ogrodowy Keter Mega Composter 650L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik Ogrodowy Keter Mega Composter 650L",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3253929000157"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "231598",
+        "Weight": 10500.0,
+        "Height": 180.0,
+        "Width": 900.0,
+        "Depth": 1080.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081796",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7274570a-6d87-4e23-b588-f4f6eddfab77",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T10:16:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBMPU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:28.611000+00:00",
+        "sequence_number": 128391
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIFT",
+        "ProductVersion": "1.3",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik EVOGREEN - czarny poj.630L",
+            "ProductDescription": "Prosperplast IKEV630C-S411 EVOGREEN kompostownik 630 l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik EVOGREEN - czarny poj.630L",
+            "ProductDescription": "Prosperplast IKEV630C-S411 EVOGREEN composter 630 l"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik EVOGREEN - czarny poj.630L",
+            "ProductDescription": "Prosperplast IKEV630C-S411 EVOGREEN Kompostierer 630 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197595542"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKEV630C-S411",
+        "Weight": 9650.0,
+        "Height": 1150.0,
+        "Width": 800.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036314",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0b70e95e-5cc2-4601-95f0-623f60e30c8d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-28T07:13:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIFT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:58.396000+00:00",
+        "sequence_number": 133485
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIYH",
+        "ProductVersion": "1.2",
+        "ProductType": "Kompostowniki",
+        "Brand": "Prosperplast",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kompostownik COMPOTHERMO - zielony leśny poj.340L",
+            "ProductDescription": "Prosperplast IKB340-G851 Compothermo kompostownik 340 l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kompostownik COMPOTHERMO - zielony leśny poj.340L",
+            "ProductDescription": "COMPOSTER 340L GREEN COMPOTHERMO"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kompostownik COMPOTHERMO - zielony leśny poj.340L",
+            "ProductDescription": "KOMPOSTER 340L GRÜN COMPOTHERMO"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905197695563"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IKB340-G851",
+        "Weight": 12200.0,
+        "Height": 600.0,
+        "Width": 760.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53136
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55237
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036500",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3c7d4316-d7cf-4165-bcee-3f6057432628",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-26T11:41:39Z'",
+          "ModificationDate": "b'2025-06-04T12:15:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIYH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:58.396000+00:00",
+        "sequence_number": 133495
+      }
+    }
+  ]
+}

@@ -1,0 +1,5131 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR8928",
+        "ProductVersion": "1.0",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Origin Storage LI2208-SR7U2100SGW",
+            "ProductDescription": "Origin Storage LI2208-SR7U2100SGW skaner"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Origin Storage LI2208-SR7U2100SGW",
+            "ProductDescription": "Origin Storage Zebra LI2208 - Handheld scanner - USB"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Origin Storage LI2208-SR7U2100SGW",
+            "ProductDescription": "Origin Storage LI2208-SR7U2100SGW Scanner"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5711045787942"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI2208-SR7U2100SGW",
+        "Weight": 2000.0,
+        "Height": 30.0,
+        "Width": 110.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156665",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f109ef5-6c46-444a-9db0-1d5ddbaf0ba0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T18:37:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR8928'"
+        },
+        "enqueued_time_utc": "2025-10-07 13:49:57.649000+00:00",
+        "sequence_number": 174079
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDZZI",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Qoltec Stacjonarny czytnik kodów kreskowych i QR",
+            "ProductDescription": "Qoltec 50879 Stacjonarny skaner czytnik kodów kreskowych i QR | 1D 2D | USB"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Qoltec Stacjonarny czytnik kodów kreskowych i QR",
+            "ProductDescription": "Qoltec Desktop Precision Reader 1D Barcode & QR Scanner | 2D"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Qoltec Stacjonarny czytnik kodów kreskowych i QR",
+            "ProductDescription": "Qoltec Desktop-Präzisionsleser 1D-Barcode- und QR-Scanner | 2D"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508795"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50879",
+        "Weight": 500.0,
+        "Height": 125.0,
+        "Width": 185.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064213",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cc254baf-dc4b-49d6-b2fa-78d0f6587b94",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-15T12:06:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDZZI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:29.917000+00:00",
+        "sequence_number": 119286
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR8888",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra DS2278 Ręczny czytnik kodów kreskowych 1D/2D",
+            "ProductDescription": "Zebra DS2278 Ręczny czytnik kodów kreskowych 1D/2D LED Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra DS2278 Ręczny czytnik kodów kreskowych 1D/2D",
+            "ProductDescription": "DS2278: AREA IMAGER, STANDARD RANGE, CORDLESS, TWILIGHT BLACK"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra DS2278 Ręczny czytnik kodów kreskowych 1D/2D",
+            "ProductDescription": "DS2278: AREA IMAGER, STANDARDREICHWEITE, SCHNURLOS, DÄMMERUNG SCHWARZ"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS2278-SR00007ZZWW",
+        "Weight": 304.0,
+        "Height": 80.0,
+        "Width": 182.0,
+        "Depth": 127.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034238",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f5aebc31-0524-4f4f-b23e-630f728d2305",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-19T12:12:11Z'",
+          "ModificationDate": "b'2025-06-04T12:14:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR8888'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:45.677000+00:00",
+        "sequence_number": 105891
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR8897",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra DS9308-SR Czytnik kodów kreskowy Czarny",
+            "ProductDescription": "Zebra DS9308-SR Przymocowany czytnik kodów kreskowych 1D/2D LED Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra DS9308-SR Czytnik kodów kreskowy Czarny",
+            "ProductDescription": "DS9308-SR BLACK SERIAL KIT - EMEA: DS9308-SR00004ZZWW SCANNER, CBA-R01-S07PBR SERIAL CABLE, PWR-WUA5V4W0EU POWER SUPPLY (EU, UK, EMEA,"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra DS9308-SR Czytnik kodów kreskowy Czarny",
+            "ProductDescription": "DS9308-SR BLACK SERIAL KIT - EMEA: DS9308-SR00004ZZWW SCANNER, CBA-R01-S07PBR SERIELLES KABEL, PWR-WUA5V4W0EU NETZTEIL (EU, UK, EMEA,"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8596375197947"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS9308-SR4R0110AZE",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034239",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f212ce84-0cbc-4f40-bc07-f3006843016f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-05T05:20:01Z'",
+          "ModificationDate": "b'2025-06-04T12:14:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR8897'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:45.677000+00:00",
+        "sequence_number": 105892
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR8940",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DS9908-HD USB KIT: DS9908-HD4000WZZWW SCANNER",
+            "ProductDescription": "Zebra DS9908-HD USB Kit Ręczny czytnik kodów kreskowych 1D/2D Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DS9908-HD USB KIT: DS9908-HD4000WZZWW SCANNER",
+            "ProductDescription": "DS9908-HD USB KIT: DS9908-HD4000WZZWW SCANNER, CBA-U21-S07ZBR SHIELDED USB CABLE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DS9908-HD USB KIT: DS9908-HD4000WZZWW SCANNER",
+            "ProductDescription": "DS9908-HD USB-KIT: DS9908-HD4000WZZWW SCANNER, CBA-U21-S07ZBR GESCHIRMTES USB-KABEL"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS9908-HDWU2104AZW",
+        "Weight": 520.0,
+        "Height": 110.0,
+        "Width": 232.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034243",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "da5b43b9-a0e4-4f1c-9a30-04aaa92bc396",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-07T11:51:50Z'",
+          "ModificationDate": "b'2025-06-04T12:14:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR8940'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:45.677000+00:00",
+        "sequence_number": 105896
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJAG",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D",
+            "ProductDescription": "Qoltec 50865 czytnik kodów kreskowych Ręczny czytnik kodów kreskowych 1D Laser Czarny, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D",
+            "ProductDescription": "Qoltec 50865 Barcode reader 1D | CCD | USB | White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D",
+            "ProductDescription": "Qoltec 50865 Barcodeleser 1D | CCD | USB | Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508658"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50865",
+        "Weight": 320.0,
+        "Height": 95.0,
+        "Width": 215.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060079",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5f020762-3b24-438b-bc63-543060e9f8b8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-20T10:48:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJAG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:00.797000+00:00",
+        "sequence_number": 135433
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0033",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic QuickScan QD2590-BKK1S 2D/USB/Czarny",
+            "ProductDescription": "Czytnik kodów kreskowych Datalogic QuickScan QD2590-BKK1S 2D/USB/Czarny/Kabel USB/podstawka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic QuickScan QD2590-BKK1S 2D/USB/Czarny",
+            "ProductDescription": "Datalogic QuickScan QD2590-BKK1S 2D/USB/Black Barcode Reader/USB cable/stand"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic QuickScan QD2590-BKK1S 2D/USB/Czarny",
+            "ProductDescription": "Datalogic QuickScan QD2590-BKK1S 2D/USB/Schwarz Barcode-Leser/USB-Kabel/Ständer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QD2590-BKK1S",
+        "Weight": 852.0,
+        "Height": 225.0,
+        "Width": 210.0,
+        "Depth": 87.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052890",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czytnik kodów kreskowych Datalogic QuickScan QD2590-BKK1S 2D/USB/Czarny/Kabel USB/podstawka"
+      },
+      "properties": {
+        "message_id": "e9a82fc8-2f2d-4e7e-a287-4120e1ae28d4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-31T10:47:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0033'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:59:54.414000+00:00",
+        "sequence_number": 117472
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCMDN",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra LS1203 Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Motorola LS1203 Ręczny czytnik kodów kreskowych Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra LS1203 Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Motorola LS1203 Handheld bar code reader Laser Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra LS1203 Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Motorola LS1203 Tragbares Barcodelesegerät Laser Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LS1203-7AZU0100ER",
+        "Weight": 628.0,
+        "Height": 216.0,
+        "Width": 268.0,
+        "Depth": 178.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043527",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7872ba14-7422-45f9-8579-6abdc15282f4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-21T14:49:30Z'",
+          "ModificationDate": "b'2025-06-04T12:19:43Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCMDN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:44.795000+00:00",
+        "sequence_number": 160044
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0021",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic-Czytnik bezprzewodowy QuickScan QBT2131",
+            "ProductDescription": "Datalogic QuickScan QBT2131 Ręczny czytnik kodów kreskowych 1D Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic-Czytnik bezprzewodowy QuickScan QBT2131",
+            "ProductDescription": "Datalogic QuickScan QBT2131 Handheld bar code reader 1D Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic-Czytnik bezprzewodowy QuickScan QBT2131",
+            "ProductDescription": "Datalogic QuickScan QBT2131 Tragbares Barcodelesegerät 1D Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QBT2131-BK-BTK1",
+        "Weight": 725.0,
+        "Height": 185.0,
+        "Width": 220.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066715",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "43eee4ac-49a1-4064-90e0-407fd5bb9055",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-11-05T10:51:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:45.031000+00:00",
+        "sequence_number": 121853
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFOIE",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra- DS9308 czytnik k. kres USB/kabel/podst/czarn",
+            "ProductDescription": "Zebra DS9308-SR Przymocowany czytnik kodów kreskowych 1D/2D LED Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra- DS9308 czytnik k. kres USB/kabel/podst/czarn",
+            "ProductDescription": "Zebra DS9308-SR Fixed bar code reader 1D/2D LED Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra- DS9308 czytnik k. kres USB/kabel/podst/czarn",
+            "ProductDescription": "Zebra DS9308-SR Fester Barcodeleser 1D/2D LED Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS9308-SR4U2100AZE",
+        "Weight": 495.0,
+        "Height": 191.0,
+        "Width": 128.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083106",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a90f7a98-9ed2-4e5c-9f20-9327123ebce0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-19T14:40:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFOIE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:50.712000+00:00",
+        "sequence_number": 122195
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHF6",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH LASEROWY",
+            "ProductDescription": "Qoltec 50876 Laserowy czytnik kodów kreskowych 1D | USB | Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH LASEROWY",
+            "ProductDescription": "Qoltec 50876 Laser scanner 1D | USB | Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH LASEROWY",
+            "ProductDescription": "Qoltec 50876 Laserscanner 1D | USB | Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508764"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50876",
+        "Weight": 320.0,
+        "Height": 100.0,
+        "Width": 130.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040175",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "28978d42-7901-4fa8-8382-0794ea927e3d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-17T15:53:57Z'",
+          "ModificationDate": "b'2025-06-04T12:17:47Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHF6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:34.632000+00:00",
+        "sequence_number": 137244
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHOR",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D I 2D | USB",
+            "ProductDescription": "Qoltec 50863 czytnik kodów kreskowych Ręczny czytnik kodów kreskowych 1D/2D LED Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D I 2D | USB",
+            "ProductDescription": "Qoltec - stregkodescanner"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D I 2D | USB",
+            "ProductDescription": "Qoltec - stregkodescanner"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508634"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50863",
+        "Weight": 340.0,
+        "Height": 140.0,
+        "Width": 220.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040202",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a4cf8e86-fc2e-46e7-b16e-58626866a406",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-20T16:15:59Z'",
+          "ModificationDate": "b'2025-06-04T12:17:48Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHOR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:35.445000+00:00",
+        "sequence_number": 137271
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBLS4",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIKI KODÓW KRESKOWYCH 1D | +PODSTAWKA",
+            "ProductDescription": "Qoltec 50861 czytnik kodów kreskowych Ręczny czytnik kodów kreskowych 1D Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIKI KODÓW KRESKOWYCH 1D | +PODSTAWKA",
+            "ProductDescription": "Qoltec 1D Laser Barcode Reader with Stand"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIKI KODÓW KRESKOWYCH 1D | +PODSTAWKA",
+            "ProductDescription": "Qoltec 1D-Laser-Barcodeleser mit Ständer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508610"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50861",
+        "Weight": 410.0,
+        "Height": 95.0,
+        "Width": 215.0,
+        "Depth": 126.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040697",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a4b659c3-2bc1-46ec-939f-f071516c851c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-17T10:30:06Z'",
+          "ModificationDate": "b'2025-06-04T12:18:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBLS4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:38.054000+00:00",
+        "sequence_number": 137410
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBNXC",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DIGITUS CZYTNIK KODÓW PRZEWODOWY DA-81002",
+            "ProductDescription": "Digitus Ręczny skaner kodów kreskowych 2D, kompatybilny z kodami QR"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DIGITUS CZYTNIK KODÓW PRZEWODOWY DA-81002",
+            "ProductDescription": "Digitus 2D Barcode Hand Scanner, QR-Code Compatible"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DIGITUS CZYTNIK KODÓW PRZEWODOWY DA-81002",
+            "ProductDescription": "Digitus 2D Barcode Handscanner, QR-Code kompatibel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032473640"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DA-81002",
+        "Weight": 520.0,
+        "Height": 80.0,
+        "Width": 200.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040914",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6681bd84-e3ba-40de-bf83-4bc1d1482a60",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-09T16:41:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBNXC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:40.088000+00:00",
+        "sequence_number": 137522
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBMU5",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH LASEROWY",
+            "ProductDescription": "Qoltec 50853 Laserowy czytnik kodów kreskowych 1D | 2D | Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH LASEROWY",
+            "ProductDescription": "Qoltec 50853 Laser barcode scanner 1D | 2D | Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH LASEROWY",
+            "ProductDescription": "Qoltec 50853 Laser-Barcodescanner 1D | 2D | Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508535"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50853",
+        "Weight": 290.0,
+        "Height": 94.0,
+        "Width": 215.0,
+        "Depth": 126.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040796",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "47250895-7057-44a5-a5bc-d952966fed4f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-22T17:27:48Z'",
+          "ModificationDate": "b'2025-06-04T12:18:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBMU5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:30.853000+00:00",
+        "sequence_number": 123080
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBNIM",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH BEZPRZEWODOWY | 1D",
+            "ProductDescription": "Qoltec 50862 czytnik kodów kreskowych Ręczny czytnik kodów kreskowych 1D Laser Czarny, Żółty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH BEZPRZEWODOWY | 1D",
+            "ProductDescription": "Qoltec - stregkodescanner"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH BEZPRZEWODOWY | 1D",
+            "ProductDescription": "Qoltec - stregkodescanner"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508627"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50862",
+        "Weight": 340.0,
+        "Height": 95.0,
+        "Width": 210.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040864",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "31c7ef10-4183-43a4-ad2e-a3396ea65d20",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-29T14:15:51Z'",
+          "ModificationDate": "b'2025-06-04T12:18:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBNIM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:31.853000+00:00",
+        "sequence_number": 123111
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJIB4",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Honeywell",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Honeywell Voyager 1202g, BT, 1D, multi-IF, k",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Honeywell Voyager 1202g, BT, 1D, multi-IF, k",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Honeywell Voyager 1202g, BT, 1D, multi-IF, k",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1202g-2USB-5",
+        "Weight": 180.0,
+        "Height": 40.0,
+        "Width": 80.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089933",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fd6b0486-4384-4d02-81dd-3e8e167c3ceb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T15:30:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJIB4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:50.533000+00:00",
+        "sequence_number": 167957
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABZ9",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner kodów kreskowych Zebra LI3678-SR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner kodów kreskowych Zebra LI3678-SR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner kodów kreskowych Zebra LI3678-SR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016139164502"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI3678-SR3U42A0S1W",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035099",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8688c85d-1139-4d11-b0d5-5bbcd3914ce1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-18T19:40:32Z'",
+          "ModificationDate": "b'2025-06-04T12:14:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABZ9'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:29.184000+00:00",
+        "sequence_number": 110126
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSQOCCZK0018",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D | 2D",
+            "ProductDescription": "Qoltec 50878 Bezprzewodowy czytnik kodów kreskowych 1D| 2D |+ stacja dokująca"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D | 2D",
+            "ProductDescription": "Qoltec 50878 Wireless 1D| 2D barcode reader |+ docking station"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH 1D | 2D",
+            "ProductDescription": "Qoltec 50878 Kabellos 1D| 2D-Barcodeleser |+ Dockingstation"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508788"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50878",
+        "Weight": 490.0,
+        "Height": 97.0,
+        "Width": 130.0,
+        "Depth": 215.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051341",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "15481705-526c-48bf-a4e1-acd3a1c4f3f2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-08-31T13:43:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSQOCCZK0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.980000+00:00",
+        "sequence_number": 138658
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0036",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic Gryphon GD4520-BKK1S 2D/USB/Czarny/Kb",
+            "ProductDescription": "Datalogic Gryphon I GD4500 Ręczny czytnik kodów kreskowych 1D/2D Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic Gryphon GD4520-BKK1S 2D/USB/Czarny/Kb",
+            "ProductDescription": "Datalogic Gryphon I GD4500 Handheld bar code reader 1D/2D Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic Gryphon GD4520-BKK1S 2D/USB/Czarny/Kb",
+            "ProductDescription": "Datalogic Gryphon I GD4500 Tragbares Barcodelesegerät 1D/2D Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GD4520-BKK1S",
+        "Weight": 860.0,
+        "Height": 105.0,
+        "Width": 222.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052690",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czytnik kodów kreskowych Datalogic Gryphon GD4520-BKK1S 2D/USB/Czarny/Kabel USB/podstawka"
+      },
+      "properties": {
+        "message_id": "71f6bfde-595c-4f51-8f20-32f203cb8294",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-11T15:21:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0036'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:13.819000+00:00",
+        "sequence_number": 152852
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIYX",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH STACJONARNY",
+            "ProductDescription": "Qoltec 50864 czytnik kodów kreskowych Przymocowany czytnik kodów kreskowych 1D/2D LED Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH STACJONARNY",
+            "ProductDescription": "Qoltec - stregkodescanner"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH STACJONARNY",
+            "ProductDescription": "Qoltec - stregkodescanner"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508641"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50864",
+        "Weight": 426.0,
+        "Height": 15.0,
+        "Width": 12.0,
+        "Depth": 20.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036505",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bd33c72a-2759-481d-963b-305f826cb9b7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-17T15:25:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIYX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:02.636000+00:00",
+        "sequence_number": 162258
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIYY",
+        "ProductVersion": "1.3",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC BEZPRZEWODOWY CZYTNIK KODÓW 1D | 2D",
+            "ProductDescription": "Qoltec 50868 czytnik kodów kreskowych Ręczny czytnik kodów kreskowych 1D/2D Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC BEZPRZEWODOWY CZYTNIK KODÓW 1D | 2D",
+            "ProductDescription": "Qoltec - stregkodescanner"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC BEZPRZEWODOWY CZYTNIK KODÓW 1D | 2D",
+            "ProductDescription": "Qoltec - stregkodescanner"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508689"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50868",
+        "Weight": 363.0,
+        "Height": 210.0,
+        "Width": 90.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036506",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "369aec93-655b-4651-bf9c-5eea05c74a85",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-21T14:24:28Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIYY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:02.636000+00:00",
+        "sequence_number": 162259
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0032",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic Skaner kodów kreskowych TD1120-BK-90K1",
+            "ProductDescription": "Datalogic Touch 65 Lite Ręczny czytnik kodów kreskowych 1D Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic Skaner kodów kreskowych TD1120-BK-90K1",
+            "ProductDescription": "Datalogic Touch 65 Lite Handheld bar code reader 1D Laser Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic Skaner kodów kreskowych TD1120-BK-90K1",
+            "ProductDescription": "Datalogic Touch 65 Lite Tragbares Barcodelesegerät 1D Laser Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016138960372"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TD1120-BK-65K1",
+        "Weight": 475.0,
+        "Height": 110.0,
+        "Width": 210.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053737",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Datalogic Skaner kodów kreskowych TD1120-BK-65K1"
+      },
+      "properties": {
+        "message_id": "afb51239-e108-4b80-a817-a12e2ba4993c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-01-23T16:26:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0032'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:51.280000+00:00",
+        "sequence_number": 139836
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSNONCZK0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik Newland FM3051, 2D, Dual-IF, kit USB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik Newland FM3051, 2D, Dual-IF, kit USB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik Newland FM3051, 2D, Dual-IF, kit USB",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FM3051",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079402",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8e4555df-e902-4829-8e1d-e70d1da596f3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-28T14:30:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSNONCZK0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:37.885000+00:00",
+        "sequence_number": 154021
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSYBCZK0033",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Symbol - Motorola",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra czyt. kodów kreskowych 1D LI3678-SR3U42A0S1W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra czyt. kodów kreskowych 1D LI3678-SR3U42A0S1W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra czyt. kodów kreskowych 1D LI3678-SR3U42A0S1W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI3678-SR3U42A0S1W",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086047",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zebra Bezprzewodowy czytnik kodów kreskowych 1D/USB/baza/kabel/zasilacz LI3678-SR3U42A0S1W"
+      },
+      "properties": {
+        "message_id": "37e8b19c-3625-47c4-8ce7-16821c0a7cd7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T08:23:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSYBCZK0033'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125527
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSYBCZK0034",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Symbol - Motorola",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Symbol - Motorola czyt.  kodów LI4278-TRBU0100ZER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Symbol - Motorola czyt.  kodów LI4278-TRBU0100ZER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Symbol - Motorola czyt.  kodów LI4278-TRBU0100ZER",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI4278-TRBU0100ZER",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086048",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Symbol - Motorola Bezprzewodowy czytnik kodów kreskowych 1D/USB/baza/kabel LI4278-TRBU0100ZER"
+      },
+      "properties": {
+        "message_id": "d571d1e8-7b75-4050-b38e-d94e00e9aecb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T08:23:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSYBCZK0034'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125528
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSYBCZK0035",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Symbol - Motorola",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Symbol - Motorola Czytnik 1D LI2208-SR7U2100SGW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Symbol - Motorola Czytnik 1D LI2208-SR7U2100SGW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Symbol - Motorola Czytnik 1D LI2208-SR7U2100SGW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI2208-SR7U2100SGW",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086049",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Symbol - Motorola Czytnik kodów kreskowych 1D/USB/podstawka/kabel LI2208-SR7U2100SGW"
+      },
+      "properties": {
+        "message_id": "c24f6f19-e861-49c6-8239-d579e7f42db6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T08:23:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSYBCZK0035'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125529
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSYBCZK0036",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Symbol - Motorola",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Symbol - Motorola Czytnik 1D LS2208-SR20007R-UR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Symbol - Motorola Czytnik 1D LS2208-SR20007R-UR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Symbol - Motorola Czytnik 1D LS2208-SR20007R-UR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LS2208-SR20007R-UR",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086050",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Symbol - Motorola Czytnik kodów kreskowych 1D/USB/podstawka/kabel LS2208-SR20007R-UR"
+      },
+      "properties": {
+        "message_id": "0cc62de5-7966-45f0-80a7-957c8cba2336",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T08:23:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSYBCZK0036'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125530
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSSYBCZK0037",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Symbol - Motorola",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Symbol - Motorola czytnik 1D LI4278-TRWU0100ZER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Symbol - Motorola czytnik 1D LI4278-TRWU0100ZER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Symbol - Motorola czytnik 1D LI4278-TRWU0100ZER",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI4278-TRWU0100ZER",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086051",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Symbol - Motorola Bezprzewodowy czytnik kodów kreskowych 1D/USB/baza/kabel LI4278-TRWU0100ZER"
+      },
+      "properties": {
+        "message_id": "4178d84c-2aaf-44f2-9ce7-888a45d57eb9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T08:23:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSSYBCZK0037'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125531
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSZEBCZK0053",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra czyt. kodów kreskowych 1D LI3678-SR3U42A0S1W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra czyt. kodów kreskowych 1D LI3678-SR3U42A0S1W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra czyt. kodów kreskowych 1D LI3678-SR3U42A0S1W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI3678-SR3U42A0S1W",
+        "Weight": 1761.0,
+        "Height": 265.0,
+        "Width": 310.0,
+        "Depth": 470.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086056",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zebra Bezprzewodowy czytnik kodów kreskowych 1D/USB/baza/kabel/zasilacz LI3678-SR3U42A0S1W"
+      },
+      "properties": {
+        "message_id": "d7b2954b-bb46-451f-aa8a-76ddf521c8c1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T09:29:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSZEBCZK0053'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125536
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSZEBCZK0054",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Symbol - Motorola czyt.  kodów LI4278-TRBU0100ZER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Symbol - Motorola czyt.  kodów LI4278-TRBU0100ZER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Symbol - Motorola czyt.  kodów LI4278-TRBU0100ZER",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI4278-TRBU0100ZER",
+        "Weight": 860.0,
+        "Height": 211.0,
+        "Width": 262.0,
+        "Depth": 175.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086057",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Symbol - Motorola Bezprzewodowy czytnik kodów kreskowych 1D/USB/baza/kabel LI4278-TRBU0100ZER"
+      },
+      "properties": {
+        "message_id": "b6330293-2d34-4af6-b8ab-13aa63772358",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T09:29:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSZEBCZK0054'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125537
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSZEBCZK0055",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Symbol - Motorola Czytnik 1D LI2208-SR7U2100SGW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Symbol - Motorola Czytnik 1D LI2208-SR7U2100SGW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Symbol - Motorola Czytnik 1D LI2208-SR7U2100SGW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI2208-SR7U2100SGW",
+        "Weight": 670.0,
+        "Height": 178.0,
+        "Width": 266.0,
+        "Depth": 218.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086058",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Symbol - Motorola Czytnik kodów kreskowych 1D/USB/podstawka/kabel LI2208-SR7U2100SGW"
+      },
+      "properties": {
+        "message_id": "21a75068-f1e3-4f5c-964e-a7595e77102b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T09:29:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSZEBCZK0055'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125538
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSZEBCZK0056",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Symbol - Motorola Czytnik 1D LS2208-SR20007R-UR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Symbol - Motorola Czytnik 1D LS2208-SR20007R-UR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Symbol - Motorola Czytnik 1D LS2208-SR20007R-UR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LS2208-SR20007R-UR",
+        "Weight": 600.0,
+        "Height": 250.0,
+        "Width": 190.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086059",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Symbol - Motorola Czytnik kodów kreskowych 1D/USB/podstawka/kabel LS2208-SR20007R-UR"
+      },
+      "properties": {
+        "message_id": "eab2bf1e-e740-4def-9294-8a1ae8ff9d79",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T09:29:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSZEBCZK0056'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125539
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSZEBCZK0057",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Symbol - Motorola czytnik 1D LI4278-TRWU0100ZER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Symbol - Motorola czytnik 1D LI4278-TRWU0100ZER",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Symbol - Motorola czytnik 1D LI4278-TRWU0100ZER",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI4278-TRWU0100ZER",
+        "Weight": 1.0,
+        "Height": 1.0,
+        "Width": 1.0,
+        "Depth": 1.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086060",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Symbol - Motorola Bezprzewodowy czytnik kodów kreskowych 1D/USB/baza/kabel LI4278-TRWU0100ZER"
+      },
+      "properties": {
+        "message_id": "4b89c6f8-d51a-42b7-8cd3-4f5cf54ffec2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-03T09:29:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSZEBCZK0057'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:16.468000+00:00",
+        "sequence_number": 125540
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0034",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic QuickScan QD2220-BKK1S 1D/USB/Czarny/Kb.",
+            "ProductDescription": "Datalogic QD2220 Ręczny czytnik kodów kreskowych 1D Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic QuickScan QD2220-BKK1S 1D/USB/Czarny/Kb.",
+            "ProductDescription": "Datalogic QD2220 Handheld bar code reader 1D Laser Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic QuickScan QD2220-BKK1S 1D/USB/Czarny/Kb.",
+            "ProductDescription": "Datalogic QD2220 Tragbares Barcodelesegerät 1D Laser Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "QD2220-BKK1S",
+        "Weight": 550.0,
+        "Height": 100.0,
+        "Width": 232.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072604",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czytnik kodów kreskowych Datalogic QuickScan QD2220-BKK1S 1D/USB/Czarny/Kabel USB/podstawka"
+      },
+      "properties": {
+        "message_id": "fb4a8ac3-5fe0-48d5-bbc6-30f21f7e7b1d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-11T15:07:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0034'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.499000+00:00",
+        "sequence_number": 112459
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0039",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic Gryphon GD4220-BKK1 1D/USB/Czarny/Kb",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic Gryphon GD4220-BKK1 1D/USB/Czarny/Kb",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic Gryphon GD4220-BKK1 1D/USB/Czarny/Kb",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5704174242710"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GD4220-BKK1",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081048",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czytnik kodów kreskowych Datalogic Gryphon GD4220-BKK1 1D/USB/Czarny/Kabel USB"
+      },
+      "properties": {
+        "message_id": "d7df400a-61fb-4023-b8b4-7bf3076cfe5c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-06T12:26:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0039'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:46.270000+00:00",
+        "sequence_number": 112911
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMTL4PS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "MTL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kodów kres. MS9540 VoyagerCG/USB/cz (WYP)",
+            "ProductDescription": "Czytnik kodów kres. MS9540 VoyagerCG/USB/cz (WYP) Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kodów kres. MS9540 VoyagerCG/USB/cz (WYP)",
+            "ProductDescription": "Honeywell MS9540 VoyagerCG 1D Laser Black Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kodów kres. MS9540 VoyagerCG/USB/cz (WYP)",
+            "ProductDescription": "Honeywell MS9540 VoyagerCG 1D Laser Schwarz Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MS9540-37A38",
+        "Weight": 600.0,
+        "Height": 145.0,
+        "Width": 223.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060761",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54b0e0ab-e035-48a7-bb8d-148a667ae018",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-03-21T13:08:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMTL4PS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:54.389000+00:00",
+        "sequence_number": 126512
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0028",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "datalogic-Cz. kodów kresk.Gryphon I GBT4500 2D/Baza",
+            "ProductDescription": "Datalogic Gryphon I GBT4500 Ręczny czytnik kodów kreskowych 1D/2D Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "datalogic-Cz. kodów kresk.Gryphon I GBT4500 2D/Baza",
+            "ProductDescription": "Datalogic Gryphon I GBT4500 Handheld bar code reader 1D/2D Laser Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "datalogic-Cz. kodów kresk.Gryphon I GBT4500 2D/Baza",
+            "ProductDescription": "Datalogic Gryphon I GBT4500 Tragbares Barcodelesegerät 1D/2D Laser Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GBT4500-BK-BTK1",
+        "Weight": 990.0,
+        "Height": 117.0,
+        "Width": 265.0,
+        "Depth": 172.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048478",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4c92dbae-937c-4de6-b4df-3a2e140cce3f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-09-06T09:42:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:05.806000+00:00",
+        "sequence_number": 116063
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSNONCZK0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik Newland 2D NLS-RVM1 Ring",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik Newland 2D NLS-RVM1 Ring",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik Newland 2D NLS-RVM1 Ring",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NLS-RVM1",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048772",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d92c350a-6e84-45da-82c0-8e098878bba0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-23T10:35:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSNONCZK0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:07.885000+00:00",
+        "sequence_number": 116204
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBMW9",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH STACJONARNY",
+            "ProductDescription": "Qoltec 50857 Stacjonarny skaner czytnik kodów kreskowych i QR | 1D 2D | USB"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH STACJONARNY",
+            "ProductDescription": "Qoltec 50857 Stationary barcode reader and QR code scanner | 1D 2D | USB"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC CZYTNIK KODÓW KRESKOWYCH STACJONARNY",
+            "ProductDescription": "Qoltec 50857 Stationärer Barcodeleser und QR-Code-Scanner | 1D 2D | USB"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508573"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50857",
+        "Weight": 508.0,
+        "Height": 126.0,
+        "Width": 185.0,
+        "Depth": 182.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055163",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1a6d581f-54da-465d-8915-0c41ded5ec59",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-14T13:22:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBMW9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:02.298000+00:00",
+        "sequence_number": 142039
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0035",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic Gryphon GD4220-BKK1 1D/USB/Czarny/Kb",
+            "ProductDescription": "Datalogic Gryphon I GD4220 Ręczny czytnik kodów kreskowych 1D Liniowy Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic Gryphon GD4220-BKK1 1D/USB/Czarny/Kb",
+            "ProductDescription": "Datalogic Gryphon I GD4220 Handheld bar code reader 1D Linear Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic Gryphon GD4220-BKK1 1D/USB/Czarny/Kb",
+            "ProductDescription": "Datalogic Gryphon I GD4220 Tragbares Barcodelesegerät 1D Linear Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GD4220-BKK1",
+        "Weight": 360.0,
+        "Height": 95.0,
+        "Width": 220.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076532",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czytnik kodów kreskowych Datalogic Gryphon GD4220-BKK1 1D/USB/Czarny/Kabel USB"
+      },
+      "properties": {
+        "message_id": "d971fe2d-5014-4636-8447-12a7a22fb68d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-11T15:21:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0035'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:52.877000+00:00",
+        "sequence_number": 156230
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0037",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic GM4500-BK-433K1 2D/USB/Czarny/Kb/Pod.",
+            "ProductDescription": "Datalogic Gryphon I GM4500 Ręczny czytnik kodów kreskowych 1D/2D Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic GM4500-BK-433K1 2D/USB/Czarny/Kb/Pod.",
+            "ProductDescription": "Datalogic Gryphon I GM4500 Handheld bar code reader 1D/2D Laser Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic GM4500-BK-433K1 2D/USB/Czarny/Kb/Pod.",
+            "ProductDescription": "Datalogic Gryphon I GM4500 Tragbares Barcodelesegerät 1D/2D Laser Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GM4500-BK-433K1",
+        "Weight": 910.0,
+        "Height": 120.0,
+        "Width": 270.0,
+        "Depth": 175.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076533",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bezprzewodowy czytnik kodów kreskowych Datalogic Gryphon GM4500-BK-433K1 2D/USB/Czarny/Kabel USB/podstawka/Baza ładująca"
+      },
+      "properties": {
+        "message_id": "65eb8bfd-d32f-4237-8614-1456426f4a2c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-11T15:21:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0037'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:52.877000+00:00",
+        "sequence_number": 156231
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRA814",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik bezprzewodowy Zebra DS3678",
+            "ProductDescription": "Zebra DS3678-ER Ręczny czytnik kodów kreskowych 1D/2D Laser Czarny, Zielony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik bezprzewodowy Zebra DS3678",
+            "ProductDescription": "Zebra DS3678-ER Handheld bar code reader 1D/2D Laser Black, Green"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik bezprzewodowy Zebra DS3678",
+            "ProductDescription": "Zebra DS3678-ER Tragbares Barcodelesegerät 1D/2D Laser Schwarz, Grün"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS3678-ER2F003VZWW",
+        "Weight": 542.0,
+        "Height": 95.0,
+        "Width": 110.0,
+        "Depth": 215.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034709",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e92c2548-a6f2-4ba9-b0c1-cbf39c51ac11",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-20T16:19:00Z'",
+          "ModificationDate": "b'2025-06-04T12:14:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRA814'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:22.505000+00:00",
+        "sequence_number": 113747
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCM44",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Honeywell Voyager XP 1470g Ręczny czytnik kodów",
+            "ProductDescription": "Honeywell Voyager XP 1470g Ręczny czytnik kodów kreskowych 1D/2D CMOS Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Honeywell Voyager XP 1470g Ręczny czytnik kodów",
+            "ProductDescription": "Honeywell Voyager XP 1470g Handheld bar code reader 1D/2D CMOS Black, Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Honeywell Voyager XP 1470g Ręczny czytnik kodów",
+            "ProductDescription": "Honeywell Voyager XP 1470g Tragbares Barcodelesegerät 1D/2D CMOS Schwarz, Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1470G2D-2USB-1-R",
+        "Weight": 620.0,
+        "Height": 135.0,
+        "Width": 220.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055232",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dde4e689-e659-4447-b204-4a167689b6df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-06T14:44:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCM44'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:03.220000+00:00",
+        "sequence_number": 142102
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAMIC",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Honeywell",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sca HONEYWELL Barcode Scanner MS5145 Eclipse USB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sca HONEYWELL Barcode Scanner MS5145 Eclipse USB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sca HONEYWELL Barcode Scanner MS5145 Eclipse USB",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5052179093203"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SC000172",
+        "Weight": 277.0,
+        "Height": 110.0,
+        "Width": 190.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037108",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f0850ab6-4568-4891-8c8d-53a63a602177",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-02T13:17:24Z'",
+          "ModificationDate": "b'2025-06-04T12:16:02Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAMIC'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:32.085000+00:00",
+        "sequence_number": 114213
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDFKH",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kodów kreskowych 2D Symbol DS2208",
+            "ProductDescription": "Zebra DS2208 Ręczny czytnik kodów kreskowych 1D/2D LED Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kodów kreskowych 2D Symbol DS2208",
+            "ProductDescription": "Barcode Reader 2D Symbol DS2208/black/USB cable/stand"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kodów kreskowych 2D Symbol DS2208",
+            "ProductDescription": "Barcode-Lesegerät 2D Symbol DS2208/schwarz/USB Kabel/Ständer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS2208-SR7U2100SGW",
+        "Weight": 594.0,
+        "Height": 243.0,
+        "Width": 183.0,
+        "Depth": 113.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071028",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f56101d-73dd-4bda-a4d6-d60aeeb8bfc5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-01T14:25:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDFKH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:16.485000+00:00",
+        "sequence_number": 127717
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJM9",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Qoltec 50867 Laserowy czytnik kodów 1D| 2D | USB |",
+            "ProductDescription": "Qoltec 50867 Laserowy czytnik kodów 1D| 2D | USB | Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Qoltec 50867 Laserowy czytnik kodów 1D| 2D | USB |",
+            "ProductDescription": "Qoltec 50867 Laser reader 1D | 2D | USB | Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Qoltec 50867 Laserowy czytnik kodów 1D| 2D | USB |",
+            "ProductDescription": "Qoltec 50867 Laserleser 1D | 2D | USB | Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878508672"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50867",
+        "Weight": 320.0,
+        "Height": 95.0,
+        "Width": 212.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094523",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7dc0c9f6-e8b3-4c14-a24f-e662dbbcb909",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-06T12:50:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJM9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:50.516000+00:00",
+        "sequence_number": 172435
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRA853",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra DS2208 Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Zebra DS2208 Ręczny czytnik kodów kreskowych 1D/2D LED Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra DS2208 Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Zebra DS2208 Handheld bar code reader 1D/2D LED Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra DS2208 Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Zebra DS2208 Tragbares Barcodelesegerät 1D/2D LED Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS2208-SR7U2100AZW",
+        "Weight": 308.0,
+        "Height": 182.0,
+        "Width": 128.0,
+        "Depth": 79.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074736",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "523d0c87-4b68-4f84-8a0f-38f27c512191",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-23T09:53:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRA853'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:18.408000+00:00",
+        "sequence_number": 142903
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAMB2",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DIGITUS CZYTNIK KODÓW KRESKOWYCH DA-81005",
+            "ProductDescription": "Digitus Biurkowy skaner kodów kreskowych 2D USB"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DIGITUS CZYTNIK KODÓW KRESKOWYCH DA-81005",
+            "ProductDescription": "Digitus 2D Desktop USB Barcode Scanner"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DIGITUS CZYTNIK KODÓW KRESKOWYCH DA-81005",
+            "ProductDescription": "Digitus 1D 2D Desktop USB Barcode Scanner, QR-Code kompatibel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032490630"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DA-81005",
+        "Weight": 380.0,
+        "Height": 105.0,
+        "Width": 170.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074791",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6b0177d0-f2b1-422f-a4d5-5e8ee7dadb5a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-30T08:24:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAMB2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:19.268000+00:00",
+        "sequence_number": 142953
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCLI9",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Honeywell",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Honeywell Voyager 1250g Ręczny czytnik kodów",
+            "ProductDescription": "Honeywell Voyager 1250g Ręczny czytnik kodów kreskowych 1D Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Honeywell Voyager 1250g Ręczny czytnik kodów",
+            "ProductDescription": "Honeywell Voyager 1250g Handheld bar code reader 1D Laser Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Honeywell Voyager 1250g Ręczny czytnik kodów",
+            "ProductDescription": "Honeywell Voyager 1250g Tragbares Barcodelesegerät 1D Laser Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1250G-2USB-1",
+        "Weight": 674.0,
+        "Height": 135.0,
+        "Width": 146.0,
+        "Depth": 223.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043482",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f5710cb-4283-459b-94c5-298383592547",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-19T11:11:15Z'",
+          "ModificationDate": "b'2025-06-04T12:19:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCLI9'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:44.570000+00:00",
+        "sequence_number": 114915
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "URSDAOCZK0038",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Datalogic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Datalogic HD3430-BKK1B 2D/USB/Czarny/Kb/podstawka",
+            "ProductDescription": "Datalogic Heron HD3430 Ręczny czytnik kodów kreskowych 2D Laser Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Datalogic HD3430-BKK1B 2D/USB/Czarny/Kb/podstawka",
+            "ProductDescription": "Datalogic Heron HD3430 Handheld bar code reader 2D Laser Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Datalogic HD3430-BKK1B 2D/USB/Czarny/Kb/podstawka",
+            "ProductDescription": "Datalogic Heron HD3430 Tragbares Barcodelesegerät 2D Laser Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HD3430-BKK1B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049066",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czytnik kodów kreskowych Datalogic HD3430-BKK1B 2D/USB/Czarny/Kabel USB/podstawka"
+      },
+      "properties": {
+        "message_id": "21aa3251-b9bd-4221-b4fa-a4dee653ffb2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-11T15:21:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'URSDAOCZK0038'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:10.463000+00:00",
+        "sequence_number": 116306
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCLZK",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "Honeywell",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Honeywell Youjie HF600 Przymocowany czytnik kodów",
+            "ProductDescription": "Honeywell Youjie HF600 Przymocowany czytnik kodów kreskowych 1D/2D Fotodioda Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Honeywell Youjie HF600 Przymocowany czytnik kodów",
+            "ProductDescription": "Honeywell Youjie HF600 Fixed bar code reader 1D/2D Photo diode Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Honeywell Youjie HF600 Przymocowany czytnik kodów",
+            "ProductDescription": "Honeywell Youjie HF600 Fester Barcodeleser 1D/2D Fotodiode Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YJ HF600-1-2USB",
+        "Weight": 530.0,
+        "Height": 110.0,
+        "Width": 190.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54517
+              },
+              {
+                "CategoryId": 54497
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043520",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f963aa17-a00f-42cd-9cdc-08ac79e22748",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-29T12:42:10Z'",
+          "ModificationDate": "b'2025-06-04T12:19:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCLZK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:10.540000+00:00",
+        "sequence_number": 129279
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCMD5",
+        "ProductVersion": "1.1",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zebra DS4608-SR Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Zebra DS4608-SR Ręczny czytnik kodów kreskowych 1D/2D LED Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zebra DS4608-SR Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Zebra DS4608-SR Handheld bar code reader 1D/2D LED Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zebra DS4608-SR Ręczny czytnik kodów kreskowych",
+            "ProductDescription": "Zebra DS4608-SR Tragbares Barcodelesegerät 1D/2D LED Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS4608-SR7U2100AZW",
+        "Weight": 306.0,
+        "Height": 182.0,
+        "Width": 128.0,
+        "Depth": 78.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053671",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "54f339aa-33c2-4d58-a71a-c0efd7b04be0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-19T16:29:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCMD5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:12.322000+00:00",
+        "sequence_number": 129379
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR8926",
+        "ProductVersion": "1.2",
+        "ProductType": "Czytniki",
+        "Brand": "ZEBRA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czytnik kodów kreskowych ZEBRA LI4278-TRBU0100ZER",
+            "ProductDescription": "Origin Storage LI4278-TRBU0100ZER skaner"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czytnik kodów kreskowych ZEBRA LI4278-TRBU0100ZER",
+            "ProductDescription": "Origin Storage Zebra LI4278-TR Handheld Scanner-USB EMEA-W.Cradle"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czytnik kodów kreskowych ZEBRA LI4278-TRBU0100ZER",
+            "ProductDescription": "Origin Storage LI4278-TRBU0100ZER Scanner"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5711045427138"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84719000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LI4278-TRBU0100ZER",
+        "Weight": 516.0,
+        "Height": 124.0,
+        "Width": 185.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54497
+              },
+              {
+                "CategoryId": 54517
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54553
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087230",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "29862484-22a3-4b45-bce9-622dd3fab759",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-13T10:38:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR8926'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:05.546000+00:00",
+        "sequence_number": 160973
+      }
+    }
+  ]
+}

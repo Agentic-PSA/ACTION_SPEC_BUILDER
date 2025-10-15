@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOWJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Stroiki",
+        "Brand": "V-tone",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "V-TONE TS 100 saksofon tenorowy z futerałem zestaw",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "V-TONE TS 100 saksofon tenorowy z futerałem zestaw",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "V-TONE TS 100 saksofon tenorowy z futerałem zestaw",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249807938"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "92099200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249807938",
+        "Weight": 8200.0,
+        "Height": 210.0,
+        "Width": 840.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.20.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55583
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55657
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064186",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a6464203-0520-441a-bdea-ea00fad2dce5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-08T19:40:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOWJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:27.372000+00:00",
+        "sequence_number": 163502
+      }
+    }
+  ]
+}

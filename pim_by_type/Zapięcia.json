@@ -1,0 +1,516 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SIRYALZAP0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Zapięcia",
+        "Brand": "Yale",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Linka rowerowa U-Lock Yale YCC0/10/180/2",
+            "ProductDescription": "Linka rowerowa z zamkiem szyfrowym - YCC0/10/180/2 Czarna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Linka rowerowa U-Lock Yale YCC0/10/180/2",
+            "ProductDescription": "Bicycle cable with combination lock -YCC0/10/180/2 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Linka rowerowa U-Lock Yale YCC0/10/180/2",
+            "ProductDescription": "Fahrradkabel mit Zahlenschloss -YCC0/10/180/2 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5052847132760"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83015000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YCC0/10/180/2",
+        "Weight": 415.0,
+        "Height": 150.0,
+        "Width": 140.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053861",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Linka rowerowa stalowa z zamkiem szyfrowym 10x1800mm Yale Essential Security Combination Cable Lock"
+      },
+      "properties": {
+        "message_id": "cb250614-6927-4d57-8a4f-1b6e274d7b52",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-26T13:11:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRYALZAP0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:47.163000+00:00",
+        "sequence_number": 149774
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBZAP0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Zapięcia",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zapięcie rowerowe Rockbros RKS626-BKU-lock - czarne",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zapięcie rowerowe Rockbros RKS626-BKU-lock - czarne",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zapięcie rowerowe Rockbros RKS626-BKU-lock - czarne",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "83015000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "157366",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089889",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zapięcie rowerowe Rockbros RKS626-BKU-lock - czarne"
+      },
+      "properties": {
+        "message_id": "1a3b5633-3792-46fa-8a84-15c0e8df3044",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:17:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBZAP0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:50.533000+00:00",
+        "sequence_number": 167916
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBZAP0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Zapięcia",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zapięcie rowerowe Rockbros WD795 składane na klucz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zapięcie rowerowe Rockbros WD795 składane na klucz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zapięcie rowerowe Rockbros WD795 składane na klucz",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "83015000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "157357",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089890",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zapięcie rowerowe Rockbros WD795 składane na klucz - czarne"
+      },
+      "properties": {
+        "message_id": "83ffc60d-5f17-4aae-bc32-d7407aa03d4e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:18:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBZAP0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:50.533000+00:00",
+        "sequence_number": 167917
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBZAP0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Zapięcia",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zapięcie row. Rockbros T609 na szyfr 1,5m czarne",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zapięcie row. Rockbros T609 na szyfr 1,5m czarne",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zapięcie row. Rockbros T609 na szyfr 1,5m czarne",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907769313448"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83015000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Rockbros-T609",
+        "Weight": 140.0,
+        "Height": 35.0,
+        "Width": 120.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080566",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zapięcie rowerowe Rockbros T609 na szyfr 1,5m - czarne"
+      },
+      "properties": {
+        "message_id": "e80789a6-322b-4954-a320-fc2d6e4fa720",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T12:00:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBZAP0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:49.169000+00:00",
+        "sequence_number": 154585
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIRRCBZAP0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Zapięcia",
+        "Brand": "RCB",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zapięcie Rockbros 3230002001 szyfr i klucz czarne",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zapięcie Rockbros 3230002001 szyfr i klucz czarne",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zapięcie Rockbros 3230002001 szyfr i klucz czarne",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907769313509"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83015000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Rockbros-3230002001",
+        "Weight": 450.0,
+        "Height": 50.0,
+        "Width": 220.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55378
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080567",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zapięcie rowerowe Rockbros 3230002001 na szyfr i klucz - czarne"
+      },
+      "properties": {
+        "message_id": "b53e0fe1-d0b4-4367-b33f-ba2d4059d53e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T12:00:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIRRCBZAP0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:49.169000+00:00",
+        "sequence_number": 154586
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRARPX",
+        "ProductVersion": "1.2",
+        "ProductType": "Zapięcia",
+        "Brand": "Segway",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Segway Electric Scooter Password Lock",
+            "ProductDescription": "Ninebot by Segway PJ02MMS blokada rowerowa Czarny Linka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Segway Electric Scooter Password Lock",
+            "ProductDescription": "Ninebot by Segway PJ02MMS bike lock Black Cable lock"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Segway Electric Scooter Password Lock",
+            "ProductDescription": "Ninebot by Segway PJ02MMS Fahrradschloss Schwarz Kabelschloss"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8720254406718"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "83015000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Q903-00E",
+        "Weight": 430.0,
+        "Height": 52.0,
+        "Width": 240.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.72.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54950
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55378
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037864",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6747c712-0b8f-4a19-b623-d796c6238b13",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-13T12:58:32Z'",
+          "ModificationDate": "b'2025-06-04T12:16:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRARPX'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:29.655000+00:00",
+        "sequence_number": 112180
+      }
+    }
+  ]
+}

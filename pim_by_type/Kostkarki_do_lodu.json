@@ -1,0 +1,1028 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDMPMKOS0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "MPM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu MPM MKD-04M",
+            "ProductDescription": "Kostkarka do lodu MPM MKD-04M"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu MPM MKD-04M",
+            "ProductDescription": "Ice cube maker MPM MKD-04M"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu MPM MKD-04M",
+            "ProductDescription": "Eiswürfelbereiter MPM MKD-04M"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903151042378"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 7000.0,
+        "Height": 260.0,
+        "Width": 320.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100108550",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kostkarka do lodu MPM MKD-04M"
+      },
+      "properties": {
+        "message_id": "c48f21b5-5e84-4b85-9856-4c7a9ba31f48",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-20T15:49:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDMPMKOS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:31.718000+00:00",
+        "sequence_number": 165291
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDPIMKOS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "PRIME3",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu PRIME3 SIM31",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu PRIME3 SIM31",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu PRIME3 SIM31",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SIM31",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086411",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kostkarka do lodu PRIME3 SIM31"
+      },
+      "properties": {
+        "message_id": "accc3b0f-dcf1-4fc4-b6cc-c21dd8ce6eb2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-04T14:53:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDPIMKOS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:24.021000+00:00",
+        "sequence_number": 136650
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAFSH",
+        "ProductVersion": "1.3",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Adler AD 8086 Ice Maker",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Adler AD 8086 Ice Maker",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Adler AD 8086 Ice Maker",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905575900661"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 8086",
+        "Weight": 7760.0,
+        "Height": 270.0,
+        "Width": 355.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035702",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "68eb7ca2-3272-49a0-8ac5-35c439b0aeae",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-07T13:40:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAFSH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:34.497000+00:00",
+        "sequence_number": 110433
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDTAUKOS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "taurus",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu Taurus MG 17 Elegance 921001000",
+            "ProductDescription": "Taurus MG 17 Elegance Kostkarka do lodu przenośna 15 kg/24h 150 W Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu Taurus MG 17 Elegance 921001000",
+            "ProductDescription": "Taurus MG 17 Elegance Portable ice cube maker 15 kg/24h 150 W Silver"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu Taurus MG 17 Elegance 921001000",
+            "ProductDescription": "Taurus MG 17 Elegance Tragbarer Eiswürfelbereiter 15 kg/24h 150 W Silber"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8414234210012"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "921001000",
+        "Weight": 14865.0,
+        "Height": 470.0,
+        "Width": 370.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059332",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bed53af3-4266-42c3-8571-f5b70fa18976",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-12T15:30:57Z'",
+          "ModificationDate": "b'2025-09-30T13:40:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDTAUKOS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:48.214000+00:00",
+        "sequence_number": 124050
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDTAUKOS0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "taurus",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu Taurus MG 12 Legend 921002000",
+            "ProductDescription": "Taurus MG 12 Legend Kostkarka do lodu przenośna 15 kg/24h 150 W Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu Taurus MG 12 Legend 921002000",
+            "ProductDescription": "Taurus MG 12 Legend Portable ice cube maker 15 kg/24h 150 W Silver"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu Taurus MG 12 Legend 921002000",
+            "ProductDescription": "Taurus MG 12 Legend Tragbarer Eiswürfelbereiter 15 kg/24h 150 W Silber"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8414234210029"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "921002000",
+        "Weight": 10540.0,
+        "Height": 370.0,
+        "Width": 290.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051923",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1c70a256-6907-4913-8fa7-4903f897925c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-12T15:33:47Z'",
+          "ModificationDate": "b'2025-09-30T13:40:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDTAUKOS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:35.950000+00:00",
+        "sequence_number": 139034
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4174",
+        "ProductVersion": "1.3",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu Gorenje IMD1200W",
+            "ProductDescription": "Gorenje IMD1200W urządzenie do robienia kostek lodu Kostkarka do lodu przenośna 12 kg/24h 120 W Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu Gorenje IMD1200W",
+            "ProductDescription": "Gorenje Ice cube maker IMD1200W Capacity 1.8 L White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu Gorenje IMD1200W",
+            "ProductDescription": "Gorenje Eiswürfelbereiter IMD1200W Fassungsvermögen 1,8 L Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3838782497315"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IMD1200W",
+        "Weight": 8540.0,
+        "Height": 400.0,
+        "Width": 360.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033707",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3dfcd8d3-9845-4832-9d35-dceb4698ebdc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-12T13:22:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4174'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:06.527000+00:00",
+        "sequence_number": 110998
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDELDKOS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "ELDOM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ELDOM KOSTKARKA DO LODU IK2000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ELDOM KOSTKARKA DO LODU IK2000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ELDOM KOSTKARKA DO LODU IK2000",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908277389284"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IK2000",
+        "Weight": 6460.0,
+        "Height": 345.0,
+        "Width": 350.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079068",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1ad71e2c-760b-4907-b858-64834a214c36",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T10:13:32Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELDKOS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:33.651000+00:00",
+        "sequence_number": 153848
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDDMOKOS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "DMO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DOMO KOSTKARKA DO LODU MOC 120W POJ. 1,8L DO9253IB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DOMO KOSTKARKA DO LODU MOC 120W POJ. 1,8L DO9253IB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "DOMO KOSTKARKA DO LODU MOC 120W POJ. 1,8L DO9253IB",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5411397153661"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DO9253IB",
+        "Weight": 8525.0,
+        "Height": 350.0,
+        "Width": 270.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079217",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b9b57ca8-6630-48eb-a1ac-c63031d5527a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T16:49:05Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDDMOKOS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:35.526000+00:00",
+        "sequence_number": 153917
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAKOS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB201",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB201",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB201",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IMB201",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085757",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kostkarka do lodu Blaupunkt IMB201"
+      },
+      "properties": {
+        "message_id": "c0b06ff2-0ce1-4a41-a11d-2457cd7eb7de",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-01T13:51:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAKOS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:13.703000+00:00",
+        "sequence_number": 125396
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAKOS0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB301",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB301",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB301",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IMB301",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085758",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kostkarka do lodu Blaupunkt IMB301"
+      },
+      "properties": {
+        "message_id": "49f7dab4-bae5-4536-9a06-065e6ee91782",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-01T13:51:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAKOS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:13.703000+00:00",
+        "sequence_number": 125397
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBLAKOS0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "Blaupunkt",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB601",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB601",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu Blaupunkt IMB601",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IMB601",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085759",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kostkarka do lodu Blaupunkt IMB601"
+      },
+      "properties": {
+        "message_id": "cc7f2f1f-346d-4065-91ee-e09f7fbf34e8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-01T13:51:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBLAKOS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:13.703000+00:00",
+        "sequence_number": 125398
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAFP4",
+        "ProductVersion": "1.2",
+        "ProductType": "Kostkarki do lodu",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kostkarka do lodu CAMRY CR 8073",
+            "ProductDescription": "Camry Premium CR 8073 Kostkarka do lodu przenośna 12 kg/24h Szary, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kostkarka do lodu CAMRY CR 8073",
+            "ProductDescription": "Camry | Ice cube maker | CR 8073 | Capacity 2.2 L | Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kostkarka do lodu CAMRY CR 8073",
+            "ProductDescription": "Camry | Eiswürfelbereiter | CR 8073 | Fassungsvermögen 2,2 L | Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908256839304"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84186900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CR 8073",
+        "Weight": 9880.0,
+        "Height": 370.0,
+        "Width": 385.0,
+        "Depth": 290.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.25.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52267
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54863
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035658",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5c12574e-b4ec-467d-acf4-81337e66b142",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-19T13:30:06Z'",
+          "ModificationDate": "b'2025-06-04T12:15:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAFP4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:53.724000+00:00",
+        "sequence_number": 133253
+      }
+    }
+  ]
+}

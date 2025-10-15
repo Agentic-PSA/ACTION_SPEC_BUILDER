@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "DROPGYPOK0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Pokrywy ochronne",
+        "Brand": "PGY",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Osłona gimbala PGY do DJI Spark",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Osłona gimbala PGY do DJI Spark",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Osłona gimbala PGY do DJI Spark",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6970801333031"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P-SP-107",
+        "Weight": 20.0,
+        "Height": 50.0,
+        "Width": 60.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53459
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076641",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e2e60584-2e8a-4b92-9f79-74e471680d40",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-05-29T13:48:54Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROPGYPOK0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:17.652000+00:00",
+        "sequence_number": 170800
+      }
+    }
+  ]
+}

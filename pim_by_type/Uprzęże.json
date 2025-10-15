@@ -1,0 +1,1043 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDAFY",
+        "ProductVersion": "1.2",
+        "ProductType": "Uprzęże",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lonża dynago ROCK EMPIRE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lonża dynago ROCK EMPIRE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lonża dynago ROCK EMPIRE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8595570113394"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002361200000035",
+        "Weight": 580.0,
+        "Height": 120.0,
+        "Width": 220.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044771",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3909e39d-f203-4a49-a767-e393020cf440",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-08T07:16:32Z'",
+          "ModificationDate": "b'2025-06-04T12:20:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDAFY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:58.685000+00:00",
+        "sequence_number": 148580
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WSIBL1UPR0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Uprzęże",
+        "Brand": "Black Diamond",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Black D MOMENTUM 4S HARNESS PACKAGE Anthracite XS/M",
+            "ProductDescription": "Black Diamond Momentum 4s Harness XS/M"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Black D MOMENTUM 4S HARNESS PACKAGE Anthracite XS/M",
+            "ProductDescription": "Black Diamond Momentum 4s Harness XS/M"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Black D MOMENTUM 4S HARNESS PACKAGE Anthracite XS/M",
+            "ProductDescription": "Black Diamond Momentum 4s Harness XS/M"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "793661648024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BD651115",
+        "Weight": 750.0,
+        "Height": 110.0,
+        "Width": 330.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064588",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Uprząż Black Diamond MOMENTUM 4S HARNESS PACKAGE Anthracite XS/M"
+      },
+      "properties": {
+        "message_id": "01c472f6-a95e-4313-8e60-64f302e57f18",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-27T12:43:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WSIBL1UPR0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:30.998000+00:00",
+        "sequence_number": 163679
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDAOW",
+        "ProductVersion": "1.3",
+        "ProductType": "Uprzęże",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Edelrid - Sirana II, Mountaineering harness | MG360",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Edelrid - Sirana II, Mountaineering harness | MG360",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Edelrid - Sirana II, Mountaineering harness | MG360",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4028545191997"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0008988500010348",
+        "Weight": 392.0,
+        "Height": 100.0,
+        "Width": 350.0,
+        "Depth": 153.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044780",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "438e44a7-48c0-4839-9547-b822cc922f8d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-22T07:19:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDAOW'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106330
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCDN",
+        "ProductVersion": "1.3",
+        "ProductType": "Uprzęże",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Edelrid Uprząż Sendero M",
+            "ProductDescription": "Edelrid Sendero"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Edelrid Uprząż Sendero M",
+            "ProductDescription": "Edelrid Sendero"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Edelrid Uprząż Sendero M",
+            "ProductDescription": "Edelrid Sendero"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4028545191898"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0008985200041975",
+        "Weight": 430.0,
+        "Height": 140.0,
+        "Width": 322.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044802",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9f58e2d3-bb5d-4e8d-a5d6-d2316f156967",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-27T07:19:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCDN'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:54.381000+00:00",
+        "sequence_number": 106352
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WSIBL1UPR0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Uprzęże",
+        "Brand": "Black Diamond",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher L",
+            "ProductDescription": "Black Diamond Momentum HARNESS Kingfisher L"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher L",
+            "ProductDescription": "Black Diamond Momentum HARNESS Kingfisher L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher L",
+            "ProductDescription": "Black Diamond Momentum HARNESS Kingfisher L"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "793661621331"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BD650005",
+        "Weight": 380.0,
+        "Height": 120.0,
+        "Width": 250.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Uprząż Black Diamond M MOMENTUM HARNESS Kingfisher L"
+      },
+      "properties": {
+        "message_id": "0dd9a62e-5dfe-4aeb-8a07-88f709bf827e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-27T12:42:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WSIBL1UPR0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:51.280000+00:00",
+        "sequence_number": 139820
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRE681",
+        "ProductVersion": "1.2",
+        "ProductType": "Uprzęże",
+        "Brand": "Salewa",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Lonża ergo tex-black-orange SALEWA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Lonża ergo tex-black-orange SALEWA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Lonża ergo tex-black-orange SALEWA",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4053866556149"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0007719700012957",
+        "Weight": 600.0,
+        "Height": 70.0,
+        "Width": 210.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060346",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aadec3e2-c1ee-4aa5-9d38-cf39646b91c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-05T14:05:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRE681'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.951000+00:00",
+        "sequence_number": 126295
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRE522",
+        "ProductVersion": "1.2",
+        "ProductType": "Uprzęże",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Uprząż volt wind international-2 PETZL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Uprząż volt wind international-2 PETZL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Uprząż volt wind international-2 PETZL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3342540830806"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0009739400003747",
+        "Weight": 2720.0,
+        "Height": 180.0,
+        "Width": 470.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "FR",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081549",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0966931f-d714-4218-a21f-872b91607059",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-11T07:35:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRE522'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:51.051000+00:00",
+        "sequence_number": 113172
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WSIBL1UPR0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Uprzęże",
+        "Brand": "Black Diamond",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Black Diamond Momentum 4S rozmiar XXS/S anthracite",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Black Diamond Momentum 4S rozmiar XXS/S anthracite",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Black Diamond Momentum 4S rozmiar XXS/S anthracite",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "793661449263"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BD651106",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092982",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Uprząż Black Diamond Momentum 4S rozmiar XXS/S anthracite"
+      },
+      "properties": {
+        "message_id": "d934bf06-225e-495f-8804-8bb12a666cdb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T08:28:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WSIBL1UPR0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:23.996000+00:00",
+        "sequence_number": 171110
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGPT9",
+        "ProductVersion": "1.1",
+        "ProductType": "Uprzęże",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Yato YT-74220 uprząż / pas bezpieczeństwa",
+            "ProductDescription": "Yato YT-74220 uprząż / pas bezpieczeństwa Uprząż na całe ciało"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Yato YT-74220 uprząż / pas bezpieczeństwa",
+            "ProductDescription": "Yato YT-74220 fall arrest harness/belt Full body harness"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Yato YT-74220 uprząż / pas bezpieczeństwa",
+            "ProductDescription": "Yato YT-74220 Auffanggurt/Gurt Ganzkörper-Auffanggurt"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-74220",
+        "Weight": 1718.0,
+        "Height": 128.0,
+        "Width": 317.0,
+        "Depth": 326.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084237",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2b48406d-a3c2-40ce-b5b9-d5dbf298e9ff",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T21:48:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGPT9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:09.441000+00:00",
+        "sequence_number": 156911
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WSIBL1UPR0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Uprzęże",
+        "Brand": "Black Diamond",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher XL",
+            "ProductDescription": "Black Diamond Momentum HARNESS Kingfisher XL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher XL",
+            "ProductDescription": "Black Diamond Momentum HARNESS Kingfisher XL"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher XL",
+            "ProductDescription": "Black Diamond Momentum HARNESS Kingfisher XL"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "793661621362"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BD650005",
+        "Weight": 400.0,
+        "Height": 120.0,
+        "Width": 250.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071489",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Uprząż Black Diamond M MOMENTUM HARNESS Kingfisher XL"
+      },
+      "properties": {
+        "message_id": "87ad267f-96b5-4a7a-a72f-093533d53713",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-27T12:43:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WSIBL1UPR0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:19.063000+00:00",
+        "sequence_number": 127869
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WSIBL1UPR0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Uprzęże",
+        "Brand": "Black Diamond",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher M",
+            "ProductDescription": "Black Diamond Momentum Kingfisher M"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher M",
+            "ProductDescription": "Black Diamond Momentum Kingfisher M"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Black Diamond M MOMENTUM HARNESS Kingfisher M",
+            "ProductDescription": "Black Diamond Momentum Kingfisher M"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "793661621348"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BD650005",
+        "Weight": 370.0,
+        "Height": 120.0,
+        "Width": 245.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075472",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Uprząż Black Diamond M MOMENTUM HARNESS Kingfisher M"
+      },
+      "properties": {
+        "message_id": "cc908188-b6e8-4b3c-8026-1a840bb4fd8b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-27T12:42:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WSIBL1UPR0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:41.461000+00:00",
+        "sequence_number": 145826
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WSIBL1UPR0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Uprzęże",
+        "Brand": "Black Diamond",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Black D MOMENTUM 4S HARNESS PACKAGE Anthracite L/XL",
+            "ProductDescription": "Black Diamond Momentum HARNESS PACKAGE Anthracite L/XL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Black D MOMENTUM 4S HARNESS PACKAGE Anthracite L/XL",
+            "ProductDescription": "Black Diamond Momentum HARNESS PACKAGE Anthracite L/XL"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Black D MOMENTUM 4S HARNESS PACKAGE Anthracite L/XL",
+            "ProductDescription": "Black Diamond Momentum HARNESS PACKAGE Anthracite L/XL"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "793661648017"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BD651115",
+        "Weight": 780.0,
+        "Height": 110.0,
+        "Width": 335.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "TW",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56636
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075473",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Uprząż Black Diamond MOMENTUM 4S HARNESS PACKAGE Anthracite L/XL"
+      },
+      "properties": {
+        "message_id": "99af1e16-796d-4620-b088-c5625b99a280",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-27T12:43:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WSIBL1UPR0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:41.461000+00:00",
+        "sequence_number": 145827
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD524",
+        "ProductVersion": "1.1",
+        "ProductType": "Urządzenia zabezpieczające",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Beal Monitor przyrząd autoasekuracyjny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Beal Monitor przyrząd autoasekuracyjny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Beal Monitor przyrząd autoasekuracyjny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85363010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0001866700000035",
+        "Weight": 210.0,
+        "Height": 32.0,
+        "Width": 150.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.12.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54216
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54767
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085392",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6afeccf5-d2e3-4e24-9d19-62c45d0b1180",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T07:22:44Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD524'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:23.005000+00:00",
+        "sequence_number": 136566
+      }
+    }
+  ]
+}

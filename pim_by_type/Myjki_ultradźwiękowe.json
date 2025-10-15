@@ -1,0 +1,89 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDNONMUD0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki ultradźwiękowe",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ultrasonic cleaner",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ultrasonic cleaner",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ultrasonic cleaner",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84798997",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BCM-182",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.99.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53221
+              },
+              {
+                "CategoryId": 52291
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54880
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086679",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ultrasonic cleaner"
+      },
+      "properties": {
+        "message_id": "a9765928-3bfb-432b-a0b9-ef873ff56710",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-07T12:50:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDNONMUD0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:29.927000+00:00",
+        "sequence_number": 157793
+      }
+    }
+  ]
+}

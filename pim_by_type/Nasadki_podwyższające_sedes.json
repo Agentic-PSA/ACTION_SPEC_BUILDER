@@ -1,0 +1,2684 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "ActionMed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zamienne kółka do CH100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zamienne kółka do CH100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zamienne kółka do CH100AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100095496",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9d1b3823-08c4-46a0-ac3d-954aefbd0fc2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-12T14:44:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:54.696000+00:00",
+        "sequence_number": 146551
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMEPNPS0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładka z klapą Etac HI-Loo 10 cm",
+            "ProductDescription": "Nakładka z klapą Etac HI-Loo 10 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładka z klapą Etac HI-Loo 10 cm",
+            "ProductDescription": "Toilet seat elevation cap with flap Etac HI-Loo 10 cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładka z klapą Etac HI-Loo 10 cm",
+            "ProductDescription": "Toilettensitzerhöhungskappe mit Klappe Etac HI-Loo 10 cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7320450001635"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "80301101",
+        "Weight": 2390.0,
+        "Height": 140.0,
+        "Width": 430.0,
+        "Depth": 365.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073384",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0b60b8c1-774f-4ff3-adbc-e6034e7e2aaa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T15:26:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMEPNPS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:30.824000+00:00",
+        "sequence_number": 119312
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITVRRNPS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "VRR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładka na sedes z poręczami TINA",
+            "ProductDescription": "Tina Nakładka na sedes z poręczami Biała"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładka na sedes z poręczami TINA",
+            "ProductDescription": "Tina Toilet seat cover with handrails White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładka na sedes z poręczami TINA",
+            "ProductDescription": "Tina Toilettensitzbezug mit Handläufen Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5415174002685"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TINA",
+        "Weight": 3350.0,
+        "Height": 395.0,
+        "Width": 440.0,
+        "Depth": 235.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073385",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8f9a56c7-4e01-4518-a53e-2fe1ee72e1b9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-19T14:25:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITVRRNPS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:30.824000+00:00",
+        "sequence_number": 119313
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 15cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 15cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 15cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410812"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT15AM",
+        "Weight": 12000.0,
+        "Height": 590.0,
+        "Width": 280.0,
+        "Depth": 800.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065532",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "feb88ae2-3af8-4a68-b921-5b485c832a59",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-13T09:16:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:32.450000+00:00",
+        "sequence_number": 130357
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITDTZNPS0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "DIETZ",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dietz SmartFix - nasadka na sedes z regulacją bez p",
+            "ProductDescription": "Dietz SmartFix - nasadka na sedes z regulacją bez podłokietników"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dietz SmartFix - nasadka na sedes z regulacją bez p",
+            "ProductDescription": "Dietz SmartFix adjustable toilet seat without armrests"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dietz SmartFix - nasadka na sedes z regulacją bez p",
+            "ProductDescription": "Dietz SmartFix Toilettensitzerhöhungskappe verstellbar ohne Armlehnen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260644770684"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "429113",
+        "Weight": 3410.0,
+        "Height": 515.0,
+        "Width": 450.0,
+        "Depth": 210.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065533",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "803c544a-67fc-4208-ac83-be22dfeb76ca",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-29T15:14:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITDTZNPS0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:32.450000+00:00",
+        "sequence_number": 130358
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAN1NPS0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Miękka nasadka toaletowa 500300",
+            "ProductDescription": "Miękka nasadka toaletowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Miękka nasadka toaletowa 500300",
+            "ProductDescription": "Soft toilet cap"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Miękka nasadka toaletowa 500300",
+            "ProductDescription": "Weicher Toilettendeckel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3701127710885"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 2722.0,
+        "Height": 400.0,
+        "Width": 420.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018204",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b915cf5-a1db-46d9-a51b-7ce274fe7fa8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-26T14:48:15Z'",
+          "ModificationDate": "b'2025-06-04T12:05:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAN1NPS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:24.477000+00:00",
+        "sequence_number": 122711
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITDTZNPS0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "DIETZ",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": "Kanjo ECO. Podnośnik wannowy z tapicerką"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": "Kanjo ECO. Bath lift with upholstery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": "Kanjo ECO. Badewannenlift mit Polsterung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260241687545"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84289090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLP004",
+        "Weight": 12830.0,
+        "Height": 750.0,
+        "Width": 190.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.22.18.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070332",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kanjo ECO. Podnośnik wannowy z tapicer"
+      },
+      "properties": {
+        "message_id": "a65d8027-f2b3-4f80-8a3f-ade2e80e6ec8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-29T15:12:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITDTZNPS0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:36.200000+00:00",
+        "sequence_number": 130576
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Części serwisowe SUNCARE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Części serwisowe SUNCARE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Części serwisowe SUNCARE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 400.0,
+        "Height": 200.0,
+        "Width": 200.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058639",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e6e2f97b-4e15-481d-be8f-8a5e852adf9b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-10T14:08:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123717
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAS3NPS0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "ASTON",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka toaletowa CLIPPER VII 500431",
+            "ProductDescription": "Nakładka na sedes CLIPPER VII"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka toaletowa CLIPPER VII 500431",
+            "ProductDescription": "CLIPPER VII toilet seat cover"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka toaletowa CLIPPER VII 500431",
+            "ProductDescription": "CLIPPER VII Toilettensitzbezug"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3701127706499"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "500431",
+        "Weight": 6250.0,
+        "Height": 450.0,
+        "Width": 215.0,
+        "Depth": 460.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058640",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b8f27b3b-0b12-446b-b751-dd2a48c2bff3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-27T13:10:57Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAS3NPS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123718
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITDTZNPS0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "DIETZ",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260241687545"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84289090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLP004",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.22.18.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058641",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kanjo ECO. Podnośnik wannowy z tapicer"
+      },
+      "properties": {
+        "message_id": "8b0700ae-cf05-4f13-89d6-8a5dc9e57329",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T08:54:11Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITDTZNPS0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123719
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 10cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 10cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 10cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410805"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT10AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073382",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1ca01584-4712-4ee8-8bf6-1bf911590859",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-13T09:16:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:16.741000+00:00",
+        "sequence_number": 152999
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITMEPNPS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "MEP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładka z klapą Etac HI-Loo 10 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładka z klapą Etac HI-Loo 10 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładka z klapą Etac HI-Loo 10 cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908252459605"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "80301101",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073383",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "28cfa0b1-63b1-4622-93b4-9b04a2baeb0a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-03T12:56:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITMEPNPS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:16.741000+00:00",
+        "sequence_number": 153000
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Komplet śrub zapasowych do stołka KP200AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Komplet śrub zapasowych do stołka KP200AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Komplet śrub zapasowych do stołka KP200AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080631",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ff689ec0-5b5f-4952-8281-fb58d16f4ebd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T13:21:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:50.122000+00:00",
+        "sequence_number": 154610
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładki na nóżki zamienne do stołka KP200AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładki na nóżki zamienne do stołka KP200AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładki na nóżki zamienne do stołka KP200AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080632",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f15fb945-b801-4a5d-92dc-46297fb21e6d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T13:25:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:50.122000+00:00",
+        "sequence_number": 154611
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Komplet śrub zamiennych do stołka KP300AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Komplet śrub zamiennych do stołka KP300AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Komplet śrub zamiennych do stołka KP300AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080633",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c5742196-89bd-4b23-a583-ddd13191d148",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T13:28:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:50.122000+00:00",
+        "sequence_number": 154612
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Komplet zamiennych aluminiowych tulejek do KP300AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Komplet zamiennych aluminiowych tulejek do KP300AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Komplet zamiennych aluminiowych tulejek do KP300AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080635",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6829f89e-68bf-4a81-9487-ced1d82370db",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T13:31:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:50.122000+00:00",
+        "sequence_number": 154614
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładki na nóżki zamienne do stołka KP300AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładki na nóżki zamienne do stołka KP300AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładki na nóżki zamienne do stołka KP300AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080637",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "26ca4cb9-51a6-47a2-8c05-f39970e951c4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T13:35:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:50.122000+00:00",
+        "sequence_number": 154616
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zamienne kółka 5 calowe do balkonika B100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zamienne kółka 5 calowe do balkonika B100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zamienne kółka 5 calowe do balkonika B100AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080638",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1d01adc6-78b9-447d-893e-5310f236b6f1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T13:39:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:50.122000+00:00",
+        "sequence_number": 154617
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładki na nóżki zamienne do balkonika B100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładki na nóżki zamienne do balkonika B100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładki na nóżki zamienne do balkonika B100AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080648",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "03f5b7a0-5aaa-4328-98fb-984b0130c8e9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T14:27:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:50.122000+00:00",
+        "sequence_number": 154627
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0013",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładki na nóżki zamienne do krzesła KT100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładki na nóżki zamienne do krzesła KT100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładki na nóżki zamienne do krzesła KT100AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080663",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f5fa381-ae07-4391-9974-fdb396dd2516",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T14:31:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:42.203000+00:00",
+        "sequence_number": 112725
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Komplet śrub zapasowych do stołka KP300AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Komplet śrub zapasowych do stołka KP300AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Komplet śrub zapasowych do stołka KP300AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080671",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b98cbced-a62b-4a81-8186-60dc9be5f465",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T14:36:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:42.203000+00:00",
+        "sequence_number": 112733
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Próbki sample SUNCARE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Próbki sample SUNCARE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Próbki sample SUNCARE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 10.0,
+        "Width": 10.0,
+        "Depth": 10.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081378",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "60323291-a52d-43de-b8d8-9a9b55d26b89",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-10T08:38:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:49.223000+00:00",
+        "sequence_number": 113081
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 15cm",
+            "ProductDescription": "Nasadka podwyższająca na toaletę z klapą 15 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 15cm",
+            "ProductDescription": "Toilet seat elevation cap with flap 15cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 15cm",
+            "ProductDescription": "Toilettensitzerhöhungskappe mit Klappe 15cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410805"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT15AM",
+        "Weight": 2320.0,
+        "Height": 388.0,
+        "Width": 436.0,
+        "Depth": 229.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054903",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "75dad56f-0aa0-4119-82f1-523b653f92c3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T15:43:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:57.453000+00:00",
+        "sequence_number": 141799
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMLX2OO0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "Mobilex",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka/nakładka toaletowa na sedes (WYPRZEDAŻ)",
+            "ProductDescription": "Nasadka/nakładka toaletowa na sedes Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka/nakładka toaletowa na sedes (WYPRZEDAŻ)",
+            "ProductDescription": "Raising toilet seat with handrails Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka/nakładka toaletowa na sedes (WYPRZEDAŻ)",
+            "ProductDescription": "Erhöhte Toiletteneinheit mit Handläufen Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001400090"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLN001",
+        "Weight": 5500.0,
+        "Height": 245.0,
+        "Width": 445.0,
+        "Depth": 487.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054589",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nasadka/nakładka toaletowa na sedes"
+      },
+      "properties": {
+        "message_id": "9edb6382-b3f2-4d01-beea-f5d13e587455",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T12:19:31Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMLX2OO0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:56.467000+00:00",
+        "sequence_number": 160556
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 10cm",
+            "ProductDescription": "Nasadka nakładka podwyższająca na toaletę sedes z klapą 10cm ActionMED NT10AM"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 10cm",
+            "ProductDescription": "Toilet seat elevation cap with flap 10cm ActionMED NT10AM"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka podwyższająca na toaletę z klapą 10cm",
+            "ProductDescription": "Toilettensitzerhöhungskappe mit Klappe 10cm ActionMED NT10AM"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901443410799"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT10AM",
+        "Weight": 1792.0,
+        "Height": 179.0,
+        "Width": 430.0,
+        "Depth": 382.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077293",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "729d185a-6279-4a35-840f-bbf0d705c2fe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T15:41:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:01.237000+00:00",
+        "sequence_number": 156565
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAN1NPS0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "ANTAR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka z deską i odchylanymi poręczami AT51205",
+            "ProductDescription": "Nasadka z deską i odchylanymi poręczami AT51205"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka z deską i odchylanymi poręczami AT51205",
+            "ProductDescription": "Raising toilet seat with foldable handrails AT51205"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka z deską i odchylanymi poręczami AT51205",
+            "ProductDescription": "Erhöhte Toiletteneinheit mit klappbaren Handläufen AT51205"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901571457376"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 4050.0,
+        "Height": 460.0,
+        "Width": 555.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077294",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ada37ef2-25db-40fd-9447-bf3b6540df49",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-21T14:55:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAN1NPS0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:01.237000+00:00",
+        "sequence_number": 156566
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITDTZNPS0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "DIETZ",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dietz SmartFix - nasadka na sedes z podłokietnikami",
+            "ProductDescription": "Dietz SmartFix - nasadka na sedes z podłokietnikami"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dietz SmartFix - nasadka na sedes z podłokietnikami",
+            "ProductDescription": "Dietz SmartFix toilet seat with armrests"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dietz SmartFix - nasadka na sedes z podłokietnikami",
+            "ProductDescription": "Dietz SmartFix WC-Sitz mit Armlehnen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260644770677"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 4720.0,
+        "Height": 210.0,
+        "Width": 450.0,
+        "Depth": 510.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077295",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3f55a312-e920-40dc-8612-b7b504d7a65d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-14T13:41:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITDTZNPS0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:01.237000+00:00",
+        "sequence_number": 156567
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITDTZNPS0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "DIETZ",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": "Kanjo ECO. Podnośnik wannowy z tapicer"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": "Kanjo ECO. Bath lift with upholstery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kanjo ECO. Podnośnik wannowy",
+            "ProductDescription": "Kanjo ECO. Badewannenlift mit Polsterung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260241687545"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84289090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLP004",
+        "Weight": 12830.0,
+        "Height": 730.0,
+        "Width": 190.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.22.18.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077296",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kanjo ECO. Podnośnik wannowy z tapicer"
+      },
+      "properties": {
+        "message_id": "e63cae88-ae02-4bfd-817f-3b1b44b77819",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-14T13:43:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITDTZNPS0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:01.237000+00:00",
+        "sequence_number": 156568
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITPDSNPS0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "PDS CARE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka, nakładka na sedes",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka, nakładka na sedes",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka, nakładka na sedes",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5740001403251"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1671.0,
+        "Height": 156.0,
+        "Width": 376.0,
+        "Depth": 417.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077297",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nasadka, nakładka na sedes"
+      },
+      "properties": {
+        "message_id": "e895189e-d74c-41b4-ae52-5e74e88d7116",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-22T10:02:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITPDSNPS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:01.237000+00:00",
+        "sequence_number": 156569
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITREHNPS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "REHA FUND",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podwyższająca nasadka toaletowa KATE RF-871/15",
+            "ProductDescription": "Podwyższająca nasadka toaletowa z klapą KATE 15 cm Biała"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podwyższająca nasadka toaletowa KATE RF-871/15",
+            "ProductDescription": "Raising toilet seat with flapper KATE 15 cm White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podwyższająca nasadka toaletowa KATE RF-871/15",
+            "ProductDescription": "Erhöhter Toilettensitz mit Klappe KATE 15 cm Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903940710761"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1720.0,
+        "Height": 370.0,
+        "Width": 410.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100018252",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7cd5791a-6cba-4be5-aa7b-184a1bb64762",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-25T15:18:36Z'",
+          "ModificationDate": "b'2025-06-04T12:05:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITREHNPS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147573
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0018",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "ActionMed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nóżka z kółkiem zamienna do B100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nóżka z kółkiem zamienna do B100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nóżka z kółkiem zamienna do B100AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100154032",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9c906045-b9c1-4ce7-b83a-79493a2b10b9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-22T15:28:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:12.442000+00:00",
+        "sequence_number": 173513
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0019",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "ActionMed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zatrzask do nasadki NT15AM zamiennik",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zatrzask do nasadki NT15AM zamiennik",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zatrzask do nasadki NT15AM zamiennik",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100154033",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7bef8c3c-d700-47a8-ad31-ced612c6d068",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-22T15:32:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:12.442000+00:00",
+        "sequence_number": 173514
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0020",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "ActionMed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładka pod stopy zamiennik KP200AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładka pod stopy zamiennik KP200AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładka pod stopy zamiennik KP200AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100154041",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c3a381fa-94b0-4a9b-8bcd-133ea47d34b0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-22T15:38:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:12.442000+00:00",
+        "sequence_number": 173521
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0021",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "ActionMed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładka pod stopy zamiennik KP100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładka pod stopy zamiennik KP100AM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładka pod stopy zamiennik KP100AM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100154042",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e4c61c9e-a427-4dd4-87bd-2e656738d364",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-09-22T15:42:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:12.442000+00:00",
+        "sequence_number": 173522
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LITAIVNPS0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Nasadki podwyższające sedes",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nasadka podwyższająca na toaletę z uchytwami",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nasadka podwyższająca na toaletę z uchytwami",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nasadka podwyższająca na toaletę z uchytwami",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "39222000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NT200AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.23.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56388
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090992",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nasadka podwyższająca na toaletę z uchytwami"
+      },
+      "properties": {
+        "message_id": "790b1b9d-b728-47a1-9f1f-d0d41cdcb857",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:31:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LITAIVNPS0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131653
+      }
+    }
+  ]
+}

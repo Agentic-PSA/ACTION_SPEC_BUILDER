@@ -1,0 +1,241 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SYPSU2OPP0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Ochraniacze i podkłady przeciwodleżynowe",
+        "Brand": "SUNDO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podkłąd antyodleżynowy 90x210cm",
+            "ProductDescription": "Podkład antyodleżynowy 90 x 210 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podkłąd antyodleżynowy 90x210cm",
+            "ProductDescription": "Anti-decubitus pad 90 x 210 cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podkłąd antyodleżynowy 90x210cm",
+            "ProductDescription": "Anti-Dekubitus-Polster 90 x 210 cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250629310509"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90219090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "42492",
+        "Weight": 1260.0,
+        "Height": 140.0,
+        "Width": 500.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56409
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050376",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "264eee63-2c19-4c7b-bedc-99b30b6df641",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-16T15:55:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPSU2OPP0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:11.181000+00:00",
+        "sequence_number": 137774
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPTM2OPP0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Ochraniacze i podkłady przeciwodleżynowe",
+        "Brand": "Timago",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ochraniacz przeciwodleżynowy łokieć - para SVP 2401",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ochraniacz przeciwodleżynowy łokieć - para SVP 2401",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ochraniacz przeciwodleżynowy łokieć - para SVP 2401",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8436035350650"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90219090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 50.0,
+        "Height": 270.0,
+        "Width": 240.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56409
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100028691",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2bde99d9-e3bb-4f4d-bcff-8e4f37312533",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-18T12:46:46Z'",
+          "ModificationDate": "b'2025-06-04T12:11:16Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPTM2OPP0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:38.620000+00:00",
+        "sequence_number": 140831
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SYPSU2OPP0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Ochraniacze i podkłady przeciwodleżynowe",
+        "Brand": "SUNDO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podkład antyodleżynowy 90x140cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podkład antyodleżynowy 90x140cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podkład antyodleżynowy 90x140cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4250629310509"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90219090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56409
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100155732",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d7782c1a-1d7f-41ea-b881-c0fe5963e6d0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-01T10:49:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SYPSU2OPP0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:14.257000+00:00",
+        "sequence_number": 173641
+      }
+    }
+  ]
+}

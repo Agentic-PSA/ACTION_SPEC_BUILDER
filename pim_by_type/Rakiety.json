@@ -1,0 +1,2092 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCDLS",
+        "ProductVersion": "1.4",
+        "ProductType": "Rakiety",
+        "Brand": "Donic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do Tenisa Stołowego DONIC Legends 1000",
+            "ProductDescription": "Donic Schildkröt Legends 1000 stół pingpongowy Czarny, Niebieski, Drewno"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do Tenisa Stołowego DONIC Legends 1000",
+            "ProductDescription": "Donic Schildkröt Legends 1000 table tennis equipment Black, Blue, Wood"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do Tenisa Stołowego DONIC Legends 1000",
+            "ProductDescription": "Donic Schildkröt Legends 1000 Tischtennisplatte Schwarz, Blau, Holz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885544275"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "754427",
+        "Weight": 227.0,
+        "Height": 30.0,
+        "Width": 286.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042670",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "359cf3eb-df9e-4899-ae51-4784e2fc838e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-15T07:19:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCDLS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:36.700000+00:00",
+        "sequence_number": 159665
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCDE8",
+        "ProductVersion": "1.2",
+        "ProductType": "Rakiety",
+        "Brand": "Donic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Donic Schildkröt WALDNER 1000 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt WALDNER 1000 stół pingpongowy Wielobarwny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Donic Schildkröt WALDNER 1000 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt WALDNER 1000 table tennis equipment Multicolour"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Donic Schildkröt WALDNER 1000 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt WALDNER 1000 Tischtennisplatte Mehrfarbig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885518016"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1000751801",
+        "Weight": 230.0,
+        "Height": 30.0,
+        "Width": 287.0,
+        "Depth": 149.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "IT",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064064",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6b4eace8-3284-4e98-9b81-95f8a8bada33",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-08T12:15:28Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCDE8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:28.980000+00:00",
+        "sequence_number": 119214
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGFXU",
+        "ProductVersion": "1.2",
+        "ProductType": "Rakiety",
+        "Brand": "Butterfly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG99",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG99",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG99",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078850326"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "85032",
+        "Weight": 242.0,
+        "Height": 194.0,
+        "Width": 292.0,
+        "Depth": 32.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064398",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "477ce95e-d560-4089-9c77-9a330c5b64d4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T16:20:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGFXU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:29.216000+00:00",
+        "sequence_number": 163588
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCWYO",
+        "ProductVersion": "1.4",
+        "ProductType": "Rakiety",
+        "Brand": "Donic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Donic Schildkröt Waldner 900 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt Waldner 900 stół pingpongowy Wielobarwny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Donic Schildkröt Waldner 900 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt Waldner 900 table tennis equipment Multicolour"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Donic Schildkröt Waldner 900 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt Waldner 900 Tischtennisplatte Mehrfarbig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885548938"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "900754893",
+        "Weight": 186.0,
+        "Height": 28.0,
+        "Width": 264.0,
+        "Depth": 147.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044288",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "188dedd1-f3a7-483d-9fa5-6d83f5016c3e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-09T14:13:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCWYO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:09.992000+00:00",
+        "sequence_number": 134098
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCXAA",
+        "ProductVersion": "1.3",
+        "ProductType": "Rakiety",
+        "Brand": "Donic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Donic Schildkröt WALDNER 700 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt WALDNER 700 stół pingpongowy Wielobarwny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Donic Schildkröt WALDNER 700 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt WALDNER 700 table tennis equipment Multicolour"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Donic Schildkröt WALDNER 700 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt WALDNER 700 Tischtennisplatte Mehrfarbig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885548723"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2383-uniw",
+        "Weight": 197.0,
+        "Height": 30.0,
+        "Width": 265.0,
+        "Depth": 148.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044303",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "510099eb-c598-4787-8060-add9b866ee71",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-23T11:21:42Z'",
+          "ModificationDate": "b'2025-08-07T08:26:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCXAA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:10.914000+00:00",
+        "sequence_number": 134113
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCZM3",
+        "ProductVersion": "1.3",
+        "ProductType": "Rakiety",
+        "Brand": "Donic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Donic Sensation Line 700",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Donic Sensation Line 700",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Donic Sensation Line 700",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885344035"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "734403",
+        "Weight": 3000.0,
+        "Height": 376.0,
+        "Width": 170.0,
+        "Depth": 207.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044532",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "71778027-d25c-4696-853f-59e35c820a55",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-03T16:22:50Z'",
+          "ModificationDate": "b'2025-08-07T08:27:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCZM3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:55.903000+00:00",
+        "sequence_number": 148457
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCYIG",
+        "ProductVersion": "1.3",
+        "ProductType": "Rakiety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do tenisa stołowego DONIC Top Team",
+            "ProductDescription": "Donic Schildkröt Top Team 800 stół pingpongowy Czarny, Biały, Drewno"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do tenisa stołowego DONIC Top Team",
+            "ProductDescription": "Donic Schildkröt Top Team 800 table tennis equipment Black, White, Wood"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do tenisa stołowego DONIC Top Team",
+            "ProductDescription": "Donic Schildkröt Top Team 800 Tischtennisplatte Schwarz, Weiß, Holz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885541984"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "800754198",
+        "Weight": 174.0,
+        "Height": 29.0,
+        "Width": 259.0,
+        "Depth": 147.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044422",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "605f3469-5215-43ae-b8e6-dbcaf298b6e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-29T21:51:12Z'",
+          "ModificationDate": "b'2025-08-07T08:26:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCYIG'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:51.459000+00:00",
+        "sequence_number": 106156
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATU7",
+        "ProductVersion": "1.4",
+        "ProductType": "Rakiety",
+        "Brand": "Butterfly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll Platin",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll Platin",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll Platin",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078850265"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "85025",
+        "Weight": 300.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038430",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b3a5ff02-a5e2-467c-a68f-243cca15a5a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-03T04:17:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATU7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:07.800000+00:00",
+        "sequence_number": 120087
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAUXP",
+        "ProductVersion": "1.4",
+        "ProductType": "Rakiety",
+        "Brand": "Butterfly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG55",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG55",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG55",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078850227"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R3073",
+        "Weight": 450.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038565",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "930ce633-efb5-4394-9109-203c573667eb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-01T02:40:22Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAUXP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:08.707000+00:00",
+        "sequence_number": 120148
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAW92",
+        "ProductVersion": "1.4",
+        "ProductType": "Rakiety",
+        "Brand": "Butterfly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Platin",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Platin",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Platin",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078852269"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S852269",
+        "Weight": 190.0,
+        "Height": 28.0,
+        "Width": 270.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038584",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8c3c7d9d-3ae0-4083-b90d-77eda3fbbfab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-12T12:05:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAW92'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:09.613000+00:00",
+        "sequence_number": 120167
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAWOA",
+        "ProductVersion": "1.4",
+        "ProductType": "Rakiety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Zhang Jike",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Zhang Jike",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Zhang Jike",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078850852"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "85085",
+        "Weight": 700.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038625",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ff115a4a-a717-4af1-ae69-b70c61862ead",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-15T03:00:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAWOA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:09.613000+00:00",
+        "sequence_number": 120171
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAWOD",
+        "ProductVersion": "1.3",
+        "ProductType": "Rakiety",
+        "Brand": "Butterfly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Progress",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Progress",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Progress",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "44906901008869"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "107971_",
+        "Weight": 280.0,
+        "Height": 170.0,
+        "Width": 280.0,
+        "Depth": 27.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038626",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bc195dd0-753c-42a0-bfc0-53b9b50e98a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-08T22:31:50Z'",
+          "ModificationDate": "b'2025-08-07T08:20:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAWOD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:09.613000+00:00",
+        "sequence_number": 120172
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "TESATMRAK0011",
+        "ProductVersion": "1.2",
+        "ProductType": "Rakiety",
+        "Brand": "Atemi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Proanatomical",
+            "ProductDescription": "Rakietka do ping ponga New Atemi 2000 Pro anatomical"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Proanatomical",
+            "ProductDescription": "New Atemi 2000 Pro anatomical ping pong racket"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Proanatomical",
+            "ProductDescription": "Neu Atemi 2000 Pro anatomischer Tischtennisschläger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4740152100529"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R2623",
+        "Weight": 230.0,
+        "Height": 160.0,
+        "Width": 27.0,
+        "Depth": 295.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068478",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Rakietka do ping ponga New Atemi 2000 Pro anatomical"
+      },
+      "properties": {
+        "message_id": "66fc809a-a2b4-48bc-abfb-a4bed1346989",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-06T12:18:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:16Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'TESATMRAK0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:19.461000+00:00",
+        "sequence_number": 107556
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAUGG",
+        "ProductVersion": "1.2",
+        "ProductType": "Rakiety",
+        "Brand": "Donic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Donic Schildkröt 754400 stół pingpongowy Czarny",
+            "ProductDescription": "Donic Schildkröt 754400 stół pingpongowy Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Donic Schildkröt 754400 stół pingpongowy Czarny",
+            "ProductDescription": "Donic Schildkröt 754400 table tennis equipment Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Donic Schildkröt 754400 stół pingpongowy Czarny",
+            "ProductDescription": "Donic Schildkröt 754400 Tischtennisplatte Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885544008"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "754400",
+        "Weight": 238.0,
+        "Height": 278.0,
+        "Width": 153.0,
+        "Depth": 38.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050127",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ba70cb6a-4b2d-4a2e-9737-828b3d268006",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-27T17:04:57Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAUGG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:30.258000+00:00",
+        "sequence_number": 121190
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHYM",
+        "ProductVersion": "1.3",
+        "ProductType": "Rakiety",
+        "Brand": "Atemi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Proanatomical",
+            "ProductDescription": "Rakietka do ping ponga New Atemi 2000 Pro anatomical"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Proanatomical",
+            "ProductDescription": "New Atemi 2000 Pro anatomical ping pong racket"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Proanatomical",
+            "ProductDescription": "Neu Atemi 2000 Pro anatomischer Tischtennisschläger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4740152100529"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R2623",
+        "Weight": 230.0,
+        "Height": 160.0,
+        "Width": 27.0,
+        "Depth": 295.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040241",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d1a06c7d-7c85-42e7-8be5-00f98f67cf55",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-18T12:55:48Z'",
+          "ModificationDate": "b'2025-08-07T08:21:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHYM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:35.445000+00:00",
+        "sequence_number": 137275
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHZ4",
+        "ProductVersion": "1.3",
+        "ProductType": "Rakiety",
+        "Brand": "Atemi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Pro Concave",
+            "ProductDescription": "Rakietka do ping ponga New Atemi 2000 Pro CONCAVE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Pro Concave",
+            "ProductDescription": "New Atemi 2000 Pro CONCAVEping pong racket"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga New Atemi 2000 Pro Concave",
+            "ProductDescription": "Neu Atemi 2000 Pro CONCAVETischtennisschläger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4740152100536"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R2614",
+        "Weight": 220.0,
+        "Height": 33.0,
+        "Width": 159.0,
+        "Depth": 294.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040242",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59f1b8de-f7a3-4daf-a8e3-24cc72ff0665",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-03T07:16:26Z'",
+          "ModificationDate": "b'2025-08-07T08:21:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHZ4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:35.445000+00:00",
+        "sequence_number": 137276
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFOM9",
+        "ProductVersion": "1.2",
+        "ProductType": "Rakiety",
+        "Brand": "Atemi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga New Atemi 5000 Pro concave",
+            "ProductDescription": "Rakietka do ping ponga New Atemi 5000 Pro concave"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga New Atemi 5000 Pro concave",
+            "ProductDescription": "New Atemi 5000 Pro concave ping pong racket"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga New Atemi 5000 Pro concave",
+            "ProductDescription": "Neu Atemi 5000 Pro konkav Tischtennisschläger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4740152100611"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R2616",
+        "Weight": 234.0,
+        "Height": 33.0,
+        "Width": 158.0,
+        "Depth": 294.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053727",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "070d981a-8d6d-437e-9d22-3f9862a7b303",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-06T10:05:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFOM9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:51.280000+00:00",
+        "sequence_number": 139826
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGFZJ",
+        "ProductVersion": "1.2",
+        "ProductType": "Rakiety",
+        "Brand": "Butterfly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll Titanium",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll Titanium",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll Titanium",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078850388"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "139552_",
+        "Weight": 234.0,
+        "Height": 292.0,
+        "Width": 193.0,
+        "Depth": 41.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080246",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "04df1cf4-89df-4773-a0f1-ba5707118349",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-03T07:10:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGFZJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:46.200000+00:00",
+        "sequence_number": 154425
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCYIT",
+        "ProductVersion": "1.1",
+        "ProductType": "Rakiety",
+        "Brand": "Donic",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Donic Schildkröt WALDNER 5000 stół pingpongowy Wiel",
+            "ProductDescription": "Donic Schildkröt WALDNER 5000 stół pingpongowy Wielobarwny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Donic Schildkröt WALDNER 5000 stół pingpongowy Wiel",
+            "ProductDescription": "Donic Schildkröt WALDNER 5000 table tennis equipment Multicolour"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Donic Schildkröt WALDNER 5000 stół pingpongowy Wiel",
+            "ProductDescription": "Donic Schildkröt WALDNER 5000 Tischtennisplatte Mehrfarbig"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885518054"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5000751805",
+        "Weight": 1000.0,
+        "Height": 170.0,
+        "Width": 376.0,
+        "Depth": 207.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093119",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3d1c82a1-17ef-45b4-92aa-1e25a5321176",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T16:10:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCYIT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:25.059000+00:00",
+        "sequence_number": 171174
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFOM8",
+        "ProductVersion": "1.4",
+        "ProductType": "Rakiety",
+        "Brand": "Atemi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Atemi 4000 Balsa anatomical",
+            "ProductDescription": "Rakietka do ping ponga Atemi 4000 Balsa anatomical"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Atemi 4000 Balsa anatomical",
+            "ProductDescription": "Atemi 4000 Balsa anatomical ping pong racket"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Atemi 4000 Balsa anatomical",
+            "ProductDescription": "Atemi 4000 Balsa anatomischer Tischtennisschläger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4740152100581"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0648-AN",
+        "Weight": 224.0,
+        "Height": 32.0,
+        "Width": 159.0,
+        "Depth": 293.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046826",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "930ffd20-941e-419d-98a8-d75264c40a6a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-02T14:46:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFOM8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:11.446000+00:00",
+        "sequence_number": 129317
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCYB8",
+        "ProductVersion": "1.1",
+        "ProductType": "Rakiety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Donic Schildkröt Legends 700 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt Legends 700 stół pingpongowy Niebieski, Drewno"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Donic Schildkröt Legends 700 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt Legends 700 table tennis equipment Blue, Wood"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Donic Schildkröt Legends 700 stół pingpongowy",
+            "ProductDescription": "Donic Schildkröt Legends 700 Tischtennisplatte Blau, Holz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000885344172"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "734417",
+        "Weight": 180.0,
+        "Height": 261.0,
+        "Width": 147.0,
+        "Depth": 28.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067084",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "53cf8d71-3c66-497e-9caf-efee24b0e12f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-29T09:51:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCYB8'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:06+00:00",
+        "sequence_number": 103143
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATZA",
+        "ProductVersion": "1.3",
+        "ProductType": "Rakiety",
+        "Brand": "Butterfly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG77",
+            "ProductDescription": "Rakietka do ping ponga Butterfly Timo Boll SG77"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG77",
+            "ProductDescription": "Ping Pong Racket Butterfly Timo Boll SG77 85027"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Timo Boll SG77",
+            "ProductDescription": "Tischtennisschläger Butterfly Timo Boll SG77 85027"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078850265"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "85027",
+        "Weight": 244.0,
+        "Height": 25.0,
+        "Width": 290.0,
+        "Depth": 195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038448",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "62c50d17-5a3d-4f56-bfd7-9a1bce9ee765",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-08T02:59:50Z'",
+          "ModificationDate": "b'2025-08-07T08:19:17Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATZA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:03.367000+00:00",
+        "sequence_number": 133732
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAUBG",
+        "ProductVersion": "1.3",
+        "ProductType": "Rakiety",
+        "Brand": "Butterfly",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Ruby",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Ruby",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Ruby",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078852276"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "136199_",
+        "Weight": 192.0,
+        "Height": 160.0,
+        "Width": 285.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038476",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5fc0a0ca-826b-4988-8e65-7a6e238322ed",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-30T07:22:04Z'",
+          "ModificationDate": "b'2025-08-07T08:19:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAUBG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:04.290000+00:00",
+        "sequence_number": 133760
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAW93",
+        "ProductVersion": "1.4",
+        "ProductType": "Rakiety",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Black",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Black",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rakietka do ping ponga Butterfly Ovtcharov Black",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4001078852313"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95064000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S852313",
+        "Weight": 172.0,
+        "Height": 28.0,
+        "Width": 279.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56319
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038585",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a708fda1-bd91-4fa4-8604-8a59b549cbcf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-10T03:36:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAW93'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:04.290000+00:00",
+        "sequence_number": 133799
+      }
+    }
+  ]
+}

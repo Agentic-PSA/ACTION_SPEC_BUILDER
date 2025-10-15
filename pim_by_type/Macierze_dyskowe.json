@@ -1,0 +1,3029 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0018",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 10GBASE-T iSCSI LFF S1H45A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 10GBASE-T iSCSI LFF S1H45A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 10GBASE-T iSCSI LFF S1H45A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017739014"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S1H45A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065758",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 10GBASE-T iSCSI LFF Storage S1H45A"
+      },
+      "properties": {
+        "message_id": "7bd7cfe8-6486-4776-a37b-82c6a154a9c2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:17Z'",
+          "ModificationDate": "b'2025-07-24T10:54:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0018'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:41.811000+00:00",
+        "sequence_number": 164208
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASWDIMAC0079",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "Western Digital",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1ES2540",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065759",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540"
+      },
+      "properties": {
+        "message_id": "85cceba3-346a-4fde-970e-6482b50b8ff6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-03T13:32:33Z'",
+          "ModificationDate": "b'2025-07-24T10:54:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASWDIMAC0079'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:11.641000+00:00",
+        "sequence_number": 135960
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASWDIMAC0082",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "Western Digital",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WD JBOD SE4U60-0 Chassis1ES2565",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WD JBOD SE4U60-0 Chassis1ES2565",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "WD JBOD SE4U60-0 Chassis1ES2565",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1ES2565",
+        "Weight": 32600.0,
+        "Height": 958.0,
+        "Width": 575.0,
+        "Depth": 290.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048675",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "WD JBOD SE4U60-0 Chassis1ES2565"
+      },
+      "properties": {
+        "message_id": "1a8c0376-2296-4e6f-85e4-b24d41880ab1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-08T12:14:50Z'",
+          "ModificationDate": "b'2025-07-24T11:02:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASWDIMAC0082'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:58.814000+00:00",
+        "sequence_number": 108508
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0002",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2060 10GbE iSCSI SFF R0Q76B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2060 10GbE iSCSI SFF R0Q76B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2060 10GbE iSCSI SFF R0Q76B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620701"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q76B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070585",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2060 10GbE iSCSI SFF Storage R0Q76B"
+      },
+      "properties": {
+        "message_id": "2fda9995-8fbd-4268-ab99-2b55b8a7fe63",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:25Z'",
+          "ModificationDate": "b'2025-07-24T10:56:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.043000+00:00",
+        "sequence_number": 109470
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0004",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2060 16Gb FC SFF R0Q74B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2060 16Gb FC SFF R0Q74B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2060 16Gb FC SFF R0Q74B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620589"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q74B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070586",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2060 16Gb FC SFF Storage R0Q74B"
+      },
+      "properties": {
+        "message_id": "16176246-85b1-42f4-b742-9906ab73a62d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:31Z'",
+          "ModificationDate": "b'2025-07-24T10:56:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.043000+00:00",
+        "sequence_number": 109471
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0011",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 1060 16Gb FC SFF R0Q85B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 1060 16Gb FC SFF R0Q85B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 1060 16Gb FC SFF R0Q85B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620763"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q85B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070587",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 1060 16Gb FC SFF Storage R0Q85B"
+      },
+      "properties": {
+        "message_id": "ff30f9c9-7ba4-42f5-ae57-4459b3290d7b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:53Z'",
+          "ModificationDate": "b'2025-07-24T11:03:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.043000+00:00",
+        "sequence_number": 109472
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0019",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 10GBASE-T iSCSI SFF S1H46A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 10GBASE-T iSCSI SFF S1H46A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 10GBASE-T iSCSI SFF S1H46A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017739021"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S1H46A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070588",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 10GBASE-T iSCSI SFF Storage S1H46A"
+      },
+      "properties": {
+        "message_id": "26809622-cdd1-49b7-8fcd-cff295eb0fee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:20Z'",
+          "ModificationDate": "b'2025-07-24T11:03:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.043000+00:00",
+        "sequence_number": 109473
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0023",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2072 10/25GbE iSCSI SFF S2C84A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2072 10/25GbE iSCSI SFF S2C84A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2072 10/25GbE iSCSI SFF S2C84A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017738383"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S2C84A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070589",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2072 10/25GbE iSCSI SFF Storage S2C84A"
+      },
+      "properties": {
+        "message_id": "00369b8e-6c73-49f4-b735-560c7ecb5c1f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:32Z'",
+          "ModificationDate": "b'2025-07-24T10:56:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.043000+00:00",
+        "sequence_number": 109474
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0026",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 32Gb FC LFF S3T79A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 32Gb FC LFF S3T79A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 32Gb FC LFF S3T79A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017758114"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S3T79A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070590",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 32Gb FC LFF Storage S3T79A"
+      },
+      "properties": {
+        "message_id": "2bb5bbe7-a2c2-4529-a70d-6b700e777156",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:42Z'",
+          "ModificationDate": "b'2025-07-24T10:56:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.043000+00:00",
+        "sequence_number": 109475
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASWDIMAC0078",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "Western Digital",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WD JBOD SE4U60-6 HC570 1320TB SAS 1ES2063",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WD JBOD SE4U60-6 HC570 1320TB SAS 1ES2063",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "WD JBOD SE4U60-6 HC570 1320TB SAS 1ES2063",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1ES2063",
+        "Weight": 101900.0,
+        "Height": 710.0,
+        "Width": 1020.0,
+        "Depth": 610.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070591",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5b7d1c6b-5a6b-477d-912d-63cb0738ddd5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-06-14T16:46:38Z'",
+          "ModificationDate": "b'2025-07-24T10:56:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASWDIMAC0078'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:17.043000+00:00",
+        "sequence_number": 109476
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0010",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2060 16Gb FC LFF R0Q73B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2060 16Gb FC LFF R0Q73B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2060 16Gb FC LFF R0Q73B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620572"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q73B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050566",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2060 16Gb FC LFF Storage R0Q73B"
+      },
+      "properties": {
+        "message_id": "702a8947-c6a1-4d57-a2e4-cf0d848cc7e7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:49Z'",
+          "ModificationDate": "b'2025-07-24T10:48:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:14.322000+00:00",
+        "sequence_number": 137951
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0001",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 1060 12Gb SAS SFF R0Q87B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 1060 12Gb SAS SFF R0Q87B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 1060 12Gb SAS SFF R0Q87B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620787"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q87B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058889",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 1060 12Gb SAS SFF Storage R0Q87B"
+      },
+      "properties": {
+        "message_id": "70822c5e-944e-462b-8c0c-fd7b37bf8fb6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:22Z'",
+          "ModificationDate": "b'2025-07-24T11:03:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:44.355000+00:00",
+        "sequence_number": 123847
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0009",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2062 10GbE iSCSI SFF R0Q82B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2062 10GbE iSCSI SFF R0Q82B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2062 10GbE iSCSI SFF R0Q82B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620749"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q82B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058890",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2062 10GbE iSCSI SFF Storage R0Q82B"
+      },
+      "properties": {
+        "message_id": "4c931a61-0e85-4231-b693-2695b7a2d645",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:46Z'",
+          "ModificationDate": "b'2025-07-24T10:52:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:44.355000+00:00",
+        "sequence_number": 123848
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0012",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2060 SAS 2U 12d LFF Drv R0Q39B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2060 SAS 2U 12d LFF Drv R0Q39B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2060 SAS 2U 12d LFF Drv R0Q39B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620558"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q39B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058891",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2060 SAS 2U 12d LFF Drv Encl R0Q39B"
+      },
+      "properties": {
+        "message_id": "eda42d71-3832-4669-95df-ebcbbf53e8ea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:56Z'",
+          "ModificationDate": "b'2025-07-24T10:52:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:44.355000+00:00",
+        "sequence_number": 123849
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0014",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 16Gb FC LFF S1H41A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 16Gb FC LFF S1H41A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 16Gb FC LFF S1H41A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017738970"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S1H41A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058892",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 16Gb FC LFF Storage S1H41A"
+      },
+      "properties": {
+        "message_id": "d84cbccb-7ef7-45fa-a083-e17f3a35bf74",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:02Z'",
+          "ModificationDate": "b'2025-07-24T10:52:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:44.355000+00:00",
+        "sequence_number": 123850
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0020",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 12Gb SAS LFF S1H47A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 12Gb SAS LFF S1H47A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 12Gb SAS LFF S1H47A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017739038"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S1H47A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058893",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 12Gb SAS LFF Storage S1H47A"
+      },
+      "properties": {
+        "message_id": "79259570-adcc-4958-bb4c-9a52507f7461",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:23Z'",
+          "ModificationDate": "b'2025-07-24T10:52:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:45.276000+00:00",
+        "sequence_number": 123851
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0025",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2072 12Gb SAS SFF S2C86A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2072 12Gb SAS SFF S2C86A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2072 12Gb SAS SFF S2C86A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017739106"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S2C86A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058894",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2072 12Gb SAS SFF Storage S2C86A"
+      },
+      "properties": {
+        "message_id": "cbe6b954-cc1e-433d-a977-8e0913732e17",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:39Z'",
+          "ModificationDate": "b'2025-07-24T10:52:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0025'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:45.276000+00:00",
+        "sequence_number": 123852
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0021",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 12Gb SAS SFF S1H48A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 12Gb SAS SFF S1H48A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 12Gb SAS SFF S1H48A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017739045"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S1H48A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051527",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 12Gb SAS SFF Storage S1H48A"
+      },
+      "properties": {
+        "message_id": "167c5257-622b-4342-9e99-48fbd04f7e88",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:26Z'",
+          "ModificationDate": "b'2025-07-24T10:48:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:32.121000+00:00",
+        "sequence_number": 138831
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0008",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2060 12Gb SAS SFF R0Q78B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2060 12Gb SAS SFF R0Q78B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2060 12Gb SAS SFF R0Q78B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620725"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q78B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053495",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2060 12Gb SAS SFF Storage R0Q78B"
+      },
+      "properties": {
+        "message_id": "2223f919-32fb-4e55-ba9d-89122500506b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:43Z'",
+          "ModificationDate": "b'2025-07-24T10:49:41Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:47.373000+00:00",
+        "sequence_number": 139618
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0013",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2060 12Gb SAS LFF R0Q77B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2060 12Gb SAS LFF R0Q77B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2060 12Gb SAS LFF R0Q77B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620718"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q77B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053496",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2060 12Gb SAS LFF Storage R0Q77B"
+      },
+      "properties": {
+        "message_id": "3834aa40-e420-4509-a5cb-2e72262a60c7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:59Z'",
+          "ModificationDate": "b'2025-07-24T11:02:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:47.373000+00:00",
+        "sequence_number": 139619
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0015",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 16Gb FC SFF S1H42A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 16Gb FC SFF S1H42A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 16Gb FC SFF S1H42A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017738987"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S1H42A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047990",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 16Gb FC SFF Storage S1H42A"
+      },
+      "properties": {
+        "message_id": "a78f3168-eadc-46eb-918a-b5dc0d965084",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:06Z'",
+          "ModificationDate": "b'2025-07-24T10:47:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:01.197000+00:00",
+        "sequence_number": 115844
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0016",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 10/25GbE iSCSI LFF S1H43A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 10/25GbE iSCSI LFF S1H43A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 10/25GbE iSCSI LFF S1H43A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017738994"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S1H43A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073621",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 10/25GbE iSCSI LFF Storage S1H43A"
+      },
+      "properties": {
+        "message_id": "767fbf21-bf60-4f3e-b68c-9d893e97e8b6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:09Z'",
+          "ModificationDate": "b'2025-07-24T10:57:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145186
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0022",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2072 16Gb FC SFF S2C83A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2072 16Gb FC SFF S2C83A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2072 16Gb FC SFF S2C83A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017738376"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S2C83A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073622",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2072 16Gb FC SFF Storage S2C83A"
+      },
+      "properties": {
+        "message_id": "eafb6dfd-5149-45c1-bc3e-025223573305",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:29Z'",
+          "ModificationDate": "b'2025-07-24T10:57:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145187
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0024",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2072 10GBASE-T iSCSI SFF S2C85A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2072 10GBASE-T iSCSI SFF S2C85A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2072 10GBASE-T iSCSI SFF S2C85A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017738390"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S2C85A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100073623",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2072 10GBASE-T iSCSI SFF Storage S2C85A"
+      },
+      "properties": {
+        "message_id": "af7b9213-e076-4e2e-af62-c1f9e52c4883",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:35Z'",
+          "ModificationDate": "b'2025-07-24T10:57:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:28.819000+00:00",
+        "sequence_number": 145188
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASWDIMAC0083",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "Western Digital",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SE MM ScaleUp Module HC560 240TB 1EX2901",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SE MM ScaleUp Module HC560 240TB 1EX2901",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SE MM ScaleUp Module HC560 240TB 1EX2901",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1EX2901",
+        "Weight": 9935.0,
+        "Height": 320.0,
+        "Width": 535.0,
+        "Depth": 230.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054325",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "SE MM ScaleUp Module HC560 240TB 1EX2901"
+      },
+      "properties": {
+        "message_id": "8691a3a5-6095-4b0f-b6b4-afca1039a186",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-08T12:14:52Z'",
+          "ModificationDate": "b'2025-07-24T10:49:58Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASWDIMAC0083'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:55.593000+00:00",
+        "sequence_number": 140044
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASWDIMAC0084",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "Western Digital",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "JBOD WD SE4U102-102 2652TB SAS 1ES2731",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "JBOD WD SE4U102-102 2652TB SAS 1ES2731",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "JBOD WD SE4U102-102 2652TB SAS 1ES2731",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1ES2731",
+        "Weight": 144700.0,
+        "Height": 805.0,
+        "Width": 1210.0,
+        "Depth": 675.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080481",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "JBOD Western Digital Ultrastar Data102 SE4U102-102 2652TB nTAA He SAS 512E SE Ti"
+      },
+      "properties": {
+        "message_id": "2cab04df-916b-4f7f-a934-4a52c5ddfbf7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-04T09:18:45Z'",
+          "ModificationDate": "b'2025-07-24T11:05:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASWDIMAC0084'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:48.184000+00:00",
+        "sequence_number": 154540
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASWDIMAC0080",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "Western Digital",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1ES2540",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061827",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540"
+      },
+      "properties": {
+        "message_id": "b4a4edf8-6bf9-4cfd-8461-8c035e5c25d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-03T13:38:56Z'",
+          "ModificationDate": "b'2025-07-24T10:53:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASWDIMAC0080'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:40.845000+00:00",
+        "sequence_number": 155710
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0003",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2062 16Gb FC SFF R0Q80B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2062 16Gb FC SFF R0Q80B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2062 16Gb FC SFF R0Q80B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620732"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q80B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077522",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2062 16Gb FC SFF Storage R0Q80B"
+      },
+      "properties": {
+        "message_id": "1d176167-6a50-423e-bc88-14e6c7676741",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:28Z'",
+          "ModificationDate": "b'2025-07-24T10:59:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:03.284000+00:00",
+        "sequence_number": 156667
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0006",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 1060 10GBASE-T iSCSI SFF R0Q86B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 1060 10GBASE-T iSCSI SFF R0Q86B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 1060 10GBASE-T iSCSI SFF R0Q86B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620770"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q86B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077523",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 1060 10GBASE-T iSCSI SFF Storage R0Q86B"
+      },
+      "properties": {
+        "message_id": "3145eb66-9478-4514-abf9-2a8f2f782c2f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:37Z'",
+          "ModificationDate": "b'2025-07-24T10:59:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:03.284000+00:00",
+        "sequence_number": 156668
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0027",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2070 32Gb FC SFF S3T80A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2070 32Gb FC SFF S3T80A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2070 32Gb FC SFF S3T80A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017758121"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S3T80A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058895",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2070 32Gb FC SFF Storage S3T80A"
+      },
+      "properties": {
+        "message_id": "c69bbf93-4427-464b-b29e-5800e13eb336",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:46Z'",
+          "ModificationDate": "b'2025-07-24T11:03:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:11.962000+00:00",
+        "sequence_number": 118359
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASWDIMAC0081",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "Western Digital",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1ES2540",
+        "Weight": 102500.0,
+        "Height": 700.0,
+        "Width": 1020.0,
+        "Depth": 615.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54139
+              },
+              {
+                "CategoryId": 53413
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058897",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "WD JBOD SE4U60-60 HC580 1440TB SATA 1ES2540"
+      },
+      "properties": {
+        "message_id": "551adb89-b123-4a27-933f-ca230d591633",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-03T13:40:53Z'",
+          "ModificationDate": "b'2025-07-24T10:52:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASWDIMAC0081'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:11.962000+00:00",
+        "sequence_number": 118361
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0005",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2062 12Gb SAS SFF R0Q84B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2062 12Gb SAS SFF R0Q84B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2062 12Gb SAS SFF R0Q84B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620756"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q84B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061823",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2062 12Gb SAS SFF Storage R0Q84B"
+      },
+      "properties": {
+        "message_id": "07bfeb9e-6d52-4e8d-b047-aa87a46e16b2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:34Z'",
+          "ModificationDate": "b'2025-07-24T11:03:17Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:25.541000+00:00",
+        "sequence_number": 130015
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0007",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2060 SAS 2U 24d SFF Encl R0Q40B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2060 SAS 2U 24d SFF Encl R0Q40B",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2060 SAS 2U 24d SFF Encl R0Q40B",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017620565"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "R0Q40B",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061824",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2060 SAS 2U 24d SFF Drv Encl R0Q40B"
+      },
+      "properties": {
+        "message_id": "7227ce62-3374-4de7-8ce4-94a9c6f608cf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:18:40Z'",
+          "ModificationDate": "b'2025-07-24T10:53:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:25.541000+00:00",
+        "sequence_number": 130016
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "NASHPNMAC0028",
+        "ProductVersion": "1.3",
+        "ProductType": "Macierze dyskowe",
+        "Brand": "HPN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HPE ProLiant MSA 2072 32Gb FC SFF S3T81A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HPE ProLiant MSA 2072 32Gb FC SFF S3T81A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HPE ProLiant MSA 2072 32Gb FC SFF S3T81A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "190017758138"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84717050",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S3T81A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54485
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53413
+              },
+              {
+                "CategoryId": 54139
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061825",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HPE ProLiant MSA 2072 32Gb FC SFF Storage S3T81A"
+      },
+      "properties": {
+        "message_id": "52f3625a-74dd-4b8e-a12e-c04a79badd8d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-15T16:19:49Z'",
+          "ModificationDate": "b'2025-07-24T10:53:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NASHPNMAC0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:25.541000+00:00",
+        "sequence_number": 130017
+      }
+    }
+  ]
+}

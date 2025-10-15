@@ -1,0 +1,608 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJDHT",
+        "ProductVersion": "1.1",
+        "ProductType": "Pasy",
+        "Brand": "THE NORTH FACE",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Saszetka Terra Lumbar 1L-Utility Brown-Khaki Stone",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Saszetka Terra Lumbar 1L-Utility Brown-Khaki Stone",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Saszetka Terra Lumbar 1L-Utility Brown-Khaki Stone",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "42029291",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0010130000042177",
+        "Weight": 140.0,
+        "Height": 50.0,
+        "Width": 230.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "15.12.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56214
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085405",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0539689f-6dea-485f-829f-59560feeada9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T07:23:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJDHT'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:23.005000+00:00",
+        "sequence_number": 136579
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREAND",
+        "ProductVersion": "1.1",
+        "ProductType": "Pasy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pasek canvas-232-buckwheat brown-uni FJALLRAVEN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pasek canvas-232-buckwheat brown-uni FJALLRAVEN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pasek canvas-232-buckwheat brown-uni FJALLRAVEN",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7323450857950"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002203900037417",
+        "Weight": 150.0,
+        "Height": 30.0,
+        "Width": 310.0,
+        "Depth": 51.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56214
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080044",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7d83aa98-4ae1-4b3f-90d3-3624a6c43d24",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-02T07:22:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREAND'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:34.660000+00:00",
+        "sequence_number": 104645
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMMLCPAS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pasy",
+        "Brand": "MLC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pas skórzany, roz. L 100-110 MIL-TEC (13301002-110)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pas skórzany, roz. L 100-110 MIL-TEC (13301002-110)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pas skórzany, roz. L 100-110 MIL-TEC (13301002-110)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902944175217"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "13301002-110",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56214
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082593",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pas skórzany, wojskowy, czarny roz. L 100-110cm MIL-TEC (13301002-110)"
+      },
+      "properties": {
+        "message_id": "ac0319d9-6f7d-498f-af65-7e424dfcd7a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T09:43:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMMLCPAS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:02.531000+00:00",
+        "sequence_number": 155213
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMMLCPAS0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Pasy",
+        "Brand": "MLC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pas skórzany, roz.XL 110-120 MIL-TEC (13301002-120)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pas skórzany, roz.XL 110-120 MIL-TEC (13301002-120)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pas skórzany, roz.XL 110-120 MIL-TEC (13301002-120)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902944175224"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "13301002-120",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56214
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082594",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pas skórzany, wojskowy, czarny roz. XL 110-120cm MIL-TEC (13301002-120)"
+      },
+      "properties": {
+        "message_id": "71e66c46-2303-453b-abe0-e4d692e29960",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T09:44:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMMLCPAS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:02.531000+00:00",
+        "sequence_number": 155214
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMMLCPAS0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Pasy",
+        "Brand": "MLC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pas skórzany, roz. M 87-100 MIL-TEC (13301002-100)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pas skórzany, roz. M 87-100 MIL-TEC (13301002-100)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pas skórzany, roz. M 87-100 MIL-TEC (13301002-100)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4046872339196"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "13301002-100",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56214
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082595",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pas skórzany, wojskowy, czarny rozmiar M 87-100cm MIL-TEC (13301002-100)"
+      },
+      "properties": {
+        "message_id": "98d5d026-15e4-4d5e-b106-1e605804bf0e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T09:44:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMMLCPAS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:02.531000+00:00",
+        "sequence_number": 155215
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRE923",
+        "ProductVersion": "1.1",
+        "ProductType": "Pasy",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pasek canvas - 633/dark olive FJALLRAVEN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pasek canvas - 633/dark olive FJALLRAVEN",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pasek canvas - 633/dark olive FJALLRAVEN",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7392158525171"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002203900009108",
+        "Weight": 130.0,
+        "Height": 25.0,
+        "Width": 310.0,
+        "Depth": 51.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.99.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56214
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060349",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d111a637-af5b-4b49-bd52-caf089e0268e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-11T11:15:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRE923'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.951000+00:00",
+        "sequence_number": 126298
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ODMMLCPAS0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Pasy",
+        "Brand": "MLC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pas Mil-Tec BDU - Zielony OD - 13119001",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pas Mil-Tec BDU - Zielony OD - 13119001",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pas Mil-Tec BDU - Zielony OD - 13119001",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4046872167447"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39269097",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP.2245",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.29.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54966
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56214
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082614",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pas Mil-Tec BDU - Zielony OD - 13119001"
+      },
+      "properties": {
+        "message_id": "dd5c043b-3479-4af5-8f86-6046a5f4892f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T09:45:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ODMMLCPAS0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:56:00.614000+00:00",
+        "sequence_number": 113678
+      }
+    }
+  ]
+}

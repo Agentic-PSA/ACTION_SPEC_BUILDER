@@ -1,0 +1,91 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SALSALSBM0001",
+        "ProductVersion": "1.2",
+        "ProductType": "System bezprzewodowy",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mod. alarm z komunik. GSM/GPRS, obud. SATEL MICRA",
+            "ProductDescription": "Satel MICRA dodatkowy moduł do alarmu radiowego 434 Mhz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mod. alarm z komunik. GSM/GPRS, obud. SATEL MICRA",
+            "ProductDescription": "Satel MICRA alarm add-on RF module 434 MHz"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mod. alarm z komunik. GSM/GPRS, obud. SATEL MICRA",
+            "ProductDescription": "Satel MICRA Alarm-Add-on für RF-Modul 434 MHz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033333710"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "Mod.alarmzkomunik.GSM/GPRS,",
+        "Weight": 1430.0,
+        "Height": 115.0,
+        "Width": 300.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54176
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54909
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047657",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6084f06b-5606-42d1-a6a8-ab52b6fcb757",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-04-16T11:09:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALSBM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:49.871000+00:00",
+        "sequence_number": 108008
+      }
+    }
+  ]
+}

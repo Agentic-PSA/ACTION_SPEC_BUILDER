@@ -1,0 +1,874 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano Catana FE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano Catana FE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano Catana FE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255267694"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CAT2500FE",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065535",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano Catana FE"
+      },
+      "properties": {
+        "message_id": "fc14d5ee-eec9-4c1a-8daa-427e3b68b485",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:33:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:32.450000+00:00",
+        "sequence_number": 130360
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0011",
+        "ProductVersion": "1.1",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano Stradic FM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano Stradic FM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano Stradic FM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255275927"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ST4000FM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065536",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano Stradic FM"
+      },
+      "properties": {
+        "message_id": "805399be-8aed-4321-904b-251dd7fd2849",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:34:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:32.450000+00:00",
+        "sequence_number": 130361
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano Ultegra XTE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano Ultegra XTE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano Ultegra XTE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255260725"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ULT14000XTE",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065537",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano Ultegra XTE"
+      },
+      "properties": {
+        "message_id": "3c78fb59-31f0-4a9f-a956-1eba05b5bd43",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:34:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:32.450000+00:00",
+        "sequence_number": 130362
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano Aero XR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano Aero XR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano Aero XR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255267977"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AEROXRC5000",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058644",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano Aero XR"
+      },
+      "properties": {
+        "message_id": "a9855604-c51e-4418-acac-8c351a1bd4b4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:33:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123722
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0010",
+        "ProductVersion": "1.1",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano FX FC",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano FX FC",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano FX FC",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255233699"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FX4000FC",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058645",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano FX FC"
+      },
+      "properties": {
+        "message_id": "4f8b30c4-cb99-4719-a02d-3d665b865c9d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:33:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123723
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano Twin Power FE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano Twin Power FE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano Twin Power FE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255289566"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TPC3000FE",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058646",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano Twin Power FE"
+      },
+      "properties": {
+        "message_id": "f7eceae5-36de-405b-a2d9-184832deda91",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:34:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123724
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0014",
+        "ProductVersion": "1.2",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano Speedmaster XTD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano Speedmaster XTD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano Speedmaster XTD",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255284998"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPM14000XTD",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058647",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano Speedmaster XTD"
+      },
+      "properties": {
+        "message_id": "8c2f0c02-2cc4-4430-818b-b16882ef5d37",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:34:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123725
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0008",
+        "ProductVersion": "1.2",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano Catana FE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano Catana FE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano Catana FE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255267731"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CATC3000FE",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051471",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano Catana FE"
+      },
+      "properties": {
+        "message_id": "94c445c7-1bee-4eb7-bfd8-5ea5e6746177",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:33:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:31.215000+00:00",
+        "sequence_number": 138780
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0013",
+        "ProductVersion": "1.2",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano Vanford FA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano Vanford FA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano Vanford FA",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255289870"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VF2500A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054965",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano Vanford FA"
+      },
+      "properties": {
+        "message_id": "d37cff3d-3c62-48ae-ab71-8d33448ee3d4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T11:34:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:59.234000+00:00",
+        "sequence_number": 141852
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIWSHIKOL0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Kołowrotki wędkarskie",
+        "Brand": "SHIMANO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kołowrotek Shimano BEASTMASTER 14000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kołowrotek Shimano BEASTMASTER 14000",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kołowrotek Shimano BEASTMASTER 14000",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "022255290036"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95073000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BMBP14000XC",
+        "Weight": 886.0,
+        "Height": 131.0,
+        "Width": 164.0,
+        "Depth": 196.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55654
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56084
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087004",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kołowrotek Shimano BEASTMASTER 14000"
+      },
+      "properties": {
+        "message_id": "7ed54cf1-538b-48a7-b609-3cc1e8f87261",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-29T12:21:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIWSHIKOL0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:02.952000+00:00",
+        "sequence_number": 160876
+      }
+    }
+  ]
+}

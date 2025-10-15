@@ -1,0 +1,1684 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISNY",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przyrząd hand cruiser-silver-lewy EDELRID",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przyrząd hand cruiser-silver-lewy EDELRID",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przyrząd hand cruiser-silver-lewy EDELRID",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0004600600031770",
+        "Weight": 240.0,
+        "Height": 140.0,
+        "Width": 80.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088781",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2bad3eb3-b0f0-4e36-9744-ec3b756f754d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-09T12:51:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISNY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:20.235000+00:00",
+        "sequence_number": 161649
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCYBA",
+        "ProductVersion": "1.2",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek bulletproof hms screw fg EDELRID",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek bulletproof hms screw fg EDELRID",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek bulletproof hms screw fg EDELRID",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4028545156798"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002329700003226",
+        "Weight": 110.0,
+        "Height": 30.0,
+        "Width": 160.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044388",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3a251afc-aec6-4afa-b952-ab577397d066",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-28T07:22:12Z'",
+          "ModificationDate": "b'2025-06-04T12:20:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCYBA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:54.778000+00:00",
+        "sequence_number": 148392
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD680",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek william triact lock PETZL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek william triact lock PETZL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek william triact lock PETZL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "M36A TL",
+        "Weight": 500.0,
+        "Height": 150.0,
+        "Width": 251.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089483",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e02e7ea6-f2e9-4602-b533-6bd35cd67c2d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T11:41:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD680'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:33.887000+00:00",
+        "sequence_number": 119511
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRLEBY",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek Ocun Condor HMS Twist - anthracite/green",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek Ocun Condor HMS Twist - anthracite/green",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek Ocun Condor HMS Twist - anthracite/green",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "61579",
+        "Weight": 150.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089508",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0b3c27a4-3dae-4764-8249-d96cc245ba97",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T11:57:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRLEBY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:34.980000+00:00",
+        "sequence_number": 119536
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRLDBW",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek Petzl Ange S - orange",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek Petzl Ange S - orange",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek Petzl Ange S - orange",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0000801500003072",
+        "Weight": 150.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089535",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e8b38ccf-a205-4eef-beb0-651e06b7e84a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T12:41:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRLDBW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:34.980000+00:00",
+        "sequence_number": 119563
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCIT8",
+        "ProductVersion": "1.2",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek TTTM 10kN - zestaw 2szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek TTTM 10kN - zestaw 2szt.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek TTTM 10kN - zestaw 2szt.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "727670927023"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TMBINER10",
+        "Weight": 35.0,
+        "Height": 22.0,
+        "Width": 150.0,
+        "Depth": 105.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043098",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "44e043f3-6d0a-49f9-b035-2065e12e75c5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T12:40:56Z'",
+          "ModificationDate": "b'2025-06-04T12:19:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCIT8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:41.451000+00:00",
+        "sequence_number": 159854
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCKJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek rollclip z sl PETZL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek rollclip z sl PETZL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek rollclip z sl PETZL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3342540815865"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0002209400000035",
+        "Weight": 140.0,
+        "Height": 35.0,
+        "Width": 140.0,
+        "Depth": 77.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044810",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1e44373b-4de8-41d3-b5b1-dde3d4593746",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-27T14:00:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCKJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:42.732000+00:00",
+        "sequence_number": 137689
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURHLKKIB0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nieśmiertelnik - Stal Nierdzewna Helikon",
+            "ProductDescription": "Nieśmiertelnik, stal nierdzewna, Helikon"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nieśmiertelnik - Stal Nierdzewna Helikon",
+            "ProductDescription": "Stainless steel dog tag, Helikon"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nieśmiertelnik - Stal Nierdzewna Helikon",
+            "ProductDescription": "Hundemarke aus Edelstahl, Helikon"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218702141"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73269098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NS-NS1-SS-15",
+        "Weight": 20.0,
+        "Height": 70.0,
+        "Width": 93.0,
+        "Depth": 17.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56053
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56059
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050494",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6cc43837-a36d-4823-9ab7-7f3a020f2b47",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-11T15:07:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURHLKKIB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:12.900000+00:00",
+        "sequence_number": 137884
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRLDUC",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek wspinaczkowy Ocun Eagle HMS Triple - blue",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek wspinaczkowy Ocun Eagle HMS Triple - blue",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek wspinaczkowy Ocun Eagle HMS Triple - blue",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "242487",
+        "Weight": 150.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089948",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "334ed5dd-93a2-42ba-a897-9905bf7cfc1f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T16:10:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRLDUC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:51.517000+00:00",
+        "sequence_number": 167972
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDLU9",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek ok triact lock czarny PETZL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek ok triact lock czarny PETZL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek ok triact lock czarny PETZL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3342540815841"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0001352100000035",
+        "Weight": 500.0,
+        "Height": 251.0,
+        "Width": 150.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092812",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d68f92f2-40de-4073-954e-0083f3da14ef",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-28T11:41:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDLU9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:10.745000+00:00",
+        "sequence_number": 168952
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURVICKIB0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "VICTORINOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Torba prezentowa Victorinox XS na scyzoryk",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Torba prezentowa Victorinox XS na scyzoryk",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Torba prezentowa Victorinox XS na scyzoryk",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "79070000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9.6073.80",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56053
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56059
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084303",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Torba prezentowa Victorinox XS na scyzoryk"
+      },
+      "properties": {
+        "message_id": "4260b7d1-1b58-4397-9f2d-5eadff3fb3f6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T11:33:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURVICKIB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:41.123000+00:00",
+        "sequence_number": 130842
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURVICKIB0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "VICTORINOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Łańcuszek metalowy Victorinox, 40cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Łańcuszek metalowy Victorinox, 40cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Łańcuszek metalowy Victorinox, 40cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "79070000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4.1815",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56053
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56059
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084304",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Łańcuszek metalowy Victorinox, 40cm"
+      },
+      "properties": {
+        "message_id": "84997176-1d77-41d9-aa9b-4024c771d10f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T11:33:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURVICKIB0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:41.123000+00:00",
+        "sequence_number": 130843
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURVICKIB0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "VICTORINOX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Multiclip Victorinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Multiclip Victorinox",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Multiclip Victorinox",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "79070000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "4.1858",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56053
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56059
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084309",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Multiclip Victorinox"
+      },
+      "properties": {
+        "message_id": "1577b31b-bda8-4c05-ba3c-61ed0da59744",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T11:34:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURVICKIB0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:41.123000+00:00",
+        "sequence_number": 130848
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRLDUZ",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek wspinaczkowy Beal Orient Express - orange",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek wspinaczkowy Beal Orient Express - orange",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek wspinaczkowy Beal Orient Express - orange",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "636730",
+        "Weight": 96.0,
+        "Height": 149.0,
+        "Width": 71.0,
+        "Depth": 39.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086277",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2bff7efb-b299-486f-9e52-527134ea88d1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-04T07:11:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRLDUZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:18.203000+00:00",
+        "sequence_number": 125637
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURHLKKIB0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bransoletka SURVIVAL BRACELET  - Olive Green",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bransoletka SURVIVAL BRACELET  - Olive Green",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bransoletka SURVIVAL BRACELET  - Olive Green",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218718005"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73269098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.AC-SBR-NL-02",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56053
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56059
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083038",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bransoletka SURVIVAL BRACELET - Paracord - Olive Green"
+      },
+      "properties": {
+        "message_id": "7b258698-cb2b-47bf-b490-3006de43b2d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T16:19:42Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURHLKKIB0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:06.781000+00:00",
+        "sequence_number": 155414
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURHLKKIB0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bransoletka SURVIVAL BRACELET - Paracord - Coyote",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bransoletka SURVIVAL BRACELET - Paracord - Coyote",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bransoletka SURVIVAL BRACELET - Paracord - Coyote",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908218718012"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73269098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.AC-SBR-NL-11",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56053
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56059
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083039",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bransoletka SURVIVAL BRACELET - Paracord - Coyote"
+      },
+      "properties": {
+        "message_id": "6287a988-8136-40ac-81d5-0058f19f5932",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T16:19:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURHLKKIB0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:06.781000+00:00",
+        "sequence_number": 155415
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRLE92",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ekspres wspinaczkowy Climbing Technology Lime B Se",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ekspres wspinaczkowy Climbing Technology Lime B Se",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ekspres wspinaczkowy Climbing Technology Lime B Se",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8057733309858"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "442197",
+        "Weight": 100.0,
+        "Height": 100.0,
+        "Width": 50.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093476",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "21d11509-ab95-46e3-982e-316617e66e61",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-30T16:43:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRLE92'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:31.747000+00:00",
+        "sequence_number": 171461
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SURMLCKIB0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "MLC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bransoletka surwiwalowa - 16370102 - Mil-Tec M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bransoletka surwiwalowa - 16370102 - Mil-Tec M",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bransoletka surwiwalowa - 16370102 - Mil-Tec M",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "73269098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP.9905-15",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56053
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56059
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084772",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Bransoletka surwiwalowa - Czarny - 16370102 - Mil-Tec M"
+      },
+      "properties": {
+        "message_id": "b812b53a-30a7-4e9b-8c80-5f121995f208",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T12:06:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SURMLCKIB0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:11.832000+00:00",
+        "sequence_number": 157013
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRLDMJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ekspres Ocun Hawk QD Combi PA 16 15 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ekspres Ocun Hawk QD Combi PA 16 15 cm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ekspres Ocun Hawk QD Combi PA 16 15 cm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "61676",
+        "Weight": 110.0,
+        "Height": 241.0,
+        "Width": 86.0,
+        "Depth": 48.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085065",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8124bbd6-3698-4cc3-94e7-b28988e359df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T11:43:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRLDMJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:14.160000+00:00",
+        "sequence_number": 157145
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRLE88",
+        "ProductVersion": "1.2",
+        "ProductType": "Karabińczyki i breloki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karabinek Ocun Condor HMS Screw - anthracite/red",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karabinek Ocun Condor HMS Screw - anthracite/red",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karabinek Ocun Condor HMS Screw - anthracite/red",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069990",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "61578",
+        "Weight": 105.0,
+        "Height": 117.0,
+        "Width": 163.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56625
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55783
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085489",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fb6f67ef-f3d8-400e-b084-ed4b8429b9ab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T12:41:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRLE88'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:16.660000+00:00",
+        "sequence_number": 157217
+      }
+    }
+  ]
+}

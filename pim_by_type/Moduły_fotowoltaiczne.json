@@ -1,0 +1,1294 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "FOWEXTMFO0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EXTRALINK EPS-120W 120W FOLDABLE SOLAR PANEL",
+            "ProductDescription": "Extralink Składany panel słoneczny EPS-120W do Power Station, stacji zasilania"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EXTRALINK EPS-120W 120W FOLDABLE SOLAR PANEL",
+            "ProductDescription": "Extralink Foldable solar panel EPS-120W for Power Station"
+          },
+          {
+            "Language": "de",
+            "ProductName": "EXTRALINK EPS-120W 120W FOLDABLE SOLAR PANEL",
+            "ProductDescription": "Extralink Faltbares Solarpanel EPS-120W für Power Station, Kraftwerk"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905090330301"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EPS-120W",
+        "Weight": 4720.0,
+        "Height": 465.0,
+        "Width": 465.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072804",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c709d76d-45ce-4261-a896-1153b6399e0e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-12-07T15:10:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWEXTMFO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:17.756000+00:00",
+        "sequence_number": 144557
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWVIGMFO0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "Victron Energy",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Victron Energy Solar Panel 40W-12V",
+            "ProductDescription": "Panel słoneczny VICTRON ENERGY Solar Panel 40W-12V monokrystaliczny Seria 4a (SPM040401200)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Victron Energy Solar Panel 40W-12V",
+            "ProductDescription": "Solar panel VICTRON ENERGY Solar Panel 40W-12V monocrystalline Series 4a (SPM040401200)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Victron Energy Solar Panel 40W-12V",
+            "ProductDescription": "Sonnenkollektor VICTRON ENERGY Solar Panel 40W-12V monokristallin Reihe 4a (SPM040401200)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8719076047407"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPM040401200",
+        "Weight": 3100.0,
+        "Height": 680.0,
+        "Width": 34.0,
+        "Depth": 680.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072828",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Victron Energy Solar Panel 40W-12V Mono 425x668x25mm series 4a"
+      },
+      "properties": {
+        "message_id": "f3a0df99-cbcd-4230-8310-fd3c78256975",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-03T08:09:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWVIGMFO0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:17.756000+00:00",
+        "sequence_number": 144581
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBITX",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przenośny panel słoneczny 100W/12V NEO Tools 90-143",
+            "ProductDescription": "NEO tools 90-143 akcesorium do montażu paneli słonecznych"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przenośny panel słoneczny 100W/12V NEO Tools 90-143",
+            "ProductDescription": "100W Portable Solar Panel , Solar Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przenośny panel słoneczny 100W/12V NEO Tools 90-143",
+            "ProductDescription": "100W tragbares Solarpanel, Solarladegerät"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558466201"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "?",
+        "Weight": 4800.0,
+        "Height": 748.0,
+        "Width": 880.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040336",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "da492466-ebe4-440c-b4d4-74473c0090d2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-10T07:16:50Z'",
+          "ModificationDate": "b'2025-06-04T12:17:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBITX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:06.960000+00:00",
+        "sequence_number": 133919
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREBU1",
+        "ProductVersion": "1.3",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "SUNTASK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel fotowoltaiczny POLI 110W 18V [1016x670x30mm]",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel fotowoltaiczny POLI 110W 18V [1016x670x30mm]",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel fotowoltaiczny POLI 110W 18V [1016x670x30mm]",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903760240431"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5PVPOLI110",
+        "Weight": 8000.0,
+        "Height": 685.0,
+        "Width": 1031.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046354",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a0c102a0-c57d-4297-8f2f-538822550707",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T17:26:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREBU1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:07.264000+00:00",
+        "sequence_number": 149026
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREB27",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "Trina Solar",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł fotowoltaiczny TRINA 430W, VERTEX S+",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł fotowoltaiczny TRINA 430W, VERTEX S+",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł fotowoltaiczny TRINA 430W, VERTEX S+",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905515625944"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5587",
+        "Weight": 21.0,
+        "Height": 1762.0,
+        "Width": 1134.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046311",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a504392a-61bb-4161-a6d4-fff59ce39779",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-16T15:20:27Z'",
+          "ModificationDate": "b'2025-06-04T12:21:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREB27'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:07.913000+00:00",
+        "sequence_number": 107089
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBH05",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przenośna ładowarka solarna 15W NEO Tools 90-140",
+            "ProductDescription": "NEO tools 90-140 ładowarka akumulatorów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przenośna ładowarka solarna 15W NEO Tools 90-140",
+            "ProductDescription": "Solar Charger, 15W Solar Panel, Solar Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przenośna ładowarka solarna 15W NEO Tools 90-140",
+            "ProductDescription": "Solarladegerät, 15W Solarpanel, Solarladegerät"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558466171"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "?",
+        "Weight": 675.0,
+        "Height": 300.0,
+        "Width": 210.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040150",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5621accc-4471-4949-a8f1-9740dcacd94b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-09T17:54:22Z'",
+          "ModificationDate": "b'2025-06-04T12:17:47Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBH05'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:24.271000+00:00",
+        "sequence_number": 120923
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWVIGMFO0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "Victron Energy",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł PV 115W Victron Energy SPM042152400",
+            "ProductDescription": "Moduł PV Victron Energy BlueSolar Mono 115 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł PV 115W Victron Energy SPM042152400",
+            "ProductDescription": "Victron Energy BlueSolar Mono 115 W PV module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł PV 115W Victron Energy SPM042152400",
+            "ProductDescription": "Victron Energy BlueSolar Mono 115 W PV-Modul"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8719076040378"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPM042152400",
+        "Weight": 15000.0,
+        "Height": 159.0,
+        "Width": 44.0,
+        "Depth": 159.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100069754",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Moduł PV Victron Energy BlueSolar Rama Monokrystaliczna 115W 1030x668x30mm, 15kg"
+      },
+      "properties": {
+        "message_id": "c09da163-22e5-455e-a27d-f8feb1ed08e9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-12T10:29:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWVIGMFO0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:09.283000+00:00",
+        "sequence_number": 109077
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGGMK",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "imou",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel fotowoltaiczny do kamer IMOU z wyjściem C 3W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel fotowoltaiczny do kamer IMOU z wyjściem C 3W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel fotowoltaiczny do kamer IMOU z wyjściem C 3W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6976391037625"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FSP12-TYPE C",
+        "Weight": 400.0,
+        "Height": 160.0,
+        "Width": 230.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079187",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8f210de5-0182-4eb5-96e4-4d61efd62c62",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T14:48:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGGMK'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:27.346000+00:00",
+        "sequence_number": 104227
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWLGNMFO0023",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "LGN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel Longi LR4-72HPH-455M",
+            "ProductDescription": "Moduł Longi LR4-72HPH-455M"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel Longi LR4-72HPH-455M",
+            "ProductDescription": "PV Module Longi LR4-72HPH-455M 455W Silver 2094x1038x35mm 23,5 kg output cable:1400 mm 31pcs per palet"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel Longi LR4-72HPH-455M",
+            "ProductDescription": "PV Module Longi LR4-72HPH-455M 455W Silver 2094x1038x35mm 23,5 kg output cable:1400 mm 31pcs per palet"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 23500.0,
+        "Height": 1035.0,
+        "Width": 2094.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100119813",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Moduł PV Longi LR4-72HPH-455M 455W Silver 2094x1038x35mm 23,5 kg output cable:1400 mm paleta: 30szt."
+      },
+      "properties": {
+        "message_id": "38ad8af7-4fef-4083-aa19-1f16a3936ebe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-05-25T12:01:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWLGNMFO0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:06.770000+00:00",
+        "sequence_number": 167108
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWPSRMFO0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "PSR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PhonoSolar PS415M4-22/WH  415W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PhonoSolar PS415M4-22/WH  415W",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PhonoSolar PS415M4-22/WH  415W",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 23000.0,
+        "Height": 1040.0,
+        "Width": 40.0,
+        "Depth": 1925.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100119825",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Moduł PV PhonoSolar PS415M4-22/WH 415W Silver 1925x1040x35mm 23kg output cable:1250mm"
+      },
+      "properties": {
+        "message_id": "91ed227f-9908-4057-aa55-b7171c36977f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-03-03T14:14:57Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWPSRMFO0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:39:06.770000+00:00",
+        "sequence_number": 167109
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBIL6",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przenośny panel słoneczny 120W/18V NEO Tools 90-141",
+            "ProductDescription": "Przenośny panel słoneczny 120W/18V NEO Tools 90-141"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przenośny panel słoneczny 120W/18V NEO Tools 90-141",
+            "ProductDescription": "Portable solar panel 120W/18V NEO Tools 90-141"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przenośny panel słoneczny 120W/18V NEO Tools 90-141",
+            "ProductDescription": "Tragbares Solarmodul 120W/18V NEO Tools 90-141"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558466188"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "?",
+        "Weight": 5090.0,
+        "Height": 400.0,
+        "Width": 400.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040297",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c3723ebb-ecb6-400f-8ee3-681e49d984ab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-08T12:56:02Z'",
+          "ModificationDate": "b'2025-06-04T12:17:51Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBIL6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:26.258000+00:00",
+        "sequence_number": 122840
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6459",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "ORLLO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel solarny ORLLO S001",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel solarny ORLLO S001",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel solarny ORLLO S001",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904673513353"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "37748",
+        "Weight": 1194.0,
+        "Height": 341.0,
+        "Width": 230.0,
+        "Depth": 67.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051077",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9711d156-e9f9-47b1-b157-70597d41b6ee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-27T20:57:16Z'",
+          "ModificationDate": "b'2025-09-30T13:41:21Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6459'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:23.995000+00:00",
+        "sequence_number": 138412
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FOWVIGMFO0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "Victron Energy",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Moduł PV 20W Victron Energy SPM040201200",
+            "ProductDescription": "Moduł PV Victron Energy BlueSolar Mono 20 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Moduł PV 20W Victron Energy SPM040201200",
+            "ProductDescription": "Victron Energy BlueSolar Mono 20 W PV module"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Moduł PV 20W Victron Energy SPM040201200",
+            "ProductDescription": "Victron Energy BlueSolar Mono 20 W PV-Modul"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPM040201200",
+        "Weight": 1835.0,
+        "Height": 350.0,
+        "Width": 450.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052086",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Moduł PV Victron Energy Bluesolar Rama Monokrystaliczna 20W 440X350X25mm, 1,9 kg,"
+      },
+      "properties": {
+        "message_id": "dbd2551b-3a6a-4580-ac94-f61ea97b5915",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-12T10:30:01Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FOWVIGMFO0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:44.638000+00:00",
+        "sequence_number": 125998
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMUNK",
+        "ProductVersion": "1.1",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "ECF",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Panel solarny ECOFLOW NextGen 160W - Portable Solar",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Panel solarny ECOFLOW NextGen 160W - Portable Solar",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Panel solarny ECOFLOW NextGen 160W - Portable Solar",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4895251615006"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EFSOLAR160W-N",
+        "Weight": 7500.0,
+        "Height": 155.0,
+        "Width": 133.0,
+        "Depth": 69.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093953",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4dc76e0b-4583-4c4c-90d1-26b9d2dddcdd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-04T11:43:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMUNK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:40.030000+00:00",
+        "sequence_number": 171899
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGGMP",
+        "ProductVersion": "1.2",
+        "ProductType": "Moduły fotowoltaiczne",
+        "Brand": "imou",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Imou FSP13 Panel słoneczny",
+            "ProductDescription": "Imou FSP13 Panel słoneczny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Imou FSP13 Panel słoneczny",
+            "ProductDescription": "Imou FSP13 Solar panel"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Imou FSP13 Panel słoneczny",
+            "ProductDescription": "Imou FSP13 Solarpanel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6976391037502"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85414300",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FSP13",
+        "Weight": 8721.0,
+        "Height": 105.0,
+        "Width": 295.0,
+        "Depth": 195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.11.22.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55374
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56031
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075314",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4074a023-0d96-4519-8391-bcf710f303c3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-17T12:53:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGGMP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:28.817000+00:00",
+        "sequence_number": 143438
+      }
+    }
+  ]
+}

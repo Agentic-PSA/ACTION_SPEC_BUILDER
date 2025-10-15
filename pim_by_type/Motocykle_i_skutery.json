@@ -1,0 +1,260 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWN7",
+        "ProductVersion": "1.2",
+        "ProductType": "Motocykle i skutery",
+        "Brand": "Razor",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RAZOR Motor MX125 Dirt Rocket",
+            "ProductDescription": "Razor MX125 Dirt Rocket skuter elektryczny 1 siedz. 13 km/h Jagodowy, Chrom, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RAZOR Motor MX125 Dirt Rocket",
+            "ProductDescription": "RAZOR Motor MX125 Dirt Rocket 15173858"
+          },
+          {
+            "Language": "de",
+            "ProductName": "RAZOR Motor MX125 Dirt Rocket",
+            "ProductDescription": "RAZOR Motor MX125 Dirt Rocket 15173858"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "845423023195"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "15173858",
+        "Weight": 16040.0,
+        "Height": 280.0,
+        "Width": 540.0,
+        "Depth": 770.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56140
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56109
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041981",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1492cc95-8b5c-42b5-8f9f-b6cf30ad9440",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-05T07:16:33Z'",
+          "ModificationDate": "b'2025-06-04T12:18:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWN7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:27.796000+00:00",
+        "sequence_number": 165071
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "POEMANMIS0001",
+        "ProductVersion": "1.3",
+        "ProductType": "Motocykle i skutery",
+        "Brand": "Manta Multimedia Sp. z o.o.",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Manta Flinston Mes E-Scooter 1402J",
+            "ProductDescription": "Skuter elektryczny Manta Flinston Mes 1402J"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Manta Flinston Mes E-Scooter 1402J",
+            "ProductDescription": "Manta Flinston Mes 1402J electric scooter"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Manta Flinston Mes E-Scooter 1402J",
+            "ProductDescription": "Manta Flinston Mes 1402J Elektroroller"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902510681166"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 36900.0,
+        "Height": 600.0,
+        "Width": 330.0,
+        "Depth": 1260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56140
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56109
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100025550",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skuter elektryczny Manta Flinston Mes 1402J"
+      },
+      "properties": {
+        "message_id": "91411a2c-501f-45e9-baf1-ae40539fee13",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-12T12:05:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:10Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'POEMANMIS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:25.762000+00:00",
+        "sequence_number": 109922
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMAN2OO0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Motocykle i skutery",
+        "Brand": "Manta Multimedia Sp. z o.o.",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Manta Flinston Mes E-Scooter 1402J (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Manta Flinston Mes E-Scooter 1402J (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Manta Flinston Mes E-Scooter 1402J (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "87116090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 36900.0,
+        "Height": 600.0,
+        "Width": 330.0,
+        "Depth": 1260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.91.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56140
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56109
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086540",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Skuter elektryczny Manta Flinston Mes 1402J"
+      },
+      "properties": {
+        "message_id": "32de0c2b-44a9-4081-a495-9f47b38afe2d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-07T09:54:38Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMAN2OO0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:26.630000+00:00",
+        "sequence_number": 157664
+      }
+    }
+  ]
+}

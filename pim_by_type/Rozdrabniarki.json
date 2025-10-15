@@ -1,0 +1,700 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN14",
+        "ProductVersion": "1.2",
+        "ProductType": "Rozdrabniarki",
+        "Brand": "RYO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "rozdrabniacz do gałęzi 2500W wor. popychacz RYOBI",
+            "ProductDescription": "Ryobi RSH2545B rozdrabniacz 2500 W 40 l Ostrze"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "rozdrabniacz do gałęzi 2500W wor. popychacz RYOBI",
+            "ProductDescription": "Ryobi RSH2545B garden shredder 2500 W 40 L Blade"
+          },
+          {
+            "Language": "de",
+            "ProductName": "rozdrabniacz do gałęzi 2500W wor. popychacz RYOBI",
+            "ProductDescription": "Ryobi RSH2545B Garten-Häcksler 2500 W 40 l Blade"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4892210137951"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84368090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RSH2545B",
+        "Weight": 15808.0,
+        "Height": 513.0,
+        "Width": 388.0,
+        "Depth": 563.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.30.86.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53016
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064457",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4592157c-ed86-462f-9597-2e74bcb949a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-21T11:41:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN14'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:29.699000+00:00",
+        "sequence_number": 130216
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUJA",
+        "ProductVersion": "1.2",
+        "ProductType": "Rozdrabniarki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATIKA ROZDRABNIACZ DO GAŁĘZI ALF2800",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATIKA ROZDRABNIACZ DO GAŁĘZI ALF2800",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATIKA ROZDRABNIACZ DO GAŁĘZI ALF2800",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4004265012682"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "262843",
+        "Weight": 30500.0,
+        "Height": 587.0,
+        "Width": 525.0,
+        "Depth": 430.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53016
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041832",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b2c0419f-bd66-4d55-b881-8db1b5a5959f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-06T13:53:09Z'",
+          "ModificationDate": "b'2025-06-04T12:18:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUJA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:08.085000+00:00",
+        "sequence_number": 133982
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJEU",
+        "ProductVersion": "1.3",
+        "ProductType": "Rozdrabniarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rozdrabniacz do gałęzi 2500W 45L SHE250B-BOX-G NAC",
+            "ProductDescription": "Rozdrabniacz do gałęzi 2500W 45l NAC SHE250B-BOX-G"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rozdrabniacz do gałęzi 2500W 45L SHE250B-BOX-G NAC",
+            "ProductDescription": "Lopper shredder 2500W 45l NAC SHE250B-BOX-G"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rozdrabniacz do gałęzi 2500W 45L SHE250B-BOX-G NAC",
+            "ProductDescription": "Zerkleinerungsmaschine 2500W 45l NAC SHE250B-BOX-G"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902067855393"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SHE250B-BOX-G",
+        "Weight": 15000.0,
+        "Height": 380.0,
+        "Width": 580.0,
+        "Depth": 500.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53016
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040391",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fe7cdea6-ba80-4af6-b43f-03beb7baf2e2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-06T12:15:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJEU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:36.273000+00:00",
+        "sequence_number": 137318
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGMZY",
+        "ProductVersion": "1.1",
+        "ProductType": "Rozdrabniarki",
+        "Brand": "RYO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rozdrabniacz gałęzi RYOBI RSH3045U 3000W 55L",
+            "ProductDescription": "Ryobi RSH3045U rozdrabniacz 3000 W 55 l"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rozdrabniacz gałęzi RYOBI RSH3045U 3000W 55L",
+            "ProductDescription": "Ryobi RSH3045U garden shredder 3000 W 55 L"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rozdrabniacz gałęzi RYOBI RSH3045U 3000W 55L",
+            "ProductDescription": "Ryobi RSH3045U Garten-Häcksler 3000 W 55 l"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4892210170859"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84368090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5133004335",
+        "Weight": 24000.0,
+        "Height": 410.0,
+        "Width": 580.0,
+        "Depth": 630.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.30.86.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53016
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071369",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "063bdb03-fe28-4888-8a24-f671570e0106",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-12T09:43:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGMZY'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:23.840000+00:00",
+        "sequence_number": 109856
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCWLO",
+        "ProductVersion": "1.2",
+        "ProductType": "Rozdrabniarki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ATIKA ROZDRABNIACZ DO GAŁĘZI AMF2800",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ATIKA ROZDRABNIACZ DO GAŁĘZI AMF2800",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "ATIKA ROZDRABNIACZ DO GAŁĘZI AMF2800",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4004265012729"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "300632",
+        "Weight": 26500.0,
+        "Height": 420.0,
+        "Width": 490.0,
+        "Depth": 570.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53016
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044257",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "de7e4f0d-1447-4040-b2ef-ff10eb1706a0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-18T21:46:28Z'",
+          "ModificationDate": "b'2025-06-04T12:20:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCWLO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:52.061000+00:00",
+        "sequence_number": 160375
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUPD",
+        "ProductVersion": "1.3",
+        "ProductType": "Rozdrabniarki",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Elektryczny rozdrabniacz do gałęzi AWTOOLS AW81020",
+            "ProductDescription": "AWTOOLS AW81020 rozdrabniacz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Elektryczny rozdrabniacz do gałęzi AWTOOLS AW81020",
+            "ProductDescription": "AWTOOLS WOOD CHIPPER 2000W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Elektryczny rozdrabniacz do gałęzi AWTOOLS AW81020",
+            "ProductDescription": "AWTOOLS HOLZHÄCKSLER 2000W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903678607548"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW81020",
+        "Weight": 11180.0,
+        "Height": 615.0,
+        "Width": 290.0,
+        "Depth": 410.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53016
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041872",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4b73113b-5ebe-4c24-b25e-449c5e428d9d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-10T14:43:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUPD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:41.652000+00:00",
+        "sequence_number": 125834
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMAK4PS0060",
+        "ProductVersion": "1.1",
+        "ProductType": "Rozdrabniarki",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rozdrabniacz do gałęzi MAKITA UD2500 2500W (WYPRZ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rozdrabniacz do gałęzi MAKITA UD2500 2500W (WYPRZ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rozdrabniacz do gałęzi MAKITA UD2500 2500W (WYPRZ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381643818"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UD2500",
+        "Weight": 15500.0,
+        "Height": 420.0,
+        "Width": 590.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53016
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094237",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ae762df0-6273-417c-a43c-529d0272af03",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-05T14:05:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMAK4PS0060'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:44.829000+00:00",
+        "sequence_number": 172164
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMAK4PS0061",
+        "ProductVersion": "1.2",
+        "ProductType": "Rozdrabniarki",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rozdrabniacz do gałęzi MAKITA UD2500 2500W (WYPRZ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rozdrabniacz do gałęzi MAKITA UD2500 2500W (WYPRZ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rozdrabniacz do gałęzi MAKITA UD2500 2500W (WYPRZ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381643818"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672985",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UD2500",
+        "Weight": 15500.0,
+        "Height": 420.0,
+        "Width": 590.0,
+        "Depth": 520.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53016
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55272
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094238",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6fef50fd-75e1-449a-bcb0-d4b0f98a66c1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-05T14:05:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMAK4PS0061'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:44.829000+00:00",
+        "sequence_number": 172165
+      }
+    }
+  ]
+}

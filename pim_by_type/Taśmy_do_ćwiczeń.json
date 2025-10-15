@@ -1,0 +1,162 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SRHMDHTDC0007",
+        "ProductVersion": "1.2",
+        "ProductType": "Taśmy do ćwiczeń",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Piłka rehabilitacyjna z systemem ABS z pompką (55cm",
+            "ProductDescription": "Piłka rehabilitacyjna z systemem ABS z pompką 55cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Piłka rehabilitacyjna z systemem ABS z pompką (55cm",
+            "ProductDescription": "ABS rehabilitation ball with pump 55cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Piłka rehabilitacyjna z systemem ABS z pompką (55cm",
+            "ProductDescription": "ABS Reha-Ball mit Pumpe 55cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780404567"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95066200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DRQM3A0MA002P",
+        "Weight": 1010.0,
+        "Height": 200.0,
+        "Width": 270.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56440
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056522",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "548c7222-f184-4214-8e44-c95bda96111f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-15T14:26:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHMDHTDC0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:44.062000+00:00",
+        "sequence_number": 101986
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SRHMDHTDC0031",
+        "ProductVersion": "1.1",
+        "ProductType": "Taśmy do ćwiczeń",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Piłeczka żelowa do rehabilitacji dłoni - Różowa",
+            "ProductDescription": "Piłeczka żelowa do rehabilitacji dłoni - Różowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Piłeczka żelowa do rehabilitacji dłoni - Różowa",
+            "ProductDescription": "Gel ball for hand rehabilitation - Rose"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Piłeczka żelowa do rehabilitacji dłoni - Różowa",
+            "ProductDescription": "Gel-Ball für die Handrehabilitation - Rose"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901095200588"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95066200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DRIE2A2JJAUXP",
+        "Weight": 86.0,
+        "Height": 50.0,
+        "Width": 85.0,
+        "Depth": 159.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.15.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56440
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050735",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f904f6c8-9276-43ff-855e-99380da6d7c3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-23T11:30:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SRHMDHTDC0031'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:18.041000+00:00",
+        "sequence_number": 138106
+      }
+    }
+  ]
+}

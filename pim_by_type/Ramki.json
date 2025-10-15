@@ -1,0 +1,2000 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCZNC",
+        "ProductVersion": "1.3",
+        "ProductType": "Ramki",
+        "Brand": "Kruger & Matz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cyfrowa ramka Kruger&Matz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cyfrowa ramka Kruger&Matz",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cyfrowa ramka Kruger&Matz",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890113304"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KM1101",
+        "Weight": 825.0,
+        "Height": 373.0,
+        "Width": 216.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044538",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5fee2f34-33ee-4e3b-8ccb-b0c3a44ee27a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-19T10:27:46Z'",
+          "ModificationDate": "b'2025-08-07T08:27:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCZNC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:56.747000+00:00",
+        "sequence_number": 148463
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCZND",
+        "ProductVersion": "1.3",
+        "ProductType": "Ramki",
+        "Brand": "Kruger & Matz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cyfrowa ramka KrugerMatz Wi-Fi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cyfrowa ramka KrugerMatz Wi-Fi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cyfrowa ramka KrugerMatz Wi-Fi",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890113342"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KM1102",
+        "Weight": 1012.0,
+        "Height": 240.0,
+        "Width": 382.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044539",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0190d73c-a8d0-46ef-8220-411bcec277a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-20T12:25:08Z'",
+          "ModificationDate": "b'2025-08-07T08:27:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCZND'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:56.747000+00:00",
+        "sequence_number": 148464
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDF57",
+        "ProductVersion": "1.4",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 7\" 8GB czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 7\" 8GB czarna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 7\" 8GB czarna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751075070"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PFF-725B BLACK",
+        "Weight": 570.0,
+        "Height": 55.0,
+        "Width": 225.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045089",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "73178860-d2a8-4559-9685-108ec8f322a7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-21T12:58:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDF57'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:57.099000+00:00",
+        "sequence_number": 106493
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMA6",
+        "ProductVersion": "1.1",
+        "ProductType": "Ramki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cyfrowa ramka Kruger&Matz FRAMEO Wi-Fi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cyfrowa ramka Kruger&Matz FRAMEO Wi-Fi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cyfrowa ramka Kruger&Matz FRAMEO Wi-Fi",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890113366"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KM1102-15",
+        "Weight": 2230.0,
+        "Height": 63.0,
+        "Width": 539.0,
+        "Depth": 340.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047097",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c4243d91-d6ee-4b2e-ad2b-5abfe12cd40d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-17T09:18:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMA6'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:43.887000+00:00",
+        "sequence_number": 107728
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBPP",
+        "ProductVersion": "1.2",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-1021BLACK cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1021 cyfrowa ramka na zdjęcia Czarny 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-1021BLACK cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1021BLACK digital photo frame Black 25.6 cm (10.1\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-1021BLACK cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1021BLACK Digitaler Bilderrahmen Schwarz 25,6 cm (10.1\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751055416"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101040190",
+        "Weight": 850.0,
+        "Height": 200.0,
+        "Width": 345.0,
+        "Depth": 41.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048171",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e488bdda-5af2-4c08-bf47-023d5b571802",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-31T09:45:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBPP'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:53.591000+00:00",
+        "sequence_number": 108242
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBOL8",
+        "ProductVersion": "1.3",
+        "ProductType": "Ramki",
+        "Brand": "Kruger & Matz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cyfrowa ramka Kruger&amp;Matz na zdjęcia FRAMEO",
+            "ProductDescription": "Cyfrowa ramka Kruger&Matz na zdjęcia FRAMEO"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cyfrowa ramka Kruger&amp;Matz na zdjęcia FRAMEO",
+            "ProductDescription": "Kruger&amp;Matz digital photo frame FRAMEO Wi-Fi 10.1&quot;"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cyfrowa ramka Kruger&amp;Matz na zdjęcia FRAMEO",
+            "ProductDescription": "Krüger&amp;Matz digitaler Bilderrahmen FRAMEO Wi-Fi 10,1&quot;"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890097864"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KM1100",
+        "Weight": 820.0,
+        "Height": 47.0,
+        "Width": 370.0,
+        "Depth": 215.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040993",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7da9c00a-14c4-4cf0-8fcb-ddc1df08fac3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-14T09:51:15Z'",
+          "ModificationDate": "b'2025-08-07T08:22:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBOL8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:40.949000+00:00",
+        "sequence_number": 137566
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBOTD",
+        "ProductVersion": "1.3",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-726 cyfrowa ramka na zdjęcia 7\"",
+            "ProductDescription": "Denver PFF-726 cyfrowa ramka na zdjęcia Biały 17,8 cm (7\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-726 cyfrowa ramka na zdjęcia 7\"",
+            "ProductDescription": "Denver PFF-726 digital photo frame White 17.8 cm (7\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-726 cyfrowa ramka na zdjęcia 7\"",
+            "ProductDescription": "Denver PFF-726 Digitaler Bilderrahmen Weiß 17,8 cm (7\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751060731"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5706751060731",
+        "Weight": 912.0,
+        "Height": 227.0,
+        "Width": 79.0,
+        "Depth": 154.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041070",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "328c589e-1b95-4f30-8af9-08f76d3e69b4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-19T22:31:52Z'",
+          "ModificationDate": "b'2025-08-07T08:22:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBOTD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:32.978000+00:00",
+        "sequence_number": 123206
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBOWE",
+        "ProductVersion": "1.3",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ramka na zdjęcia Denver FHD 15.6\" 8GB biała",
+            "ProductDescription": "Denver PFF-1514W cyfrowa ramka na zdjęcia Biały 39,6 cm (15.6\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ramka na zdjęcia Denver FHD 15.6\" 8GB biała",
+            "ProductDescription": "Denver Photo Frame with FRAMEO FHD 15.6\" 8GB White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ramka na zdjęcia Denver FHD 15.6\" 8GB biała",
+            "ProductDescription": "Denver Bilderrahmen mit FRAMEO FHD 15,6\" 8GB Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751061653"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101050030",
+        "Weight": 1895.0,
+        "Height": 75.0,
+        "Width": 540.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041083",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "66ba16f7-afe1-428a-95f3-4418de0887d4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T16:20:24Z'",
+          "ModificationDate": "b'2025-08-07T08:22:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBOWE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:33.853000+00:00",
+        "sequence_number": 123219
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBOYO",
+        "ProductVersion": "1.3",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 8GB biała",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 8GB biała",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 8GB biała",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751033971"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PFF-1010WHITE MK2",
+        "Weight": 900.0,
+        "Height": 69.0,
+        "Width": 293.0,
+        "Depth": 213.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041099",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e676f711-032b-4006-a497-975d955bc04c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-18T14:59:34Z'",
+          "ModificationDate": "b'2025-08-07T08:22:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBOYO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:33.853000+00:00",
+        "sequence_number": 123235
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMA5",
+        "ProductVersion": "1.4",
+        "ProductType": "Ramki",
+        "Brand": "Kruger & Matz",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cyfrowa ramka Kruger&Matz na zdjęcia FRAMEO Wi-Fi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cyfrowa ramka Kruger&Matz na zdjęcia FRAMEO Wi-Fi",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cyfrowa ramka Kruger&Matz na zdjęcia FRAMEO Wi-Fi",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890113281"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KM1100W",
+        "Weight": 835.0,
+        "Height": 212.0,
+        "Width": 370.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046795",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4babaf6e-860c-4372-87e3-e58d7576a75e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-29T08:42:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMA5'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:37.294000+00:00",
+        "sequence_number": 110573
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBRA",
+        "ProductVersion": "1.2",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-1042DWMK2 cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1042DWMK2 cyfrowa ramka na zdjęcia Drewno 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-1042DWMK2 cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1042DWMK2 digital photo frame Wood 25.6 cm (10.1\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-1042DWMK2 cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1042DWMK2 Digitaler Bilderrahmen Holz 25,6 cm (10.1\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10582371",
+        "Weight": 1080.0,
+        "Height": 284.0,
+        "Width": 384.0,
+        "Depth": 48.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085448",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4a7c84a3-e404-4ddc-9c50-6db7cfb22304",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-30T10:14:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBRA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:10.999000+00:00",
+        "sequence_number": 125247
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBP80",
+        "ProductVersion": "1.2",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-1026 cyfrowa ramka na zdjęcia Czarny",
+            "ProductDescription": "Denver PFF-1026 cyfrowa ramka na zdjęcia Czarny 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-1026 cyfrowa ramka na zdjęcia Czarny",
+            "ProductDescription": "Denver PFF-1026 digital photo frame Black 25.6 cm (10.1\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-1026 cyfrowa ramka na zdjęcia Czarny",
+            "ProductDescription": "Denver PFF-1026 Digitaler Bilderrahmen Schwarz 25,6 cm (10.1\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751067853"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101040380",
+        "Weight": 1265.0,
+        "Height": 297.0,
+        "Width": 203.0,
+        "Depth": 82.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081939",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cc3eda2f-b053-44d6-ad9a-5e875e130bf7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T14:40:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBP80'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:54.723000+00:00",
+        "sequence_number": 113363
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCKMC",
+        "ProductVersion": "1.2",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cyfrowa ramka na zdjęcia Denver PFF-1012 Biała 25,6",
+            "ProductDescription": "Denver PFF-1012 cyfrowa ramka na zdjęcia Biały 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cyfrowa ramka na zdjęcia Denver PFF-1012 Biała 25,6",
+            "ProductDescription": "Denver PFF-1012 digital photo frame White 25.6 cm (10.1\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cyfrowa ramka na zdjęcia Denver PFF-1012 Biała 25,6",
+            "ProductDescription": "Denver PFF-1012 Digitaler Bilderrahmen Weiß 25,6 cm (10.1\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751075650"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PFF-1012W WHITE",
+        "Weight": 812.0,
+        "Height": 46.0,
+        "Width": 342.0,
+        "Depth": 191.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055227",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9ae478af-afbb-4e5e-83e0-01faad9fa44b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-19T09:51:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCKMC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:03.220000+00:00",
+        "sequence_number": 142100
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBOT9",
+        "ProductVersion": "1.3",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 7\" 8GB czarna",
+            "ProductDescription": "Denver PFF-710BLACKMK2 cyfrowa ramka na zdjęcia Czarny 17,8 cm (7\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 7\" 8GB czarna",
+            "ProductDescription": "Denver Photo Frame with FRAMEO 7\" 8GB Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 7\" 8GB czarna",
+            "ProductDescription": "Denver Bilderrahmen mit FRAMEO 7\" 8GB Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751033919"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101010010",
+        "Weight": 635.0,
+        "Height": 70.0,
+        "Width": 230.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041068",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b8351880-111a-4b26-81be-c4351fe4736a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-24T11:46:49Z'",
+          "ModificationDate": "b'2025-08-07T08:22:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBOT9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:10.996000+00:00",
+        "sequence_number": 162697
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBP67",
+        "ProductVersion": "1.3",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO FHD 15.6\" 8GB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO FHD 15.6\" 8GB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO FHD 15.6\" 8GB",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751044434"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5477446",
+        "Weight": 1850.0,
+        "Height": 302.0,
+        "Width": 510.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041118",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2b867e50-329f-4e32-9d53-acf0d45a64a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-31T12:58:01Z'",
+          "ModificationDate": "b'2025-08-07T08:22:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBP67'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:10.996000+00:00",
+        "sequence_number": 162708
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBPM",
+        "ProductVersion": "1.2",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-1024BMK2 cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1024BMK2 cyfrowa ramka na zdjęcia Czarny 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-1024BMK2 cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1024BMK2 digital photo frame Black 25.6 cm (10.1\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-1024BMK2 cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1024BMK2 Digitaler Bilderrahmen Schwarz 25,6 cm (10.1\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751055454"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101040210",
+        "Weight": 824.0,
+        "Height": 201.0,
+        "Width": 351.0,
+        "Depth": 49.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074932",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "974deeaa-2deb-4827-8260-93a88df7301f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-24T10:18:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBPM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:22.315000+00:00",
+        "sequence_number": 143087
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCKJJ",
+        "ProductVersion": "1.4",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-1037W cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1037W cyfrowa ramka na zdjęcia Biały 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-1037W cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1037W digital photo frame White 25.6 cm (10.1\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-1037W cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1037W Digitaler Bilderrahmen Weiß 25,6 cm (10.1\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751061608"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101040300",
+        "Weight": 892.0,
+        "Height": 352.0,
+        "Width": 216.0,
+        "Depth": 43.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043343",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2e4e91fb-7b5c-4edd-86de-f0c5c57e1998",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-21T13:30:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCKJJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:42.945000+00:00",
+        "sequence_number": 114847
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCKK7",
+        "ProductVersion": "1.4",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 16GB biała",
+            "ProductDescription": "Denver PFF-1024WMK2 cyfrowa ramka na zdjęcia Biały 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 16GB biała",
+            "ProductDescription": "Denver Photo Frame with FRAMEO 10.1\" 16GB white"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 16GB biała",
+            "ProductDescription": "Denver Fotorahmen mit FRAMEO 10,1\" 16GB weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751055478"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101040220",
+        "Weight": 818.0,
+        "Height": 55.0,
+        "Width": 295.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043353",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8264a366-c9c5-4939-a119-e5e3aeecfb1b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T10:28:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCKK7'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:43.757000+00:00",
+        "sequence_number": 114857
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDEU4",
+        "ProductVersion": "1.4",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 19\" 32GB czarna",
+            "ProductDescription": "Denver Frameo PFF-1970 cyfrowa ramka na zdjęcia Czarny 48,3 cm (19\") Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 19\" 32GB czarna",
+            "ProductDescription": "Denver photo frame with FRAMEO 19\" 32GB black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 19\" 32GB czarna",
+            "ProductDescription": "Denver Fotorahmen mit FRAMEO 19\" 32GB schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751075469"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PFF-1970",
+        "Weight": 3800.0,
+        "Height": 576.0,
+        "Width": 343.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045040",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "50e013f8-2ea8-421c-96b8-a02fdd2fc172",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-29T07:20:59Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDEU4'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:49.023000+00:00",
+        "sequence_number": 115185
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDFBB",
+        "ProductVersion": "1.4",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-725W cyfrowa ramka na zdjęcia Biały (7\")",
+            "ProductDescription": "Denver PFF-725W cyfrowa ramka na zdjęcia Biały 17,8 cm (7\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-725W cyfrowa ramka na zdjęcia Biały (7\")",
+            "ProductDescription": "Denver PFF-725W digital photo frame White 17.8 cm (7\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-725W cyfrowa ramka na zdjęcia Biały (7\")",
+            "ProductDescription": "Denver PFF-725W Digitaler Bilderrahmen Weiß 17,8 cm (7\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751075094"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PFF-725W WHITE",
+        "Weight": 578.0,
+        "Height": 60.0,
+        "Width": 150.0,
+        "Depth": 224.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045113",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2c384b61-d849-4080-bb91-04adf6f74103",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-04T15:24:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDFBB'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:50.230000+00:00",
+        "sequence_number": 115223
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBPK",
+        "ProductVersion": "1.2",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-1037B cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1037B cyfrowa ramka na zdjęcia Czarny 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-1037B cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1037B digital photo frame Black 25.6 cm (10.1\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-1037B cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1037B Digitaler Bilderrahmen Schwarz 25,6 cm (10.1\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751061585"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101040290",
+        "Weight": 908.0,
+        "Height": 352.0,
+        "Width": 215.0,
+        "Depth": 43.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "DK",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087283",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2ee603b0-bb6e-40b5-833f-f1cf4e739bcf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-12T14:41:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBPK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:34.990000+00:00",
+        "sequence_number": 158026
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBPY",
+        "ProductVersion": "1.4",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 16GB",
+            "ProductDescription": "Denver PFF-1042LW cyfrowa ramka na zdjęcia Drewno 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 16GB",
+            "ProductDescription": "Denver photo frame with FRAMEO 10.1\" 16GB light wood"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ramka na zdjęcia Denver z FRAMEO 10.1\" 16GB",
+            "ProductDescription": "Denver Fotorahmen mit FRAMEO 10,1\" 16GB helles Holz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751066139"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "119101040330",
+        "Weight": 1068.0,
+        "Height": 42.0,
+        "Width": 385.0,
+        "Depth": 245.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042569",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "879d00b2-9eae-4809-afcd-300dc55e8cd0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-23T09:04:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBPY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:04.052000+00:00",
+        "sequence_number": 143914
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBSM",
+        "ProductVersion": "1.4",
+        "ProductType": "Ramki",
+        "Brand": "denver",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Denver PFF-1021WHITE cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1021 cyfrowa ramka na zdjęcia Biały 25,6 cm (10.1\") Ekran dotykowy Wi-Fi"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Denver PFF-1021WHITE cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1021 digital photo frame White 25.6 cm (10.1\") Touchscreen Wi-Fi"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Denver PFF-1021WHITE cyfrowa ramka na zdjęcia",
+            "ProductDescription": "Denver PFF-1021 Digitaler Bilderrahmen Weiß 25,6 cm (10.1\") Touchscreen WLAN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5706751055430"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85285900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "7465286",
+        "Weight": 840.0,
+        "Height": 39.0,
+        "Width": 347.0,
+        "Depth": 201.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.40.34.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53482
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54941
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042594",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1e9cdb5f-23dc-474f-996b-314589642b5e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-24T13:51:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBSM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:35.653000+00:00",
+        "sequence_number": 159628
+      }
+    }
+  ]
+}

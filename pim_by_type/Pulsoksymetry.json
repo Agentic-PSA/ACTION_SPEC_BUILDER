@@ -1,0 +1,364 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "UISMENPLS0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Pulsoksymetry",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pulsoksymetr Medisana PM 180",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pulsoksymetr Medisana PM 180",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pulsoksymetr Medisana PM 180",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588794933"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90189084",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "79493",
+        "Weight": 90.0,
+        "Height": 115.0,
+        "Width": 80.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54728
+              },
+              {
+                "CategoryId": 56460
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54467
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079240",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5f408b11-d096-4463-a4e4-4dfb62bb2837",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-28T09:08:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'UISMENPLS0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:35.526000+00:00",
+        "sequence_number": 153940
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "UISHAXPLS0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Pulsoksymetry",
+        "Brand": "Haxe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pulsoksymetr napalcowy JPD-500G",
+            "ProductDescription": "Pulsoksymetr napalcowy JPD-500G"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pulsoksymetr napalcowy JPD-500G",
+            "ProductDescription": "Pulse oximeter JPD-500G"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pulsoksymetr napalcowy JPD-500G",
+            "ProductDescription": "Pulsoximeter JPD-500G"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6951740538374"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90189010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 90.0,
+        "Height": 60.0,
+        "Width": 90.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54728
+              },
+              {
+                "CategoryId": 56460
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54467
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100029997",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d3a846c8-44e1-4583-ada1-4f87cdfc6e36",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-16T12:53:09Z'",
+          "ModificationDate": "b'2025-06-04T12:12:02Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'UISHAXPLS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:40.340000+00:00",
+        "sequence_number": 140916
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBFK5",
+        "ProductVersion": "1.2",
+        "ProductType": "Pulsoksymetry",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PM 100 Pulsoksymetr Medisana",
+            "ProductDescription": "Medisana PM 100 monitor pracy serca Palec Srebrny, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PM 100 Pulsoksymetr Medisana",
+            "ProductDescription": "PM 100 Pulse Oximeter"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PM 100 Pulsoksymetr Medisana",
+            "ProductDescription": "PM 100 Pulsoximeter"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588794551"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90189084",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "79455",
+        "Weight": 193.0,
+        "Height": 60.0,
+        "Width": 90.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56460
+              },
+              {
+                "CategoryId": 54728
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54467
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040033",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e97abf6c-7d40-4d49-a760-132aa88353cd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-26T12:35:17Z'",
+          "ModificationDate": "b'2025-06-04T12:17:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBFK5'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:39.991000+00:00",
+        "sequence_number": 114664
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "UISHAXPLS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Pulsoksymetry",
+        "Brand": "Haxe",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pulsoksymetr napalcowy JPD-500D",
+            "ProductDescription": "Pulsoksymetr napalcowy JPD-500D"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pulsoksymetr napalcowy JPD-500D",
+            "ProductDescription": "Pulse oximeter JPD-500D"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pulsoksymetr napalcowy JPD-500D",
+            "ProductDescription": "Pulsoximeter JPD-500D"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6951740500203"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90189084",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 78.0,
+        "Height": 89.0,
+        "Width": 62.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54728
+              },
+              {
+                "CategoryId": 56460
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54467
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062763",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aecf992c-f111-4424-ae6c-96e250c9e38c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-11T09:55:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'UISHAXPLS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:13.793000+00:00",
+        "sequence_number": 162852
+      }
+    }
+  ]
+}

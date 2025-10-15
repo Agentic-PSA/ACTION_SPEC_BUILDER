@@ -1,0 +1,194 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCRE6",
+        "ProductVersion": "1.1",
+        "ProductType": "Karty dostępu",
+        "Brand": "UBIQUITI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ubiquiti G2 Starter Kit Professional",
+            "ProductDescription": "Ubiquiti G2 Starter Kit Professional system ochrony dostępu Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ubiquiti G2 Starter Kit Professional",
+            "ProductDescription": "Ubiquiti G2 Starter Kit Professional security access control system Silver"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ubiquiti G2 Starter Kit Professional",
+            "ProductDescription": "Ubiquiti G2 Starter Kit Professional Sicherheitszugangskontrollsystem Silber"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "810084691830"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "UA-G2-SK-PRO",
+        "Weight": 1378.0,
+        "Height": 30.0,
+        "Width": 520.0,
+        "Depth": 420.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54929
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57273
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55468
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092670",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "71ed58b4-311e-41f1-9c5a-745eef5bb7ed",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-23T17:07:55Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCRE6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:08.855000+00:00",
+        "sequence_number": 168818
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCRXT",
+        "ProductVersion": "1.2",
+        "ProductType": "Karty dostępu",
+        "Brand": "Grandstream",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Grandstream RFID_CARD - karty dostępowe",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Grandstream RFID_CARD - karty dostępowe",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Grandstream RFID_CARD - karty dostępowe",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6947273702306"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85235200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RFID_CARD",
+        "Weight": 500.0,
+        "Height": 245.0,
+        "Width": 365.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57273
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54929
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55468
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043997",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "71da9dc0-69a1-4610-bc42-cdf718d3792c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-09T12:11:53Z'",
+          "ModificationDate": "b'2025-06-04T12:19:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCRXT'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:47.321000+00:00",
+        "sequence_number": 115073
+      }
+    }
+  ]
+}

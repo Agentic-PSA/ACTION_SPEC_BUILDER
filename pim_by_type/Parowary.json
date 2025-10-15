@@ -1,0 +1,724 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDMORPAR0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Parowary",
+        "Brand": "Morphy Richards",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Parowar Intellisteam Morphy Richards",
+            "ProductDescription": "Parowar INTELLISTEAM MORPHY RICHARDS"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Parowar Intellisteam Morphy Richards",
+            "ProductDescription": "Steamer INTELLISTEAM MORPHY RICHARDS"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Parowar Intellisteam Morphy Richards",
+            "ProductDescription": "Dampfer INTELLISTEAM MORPHY RICHARDS"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5011832068125"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 6470.0,
+        "Height": 415.0,
+        "Width": 325.0,
+        "Depth": 375.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52299
+              },
+              {
+                "CategoryId": 53302
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54859
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100108502",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f887496f-ddff-46ad-9d67-869ad24cac32",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-09-02T13:28:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDMORPAR0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:31.718000+00:00",
+        "sequence_number": 165287
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDSBTPAR0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Parowary",
+        "Brand": "SBT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "STEBA PAROWAR DG 2",
+            "ProductDescription": "Steba ED 5 Czarny, Stal nierdzewna 350 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "STEBA PAROWAR DG 2",
+            "ProductDescription": "Steba ED 5 Black, Stainless steel 350 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "STEBA PAROWAR DG 2",
+            "ProductDescription": "Steba ED 5 Schwarz, Edelstahl 350 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4011833302151"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DG 2",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54859
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52299
+              },
+              {
+                "CategoryId": 53302
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063198",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0f9d535b-acb9-4169-b4d7-4a279e4c0942",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-04-02T12:33:06Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDSBTPAR0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:01.384000+00:00",
+        "sequence_number": 150535
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAFS4",
+        "ProductVersion": "1.1",
+        "ProductType": "Parowary",
+        "Brand": "Adler",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Parowar ADLER AD 633",
+            "ProductDescription": "Adler AD 633 szybkowar parowy 3 kosz(e) Biały Wolnostojący 800 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Parowar ADLER AD 633",
+            "ProductDescription": "Adler AD 633 steam cooker 3 basket(s) White Freestanding 800 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Parowar ADLER AD 633",
+            "ProductDescription": "Adler AD 633 Dampfgarer 3 Korb/Körbe Weiß Freistehend 800 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901436590316"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AD 633",
+        "Weight": 2160.0,
+        "Height": 265.0,
+        "Width": 275.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53302
+              },
+              {
+                "CategoryId": 52299
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54859
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051442",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d65fcaa1-7e89-4e1c-a194-374d82bb4c8b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-29T15:06:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAFS4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:30.121000+00:00",
+        "sequence_number": 138754
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPTEF4PS0102",
+        "ProductVersion": "1.2",
+        "ProductType": "Parowary",
+        "Brand": "Tefal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Parowar TEFAL VC 1401 (WYPRZEDAŻ)",
+            "ProductDescription": "Tefal VC140135 szybkowar parowy 2 kosz(e) Czarny Wolnostojący 900 W Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Parowar TEFAL VC 1401 (WYPRZEDAŻ)",
+            "ProductDescription": "Tefal VC140135 steam cooker 2 basket(s) Black Freestanding 900 W Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Parowar TEFAL VC 1401 (WYPRZEDAŻ)",
+            "ProductDescription": "Tefal VC140135 Dampfgarer 2 Korb/Körbe Schwarz Freistehend 900 W Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3045386358632"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VC 1401",
+        "Weight": 2555.0,
+        "Height": 300.0,
+        "Width": 240.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53302
+              },
+              {
+                "CategoryId": 52299
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54859
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071558",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7b168647-8801-4068-b05c-21450ab0a797",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-29T10:03:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPTEF4PS0102'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:19.063000+00:00",
+        "sequence_number": 127900
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPMOR4PS0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Parowary",
+        "Brand": "Morphy Richards",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Parowar Intellisteam Morphy Richards (WYPRZEDAŻ)",
+            "ProductDescription": "Parowar INTELLISTEAM MORPHY RICHARDS Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Parowar Intellisteam Morphy Richards (WYPRZEDAŻ)",
+            "ProductDescription": "Steamer INTELLISTEAM MORPHY RICHARDS Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Parowar Intellisteam Morphy Richards (WYPRZEDAŻ)",
+            "ProductDescription": "Dampfer INTELLISTEAM MORPHY RICHARDS Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5011832068125"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 6470.0,
+        "Height": 415.0,
+        "Width": 325.0,
+        "Depth": 375.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53302
+              },
+              {
+                "CategoryId": 52299
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54859
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100150306",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e1f83cf9-9f37-447e-b69c-dda87e8ee5de",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-19T10:05:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPMOR4PS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:44:08.582000+00:00",
+        "sequence_number": 173326
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDTEFPAR0014",
+        "ProductVersion": "1.1",
+        "ProductType": "Parowary",
+        "Brand": "Tefal",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Parowar TEFAL VC 1401",
+            "ProductDescription": "Tefal VC140135 szybkowar parowy 2 kosz(e) Czarny Wolnostojący 900 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Parowar TEFAL VC 1401",
+            "ProductDescription": "Tefal VC140135 steam cooker 2 basket(s) Black Freestanding 900 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Parowar TEFAL VC 1401",
+            "ProductDescription": "Tefal VC140135 Dampfgarer 2 Korb/Körbe Schwarz Freistehend 900 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3045386358632"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VC 1401",
+        "Weight": 2555.0,
+        "Height": 300.0,
+        "Width": 240.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52299
+              },
+              {
+                "CategoryId": 53302
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54859
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074071",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1c13deb7-8bfb-452a-981d-a88bcb31b877",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2014-06-30T10:19:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDTEFPAR0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:37.554000+00:00",
+        "sequence_number": 145609
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDWMFPAR0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Parowary",
+        "Brand": "WMF",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Parowar WMF KÜCHENminis 415090011",
+            "ProductDescription": "WMF KITCHENminis 0415090011 szybkowar parowy 2 kosz. Blat 900 W Czarny, Stal nierdzewna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Parowar WMF KÜCHENminis 415090011",
+            "ProductDescription": "WMF KITCHENminis 0415090011 steam cooker 2 basket(s) Countertop 900 W Black, Stainless steel"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Parowar WMF KÜCHENminis 415090011",
+            "ProductDescription": "WMF KITCHENminis KÜCHENminis Vitalis E Dampfgarer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4211129119641"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "415090011",
+        "Weight": 4000.0,
+        "Height": 310.0,
+        "Width": 367.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53302
+              },
+              {
+                "CategoryId": 52299
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54859
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074092",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8e66d6ee-3bd8-4758-abb2-f89e4f016f40",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-19T10:43:48Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDWMFPAR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:37.554000+00:00",
+        "sequence_number": 145627
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDRUSPAR0001",
+        "ProductVersion": "1.3",
+        "ProductType": "Parowary",
+        "Brand": "Russel Hobbs",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Parowar RUSSELL HOBBS 19270-56",
+            "ProductDescription": "Parowar RUSSELL HOBBS Cook@Home 19270-56 szybkowar parowy 9 l 800 W Srebrny, Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Parowar RUSSELL HOBBS 19270-56",
+            "ProductDescription": "RUSSELL HOBBS Cook@Home 19270-56 steam cooker 9 l 800 W Silver, Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Parowar RUSSELL HOBBS 19270-56",
+            "ProductDescription": "RUSSELL HOBBS Cook@Home 19270-56 Dampfgarer 9 l 800 W Silber, Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4008496760459"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85167970",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 2410.0,
+        "Height": 275.0,
+        "Width": 240.0,
+        "Depth": 275.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.24.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53302
+              },
+              {
+                "CategoryId": 52299
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54859
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100004197",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f0d1d903-e84d-43be-b89e-360e4aa85929",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2014-07-04T12:03:08Z'",
+          "ModificationDate": "b'2025-09-30T13:40:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDRUSPAR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:27.714000+00:00",
+        "sequence_number": 131819
+      }
+    }
+  ]
+}

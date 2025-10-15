@@ -1,0 +1,3353 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "SIFRELLAW0002",
+        "ProductVersion": "1.0",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101332"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2007",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 58016
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100157070",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ławka treningowa regulowana REBEL ACTIVE"
+      },
+      "properties": {
+        "message_id": "1998ca53-b3d0-41bf-ab1b-3acb371424cf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-09T14:44:11Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIFRELLAW0002'"
+        },
+        "enqueued_time_utc": "2025-10-09 12:47:43.340000+00:00",
+        "sequence_number": 174486
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGFOK",
+        "ProductVersion": "1.1",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka wielofunkcyjna HMS L8012",
+            "ProductDescription": "HMS Fitness L8012 Ławka treningowa do ćwiczeń na płasko Siłownia, Dom Czarny, Żółty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka wielofunkcyjna HMS L8012",
+            "ProductDescription": "HMS Fitness L8012 Flat weight training bench Gym, Home Black, Yellow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka wielofunkcyjna HMS L8012",
+            "ProductDescription": "HMS Fitness L8012 Flache Hanteltrainingsbank Fitnessstudio, Haus Schwarz, Gelb"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-53-002",
+        "Weight": 13074.0,
+        "Height": 360.0,
+        "Width": 1200.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091177",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c2c9d190-45f3-457c-9faa-c6570f7b3e8f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-21T07:35:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGFOK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:16.055000+00:00",
+        "sequence_number": 134395
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWGB",
+        "ProductVersion": "1.3",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka rzymska HMS LSR8311",
+            "ProductDescription": "HMS Fitness LSR8311 Ławka treningowa do ćwiczeń na płasko Regulowany fotel Dom Czarny, Żółty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka rzymska HMS LSR8311",
+            "ProductDescription": "HMS Fitness LSR8311 Flat weight training bench Adjustable seat Home Black, Yellow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka rzymska HMS LSR8311",
+            "ProductDescription": "HMS Fitness LSR8311 Flache Hanteltrainingsbank Verstellbarer Sitz Haus Schwarz, Gelb"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695596557"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-53-701",
+        "Weight": 15200.0,
+        "Height": 230.0,
+        "Width": 1420.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045967",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "49b7c3e5-1ccb-422a-a706-85fda27e11bb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-02T11:11:20Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWGB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148864
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWIB",
+        "ProductVersion": "1.3",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka pod sztangę HMS LS3061",
+            "ProductDescription": "Ławka pod sztangę HMS LS3061"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka pod sztangę HMS LS3061",
+            "ProductDescription": "HMS barbell bench LS3061"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka pod sztangę HMS LS3061",
+            "ProductDescription": "HMS Langhantelbank LS3061"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695596533"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-53-402",
+        "Weight": 23000.0,
+        "Height": 1290.0,
+        "Width": 380.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045980",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c919ed3b-a2ca-402e-9447-ae08d66f35f9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-25T07:19:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWIB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148877
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWJ7",
+        "ProductVersion": "1.3",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka rzymska HMS LR8310",
+            "ProductDescription": "Ławka rzymska HMS LR8310"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka rzymska HMS LR8310",
+            "ProductDescription": "HMS rowing bench LR8310"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka rzymska HMS LR8310",
+            "ProductDescription": "HMS Ruderbank LR8310"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695538519"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-53-700",
+        "Weight": 12600.0,
+        "Height": 200.0,
+        "Width": 530.0,
+        "Depth": 930.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045986",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2b11ac4c-c10b-499d-81be-6e7b1072f645",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-27T07:34:28Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWJ7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148883
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASS6",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stojaki pod sztangę z asekuracją, regulowane",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stojaki pod sztangę z asekuracją, regulowane",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stojaki pod sztangę z asekuracją, regulowane",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101387"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2403",
+        "Weight": 29500.0,
+        "Height": 1010.0,
+        "Width": 1030.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038126",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "39215eaf-3292-4945-a1eb-64debffa10e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-20T21:58:05Z'",
+          "ModificationDate": "b'2025-06-04T12:16:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASS6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:04.972000+00:00",
+        "sequence_number": 119931
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAST7",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stojaki pod sztangę regulowane REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stojaki pod sztangę regulowane REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stojaki pod sztangę regulowane REBEL ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101370"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2402",
+        "Weight": 19500.0,
+        "Height": 1000.0,
+        "Width": 445.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038134",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "902b1876-dc9c-48f2-bd54-1fe19f384916",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-16T09:40:42Z'",
+          "ModificationDate": "b'2025-06-04T12:16:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAST7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:04.972000+00:00",
+        "sequence_number": 119939
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASTX",
+        "ProductVersion": "1.3",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa regulowana wielofunkcyjna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa regulowana wielofunkcyjna",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa regulowana wielofunkcyjna",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101349"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94015200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2008",
+        "Weight": 23500.0,
+        "Height": 530.0,
+        "Width": 1095.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.00.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038142",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fca27d50-1aaf-497b-a034-99dbe3bcd14a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-18T18:43:13Z'",
+          "ModificationDate": "b'2025-08-07T08:18:46Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASTX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:04.972000+00:00",
+        "sequence_number": 119947
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASUM",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa skośna REBEL ACTIVE  RBA-2005",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa skośna REBEL ACTIVE  RBA-2005",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa skośna REBEL ACTIVE  RBA-2005",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101318"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2005",
+        "Weight": 7500.0,
+        "Height": 860.0,
+        "Width": 380.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038151",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1117d660-bc65-4b5d-9308-d3ff7a6a5765",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-16T13:34:44Z'",
+          "ModificationDate": "b'2025-06-04T12:16:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASUM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:04.972000+00:00",
+        "sequence_number": 119956
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASYN",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa prosta regulowana ze stojakami",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa prosta regulowana ze stojakami",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa prosta regulowana ze stojakami",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101325"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2006",
+        "Weight": 18400.0,
+        "Height": 420.0,
+        "Width": 1130.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038194",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "526c8776-0412-4bec-8a85-6a16393a1289",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-16T14:48:26Z'",
+          "ModificationDate": "b'2025-06-04T12:16:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASYN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:06.082000+00:00",
+        "sequence_number": 119962
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWS3",
+        "ProductVersion": "1.3",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka pod sztangę HMS LS1203",
+            "ProductDescription": "Ławka pod sztangę HMS LS1203"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka pod sztangę HMS LS1203",
+            "ProductDescription": "HMS barbell bench LS1203"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka pod sztangę HMS LS1203",
+            "ProductDescription": "HMS Langhantelbank LS1203"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695596939"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-53-007",
+        "Weight": 9200.0,
+        "Height": 320.0,
+        "Width": 320.0,
+        "Depth": 850.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046028",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e3c2b418-4ee9-4938-9598-2639add75643",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-30T10:34:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWS3'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:05.381000+00:00",
+        "sequence_number": 106953
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFXYL",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka wielofunkcyjna HMS L8015",
+            "ProductDescription": "Ławka wielofunkcyjna HMS L8015"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka wielofunkcyjna HMS L8015",
+            "ProductDescription": "Multifunction bench HMS L8015"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka wielofunkcyjna HMS L8015",
+            "ProductDescription": "Multifunktionsbank HMS L8015"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695527940"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-53-202",
+        "Weight": 31000.0,
+        "Height": 1730.0,
+        "Width": 675.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060488",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d0878282-baab-452f-aea9-954efb153286",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T14:49:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFXYL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:04.438000+00:00",
+        "sequence_number": 135610
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWBK",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "KETER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KETER STÓŁ OGRODOWY ELISE ZIELONY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KETER STÓŁ OGRODOWY ELISE ZIELONY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KETER STÓŁ OGRODOWY ELISE ZIELONY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3253929139024"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94037000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "218055",
+        "Weight": 6000.0,
+        "Height": 60.0,
+        "Width": 900.0,
+        "Depth": 1370.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041930",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "44fadfb1-639b-45d0-9917-4dc8e0f1dd09",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-16T16:30:25Z'",
+          "ModificationDate": "b'2025-06-04T12:18:48Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWBK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:27.796000+00:00",
+        "sequence_number": 165058
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWLD",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "KETER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stół ogrodowy KETER Elise owalny 137x90cm grafit",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stół ogrodowy KETER Elise owalny 137x90cm grafit",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stół ogrodowy KETER Elise owalny 137x90cm grafit",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8711245131085"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94037000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "221063",
+        "Weight": 6000.0,
+        "Height": 80.0,
+        "Width": 900.0,
+        "Depth": 1360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55336
+              },
+              {
+                "CategoryId": 53190
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041973",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "20662c81-20f5-4509-b105-3dc80050c676",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-05T07:16:33Z'",
+          "ModificationDate": "b'2025-06-04T12:18:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWLD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:27.796000+00:00",
+        "sequence_number": 165063
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STYMRPOGR0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "MRP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stół ogrodowy IZZY 8-osobowy 190x90x74 brąz/czarny",
+            "ProductDescription": "Stół ogrodowy IZZY 8-osobowy 190x90x74 brąz/czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stół ogrodowy IZZY 8-osobowy 190x90x74 brąz/czarny",
+            "ProductDescription": "Garden table IZZY 8-seater 190x90x74 brown/black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stół ogrodowy IZZY 8-osobowy 190x90x74 brąz/czarny",
+            "ProductDescription": "Gartentisch IZZY 8-Sitzer 190x90x74 braun/schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905610255640"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IZZY 8",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056596",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stół ogrodowy IZZY 8-osobowy 190x90x74 brąz/czarny"
+      },
+      "properties": {
+        "message_id": "50a7d28a-cf2c-4b42-bb62-ac38358df336",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T10:41:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STYMRPOGR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:44.890000+00:00",
+        "sequence_number": 102020
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LISMRPOGR0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "MRP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stolik ogrodowy kempingowy składany DREVO 60cm",
+            "ProductDescription": "Stolik ogrodowy kempingowy składany DREVO 60cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stolik ogrodowy kempingowy składany DREVO 60cm",
+            "ProductDescription": "Folding camping garden table DREVO 60cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stolik ogrodowy kempingowy składany DREVO 60cm",
+            "ProductDescription": "Klappbarer Camping-Gartentisch DREVO 60cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905610252489"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DREVO 60",
+        "Weight": 3200.0,
+        "Height": 110.0,
+        "Width": 230.0,
+        "Depth": 750.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53187
+              },
+              {
+                "CategoryId": 55325
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100065529",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stolik ogrodowy kempingowy składany DREVO 60cm"
+      },
+      "properties": {
+        "message_id": "1a1127c0-8ef3-4203-bab2-8a9e9efc1c26",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T10:41:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LISMRPOGR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:32.450000+00:00",
+        "sequence_number": 130354
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STYMRPOGR0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "MRP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stolik ogrodowy ze szklanym blatem JUPITER 60cm",
+            "ProductDescription": "Stolik ogrodowy ze szklanym blatem JUPITER 60cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stolik ogrodowy ze szklanym blatem JUPITER 60cm",
+            "ProductDescription": "Garden table with glass top JUPITER 60cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stolik ogrodowy ze szklanym blatem JUPITER 60cm",
+            "ProductDescription": "Gartentisch mit Glasplatte  JUPITER 60cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908227367584"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "JUPITER 60",
+        "Weight": 5500.0,
+        "Height": 730.0,
+        "Width": 60.0,
+        "Depth": 610.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047794",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stolik ogrodowy ze szklanym blatem JUPITER 60cm"
+      },
+      "properties": {
+        "message_id": "0aa80765-5c22-4ddf-85ba-a3b04a90a7a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T10:41:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STYMRPOGR0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:50.723000+00:00",
+        "sequence_number": 108065
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STYMRPOGR0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "MRP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stolik ogrodowy ze szklanym blatem JUPITER 90cm",
+            "ProductDescription": "Stolik ogrodowy ze szklanym blatem JUPITER 90cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stolik ogrodowy ze szklanym blatem JUPITER 90cm",
+            "ProductDescription": "Garden table with glass top JUPITER 90cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stolik ogrodowy ze szklanym blatem JUPITER 90cm",
+            "ProductDescription": "Gartentisch mit Glasplatte  JUPITER 90cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908227367591"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "JUPITER 90",
+        "Weight": 11600.0,
+        "Height": 920.0,
+        "Width": 60.0,
+        "Depth": 920.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55336
+              },
+              {
+                "CategoryId": 53190
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066397",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stolik ogrodowy ze szklanym blatem JUPITER 90cm"
+      },
+      "properties": {
+        "message_id": "10d21b03-175e-4a12-9806-454f350f5bf1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T10:41:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STYMRPOGR0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:42.265000+00:00",
+        "sequence_number": 121748
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISZ7",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Naturehike",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stolik turystyczny mw03 telescopic table nh19z003-d",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stolik turystyczny mw03 telescopic table nh19z003-d",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stolik turystyczny mw03 telescopic table nh19z003-d",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6927595774892"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "0005051500000035",
+        "Weight": 6800.0,
+        "Height": 160.0,
+        "Width": 720.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55336
+              },
+              {
+                "CategoryId": 53190
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083080",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fcd9520f-4e91-4695-9f79-da1d13abd869",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-19T07:20:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISZ7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:50.712000+00:00",
+        "sequence_number": 122169
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBMWJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Ławki i stoły",
+        "Brand": "KETER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stół grilowy Keter UNITY XL 183 L grafit",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stół grilowy Keter UNITY XL 183 L grafit",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stół grilowy Keter UNITY XL 183 L grafit",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7290106931336"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94037000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "230419",
+        "Weight": 32000.0,
+        "Height": 380.0,
+        "Width": 540.0,
+        "Depth": 1170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040803",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4126baf0-5a45-4bbb-97b8-884e1e71cb28",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-05T19:12:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBMWJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:30.853000+00:00",
+        "sequence_number": 123087
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LISMRPOGR0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "MRP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stolik ogrodowy kempingowy składany DREVO 90cm",
+            "ProductDescription": "Stolik ogrodowy kempingowy składany DREVO 90cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stolik ogrodowy kempingowy składany DREVO 90cm",
+            "ProductDescription": "Folding camping garden table DREVO 90cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stolik ogrodowy kempingowy składany DREVO 90cm",
+            "ProductDescription": "Klappbarer Camping-Gartentisch DREVO 90cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905610252496"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DREVO 90",
+        "Weight": 4200.0,
+        "Height": 210.0,
+        "Width": 190.0,
+        "Depth": 660.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53187
+              },
+              {
+                "CategoryId": 55325
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100058634",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stolik ogrodowy kempingowy składany DREVO 90cm"
+      },
+      "properties": {
+        "message_id": "3263bae8-a8b7-4707-9789-af9853490ff0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T10:41:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LISMRPOGR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:42.714000+00:00",
+        "sequence_number": 123712
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFMAU",
+        "ProductVersion": "1.4",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka grawitacyjna inwersyjna do ćwiczeń",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka grawitacyjna inwersyjna do ćwiczeń",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka grawitacyjna inwersyjna do ćwiczeń",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101400"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2009",
+        "Weight": 23000.0,
+        "Height": 1310.0,
+        "Width": 140.0,
+        "Depth": 775.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046796",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "840c6fa9-1aa3-4df1-a1f9-ae5f18773b93",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-04T11:48:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFMAU'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:37.294000+00:00",
+        "sequence_number": 110574
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASSF",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101332"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2007",
+        "Weight": 21000.0,
+        "Height": 1095.0,
+        "Width": 475.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060037",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "832615ef-16a9-4c61-84c6-0cb137dbedfd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-31T10:43:16Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASSF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:54.714000+00:00",
+        "sequence_number": 124395
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASUP",
+        "ProductVersion": "1.1",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa skośna wzmocniona z blokadą nóg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa skośna wzmocniona z blokadą nóg",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa skośna wzmocniona z blokadą nóg",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101288"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2002",
+        "Weight": 12500.0,
+        "Height": 315.0,
+        "Width": 255.0,
+        "Depth": 810.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060038",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9b5c3c77-e5a4-4dac-afc0-f2b2b617ee9b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-26T21:56:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASUP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:54.714000+00:00",
+        "sequence_number": 124396
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFXZL",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Poręcz wielofunkcyjna z ławką HMS PWL8325",
+            "ProductDescription": "HMS Fitness PWL8325 Regulowana ławka treningowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Poręcz wielofunkcyjna z ławką HMS PWL8325",
+            "ProductDescription": "HMS Fitness PWL8325 Adjustable weight training bench"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Poręcz wielofunkcyjna z ławką HMS PWL8325",
+            "ProductDescription": "HMS Fitness PWL8325 Verstellbare Krafttrainingsbank"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907695596212"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-53-509",
+        "Weight": 35000.0,
+        "Height": 150.0,
+        "Width": 660.0,
+        "Depth": 1400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055499",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5e6ee4f7-c798-431d-9769-a09f253f538d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-07T12:01:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFXZL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:04.500000+00:00",
+        "sequence_number": 140475
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASW4",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa prosta REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa prosta REBEL ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa prosta REBEL ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101264"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2000",
+        "Weight": 9600.0,
+        "Height": 1230.0,
+        "Width": 380.0,
+        "Depth": 450.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038161",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a79bd04a-de01-4639-8820-e0b9182c3986",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-30T07:22:10Z'",
+          "ModificationDate": "b'2025-06-04T12:16:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASW4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:06.620000+00:00",
+        "sequence_number": 162464
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASW8",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa skośna do ćwiczenia mięśni brzucha",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa skośna do ćwiczenia mięśni brzucha",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa skośna do ćwiczenia mięśni brzucha",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101301"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2004",
+        "Weight": 6500.0,
+        "Height": 325.0,
+        "Width": 150.0,
+        "Depth": 1120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038164",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2f050330-23e4-4d96-8bb5-80648c0c6cb0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-26T10:10:21Z'",
+          "ModificationDate": "b'2025-06-04T12:16:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASW8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:06.620000+00:00",
+        "sequence_number": 162467
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASY5",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa skośna REBEL RBA-2001 ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa skośna REBEL RBA-2001 ACTIVE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa skośna REBEL RBA-2001 ACTIVE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101271"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2001",
+        "Weight": 10000.0,
+        "Height": 400.0,
+        "Width": 165.0,
+        "Depth": 950.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038186",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3ceb930e-9752-4d31-997b-08de2dd38f13",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-30T09:21:26Z'",
+          "ModificationDate": "b'2025-06-04T12:16:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASY5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:06.620000+00:00",
+        "sequence_number": 162489
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDFMC",
+        "ProductVersion": "1.1",
+        "ProductType": "Ławki i stoły",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RAYEN Pokrowiec na okrągły stół ogrodowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RAYEN Pokrowiec na okrągły stół ogrodowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "RAYEN Pokrowiec na okrągły stół ogrodowy",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955063825"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6382.10",
+        "Weight": 980.0,
+        "Height": 82.0,
+        "Width": 390.0,
+        "Depth": 261.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060277",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9fd9ae66-443b-4252-b3b3-54d87332599b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T15:52:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDFMC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:49.951000+00:00",
+        "sequence_number": 126265
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIFRELLAW0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE RBA-2008",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE RBA-2008",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa regulowana REBEL ACTIVE RBA-2008",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101349"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2008",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062380",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ławka treningowa regulowana wielofunkcyjna z modlitewnikiem REBEL ACTIVE"
+      },
+      "properties": {
+        "message_id": "d3d4ed7f-ff29-4c76-ab9f-8d027ac9bff4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-22T11:40:36Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIFRELLAW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:46.830000+00:00",
+        "sequence_number": 155963
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STYMRPOGR0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "MRP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stół ogrodowy IZZY 4-osobowy 79x79x74 brąz/czarny",
+            "ProductDescription": "Stół ogrodowy IZZY 4-osobowy 79x79x74 brąz/czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stół ogrodowy IZZY 4-osobowy 79x79x74 brąz/czarny",
+            "ProductDescription": "Garden table IZZY 4-seater 79x79x74 brown/black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stół ogrodowy IZZY 4-osobowy 79x79x74 brąz/czarny",
+            "ProductDescription": "Gartentisch IZZY 4-Sitzer 79x79x74 braun/schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905610255688"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IZZY 4",
+        "Weight": 11800.0,
+        "Height": 75.0,
+        "Width": 840.0,
+        "Depth": 840.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068303",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stół ogrodowy IZZY 4-osobowy 79x79x74 brąz/czarny"
+      },
+      "properties": {
+        "message_id": "6abbf90d-6f42-481b-9a6a-7fea982f5597",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T10:41:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STYMRPOGR0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:05.421000+00:00",
+        "sequence_number": 127138
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBLJ7",
+        "ProductVersion": "1.1",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Enero",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stolik turystyczny składany Enero 80x60x70cm zielon",
+            "ProductDescription": "Stolik turystyczny składany kempingowy Enero 80 x 60 x 70 cm + dwa krzesła zielony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stolik turystyczny składany Enero 80x60x70cm zielon",
+            "ProductDescription": "Enero folding camping hiking table 80 x 60 x 70 cm + two chairs green"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stolik turystyczny składany Enero 80x60x70cm zielon",
+            "ProductDescription": "Enero klappbarer Camping-Wandertisch 80 x 60 x 70 cm + zwei Stühle grün"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902431047355"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S11771",
+        "Weight": 4805.0,
+        "Height": 67.0,
+        "Width": 842.0,
+        "Depth": 628.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55336
+              },
+              {
+                "CategoryId": 53190
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055156",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3627ab6d-5ad8-4840-b2fa-b1d114ad7104",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-14T15:41:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBLJ7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:02.298000+00:00",
+        "sequence_number": 142032
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWIS",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HMS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka pod sztangę HMS LS7206",
+            "ProductDescription": "Ławka pod sztangę HMS LS7206"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka pod sztangę HMS LS7206",
+            "ProductDescription": "HMS barbell bench LS7206"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka pod sztangę HMS LS7206",
+            "ProductDescription": "HMS Langhantelbank LS7206"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "17-53-404",
+        "Weight": 55000.0,
+        "Height": 400.0,
+        "Width": 1850.0,
+        "Depth": 650.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084998",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "72c19798-4d85-4247-a3a7-efa7886f7a67",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T07:22:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWIS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:14.160000+00:00",
+        "sequence_number": 157118
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SIFHOZLAW0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "HOZ",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka do ćwiczeń HORIZON FITNESS Adonis",
+            "ProductDescription": "Horizon Fitness Adonis Ławka do ćwiczeń Czarny, Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka do ćwiczeń HORIZON FITNESS Adonis",
+            "ProductDescription": "Horizon Fitness Adonis Exercise bench Black, Silver"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka do ćwiczeń HORIZON FITNESS Adonis",
+            "ProductDescription": "Horizon Fitness Adonis Trainingsbank Schwarz, Silber"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4711542957641"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069110",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HZ-ADONIS_ID",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072152",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ławka do ćwiczeń HORIZON FITNESS Adonis"
+      },
+      "properties": {
+        "message_id": "a22dc960-e4c6-43c0-b190-97a9a84b3256",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-08T09:47:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SIFHOZLAW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:04.239000+00:00",
+        "sequence_number": 143952
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDFLG",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "RAYEN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "RAYEN Pokrowiec na stół ogrodowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "RAYEN Pokrowiec na stół ogrodowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "RAYEN Pokrowiec na stół ogrodowy",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8412955060916"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94037000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6091.10",
+        "Weight": 996.0,
+        "Height": 89.0,
+        "Width": 297.0,
+        "Depth": 239.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045171",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ebdb9977-3877-4977-ba2d-24dd9ba0ea42",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-11T12:59:04Z'",
+          "ModificationDate": "b'2025-06-04T12:20:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDFLG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:11.446000+00:00",
+        "sequence_number": 129314
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRASUR",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ławka treningowa skośna z blokadą nóg i gumami",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ławka treningowa skośna z blokadą nóg i gumami",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ławka treningowa skośna z blokadą nóg i gumami",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890101295"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95069190",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RBA-2003",
+        "Weight": 11300.0,
+        "Height": 310.0,
+        "Width": 270.0,
+        "Depth": 760.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.30.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54380
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54961
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038153",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "baafc94b-5865-4426-8f08-515908af4f91",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T10:59:39Z'",
+          "ModificationDate": "b'2025-06-04T12:16:38Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRASUR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:01.163000+00:00",
+        "sequence_number": 133612
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STYMRPOGR0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "MRP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stół ogrodowy IZZY 6-osobowy 140x90x74 brąz/czarny",
+            "ProductDescription": "Stół ogrodowy IZZY 6-osobowy 140x90x74 brąz/czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stół ogrodowy IZZY 6-osobowy 140x90x74 brąz/czarny",
+            "ProductDescription": "Garden table IZZY -seater 140x90x74 brown/black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stół ogrodowy IZZY 6-osobowy 140x90x74 brąz/czarny",
+            "ProductDescription": "Gartentisch IZZY 6-Sitzer 140x90x74 braun/schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905610255664"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "IZZY 6",
+        "Weight": 20700.0,
+        "Height": 135.0,
+        "Width": 755.0,
+        "Depth": 9800.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062489",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stół ogrodowy IZZY 6-osobowy 140x90x74 brąz/czarny"
+      },
+      "properties": {
+        "message_id": "311eee0b-e6b7-479f-968d-eefb474d7d70",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T10:41:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STYMRPOGR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:24.135000+00:00",
+        "sequence_number": 119000
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STYMRPOGR0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Ławki i stoły",
+        "Brand": "MRP",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stół ogrodowy ze szklanym blatem NEPTUN 150x90x70",
+            "ProductDescription": "Stół ogrodowy ze szklanym blatem NEPTUN 150x90x70"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stół ogrodowy ze szklanym blatem NEPTUN 150x90x70",
+            "ProductDescription": "Garden table with glass top NEPTUN 150x90x70"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stół ogrodowy ze szklanym blatem NEPTUN 150x90x70",
+            "ProductDescription": "Gartentisch mit Glasplatte NEPTUN 150x90x70"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901738197701"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94032080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NEPTUN",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "31.09.11.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53190
+              },
+              {
+                "CategoryId": 55336
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55227
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062490",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Stół ogrodowy ze szklanym blatem NEPTUN 150x90x70"
+      },
+      "properties": {
+        "message_id": "ff250260-ee39-4eae-8e17-da8a28e42878",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-18T10:41:15Z'",
+          "ModificationDate": "b'2025-09-30T13:41:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STYMRPOGR0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:24.135000+00:00",
+        "sequence_number": 119001
+      }
+    }
+  ]
+}

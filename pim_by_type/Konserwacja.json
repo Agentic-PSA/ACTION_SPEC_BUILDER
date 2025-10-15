@@ -1,0 +1,757 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "STZLDRKON0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "LDR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wyciory zestaw 4,5 LIDER",
+            "ProductDescription": "Wyciory zestaw kal. 4,5 Lider"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wyciory zestaw 4,5 LIDER",
+            "ProductDescription": "Cleaning rods set cal. 4.5 Leader"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wyciory zestaw 4,5 LIDER",
+            "ProductDescription": "Reinigungsstäbe Set kal. 4.5 Anführer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907461639174"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "93052000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SNP-45",
+        "Weight": 118.0,
+        "Height": 20.0,
+        "Width": 90.0,
+        "Depth": 269.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.40.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066403",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Wyciory zestaw 4,5 LIDER"
+      },
+      "properties": {
+        "message_id": "57022ae9-4147-452a-be8b-dd038bb37333",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-05T13:01:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZLDRKON0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:42.265000+00:00",
+        "sequence_number": 121754
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZWLTKON0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "Walther",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przyrząd gumowy do czyszczenia broni T4E kal.68",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przyrząd gumowy do czyszczenia broni T4E kal.68",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przyrząd gumowy do czyszczenia broni T4E kal.68",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.344-049",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083869",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Przyrząd gumowy do czyszczenia broni T4E kal. .68 (344-049)"
+      },
+      "properties": {
+        "message_id": "7467c9f8-4a9d-4d2a-8435-0edc60e15197",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T09:30:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZWLTKON0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:58.525000+00:00",
+        "sequence_number": 122559
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZMG1KON0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "MG1",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wycior w worku Megaline 4,5 mm (079-026) .-",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wycior w worku Megaline 4,5 mm (079-026) .-",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wycior w worku Megaline 4,5 mm (079-026) .-",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "93052000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.079-026",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.40.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085140",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Wycior w worku Megaline 4,5 mm (079-026) .-"
+      },
+      "properties": {
+        "message_id": "2087097d-0c99-46cc-8278-714b3deeda20",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T14:29:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZMG1KON0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:08.343000+00:00",
+        "sequence_number": 125099
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZHLKKON0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "HLK",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw do czyszczenia pistoletu Black (CR-S38-CP-01",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw do czyszczenia pistoletu Black (CR-S38-CP-01",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw do czyszczenia pistoletu Black (CR-S38-CP-01",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HE.CR-S38-CP-01",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086663",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw do czyszczenia pistoletu .38/9mm-Cooper-Czarny-Black (CR-S38-CP-01)"
+      },
+      "properties": {
+        "message_id": "a54fcefe-6a52-40f4-bb84-0693a5f4e4be",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-07T12:47:41Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZHLKKON0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:42.967000+00:00",
+        "sequence_number": 130910
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZUMRKON0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "UMAREX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Przyrząd do czyszcz. pistoletu HDP 50 T4E (344-048)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Przyrząd do czyszcz. pistoletu HDP 50 T4E (344-048)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Przyrząd do czyszcz. pistoletu HDP 50 T4E (344-048)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000844764768"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.344-048",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082395",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Przyrząd do czyszczenia pistoletu HDP 50 T4E (344-048)"
+      },
+      "properties": {
+        "message_id": "6821db7c-d6b4-418d-a7ab-a42d5fab2b74",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-17T15:19:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZUMRKON0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:58.583000+00:00",
+        "sequence_number": 113579
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZMLCKON0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "MLC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wyciory do czyszczenia broni Mil-Tec Pro (16171100)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wyciory do czyszczenia broni Mil-Tec Pro (16171100)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wyciory do czyszczenia broni Mil-Tec Pro (16171100)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "93052000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "16171100",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.40.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084751",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Wyciory do czyszczenia broni Mil-Tec Pro w pudełku (16171100)"
+      },
+      "properties": {
+        "message_id": "c46bb08d-3747-4507-972c-22365146951b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T12:05:45Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZMLCKON0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:33.392000+00:00",
+        "sequence_number": 128630
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZGNOKON0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "GNO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pianka do czyszczenia lufy GNO 400 ml (609-001)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pianka do czyszczenia lufy GNO 400 ml (609-001)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pianka do czyszczenia lufy GNO 400 ml (609-001)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.609-001",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088660",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pianka do czyszczenia lufy General Nano Protection 400 ml (609-001)"
+      },
+      "properties": {
+        "message_id": "8b2f0c74-2813-489c-8047-14c8fc4f17d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-08T16:41:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZGNOKON0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:45.055000+00:00",
+        "sequence_number": 158491
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZGNOKON0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "GNO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Pianka do czyszczenia lufy GNO 200 ml (609-000)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Pianka do czyszczenia lufy GNO 200 ml (609-000)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Pianka do czyszczenia lufy GNO 200 ml (609-000)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "82060000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.609-000",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.73.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088661",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Pianka do czyszczenia lufy General Nano Protection 200 ml (609-000)"
+      },
+      "properties": {
+        "message_id": "f7fc695f-e248-41a7-ada9-67a1a0d912cb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-08T16:41:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZGNOKON0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:45.055000+00:00",
+        "sequence_number": 158492
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZLDRKON0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Konserwacja",
+        "Brand": "LDR",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Wyciory zestaw 5,5 LIDER",
+            "ProductDescription": "Wyciory zestaw kal. 5,5 Lider"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Wyciory zestaw 5,5 LIDER",
+            "ProductDescription": "Cleaning rods set cal. 5.5 Leader"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Wyciory zestaw 5,5 LIDER",
+            "ProductDescription": "Reinigungsstäbe Set kal. 5.5 Anführer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907461639181"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "93052000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SNP-55",
+        "Weight": 116.0,
+        "Height": 22.0,
+        "Width": 107.0,
+        "Depth": 316.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.40.14.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56168
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062495",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Wyciory zestaw 5,5 LIDER"
+      },
+      "properties": {
+        "message_id": "7f50c7a4-4155-4acf-9b7d-964ef3fc98a9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-05T13:01:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZLDRKON0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:24.135000+00:00",
+        "sequence_number": 119006
+      }
+    }
+  ]
+}

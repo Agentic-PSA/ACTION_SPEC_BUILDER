@@ -1,0 +1,157 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WIBMDHPTR0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Podpórki trójkołowe",
+        "Brand": "MDH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zielona podpórka rehabilitacyjna z siedziskiem GRAS",
+            "ProductDescription": "Podpórka rehabilitacyjna z siedziskiem i torbą dla seniora Zielona"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zielona podpórka rehabilitacyjna z siedziskiem GRAS",
+            "ProductDescription": "Rehabilitation support with seat and bag for seniors Green"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zielona podpórka rehabilitacyjna z siedziskiem GRAS",
+            "ProductDescription": "Rehabilitationsstütze mit Sitz und Tasche für Senioren Grün"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780425609"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 8690.0,
+        "Height": 568.0,
+        "Width": 620.0,
+        "Depth": 192.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56431
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100030692",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f012b876-a9e0-45d1-8730-9bee9f34af53",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-26T13:14:50Z'",
+          "ModificationDate": "b'2025-06-04T12:12:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBMDHPTR0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:40.198000+00:00",
+        "sequence_number": 147591
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WIBAIVPTR0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Podpórki trójkołowe",
+        "Brand": "AIV",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Podpórka poręcz do wstawania z toalety",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Podpórka poręcz do wstawania z toalety",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Podpórka poręcz do wstawania z toalety",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "87131000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "P100AM",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "30.92.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56431
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091013",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Podpórka poręcz do wstawania z toalety"
+      },
+      "properties": {
+        "message_id": "3c527653-9854-4533-8d6d-ce5767ff7f87",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T11:31:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WIBAIVPTR0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131674
+      }
+    }
+  ]
+}

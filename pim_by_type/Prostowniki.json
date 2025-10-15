@@ -1,0 +1,4165 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGMIF",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "OSRAM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Osram BatteryStart 400",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Osram BatteryStart 400",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Osram BatteryStart 400",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4052899620490"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6853360",
+        "Weight": 1280.0,
+        "Height": 130.0,
+        "Width": 260.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064436",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ca494dae-4588-4d24-9e78-39c951da4cdd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T13:42:12Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGMIF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:28.449000+00:00",
+        "sequence_number": 130195
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN24",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GENIUSPRO25 25A Pro Battery Charger",
+            "ProductDescription": "GENIUSPRO25 25A Pro Battery Charger"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GENIUSPRO25 25A Pro Battery Charger",
+            "ProductDescription": "GENIUSPRO25 25A Pro Battery Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GENIUSPRO25 25A Pro Battery Charger",
+            "ProductDescription": "GENIUSPRO25 25A Pro Battery Charger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000619518"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GENIUSPRO25",
+        "Weight": 5250.0,
+        "Height": 225.0,
+        "Width": 400.0,
+        "Depth": 255.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064459",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ef41fb3d-e6ef-4eba-b5cc-ae7347bf0f85",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-28T02:40:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN24'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:29.699000+00:00",
+        "sequence_number": 130218
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN89",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GENIUS2EU 2A Battery Charger",
+            "ProductDescription": "GENIUS2EU 2A Battery Charger"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GENIUS2EU 2A Battery Charger",
+            "ProductDescription": "GENIUS2EU 2A Battery Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GENIUS2EU 2A Battery Charger",
+            "ProductDescription": "GENIUS2EU 2A Battery Charger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000619259"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GENIUS2EU",
+        "Weight": 670.0,
+        "Height": 115.0,
+        "Width": 185.0,
+        "Depth": 101.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064462",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "27bb4eaa-1207-4929-9725-48b0a2914985",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-09T13:00:09Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN89'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:29.699000+00:00",
+        "sequence_number": 130221
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ESANOLPRO0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik automatyczny Neo Tools 11-890 2A/35W",
+            "ProductDescription": "Prostownik automatyczny Neo Tools 2A/35W, 4-60 AH, do akumulatorów kwasowych / AGM / GEL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik automatyczny Neo Tools 11-890 2A/35W",
+            "ProductDescription": "Neo Tools automatic rectifier 2A/35W, 4-60 AH, for acid / AGM / GEL batteries"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik automatyczny Neo Tools 11-890 2A/35W",
+            "ProductDescription": "Neo Tools automatischer Gleichrichter 2A/35W, 4-60 AH, für Säure / AGM / GEL Batterien"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558463279"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "11-890",
+        "Weight": 24100.0,
+        "Height": 150.0,
+        "Width": 150.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072719",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Prostownik automatyczny Neo Tools 2A/35W, 4-60 AH, do akumulatorów kwasowych / AGM / GEL"
+      },
+      "properties": {
+        "message_id": "34c3de5f-edd1-4631-b414-06ea2bfca681",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-17T12:38:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESANOLPRO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:15.599000+00:00",
+        "sequence_number": 144479
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ESAVOLPRO0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VOLT PROSTOWNIK LCD 12V 10A / 24V 5A COMPACT",
+            "ProductDescription": "PROSTOWNIK AKUMULATOROWY Z LCD 12V 10A / 24V 5A COMPACT"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VOLT PROSTOWNIK LCD 12V 10A / 24V 5A COMPACT",
+            "ProductDescription": "BATTERY CHARGER WITH LCD 12V 10A / 24V 5A COMPACT"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VOLT PROSTOWNIK LCD 12V 10A / 24V 5A COMPACT",
+            "ProductDescription": "BATTERIELADEGERÄT MIT LCD 12V 10A / 24V 5A KOMPAKT"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100451425"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "41537",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072720",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "VOLT PROSTOWNIK AKUMULATOROWY VOLT POLSKA Z LCD 12V 10A / 24V 5A COMPACT"
+      },
+      "properties": {
+        "message_id": "2f9bf393-d2e4-423c-9f02-9505e3bbc386",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-02T16:40:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESAVOLPRO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:15.599000+00:00",
+        "sequence_number": 144480
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCGTB",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik do akumulatorów 12V LiFePO4 20A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik do akumulatorów 12V LiFePO4 20A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik do akumulatorów 12V LiFePO4 20A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100451289"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6PRLIFE20A",
+        "Weight": 1298.0,
+        "Height": 159.0,
+        "Width": 368.0,
+        "Depth": 313.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042877",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3b7dc8ea-82e6-41a9-877a-bf63c8681a8e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-05T16:00:11Z'",
+          "ModificationDate": "b'2025-06-04T12:19:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCGTB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:38.106000+00:00",
+        "sequence_number": 159753
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIZZD",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "AEG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKR AEG LT",
+            "ProductDescription": "PROSTOWNIK AEG LT 10 12V/24V, 10A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKR AEG LT",
+            "ProductDescription": "AUTOMATIC CHARGER AEG LT 10 12V/24V, 10A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKR AEG LT",
+            "ProductDescription": "AUTOMATISCHES LADEGERÄT AEG LT 10 12V/24V, 10A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4038373970244"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97024AEG",
+        "Weight": 1624.0,
+        "Height": 128.0,
+        "Width": 281.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064567",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e6100bcf-004b-4516-ab65-0798cbc47cf2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T12:50:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIZZD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:30.998000+00:00",
+        "sequence_number": 163658
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOR4",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik do akumulatorów LiFePO4 12V 30A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik do akumulatorów LiFePO4 12V 30A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik do akumulatorów LiFePO4 12V 30A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100451869"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6PRLIFE30A",
+        "Weight": 2082.0,
+        "Height": 120.0,
+        "Width": 352.0,
+        "Depth": 175.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045849",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ecd4fc65-40eb-4aba-a192-3d0a8903309d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-11T12:13:06Z'",
+          "ModificationDate": "b'2025-06-04T12:21:03Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOR4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148855
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBJUD",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik elektroniczny 12V 6-200Ah YATO",
+            "ProductDescription": "Yato YT-8303 ładowarka akumulatorów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik elektroniczny 12V 6-200Ah YATO",
+            "ProductDescription": "YATO ELECTRONIC RECTIFIER 12V 15A 6-200Ah WET/GEL/AGM 8303"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik elektroniczny 12V 6-200Ah YATO",
+            "ProductDescription": "YATO ELEKTRONISCHER GLEICHRICHTER 12V 15A 6-200Ah NASS/GEL/AGM 8303"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083983030"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-8303",
+        "Weight": 1507.0,
+        "Height": 225.0,
+        "Width": 240.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040466",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "52eb631d-e32c-4d9c-9dd3-1ac1db360f28",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-03T14:48:42Z'",
+          "ModificationDate": "b'2025-06-04T12:17:57Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBJUD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:24.826000+00:00",
+        "sequence_number": 164929
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ARMBLOAKC0017",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik 12V/10A - Ładowarka akum",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik 12V/10A - Ładowarka akum",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik 12V/10A - Ładowarka akum",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804048435"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5900804048435",
+        "Weight": 809.0,
+        "Height": 190.0,
+        "Width": 80.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057494",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f3e0b9e2-f779-4dca-a7f6-5012ebd7fe3b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2013-09-30T15:42:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ARMBLOAKC0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:50.148000+00:00",
+        "sequence_number": 149955
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPEAV4PS0006",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "everActive",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVERACTIVE PROSTOWNIK 12V/24V CBC40 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVERACTIVE PROSTOWNIK 12V/24V CBC40 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVERACTIVE PROSTOWNIK 12V/24V CBC40 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903205770400"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CBC40",
+        "Weight": 4094.0,
+        "Height": 217.0,
+        "Width": 354.0,
+        "Depth": 268.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093035",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "622fc1d9-5d88-43fa-b162-38e5ec0d4ca6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T11:17:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:40Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPEAV4PS0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:29.890000+00:00",
+        "sequence_number": 165201
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFM55",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik automatyczny 12 V 8A-24V 4A E6148",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik automatyczny 12 V 8A-24V 4A E6148",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik automatyczny 12 V 8A-24V 4A E6148",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903933691992"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LEC-URZ4046",
+        "Weight": 657.0,
+        "Height": 70.0,
+        "Width": 225.0,
+        "Depth": 330.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047221",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f66c728b-9fb1-45c1-bc7c-4d80ff09da25",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-07T11:42:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFM55'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:54.758000+00:00",
+        "sequence_number": 115496
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN65",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GENIUS1EU 1A Battery Charger",
+            "ProductDescription": "GENIUS1EU 1A Battery Charger"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GENIUS1EU 1A Battery Charger",
+            "ProductDescription": "GENIUS1EU 1A Battery Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GENIUS1EU 1A Battery Charger",
+            "ProductDescription": "GENIUS1EU 1A Battery Charger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000619242"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GENIUS1EU",
+        "Weight": 556.0,
+        "Height": 180.0,
+        "Width": 96.0,
+        "Depth": 113.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047164",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3d38a487-ec4d-4dcc-b473-5c70627b714a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-08T22:46:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN65'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:43.887000+00:00",
+        "sequence_number": 107755
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ARMBLOAKC0016",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "BLOW",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik 12V/15A - Ładowarka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik 12V/15A - Ładowarka",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik 12V/15A - Ładowarka",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5900804009726"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5900804009726",
+        "Weight": 1116.0,
+        "Height": 145.0,
+        "Width": 245.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047572",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bf56e566-0cf4-4f50-8832-e5ad7b1e39b8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2013-09-27T14:29:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ARMBLOAKC0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:48.981000+00:00",
+        "sequence_number": 107963
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ESAVOLPRO0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VOLT Prostownik automatyczny z LCD 6V 2A / 12V",
+            "ProductDescription": "PROSTOWNIK AKUMULATOROWY Z LCD 12V 4A / 6V 2A COMPACT"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VOLT Prostownik automatyczny z LCD 6V 2A / 12V",
+            "ProductDescription": "BATTERY CHARGER WITH LCD 12V 4A / 6V 2A COMPACT"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VOLT Prostownik automatyczny z LCD 6V 2A / 12V",
+            "ProductDescription": "BATTERIELADEGERÄT MIT LCD 12V 4A / 6V 2A KOMPAKT"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100451364"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "36623",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088891",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "VOLT Prostownik automatyczny z LCD 6V 2A / 12V 4A COMPACT"
+      },
+      "properties": {
+        "message_id": "3ad93eb0-5be3-4cf0-b321-3654a93b50bd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-02T16:41:07Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESAVOLPRO0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:32.008000+00:00",
+        "sequence_number": 137071
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGMJ5",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "OSRAM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ładowarka OSRAM 6/12V 6A 110AH",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ładowarka OSRAM 6/12V 6A 110AH",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ładowarka OSRAM 6/12V 6A 110AH",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85044060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OEBCS906",
+        "Weight": 1000.0,
+        "Height": 130.0,
+        "Width": 260.0,
+        "Depth": 146.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083628",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ad4b6721-04b2-44d2-a26e-4f6ae9a5bafa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T08:54:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGMJ5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:55.806000+00:00",
+        "sequence_number": 122438
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBR10",
+        "ProductVersion": "1.3",
+        "ProductType": "Prostowniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROSTOWNIK WELDMAN STRONG 50 Z ROZRUCHEM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROSTOWNIK WELDMAN STRONG 50 Z ROZRUCHEM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROSTOWNIK WELDMAN STRONG 50 Z ROZRUCHEM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902701750220"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "103225",
+        "Weight": 9000.0,
+        "Height": 320.0,
+        "Width": 200.0,
+        "Depth": 350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041330",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eec2f7f2-7186-45e5-bbc4-32a41bd714d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-14T10:56:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBR10'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:41.824000+00:00",
+        "sequence_number": 137617
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBR69",
+        "ProductVersion": "1.3",
+        "ProductType": "Prostowniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WELDMAN PROSTOWNIK START 450A Z ROZRUCHEM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WELDMAN PROSTOWNIK START 450A Z ROZRUCHEM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "WELDMAN PROSTOWNIK START 450A Z ROZRUCHEM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902701750275"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "103212",
+        "Weight": 13400.0,
+        "Height": 820.0,
+        "Width": 520.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041347",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3f18010d-5d96-481d-82c0-5a1b304a1f62",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T12:28:41Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBR69'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:41.824000+00:00",
+        "sequence_number": 137634
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBOXC",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "KONNWEI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik Konnwei RC-10",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik Konnwei RC-10",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik Konnwei RC-10",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890097086"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RC-10",
+        "Weight": 720.0,
+        "Height": 80.0,
+        "Width": 190.0,
+        "Depth": 146.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041091",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ad96a9bb-cd4d-4a28-94e5-70eb304bb132",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-07T09:45:55Z'",
+          "ModificationDate": "b'2025-06-04T12:18:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBOXC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:33.853000+00:00",
+        "sequence_number": 123227
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADN7",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik do akumulatorów 24V LiFePO4 10A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik do akumulatorów 24V LiFePO4 10A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik do akumulatorów 24V LiFePO4 10A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100451333"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6PRLI2410A",
+        "Weight": 938.0,
+        "Height": 76.0,
+        "Width": 310.0,
+        "Depth": 157.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035316",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "68a5905d-cba9-44b4-a17c-d40d6669b8d5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-31T14:43:07Z'",
+          "ModificationDate": "b'2025-06-04T12:15:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADN7'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:31.231000+00:00",
+        "sequence_number": 110232
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADOH",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik do akumulatorów 12V LiFePO4 10A",
+            "ProductDescription": "Prostownik do akumulatorów 12V LiFePO4 10A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik do akumulatorów 12V LiFePO4 10A",
+            "ProductDescription": "Charger for 12V LiFePO4 10A batteries"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik do akumulatorów 12V LiFePO4 10A",
+            "ProductDescription": "Ladegerät für 12V LiFePO4 10A Akkus"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100451272"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6PRLIFE10A",
+        "Weight": 730.0,
+        "Height": 65.0,
+        "Width": 240.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035326",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a003743e-2718-464a-b6b4-0c18dc46e0ac",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-13T17:00:04Z'",
+          "ModificationDate": "b'2025-06-04T12:15:00Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADOH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:31.231000+00:00",
+        "sequence_number": 110242
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADOU",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik Smart Volt Polska 6V/12V/24V 15A A80",
+            "ProductDescription": "PROSTOWNIK AKUMULATOROWY SMART 6V/12V/24V 15A A80"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik Smart Volt Polska 6V/12V/24V 15A A80",
+            "ProductDescription": "Smart Volt Rectifier Poland 6V/12V/24V 15A A80"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik Smart Volt Polska 6V/12V/24V 15A A80",
+            "ProductDescription": "Smart Volt Gleichrichter Polen 6V/12V/24V 15A A80"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903760240097"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "31845",
+        "Weight": 980.0,
+        "Height": 90.0,
+        "Width": 240.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035329",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eb168b75-0ef8-44af-8ad3-2403182e3834",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-26T08:38:33Z'",
+          "ModificationDate": "b'2025-06-04T12:15:01Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADOU'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:31.231000+00:00",
+        "sequence_number": 110245
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADRP",
+        "ProductVersion": "1.3",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik do akumulatorów 24V LiFePO4 20A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik do akumulatorów 24V LiFePO4 20A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik do akumulatorów 24V LiFePO4 20A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100451340"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6PRLI2420A",
+        "Weight": 1294.0,
+        "Height": 71.0,
+        "Width": 305.0,
+        "Depth": 151.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035334",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6398a81e-e7d7-48b4-8969-d47aaa3b683c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-14T08:58:34Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADRP'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:31.231000+00:00",
+        "sequence_number": 110250
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWJ9",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "AW PROSTOWNIK SUV-455  Z ROZRUCHEM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "AW PROSTOWNIK SUV-455  Z ROZRUCHEM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "AW PROSTOWNIK SUV-455  Z ROZRUCHEM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903678613624"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW16244BL",
+        "Weight": 14500.0,
+        "Height": 350.0,
+        "Width": 350.0,
+        "Depth": 690.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078999",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "df73a110-710d-4349-9d06-733b1bd5ab64",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-26T15:50:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWJ9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:33.651000+00:00",
+        "sequence_number": 153819
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN45",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GENIUSPRO50 50A Pro Battery Charger",
+            "ProductDescription": "GENIUSPRO50 50A Pro Battery Charger"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GENIUSPRO50 50A Pro Battery Charger",
+            "ProductDescription": "GENIUSPRO50 50A Pro Battery Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GENIUSPRO50 50A Pro Battery Charger",
+            "ProductDescription": "GENIUSPRO50 50A Pro Battery Charger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000619525"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GENIUSPRO50",
+        "Weight": 8000.0,
+        "Height": 250.0,
+        "Width": 470.0,
+        "Depth": 290.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079092",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f824c585-d48d-4444-bc7b-cfb7b8aa4060",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T10:56:37Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN45'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:34.620000+00:00",
+        "sequence_number": 153872
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN74",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GX2440EU 24V 40A Industrial Charger",
+            "ProductDescription": "NOCO GX2440 ładowarka akumulatorów"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GX2440EU 24V 40A Industrial Charger",
+            "ProductDescription": "NOCO GX2440 battery charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GX2440EU 24V 40A Industrial Charger",
+            "ProductDescription": "NOCO GX2440 Akkuladegerät"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GX2440EU",
+        "Weight": 6155.0,
+        "Height": 300.0,
+        "Width": 450.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085206",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6f5341a3-fa51-46fc-aa17-9990dc97446c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T15:07:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN74'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:09.358000+00:00",
+        "sequence_number": 125125
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOPW",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik automatyczny z LCD 24V 5A / 12V 10A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik automatyczny z LCD 24V 5A / 12V 10A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik automatyczny z LCD 24V 5A / 12V 10A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100452187"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6PRLN1209A",
+        "Weight": 650.0,
+        "Height": 135.0,
+        "Width": 65.0,
+        "Depth": 225.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080163",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3a393a8f-10b1-4268-9df4-00fd0916d51c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-02T12:37:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOPW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:45.230000+00:00",
+        "sequence_number": 154382
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFKTC",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "AW PROSTOWNIK SUV-20 12V/24V  /BLACK LINE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "AW PROSTOWNIK SUV-20 12V/24V  /BLACK LINE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "AW PROSTOWNIK SUV-20 12V/24V  /BLACK LINE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903678624675"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW16250BL",
+        "Weight": 5875.0,
+        "Height": 270.0,
+        "Width": 310.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060423",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "13c3c29c-9c8f-446d-af87-f44716494028",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-19T13:33:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFKTC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:50.780000+00:00",
+        "sequence_number": 126333
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGMIG",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "OSRAM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Rozruchowy akumulator Osram BatteryStart 300",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Rozruchowy akumulator Osram BatteryStart 300",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Rozruchowy akumulator Osram BatteryStart 300",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4052899620483"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6853359",
+        "Weight": 940.0,
+        "Height": 95.0,
+        "Width": 215.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060578",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a0849559-ebf7-449c-a89a-1a04e2c9461a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-18T17:06:25Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGMIG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:52.530000+00:00",
+        "sequence_number": 126409
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIZZC",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "AEG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKROP AEG",
+            "ProductDescription": "PROSTOWNIK AEG LD6 6/12V, 6A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKROP AEG",
+            "ProductDescription": "AUTOMATIC CHARGER AEG LD6 6/12V, 6A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKROP AEG",
+            "ProductDescription": "AUTOMATISCHES LADEGERÄT AEG LD6 6/12V, 6A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4038373064738"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10617AEG",
+        "Weight": 986.0,
+        "Height": 85.0,
+        "Width": 250.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081372",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "16139a30-6523-4237-9085-86f98b12e120",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-10T07:11:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIZZC'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:49.223000+00:00",
+        "sequence_number": 113075
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0834",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "YATO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik Yato 12/24 V 16 A",
+            "ProductDescription": "Yato YT-8304 pojazd ładowarki 12 - 24 V Czarny, Pomarańczowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik Yato 12/24 V 16 A",
+            "ProductDescription": "YATO CHARGER WITH STARTING SUPPORT 16A 12V / 24V 120 - 240Ah"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik Yato 12/24 V 16 A",
+            "ProductDescription": "YATO LADEGERÄT MIT STARTUNTERSTÜTZUNG 16A 12V / 24V 120 - 240Ah"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5906083983047"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YT-8304",
+        "Weight": 11850.0,
+        "Height": 230.0,
+        "Width": 385.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033145",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1fef10aa-ec01-42ad-beac-4abd55702d29",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-06T12:00:20Z'",
+          "ModificationDate": "b'2025-06-04T12:13:45Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0834'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:48.844000+00:00",
+        "sequence_number": 141311
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ESAVOLPRO0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VOLT Spawarka inwertorowa IGBT MMA-250",
+            "ProductDescription": "MMA 250 SMART SPAWARKA INWERTOROWA"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VOLT Spawarka inwertorowa IGBT MMA-250",
+            "ProductDescription": "MMA 250 SMART INVERTER WELDER"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VOLT Spawarka inwertorowa IGBT MMA-250",
+            "ProductDescription": "MMA 250 SMART INVERTER-SCHWEISSGERÄT"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100450404"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5SPMMA250M",
+        "Weight": 3430.0,
+        "Height": 270.0,
+        "Width": 300.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054040",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "VOLT Spawarka inwertorowa IGBT MMA-250 SMART"
+      },
+      "properties": {
+        "message_id": "fccec226-37dd-474c-9a7c-64927823e786",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-02T17:55:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESAVOLPRO0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:54.451000+00:00",
+        "sequence_number": 160479
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBP55",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "KONNWEI",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik, miernik baterii Konnwei 520",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik, miernik baterii Konnwei 520",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik, miernik baterii Konnwei 520",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901890097079"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KW520",
+        "Weight": 760.0,
+        "Height": 80.0,
+        "Width": 190.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041114",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b69afd5c-c52f-4634-85a9-4218fd76f9e3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-22T15:32:04Z'",
+          "ModificationDate": "b'2025-06-04T12:18:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBP55'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:10.996000+00:00",
+        "sequence_number": 162704
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIZZ9",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "AEG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIK AEG LT20 12V/24V, 20A",
+            "ProductDescription": "PROSTOWNIK AEG LT20 12V/24V, 20A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIK AEG LT20 12V/24V, 20A",
+            "ProductDescription": "AUTOMATIC CHARGER AEG LT20 12V/24V, 20A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIK AEG LT20 12V/24V, 20A",
+            "ProductDescription": "AUTOMATISCHES LADEGERÄT AEG LT20 12V/24V, 20A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4038373970251"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "97025AEG",
+        "Weight": 1890.0,
+        "Height": 125.0,
+        "Width": 280.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071478",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a81d9790-85dc-4c63-82d2-12432618eb0f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-07T07:21:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIZZ9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:19.063000+00:00",
+        "sequence_number": 127858
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIZZA",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "AEG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKROP AEG LD8",
+            "ProductDescription": "PROSTOWNIK AEG LD8, 12/24V, 8A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKROP AEG LD8",
+            "ProductDescription": "AUTOMATIC CHARGER AEG LD8, 12/24V, 8A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY Z MIKROP AEG LD8",
+            "ProductDescription": "AUTOMATISCHES LADEGERÄT AEG LD8, 12/24V, 8A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4038373064752"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10618AEG",
+        "Weight": 1010.0,
+        "Height": 90.0,
+        "Width": 250.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071479",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6a6573b6-b924-4bcf-8bea-8f88ec54df97",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:23:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIZZA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:19.063000+00:00",
+        "sequence_number": 127859
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGMY9",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "OSRAM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik BATTERYcharge 901, 6/12 V OSRAM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik BATTERYcharge 901, 6/12 V OSRAM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik BATTERYcharge 901, 6/12 V OSRAM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4062172248563"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "O4062172248563",
+        "Weight": 400.0,
+        "Height": 85.0,
+        "Width": 215.0,
+        "Depth": 95.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075353",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "97189f9d-8900-43ed-98b5-00ad36c6ca40",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-20T07:14:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGMY9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:29.943000+00:00",
+        "sequence_number": 143474
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN34",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GENIUS2DEU 2A Direct-Mount Battery Charger",
+            "ProductDescription": "GENIUS2DEU 2A Direct-Mount Battery Charger"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GENIUS2DEU 2A Direct-Mount Battery Charger",
+            "ProductDescription": "GENIUS2DEU 2A Direct-Mount Battery Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GENIUS2DEU 2A Direct-Mount Battery Charger",
+            "ProductDescription": "GENIUS2DEU 2A Direct-Mount Battery Charger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000618146"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GENIUS2DEU",
+        "Weight": 331.0,
+        "Height": 190.0,
+        "Width": 140.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075358",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "17fc2ad7-3919-4751-9b09-dea51e7044a6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-07T11:45:31Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN34'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:29.943000+00:00",
+        "sequence_number": 143479
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN57",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GENIUS2X4 8A 4-Bank Battery Charger",
+            "ProductDescription": "GENIUS2X4 8A 4-Bank Battery Charger"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GENIUS2X4 8A 4-Bank Battery Charger",
+            "ProductDescription": "GENIUS2X4 8A 4-Bank Battery Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GENIUS2X4 8A 4-Bank Battery Charger",
+            "ProductDescription": "GENIUS2X4 8A 4-Bank Battery Charger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000619433"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GENIUS2X4",
+        "Weight": 3970.0,
+        "Height": 260.0,
+        "Width": 280.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075360",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4ceab32a-5a18-459d-bf6b-bb0d99143eab",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:27:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN57'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:29.943000+00:00",
+        "sequence_number": 143481
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGMUZ",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "OSRAM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ładowarka akumulatorów Battery charge 908",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ładowarka akumulatorów Battery charge 908",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ładowarka akumulatorów Battery charge 908",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85044060",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OEBCS908",
+        "Weight": 1030.0,
+        "Height": 135.0,
+        "Width": 272.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085844",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7ef47a7e-dafd-40d4-bde5-810f04409282",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-02T08:32:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGMUZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:33.392000+00:00",
+        "sequence_number": 128651
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGMIL",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "OSRAM",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik BATTERYcharge 904, 6/12 V OSRAM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik BATTERYcharge 904, 6/12 V OSRAM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik BATTERYcharge 904, 6/12 V OSRAM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4052899620520"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044085",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OEBCS904",
+        "Weight": 555.0,
+        "Height": 60.0,
+        "Width": 60.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055606",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "048d8d23-27eb-47f4-b05f-fd760de943fe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-09T13:52:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGMIL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:59.843000+00:00",
+        "sequence_number": 160715
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN21",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NOCO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GENIUS2X2 4A 2-Bank Battery Charger",
+            "ProductDescription": "GENIUS2X2 4A 2-Bank Battery Charger"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GENIUS2X2 4A 2-Bank Battery Charger",
+            "ProductDescription": "GENIUS2X2 4A 2-Bank Battery Charger"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GENIUS2X2 4A 2-Bank Battery Charger",
+            "ProductDescription": "GENIUS2X2 4A 2-Bank Battery Charger"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1210000619426"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GENIUS2X2",
+        "Weight": 2244.0,
+        "Height": 188.0,
+        "Width": 272.0,
+        "Depth": 154.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055624",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7d9d7735-d7de-4ad3-bda0-f2b21fbec1af",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-31T23:47:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN21'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:15.524000+00:00",
+        "sequence_number": 129541
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCBHS",
+        "ProductVersion": "1.2",
+        "ProductType": "Prostowniki",
+        "Brand": "NEO TOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Prostownik automatyczny NEO 11-892-1",
+            "ProductDescription": "NEO tools 11-892-1 Akcesorium do ładowarki samochodowej"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Prostownik automatyczny NEO 11-892-1",
+            "ProductDescription": "NEO tools 11-892-1 vehicle battery charger accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Prostownik automatyczny NEO 11-892-1",
+            "ProductDescription": "NEO tools 11-892-1 Zubehör für Autobatterie-Ladegerät"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907558495133"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "11-892-1",
+        "Weight": 864.0,
+        "Height": 82.0,
+        "Width": 182.0,
+        "Depth": 328.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100042513",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9ebba9b9-acc9-491a-9517-77ed9e8b9d35",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-16T16:18:51Z'",
+          "ModificationDate": "b'2025-06-04T12:19:08Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCBHS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:34.731000+00:00",
+        "sequence_number": 159587
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAICD",
+        "ProductVersion": "1.3",
+        "ProductType": "Prostowniki",
+        "Brand": "everActive",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVERACTIVE PROSTOWNIK SAMOCHODOWY 12V/24V CBC40",
+            "ProductDescription": "Prostownik samochodowy everActive CBC40 12V/24V"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVERACTIVE PROSTOWNIK SAMOCHODOWY 12V/24V CBC40",
+            "ProductDescription": "Car charger everActive CBC40 12V/24V"
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVERACTIVE PROSTOWNIK SAMOCHODOWY 12V/24V CBC40",
+            "ProductDescription": "Fahrzeug-Ladegerät everActive CBC40 12V/24V"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903205770400"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "CBC40",
+        "Weight": 4040.0,
+        "Height": 350.0,
+        "Width": 240.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036282",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ea38a202-5bff-491b-8188-ed91dfcbd10f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-30T07:13:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAICD'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:57.505000+00:00",
+        "sequence_number": 133453
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIMYX",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "Rebel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ładowarka automatyczna do akumulatorów żelowych",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ładowarka automatyczna do akumulatorów żelowych",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ładowarka automatyczna do akumulatorów żelowych",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901436733393"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "LEC-BAT1132",
+        "Weight": 348.0,
+        "Height": 73.0,
+        "Width": 82.0,
+        "Depth": 152.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075424",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ba075473-8690-409e-af67-28cf3cb31046",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T08:26:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIMYX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:40.538000+00:00",
+        "sequence_number": 145780
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ESAVOLPRO0009",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VOLT Spawarka inwertorowa IGBT MMA-300",
+            "ProductDescription": "MMA 300 PRO SPAWARKA INWERTOROWA"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VOLT Spawarka inwertorowa IGBT MMA-300",
+            "ProductDescription": "MMA 300 PRO INVERTER WELDER"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VOLT Spawarka inwertorowa IGBT MMA-300",
+            "ProductDescription": "MMA 300 PRO INVERTER-SCHWEISSGERÄT"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904100450411"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5SPMMA300N",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049877",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "VOLT Spawarka inwertorowa IGBT MMA-300 PRO"
+      },
+      "properties": {
+        "message_id": "3381d478-b684-4d55-a285-0b34e252a86e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-02T17:55:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESAVOLPRO0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:16.933000+00:00",
+        "sequence_number": 116656
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIZZB",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "AEG",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY AEG LG12 12V, 12A",
+            "ProductDescription": "PROSTOWNIK AEG LG12 12V, 12A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY AEG LG12 12V, 12A",
+            "ProductDescription": "AUTOMATIC CHARGER AEG LG12 12V, 12A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PROSTOWNIK AUTOMATYCZNY AEG LG12 12V, 12A",
+            "ProductDescription": "AUTOMATISCHES LADEGERÄT AEG LG12 12V, 12A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4038373058171"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10274AEG",
+        "Weight": 4132.0,
+        "Height": 131.0,
+        "Width": 261.0,
+        "Depth": 224.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075458",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0a78b075-c130-4633-a65a-d304f13d5a27",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-21T07:02:24Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIZZB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:41.461000+00:00",
+        "sequence_number": 145812
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ESAEXTPRO0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "Extralink",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EXTRALINK PROSTOWNIK AUTOMATYCZNY SHANGO 100-240VA",
+            "ProductDescription": "Extralink Prostownik Shango Smart Battery Charger 100 - 240VAC, 12V 12A, 24V 6A"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EXTRALINK PROSTOWNIK AUTOMATYCZNY SHANGO 100-240VA",
+            "ProductDescription": "Extralink Rectifier Shango Smart Battery Charger 100 - 240VAC, 12V 12A, 24V 6A"
+          },
+          {
+            "Language": "de",
+            "ProductName": "EXTRALINK PROSTOWNIK AUTOMATYCZNY SHANGO 100-240VA",
+            "ProductDescription": "Extralink Gleichrichter Shango Smart Battery Charger 100 - 240 VAC, 12 V 12 A, 24 V 6 A"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905090330813"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EX.30813",
+        "Weight": 820.0,
+        "Height": 75.0,
+        "Width": 245.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087852",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1487acca-f53d-43ba-94b3-cb207620a61d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-05-18T16:00:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESAEXTPRO0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:10.953000+00:00",
+        "sequence_number": 161253
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ESAVOLPRO0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Prostowniki",
+        "Brand": "Volt Polska",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VOLT Prostownik Smart Volt Polska 6V/12V",
+            "ProductDescription": "PROSTOWNIK AKUMULATOROWY SMART 6V/12V 15A A86"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VOLT Prostownik Smart Volt Polska 6V/12V",
+            "ProductDescription": "BATTERY CHARGER SMART 6V/12V 15A A86"
+          },
+          {
+            "Language": "de",
+            "ProductName": "VOLT Prostownik Smart Volt Polska 6V/12V",
+            "ProductDescription": "BATTERIELADEGERÄT SMART 6V/12V 15A A86"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903760240080"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85044083",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "29459",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53750
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54944
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060949",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "VOLT Prostownik Smart Volt Polska 6V/12V 15A A86"
+      },
+      "properties": {
+        "message_id": "64c2f4c6-e91f-4168-bece-40e31d3a6907",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-02T16:41:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ESAVOLPRO0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:17.947000+00:00",
+        "sequence_number": 118661
+      }
+    }
+  ]
+}

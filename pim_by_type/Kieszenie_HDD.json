@@ -1,0 +1,255 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "DIAENCKIE0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Kieszenie HDD",
+        "Brand": "ENC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kieszen HDD ENCORE AK-184B 2,5\" 9,5mm SATA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kieszen HDD ENCORE AK-184B 2,5\" 9,5mm SATA",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kieszen HDD ENCORE AK-184B 2,5\" 9,5mm SATA",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84733080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OKI184B",
+        "Weight": 101.0,
+        "Height": 20.0,
+        "Width": 195.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.40.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52478
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54610
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059747",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8b03cd58-8cb0-45d3-8acf-f6f4d70b6c64",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-03-14T14:53:35Z'",
+          "ModificationDate": "b'2025-09-30T13:40:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIAENCKIE0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:52.761000+00:00",
+        "sequence_number": 124265
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDYM2",
+        "ProductVersion": "1.1",
+        "ProductType": "Kieszenie HDD",
+        "Brand": "GEMBIRD",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GEMBIRD OBUDOWA USB 3.0 NA DYSK HDD 3.5''",
+            "ProductDescription": "Gembird EE3-U3S-3 obudowa do dysków twardych Obudowa HDD Czarny 3.5\""
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GEMBIRD OBUDOWA USB 3.0 NA DYSK HDD 3.5''",
+            "ProductDescription": "Gembird EE3-U3S-3 storage drive enclosure HDD enclosure Black 3.5\""
+          },
+          {
+            "Language": "de",
+            "ProductName": "GEMBIRD OBUDOWA USB 3.0 NA DYSK HDD 3.5''",
+            "ProductDescription": "Gembird EE3-U3S-3 Speicherlaufwerksgehäuse HDD-Gehäuse Schwarz 3.5 Zoll"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8716309097604"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84733080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EE3-U3S-3",
+        "Weight": 498.0,
+        "Height": 193.0,
+        "Width": 239.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.40.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52478
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54610
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052955",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3a9d29a0-389c-43aa-a6f8-aa7b77a2b2fe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-01T15:32:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDYM2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:54.484000+00:00",
+        "sequence_number": 141634
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DIAENCKIE0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Kieszenie HDD",
+        "Brand": "ENC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kieszen ENCORE 2,5\"HDD 12,7mm SATA SSD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kieszen ENCORE 2,5\"HDD 12,7mm SATA SSD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kieszen ENCORE 2,5\"HDD 12,7mm SATA SSD",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84733080",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OKIAK184A",
+        "Weight": 104.0,
+        "Height": 25.0,
+        "Width": 195.0,
+        "Depth": 155.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.40.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52478
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54610
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054578",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "56e3a6c4-a3d5-4caf-8bb2-1a34954b6fc5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-03-14T14:58:41Z'",
+          "ModificationDate": "b'2025-09-30T13:40:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DIAENCKIE0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:55.421000+00:00",
+        "sequence_number": 160545
+      }
+    }
+  ]
+}

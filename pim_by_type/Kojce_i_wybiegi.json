@@ -1,0 +1,439 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WYPKER2OO0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Kojce i wybiegi",
+        "Brand": "KERBL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KERBL Kojec dla gryzoni 8 elementów 34x23cm (WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KERBL Kojec dla gryzoni 8 elementów 34x23cm (WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KERBL Kojec dla gryzoni 8 elementów 34x23cm (WYP)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4018653827000"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1550.0,
+        "Height": 250.0,
+        "Width": 370.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55801
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55727
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055797",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KERBL Kojec dla gryzoni, 8 elementów, 34 x 23 cm"
+      },
+      "properties": {
+        "message_id": "b26ec3df-cc20-4ad0-95bd-f167ac7234b4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T13:49:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPKER2OO0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:06.390000+00:00",
+        "sequence_number": 140596
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DMZKERKIW0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Kojce i wybiegi",
+        "Brand": "KERBL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KERBL Kojec dla gryzoni 8 elementów 34x23cm",
+            "ProductDescription": "KERBL Kojec dla Gryzoni - 8 elementów 34x23 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KERBL Kojec dla gryzoni 8 elementów 34x23cm",
+            "ProductDescription": "KERBL Playpen for Rodents - 8 elements 34x23 cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KERBL Kojec dla gryzoni 8 elementów 34x23cm",
+            "ProductDescription": "KERBL Laufstall für Nagetiere – 8 Elemente 34x23 cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4018653827000"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 1550.0,
+        "Height": 250.0,
+        "Width": 370.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55727
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55801
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100012679",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KERBL Kojec dla gryzoni, 8 elementów, 34 x 23 cm"
+      },
+      "properties": {
+        "message_id": "87f8ffef-45a0-48ca-a28e-af7f6bf7ecea",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-12T15:19:11Z'",
+          "ModificationDate": "b'2025-06-04T12:01:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DMZKERKIW0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:37.346000+00:00",
+        "sequence_number": 105442
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DMZKERKIW0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Kojce i wybiegi",
+        "Brand": "KERBL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KERBL Kojec 6-kątny z drzwiczkami 565x565cm",
+            "ProductDescription": "KERBL Kojec modułowy dla królika - 56,5x56,5 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KERBL Kojec 6-kątny z drzwiczkami 565x565cm",
+            "ProductDescription": "KERBL Modular Playpen for dogs, cats, rabbits - 6 elements 56.5x56.5 cm with doors"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KERBL Kojec 6-kątny z drzwiczkami 565x565cm",
+            "ProductDescription": "KERBL Modularer Laufstall für Hunde, Katzen, Kaninchen – 6 Elemente 56,5 x 56,5 cm mit Tür"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4018653827048"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 3800.0,
+        "Height": 585.0,
+        "Width": 585.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55727
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55801
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100012680",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KERBL Kojec 6-kątny dla królików, 56,5 x 56,5 cm, z drzwiczkami"
+      },
+      "properties": {
+        "message_id": "3d59f917-062c-4374-95c9-2326a81ba4f4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-12T15:19:13Z'",
+          "ModificationDate": "b'2025-06-04T12:01:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DMZKERKIW0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:37.346000+00:00",
+        "sequence_number": 105443
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DMZKERKIW0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Kojce i wybiegi",
+        "Brand": "KERBL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KERBL Kojec 8-kątny 57x56cm",
+            "ProductDescription": "KERBL Wybieg Modułowy Kojec dla królika, psa z drzwiami - 8 elementów 57x56 cm z osłoną"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KERBL Kojec 8-kątny 57x56cm",
+            "ProductDescription": "KERBL Modular Run Rabbit, Dog Pen with Door - 8 Elements 57x56 cm with Cover"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KERBL Kojec 8-kątny 57x56cm",
+            "ProductDescription": "KERBL Modularer Laufstall für Kaninchen und Hunde mit Türen – 8 Elemente 57x56 cm mit Abdeckung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4018653827086"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 4700.0,
+        "Height": 55.0,
+        "Width": 585.0,
+        "Depth": 590.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55801
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55727
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100012681",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KERBL Kojec 8-kątny dla królików, 57 x 56 cm"
+      },
+      "properties": {
+        "message_id": "c029fe2d-f972-4b38-9102-50f4d65a81de",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-12T15:19:16Z'",
+          "ModificationDate": "b'2025-06-04T12:01:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DMZKERKIW0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:37.346000+00:00",
+        "sequence_number": 105444
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DMZKERKIW0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Kojce i wybiegi",
+        "Brand": "KERBL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KERBL Mata dla gryzoni z konopii 100x40cm",
+            "ProductDescription": "KERBL Mata dla gryzoni z konopi - 100x40 cm"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KERBL Mata dla gryzoni z konopii 100x40cm",
+            "ProductDescription": "KERBL Hemp Rodent Mat - 100x40 cm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KERBL Mata dla gryzoni z konopii 100x40cm",
+            "ProductDescription": "KERBL Hanfmatte für Nagetiere – 100 x 40 cm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4026856035146"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 480.0,
+        "Height": 220.0,
+        "Width": 440.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.92.24.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55727
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55801
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100012682",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "KERBL Mata dla gryzoni z konopii, 100 x 40 cm"
+      },
+      "properties": {
+        "message_id": "e74c14d1-9008-4533-b648-2877274f65ef",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-12T15:19:19Z'",
+          "ModificationDate": "b'2025-06-04T12:01:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DMZKERKIW0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:37.346000+00:00",
+        "sequence_number": 105445
+      }
+    }
+  ]
+}

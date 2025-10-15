@@ -1,0 +1,719 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBIPG",
+        "ProductVersion": "1.2",
+        "ProductType": "Worki",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Worki BOSCH BBZ A FGALL",
+            "ProductDescription": "Bosch BBZAFGALL akcesorium/materiał eksploatacyjny do odkurzacza Cylinder próżniowy Worek na kurz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Worki BOSCH BBZ A FGALL",
+            "ProductDescription": "Bosch BBZAFGALL vacuum accessory/supply Cylinder vacuum Dust bag"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Worki BOSCH BBZ A FGALL",
+            "ProductDescription": "Bosch BBZAFGALL Staubsauger Zubehör/Zusatz Zylinder-Vakuum Staubbeutel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4242005135790"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "59119099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BBZAFGALL",
+        "Weight": 250.0,
+        "Height": 240.0,
+        "Width": 160.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.96.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53209
+              },
+              {
+                "CategoryId": 52403
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040318",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "82ca0d22-bd26-4078-a3d6-03f172437896",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-14T14:35:25Z'",
+          "ModificationDate": "b'2025-06-04T12:17:52Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBIPG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:06.960000+00:00",
+        "sequence_number": 133901
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGAKARODW0009",
+        "ProductVersion": "1.2",
+        "ProductType": "Worki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Papierowe worki filtr. 5 szt KARCHER (6.904-290.0)",
+            "ProductDescription": "Kärcher 6.904-290.0 akcesorium/materiał eksploatacyjny do odkurzacza Cylinder próżniowy Worek na kurz"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Papierowe worki filtr. 5 szt KARCHER (6.904-290.0)",
+            "ProductDescription": "Kärcher 6.904-290 - Bolsas filtro de papel (pasck de 5) Cylinder vacuum Dust bag"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Papierowe worki filtr. 5 szt KARCHER (6.904-290.0)",
+            "ProductDescription": "Kärcher 6.904-290 - Bolsas filtro de papel (pasck de 5) Zylinder-Vakuum Staubbeutel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4002667744415"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "59119099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6.904-290.0",
+        "Weight": 445.0,
+        "Height": 50.0,
+        "Width": 325.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.96.16.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52403
+              },
+              {
+                "CategoryId": 53209
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059012",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7e8ef34d-7899-4c2f-a63f-291983c2921c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-13T10:31:43Z'",
+          "ModificationDate": "b'2025-09-30T13:40:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGAKARODW0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:52.015000+00:00",
+        "sequence_number": 134978
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBGDB",
+        "ProductVersion": "1.2",
+        "ProductType": "Worki",
+        "Brand": "Philips",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Worki do odkurzacza PHILIPS FC 8021/03",
+            "ProductDescription": "Philips s-bag Worki do odkurzaczy workowych FC8021/03"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Worki do odkurzacza PHILIPS FC 8021/03",
+            "ProductDescription": "Philips s-bag FC8021/03 Vacuum cleaner bags"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Worki do odkurzacza PHILIPS FC 8021/03",
+            "ProductDescription": "Philips s-bag 4 x Staubsaugerbeutel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8710103291381"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "59119099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FC8021/03",
+        "Weight": 165.0,
+        "Height": 243.0,
+        "Width": 169.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.96.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52403
+              },
+              {
+                "CategoryId": 53209
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040095",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9d78925c-0a2e-41ac-bb7e-a2e31c622c54",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-06T14:16:14Z'",
+          "ModificationDate": "b'2025-06-04T12:17:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBGDB'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:24.271000+00:00",
+        "sequence_number": 120905
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGAPHIODW0006",
+        "ProductVersion": "1.1",
+        "ProductType": "Worki",
+        "Brand": "Philips",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Worki do odkurzaczy PHILIPS FC 8027/01",
+            "ProductDescription": "Philips s-bag Worki do odkurzaczy FC8027/01"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Worki do odkurzaczy PHILIPS FC 8027/01",
+            "ProductDescription": "Philips s-bag FC8027/01 Vacuum cleaner bags"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Worki do odkurzaczy PHILIPS FC 8027/01",
+            "ProductDescription": "Philips s-bag FC8027/01 Staubsaugerbeutel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8710103558712"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "59119099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FC8027/01",
+        "Weight": 175.0,
+        "Height": 50.0,
+        "Width": 240.0,
+        "Depth": 165.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.96.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52403
+              },
+              {
+                "CategoryId": 53209
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056991",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "497ac955-60cb-4744-a9f7-41fc9cd6c313",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-02-22T11:09:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGAPHIODW0006'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:48.625000+00:00",
+        "sequence_number": 102215
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGAFLEODW0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Worki",
+        "Brand": "FLEX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "WORKI DO VC 1 21-26 FLEX",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "WORKI DO VC 1 21-26 FLEX",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "WORKI DO VC 1 21-26 FLEX",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "59119099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1 21-26",
+        "Weight": 400.0,
+        "Height": 180.0,
+        "Width": 300.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.96.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53209
+              },
+              {
+                "CategoryId": 52403
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081925",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6085fd97-dfca-4333-9597-1e3e91adc14f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T14:18:13Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGAFLEODW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:53.848000+00:00",
+        "sequence_number": 113349
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGAPHIODW0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Worki",
+        "Brand": "Philips",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Worki do odkurzacza PHILIPS FC 8021/03",
+            "ProductDescription": "Philips s-bag Worki do odkurzaczy workowych FC8021/03"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Worki do odkurzacza PHILIPS FC 8021/03",
+            "ProductDescription": "Philips s-bag 4 x dust bags Vacuum cleaner bags"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Worki do odkurzacza PHILIPS FC 8021/03",
+            "ProductDescription": "Philips s-bag 4 x Staubsaugerbeutel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8710103291381"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "59119099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FC8021/03",
+        "Weight": 185.0,
+        "Height": 50.0,
+        "Width": 165.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.96.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53209
+              },
+              {
+                "CategoryId": 52403
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053062",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c8b301ec-37c0-4a83-b92f-ed29f6e1796e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-11-17T09:44:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGAPHIODW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:56.641000+00:00",
+        "sequence_number": 141734
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGAPHIODW0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Worki",
+        "Brand": "Philips",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Worki do odkurzaczy PHILIPS FC 8022/04",
+            "ProductDescription": "Philips s-bag Worki do odkurzaczy workowych FC8022/04"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Worki do odkurzaczy PHILIPS FC 8022/04",
+            "ProductDescription": "Philips s-bag Vacuum cleaner bags FC8022/04"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Worki do odkurzaczy PHILIPS FC 8022/04",
+            "ProductDescription": "Philips s-bag FC8022/04 Staubsaugerbeutel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8710103445692"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "59119099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FC8022/04",
+        "Weight": 196.0,
+        "Height": 240.0,
+        "Width": 50.0,
+        "Depth": 165.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "13.96.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53209
+              },
+              {
+                "CategoryId": 52403
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087596",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a69f37c6-0da1-44e0-adb7-08cbc48ef0f8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-02-22T11:07:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGAPHIODW0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:38.021000+00:00",
+        "sequence_number": 158179
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCX86",
+        "ProductVersion": "1.1",
+        "ProductType": "Worki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KARCHER WORKI FILTRACYJNE 5szt. NT 30/1",
+            "ProductDescription": "Kärcher 2.889-154.0 akcesorium/materiał eksploatacyjny do odkurzacza Worek na kurz Bęben próżniowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KARCHER WORKI FILTRACYJNE 5szt. NT 30/1",
+            "ProductDescription": "KARCHER FILTER BAGS 5pcs. NT 30/1"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KARCHER WORKI FILTRACYJNE 5szt. NT 30/1",
+            "ProductDescription": "KARCHER FILTERBEUTEL 5 STK. NT 30/1"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278256474"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85087000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2.889-154.0",
+        "Weight": 500.0,
+        "Height": 100.0,
+        "Width": 360.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53209
+              },
+              {
+                "CategoryId": 52403
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55200
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067077",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4267d720-f158-4440-9819-defc6d974314",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-11T09:43:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCX86'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:06+00:00",
+        "sequence_number": 103136
+      }
+    }
+  ]
+}

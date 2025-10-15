@@ -1,0 +1,521 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "DROHVRSTE0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Sterowanie",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw dwóch joysticków HOVER JoyStick",
+            "ProductDescription": "HOVERAir zestaw (2 joysticki Beacon)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw dwóch joysticków HOVER JoyStick",
+            "ProductDescription": "HOVERAir kit (2 Beacon joysticks)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw dwóch joysticków HOVER JoyStick",
+            "ProductDescription": "HOVERAir Bausatz (2 Beacon-Joysticks)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6977791920159"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP93R004",
+        "Weight": 350.0,
+        "Height": 60.0,
+        "Width": 165.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064835",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw dwóch joysticków HOVER JoyStick"
+      },
+      "properties": {
+        "message_id": "62975f14-6fff-4ca5-a4f1-a061d48a6e11",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-27T12:04:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRSTE0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:35.854000+00:00",
+        "sequence_number": 121426
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROHVRSTE0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Sterowanie",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle",
+            "ProductDescription": "HOVERAir zestaw (wyświetlacz Beacon + joysticki Beacon)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle",
+            "ProductDescription": "HOVERAir kit (Beacon display + Beacon joysticks)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle",
+            "ProductDescription": "HOVERAir Bausatz (Beacon-Display + Beacon-Joysticks)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6977791920869"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP93R018",
+        "Weight": 570.0,
+        "Height": 65.0,
+        "Width": 215.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064836",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HOVERAir Wyświetlacz + joysticki Beacon and JoyStick Bundle"
+      },
+      "properties": {
+        "message_id": "2aa8b998-ec39-4744-b20b-b9d28ada23cf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-14T11:24:36Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRSTE0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:35.854000+00:00",
+        "sequence_number": 121427
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROHVRSTE0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Sterowanie",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle (Test-Demo)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle (Test-Demo)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle (Test-Demo)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6977791920463"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP93R018",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048199",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e7acd374-cced-4fc4-969e-ba173df45029",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-07T15:54:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRSTE0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:54.466000+00:00",
+        "sequence_number": 108270
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLSTE0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Sterowanie",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": " Autel Smart Controller V3 Only For EVO Nest Demo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": " Autel Smart Controller V3 Only For EVO Nest Demo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": " Autel Smart Controller V3 Only For EVO Nest Demo",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102002962",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079977",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dbd76f1a-0190-4e0c-98e6-5032e71e0927",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-30T15:45:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLSTE0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:34.660000+00:00",
+        "sequence_number": 104618
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROATLSTE0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Sterowanie",
+        "Brand": "AUTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": " Autel Smart Controller V3 Only For EVO Nest Demo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": " Autel Smart Controller V3 Only For EVO Nest Demo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": " Autel Smart Controller V3 Only For EVO Nest Demo",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6924991135418"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "102002962",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079994",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ffe10f75-9133-41c8-93fd-d3662dc5122e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-30T16:45:47Z'",
+          "ModificationDate": "b'2025-09-30T13:40:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROATLSTE0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:25.610000+00:00",
+        "sequence_number": 128230
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "DROHVRSTE0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Sterowanie",
+        "Brand": "HOVERAir",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle",
+            "ProductDescription": "HOVERAir zestaw (wyświetlacz Beacon + joysticki Beacon)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle",
+            "ProductDescription": "HOVERAir kit (Beacon display + Beacon joysticks)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "HOVERAir Beacon and JoyStick Bundle",
+            "ProductDescription": "HOVERAir Bausatz (Beacon-Display + Beacon-Joysticks)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6977791920463"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85176200",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SP93R018",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.23.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53461
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55217
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060932",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "HOVERAir Wyświetlacz + joysticki Beacon and JoyStick Bundle"
+      },
+      "properties": {
+        "message_id": "736989af-60c4-4ac0-904a-6c1a5542b5a8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-22T16:42:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'DROHVRSTE0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:17.088000+00:00",
+        "sequence_number": 118644
+      }
+    }
+  ]
+}

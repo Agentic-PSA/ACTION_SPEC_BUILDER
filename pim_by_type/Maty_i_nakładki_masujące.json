@@ -1,0 +1,439 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "FIROROMAT0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Maty i nakładki masujące",
+        "Brand": "oromed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mata do akupresury OROMED ORO-HEALTH SZARY",
+            "ProductDescription": "Mata do akupresury ORO-HEALTH, kolor szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mata do akupresury OROMED ORO-HEALTH SZARY",
+            "ProductDescription": "ORO-HEALTH acupressure mat, colour grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mata do akupresury OROMED ORO-HEALTH SZARY",
+            "ProductDescription": "ORO-HEALTH Akupressurmatte, Farbe grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904305746319"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90191090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ORO-HEALTH SZARY",
+        "Weight": 1600.0,
+        "Height": 386.0,
+        "Width": 439.0,
+        "Depth": 117.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54693
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54533
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072779",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f88d1770-d225-4765-8050-b8da1bfcb243",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-07-25T11:54:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FIROROMAT0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:16.646000+00:00",
+        "sequence_number": 144534
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FIRMENMAT0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Maty i nakładki masujące",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładka masująca Shiatsu Ecomed by Medisana MC-15E",
+            "ProductDescription": "Ecomed MC-15E nakładka masująca Czarny 24 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładka masująca Shiatsu Ecomed by Medisana MC-15E",
+            "ProductDescription": "Ecomed MC-15E massage pad Black 24 W"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładka masująca Shiatsu Ecomed by Medisana MC-15E",
+            "ProductDescription": "Ecomed MC-15E Massageauflage Schwarz 24 W"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588233081"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90191010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "23308",
+        "Weight": 3850.0,
+        "Height": 435.0,
+        "Width": 645.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54693
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54533
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061004",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Nakładka masująca Shiatsu Ecomed by Medisana MC-15E"
+      },
+      "properties": {
+        "message_id": "cf872eee-0747-484f-9019-fc631a0293e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-24T13:18:47Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FIRMENMAT0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:04.438000+00:00",
+        "sequence_number": 135620
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FIRQMEMAT0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Maty i nakładki masujące",
+        "Brand": "Qmed",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mata do qkupresury z poduszką ACUPRESSURE MAT",
+            "ProductDescription": "QMED Mata do akupresury z poduszką Fioletowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mata do qkupresury z poduszką ACUPRESSURE MAT",
+            "ProductDescription": "QMED Acupressure mat with cushion Purple"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mata do qkupresury z poduszką ACUPRESSURE MAT",
+            "ProductDescription": "QMED Akupressurmatte mit Kissen Lila"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901780446727"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90191090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 723.0,
+        "Height": 160.0,
+        "Width": 415.0,
+        "Depth": 255.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54693
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54533
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100014414",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "524e8d7f-58e9-4265-9a22-a319eaa565cd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-31T09:36:47Z'",
+          "ModificationDate": "b'2025-06-04T12:02:55Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FIRQMEMAT0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:46.114000+00:00",
+        "sequence_number": 132827
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRALZP",
+        "ProductVersion": "1.2",
+        "ProductType": "Maty i nakładki masujące",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MCN Nakładka masująca na fotel Shiatsu Medisana",
+            "ProductDescription": "Nakładka na fotel do masażu Shiatsu Medisana MCN (3 lata GW)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MCN Nakładka masująca na fotel Shiatsu Medisana",
+            "ProductDescription": "Massage seat pad Shiatsu Medisana MCN (3 years GW)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "MCN Nakładka masująca na fotel Shiatsu Medisana",
+            "ProductDescription": "Massagesitzauflage Shiatsu Medisana MCN (3 Jahre GW)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588889301"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90191010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "88930",
+        "Weight": 6148.0,
+        "Height": 165.0,
+        "Width": 715.0,
+        "Depth": 455.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54693
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54533
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037028",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6dbc6282-5858-43c1-b482-59361e16f968",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-01T01:09:10Z'",
+          "ModificationDate": "b'2025-06-04T12:15:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRALZP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:03.527000+00:00",
+        "sequence_number": 162310
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "FIRMENMAT0016",
+        "ProductVersion": "1.2",
+        "ProductType": "Maty i nakładki masujące",
+        "Brand": "Medisana",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Nakładka masująca Shiatsu Medisana MC 600",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Nakładka masująca Shiatsu Medisana MC 600",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Nakładka masująca Shiatsu Medisana MC 600",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4015588889677"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "90191010",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "88967",
+        "Weight": 3780.0,
+        "Height": 445.0,
+        "Width": 710.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.50.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54693
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54533
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079248",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a7911887-0720-45c7-8177-a2c5cf13f820",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-28T09:37:53Z'",
+          "ModificationDate": "b'2025-09-30T13:40:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'FIRMENMAT0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:35.526000+00:00",
+        "sequence_number": 153948
+      }
+    }
+  ]
+}

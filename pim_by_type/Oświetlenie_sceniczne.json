@@ -1,0 +1,4812 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "OSCL4MBEL0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME BLINDER LED 2x100W oświetlacz sceniczny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME BLINDER LED 2x100W oświetlacz sceniczny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME BLINDER LED 2x100W oświetlacz sceniczny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249812116"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054231",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BLINDER",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056072",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "LIGHT4ME BLINDER LED 2x100W - Oświetlacz sceniczny"
+      },
+      "properties": {
+        "message_id": "94c8e759-a0e8-4491-84dc-b49ffedbf78f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-16T12:31:24Z'",
+          "ModificationDate": "b'2025-09-30T13:41:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSCL4MBEL0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:40.420000+00:00",
+        "sequence_number": 101776
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP44",
+        "ProductVersion": "1.0",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME KULA LED FLOWER efekt świetlny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME KULA LED FLOWER efekt świetlny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME KULA LED FLOWER efekt świetlny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907780148005"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780148005",
+        "Weight": 1000.0,
+        "Height": 200.0,
+        "Width": 200.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57646
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156503",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3ef03eb0-9ef0-49d3-85ab-8ff3fdae0a7b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T16:20:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP44'"
+        },
+        "enqueued_time_utc": "2025-10-06 14:56:41.514000+00:00",
+        "sequence_number": 173920
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP07",
+        "ProductVersion": "1.3",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Light4Me PARTY III V2 - Multiefekt LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Light4Me PARTY III V2 - Multiefekt LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Light4Me PARTY III V2 - Multiefekt LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249820807"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249820807",
+        "Weight": 3848.0,
+        "Height": 234.0,
+        "Width": 453.0,
+        "Depth": 313.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045895",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "151748b8-2ae2-4d03-b3b4-8e4e0d64015b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-20T17:15:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP07'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:10.914000+00:00",
+        "sequence_number": 134142
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP09",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME PAR 12x1W UV LED V2 reflektor ultrafiolet",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME PAR 12x1W UV LED V2 reflektor ultrafiolet",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME PAR 12x1W UV LED V2 reflektor ultrafiolet",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249820852"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249820852",
+        "Weight": 500.0,
+        "Height": 135.0,
+        "Width": 135.0,
+        "Depth": 140.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045896",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5800d19b-de40-4346-9461-c488d0ee9e31",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-12T07:11:45Z'",
+          "ModificationDate": "b'2025-06-04T12:21:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP09'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:10.914000+00:00",
+        "sequence_number": 134143
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP10",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME PARTY BOX V2 efekt disco LED ball laser",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME PARTY BOX V2 efekt disco LED ball laser",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME PARTY BOX V2 efekt disco LED ball laser",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249818811"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249818811",
+        "Weight": 1806.0,
+        "Height": 231.0,
+        "Width": 209.0,
+        "Depth": 192.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045897",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5eaa8c6e-8dfc-49f8-8684-35a1dac0cca0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-20T17:15:25Z'",
+          "ModificationDate": "b'2025-06-04T12:21:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP10'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:10.914000+00:00",
+        "sequence_number": 134144
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP15",
+        "ProductVersion": "1.3",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME S 700W LED BALL wytwornica dymu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME S 700W LED BALL wytwornica dymu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME S 700W LED BALL wytwornica dymu",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907780148616"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780148616",
+        "Weight": 2908.0,
+        "Height": 192.0,
+        "Width": 322.0,
+        "Depth": 272.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045898",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "037d7ec7-dfb4-49fe-a43d-c66348417145",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-21T16:19:36Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP15'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:10.914000+00:00",
+        "sequence_number": 134145
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP28",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME PARTY FOG 700W wytwornica dymu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME PARTY FOG 700W wytwornica dymu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME PARTY FOG 700W wytwornica dymu",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249816367"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249816367",
+        "Weight": 1862.0,
+        "Height": 192.0,
+        "Width": 276.0,
+        "Depth": 192.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045900",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b894b3c6-a169-40ab-9dc3-9addd99e4243",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-09T22:46:04Z'",
+          "ModificationDate": "b'2025-06-04T12:21:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP28'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:10.914000+00:00",
+        "sequence_number": 134147
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP53",
+        "ProductVersion": "1.3",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME UV BAR 9 listwa LED belka ultrafioletowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME UV BAR 9 listwa LED belka ultrafioletowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME UV BAR 9 listwa LED belka ultrafioletowa",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249811157"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054231",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249811157",
+        "Weight": 719.0,
+        "Height": 655.0,
+        "Width": 75.0,
+        "Depth": 56.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045905",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c18e949c-fe89-42b2-a8c1-a41f39cf22a2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-03T09:10:52Z'",
+          "ModificationDate": "b'2025-08-07T08:28:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP53'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:11.758000+00:00",
+        "sequence_number": 134152
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDPAX",
+        "ProductVersion": "1.3",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME RINGO PAR reflektor sceniczny z pierścien",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME RINGO PAR reflektor sceniczny z pierścien",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME RINGO PAR reflektor sceniczny z pierścien",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249813861"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249813861",
+        "Weight": 1110.0,
+        "Height": 215.0,
+        "Width": 231.0,
+        "Depth": 99.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045912",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d1b3a2f1-dff4-4c0b-8495-f7ffc19cc41d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-25T13:37:01Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDPAX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:11.758000+00:00",
+        "sequence_number": 134159
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCPRW",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Behringer",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Behringer FLOOD PANEL FP150 - profesjonalny płaski",
+            "ProductDescription": "Behringer FLOOD PANEL FP150 - profesjonalny płaski panel LED o mocy 15 W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Behringer FLOOD PANEL FP150 - profesjonalny płaski",
+            "ProductDescription": "Behringer FLOOD PANEL FP150 - professional 15 W flat LED panel"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Behringer FLOOD PANEL FP150 - profesjonalny płaski",
+            "ProductDescription": "Behringer FLOOD PANEL FP150 - professionelles flaches 15-W-LED-Panel"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "27000943",
+        "Weight": 2340.0,
+        "Height": 112.0,
+        "Width": 294.0,
+        "Depth": 315.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089531",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fd67600c-1328-4c59-bbab-f0a46ac15be6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T12:40:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCPRW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:34.980000+00:00",
+        "sequence_number": 119559
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOST",
+        "ProductVersion": "1.3",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVOLIGHTS LUMENO oświetlenie sceniczne retro vinta",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVOLIGHTS LUMENO oświetlenie sceniczne retro vinta",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVOLIGHTS LUMENO oświetlenie sceniczne retro vinta",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249814400"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249814400",
+        "Weight": 9500.0,
+        "Height": 520.0,
+        "Width": 520.0,
+        "Depth": 240.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045861",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "046befed-3787-4819-b745-fce9b8db3291",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-08T14:55:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOST'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:04.225000+00:00",
+        "sequence_number": 106860
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOTY",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME QUAD PAR 8x10W MKII RGBW LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME QUAD PAR 8x10W MKII RGBW LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME QUAD PAR 8x10W MKII RGBW LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907780140184"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780140184",
+        "Weight": 1165.0,
+        "Height": 220.0,
+        "Width": 245.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045865",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4d43cc08-4864-42ba-9cd9-ca44e89d1ec5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T10:36:24Z'",
+          "ModificationDate": "b'2025-06-04T12:21:03Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOTY'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:04.225000+00:00",
+        "sequence_number": 106864
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOUJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME SPIDER STRIPE efekt LED disco stroboskop",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME SPIDER STRIPE efekt LED disco stroboskop",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME SPIDER STRIPE efekt LED disco stroboskop",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249816541"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249816541",
+        "Weight": 1750.0,
+        "Height": 180.0,
+        "Width": 310.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045870",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "46167a87-9807-4657-be50-62b456152c62",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-11T07:22:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOUJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:04.225000+00:00",
+        "sequence_number": 106869
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOW2",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME FOG 500 LED wytwornica dymu, mgły, na pilo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME FOG 500 LED wytwornica dymu, mgły, na pilo",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME FOG 500 LED wytwornica dymu, mgły, na pilo",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249812765"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249812765",
+        "Weight": 1830.0,
+        "Height": 145.0,
+        "Width": 295.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045871",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "94eeaf2a-f1b2-4bde-9055-f823e7087f2d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-04T08:20:27Z'",
+          "ModificationDate": "b'2025-06-04T12:21:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOW2'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:04.225000+00:00",
+        "sequence_number": 106870
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOXF",
+        "ProductVersion": "1.4",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME BLINDER LED 2x100W oświetlacz sceniczny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME BLINDER LED 2x100W oświetlacz sceniczny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME BLINDER LED 2x100W oświetlacz sceniczny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249812116"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054231",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249812116",
+        "Weight": 3200.0,
+        "Height": 219.0,
+        "Width": 413.0,
+        "Depth": 179.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045883",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0c24acd5-c4b2-49c7-ae6a-75459e14e4eb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-15T16:18:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOXF'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:04.225000+00:00",
+        "sequence_number": 106882
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOXH",
+        "ProductVersion": "1.3",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME FRAME PAR 7x12 LED RGBW reflektor efekt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME FRAME PAR 7x12 LED RGBW reflektor efekt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME FRAME PAR 7x12 LED RGBW reflektor efekt",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249802193"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249802193",
+        "Weight": 2502.0,
+        "Height": 150.0,
+        "Width": 280.0,
+        "Depth": 245.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045884",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "625da24e-9955-4353-b7bf-56d103088f14",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-31T15:09:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOXH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:04.225000+00:00",
+        "sequence_number": 106883
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOXK",
+        "ProductVersion": "1.3",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME FOCUS 150 BEAM głowica ruchoma LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME FOCUS 150 BEAM głowica ruchoma LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME FOCUS 150 BEAM głowica ruchoma LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249816565"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249816565",
+        "Weight": 5350.0,
+        "Height": 280.0,
+        "Width": 370.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045885",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "41f7006c-aff6-4ef4-8bdc-d769c83cc189",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-29T14:01:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOXK'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:04.225000+00:00",
+        "sequence_number": 106884
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOYG",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME KALEIDO WASH głowica ruchoma LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME KALEIDO WASH głowica ruchoma LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME KALEIDO WASH głowica ruchoma LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249816558"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249816558",
+        "Weight": 2476.0,
+        "Height": 239.0,
+        "Width": 263.0,
+        "Depth": 184.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045888",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1af59eef-835f-4231-944a-95da736f43db",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-21T07:22:14Z'",
+          "ModificationDate": "b'2025-06-04T12:21:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOYG'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:04.225000+00:00",
+        "sequence_number": 106887
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISHU",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME MAGIC BAR 2 multiefekt świetlny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME MAGIC BAR 2 multiefekt świetlny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME MAGIC BAR 2 multiefekt świetlny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249828865",
+        "Weight": 2200.0,
+        "Height": 250.0,
+        "Width": 515.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083611",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e88c38a7-e191-47f5-9a59-d150b442ff5d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-23T07:24:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISHU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:17.252000+00:00",
+        "sequence_number": 136261
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCPHY",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Behringer",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Behringer STAGE TRI LED BUNDLE ST1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Behringer STAGE TRI LED BUNDLE ST1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Behringer STAGE TRI LED BUNDLE ST1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "000-E6101-00010",
+        "Weight": 18800.0,
+        "Height": 1285.0,
+        "Width": 535.0,
+        "Depth": 195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084362",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "474fc4d5-6462-42ec-b392-1aef5cba34b5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T12:53:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCPHY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:18.252000+00:00",
+        "sequence_number": 136350
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISHZ",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Stroboskop LIGHT4ME AURI STROBE stroboskop",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Stroboskop LIGHT4ME AURI STROBE stroboskop",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Stroboskop LIGHT4ME AURI STROBE stroboskop",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249828315",
+        "Weight": 1016.0,
+        "Height": 110.0,
+        "Width": 280.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083813",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "740d8488-384d-4289-8a93-bd67c1f2b600",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T07:11:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISHZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:57.681000+00:00",
+        "sequence_number": 122543
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCPBL",
+        "ProductVersion": "1.4",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Behringer",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Behringer LED FLOODLIGHT BAR 240-8 RGB-R LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Behringer LED FLOODLIGHT BAR 240-8 RGB-R LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Behringer LED FLOODLIGHT BAR 240-8 RGB-R LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4033653150699"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054231",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "000-EJT01-00010",
+        "Weight": 2965.0,
+        "Height": 1120.0,
+        "Width": 150.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043763",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b789439b-0cd0-458a-aac2-52a1e9960ec3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-16T07:19:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCPBL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:47.732000+00:00",
+        "sequence_number": 160160
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFP14",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME SPIDER MKII TURBO-Efekt LED 8x3W RGBW",
+            "ProductDescription": "LIGHT4ME Spider MKII Turbo - efekt LED 8x3W RGBW"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME SPIDER MKII TURBO-Efekt LED 8x3W RGBW",
+            "ProductDescription": "LIGHT4ME Spider MKII Turbo - 8x3W RGBW LED effect"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME SPIDER MKII TURBO-Efekt LED 8x3W RGBW",
+            "ProductDescription": "LIGHT4ME Spider MKII Turbo - 8x3W RGBW-LED-Effekt"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249805675"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249805675",
+        "Weight": 1760.0,
+        "Height": 170.0,
+        "Width": 310.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071227",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "92244905-e5f3-4177-9ab0-f4b3a3ca39f2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:21:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFP14'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:22.918000+00:00",
+        "sequence_number": 109794
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISH2",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME STROBE 40W stroboskop imprezowy dyskoteko",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME STROBE 40W stroboskop imprezowy dyskoteko",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME STROBE 40W stroboskop imprezowy dyskoteko",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249820647",
+        "Weight": 1000.0,
+        "Height": 210.0,
+        "Width": 80.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089947",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0fc883de-9def-4dc5-b1ed-f16b33aa33d2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T16:10:34Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISH2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:51.517000+00:00",
+        "sequence_number": 167971
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISES",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME SID1 multiefekt świetlny LED 4w1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME SID1 multiefekt świetlny LED 4w1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME SID1 multiefekt świetlny LED 4w1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249828094"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249828094",
+        "Weight": 1615.0,
+        "Height": 189.0,
+        "Width": 278.0,
+        "Depth": 236.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067517",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "86b41904-3a0b-497c-bcf5-d9942e1183f6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-02T14:09:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISES'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:14.803000+00:00",
+        "sequence_number": 152888
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISH1",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zestaw oświetleniowy LIGHT4ME BELKA LED DERBY PAR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zestaw oświetleniowy LIGHT4ME BELKA LED DERBY PAR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zestaw oświetleniowy LIGHT4ME BELKA LED DERBY PAR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907780147657"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054231",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780147657",
+        "Weight": 6800.0,
+        "Height": 200.0,
+        "Width": 400.0,
+        "Depth": 850.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067518",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1da72cfd-a05a-45bf-a6d8-1c135bf319af",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-02T13:50:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISH1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:14.803000+00:00",
+        "sequence_number": 152889
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOXZ",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME SIX EYE BEAM mocny efekt beam LED + PILOT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME SIX EYE BEAM mocny efekt beam LED + PILOT",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME SIX EYE BEAM mocny efekt beam LED + PILOT",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907780148647"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780148647",
+        "Weight": 3500.0,
+        "Height": 290.0,
+        "Width": 288.0,
+        "Depth": 325.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091913",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6274fd7f-33d8-4191-875d-67bec47bbc50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-23T14:36:01Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOXZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:55.830000+00:00",
+        "sequence_number": 168198
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFP87",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME MULTIPHASE-Multiefekt LED UV wash strobe",
+            "ProductDescription": "LIGHT4ME Multiphase - multiefekt LED UV"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME MULTIPHASE-Multiefekt LED UV wash strobe",
+            "ProductDescription": "LIGHT4ME Multiphase - UV LED multieffect"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME MULTIPHASE-Multiefekt LED UV wash strobe",
+            "ProductDescription": "LIGHT4ME Multiphase - UV-LED-Multieffekt"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249810655",
+        "Weight": 1400.0,
+        "Height": 230.0,
+        "Width": 260.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084360",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e811589f-29b2-45b6-8f03-5e34ef364603",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T12:53:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFP87'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:01.811000+00:00",
+        "sequence_number": 124716
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFPB4",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME MINI SPOT 60 RING-Głowica ruchoma LED",
+            "ProductDescription": "LIGHT4ME Mini Spot 60 Ring - głowica ruchoma LED"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME MINI SPOT 60 RING-Głowica ruchoma LED",
+            "ProductDescription": "LIGHT4ME Mini Spot 60 Ring - LED moving head"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME MINI SPOT 60 RING-Głowica ruchoma LED",
+            "ProductDescription": "LIGHT4ME Mini Spot 60 Ring - LED-Bewegungskopf"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249810624"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249810624",
+        "Weight": 3600.0,
+        "Height": 220.0,
+        "Width": 330.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079234",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6060d15f-6434-4312-b0f3-b4efedcf40f5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-28T07:20:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFPB4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:35.526000+00:00",
+        "sequence_number": 153934
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSCL4MRPA0008",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME RETRO 500 RGBA - Reflektor sceniczny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME RETRO 500 RGBA - Reflektor sceniczny",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME RETRO 500 RGBA - Reflektor sceniczny",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "500 RGBA",
+        "Weight": 6750.0,
+        "Height": 450.0,
+        "Width": 560.0,
+        "Depth": 560.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085109",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "LIGHT4ME RETRO 500 RGBA - Reflektor sceniczny"
+      },
+      "properties": {
+        "message_id": "24483dde-2148-4304-8af0-4421356c984d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T13:26:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSCL4MRPA0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:08.343000+00:00",
+        "sequence_number": 125068
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISFP",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME BELKA LASER STROBOSKOP LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME BELKA LASER STROBOSKOP LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME BELKA LASER STROBOSKOP LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780141471",
+        "Weight": 7400.0,
+        "Height": 200.0,
+        "Width": 415.0,
+        "Depth": 850.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085837",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c6e6749d-3e62-4352-bac6-92264e98fbd2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-02T07:12:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISFP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:14.593000+00:00",
+        "sequence_number": 125437
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOYC",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME RETRO 500 reflektor sceniczny RGBA dekora",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME RETRO 500 reflektor sceniczny RGBA dekora",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME RETRO 500 reflektor sceniczny RGBA dekora",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249812086"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249812086",
+        "Weight": 6750.0,
+        "Height": 440.0,
+        "Width": 570.0,
+        "Depth": 570.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055343",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b5312ba7-1a20-4266-843e-0b21441c6746",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-14T12:31:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOYC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:01.546000+00:00",
+        "sequence_number": 140329
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOYF",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "NN",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NN 408 WASH 4x8W RGBW minigłowica ruchoma LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NN 408 WASH 4x8W RGBW minigłowica ruchoma LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NN 408 WASH 4x8W RGBW minigłowica ruchoma LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249809215"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249809215",
+        "Weight": 1750.0,
+        "Height": 230.0,
+        "Width": 190.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56312
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055344",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "16998d6a-7472-460b-bcc4-03e24ba92f59",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-09T13:41:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOYF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:01.546000+00:00",
+        "sequence_number": 140330
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFS09",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME PENTA PAR 8x12W MKII RGBWA-LED slim",
+            "ProductDescription": "LIGHT4ME PENTA PAR 8x12W MKII RGBWA - reflektor LED RGB"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME PENTA PAR 8x12W MKII RGBWA-LED slim",
+            "ProductDescription": "LIGHT4ME PENTA PAR 8x12W MKII RGBWA- RGB LED spotlight"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME PENTA PAR 8x12W MKII RGBWA-LED slim",
+            "ProductDescription": "LIGHT4ME PENTA PAR 8x12W MKII RGBWA - RGB-LED-Scheinwerfer"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907780148449"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780148449",
+        "Weight": 1180.0,
+        "Height": 245.0,
+        "Width": 220.0,
+        "Depth": 115.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055473",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7e9d2f87-29e4-4e5a-80b2-65549cd1e303",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T15:51:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFS09'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:03.375000+00:00",
+        "sequence_number": 140449
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISFM",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "DNA PROFESSIONAL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DNA SOFTBOX 1 SET 2X60W odbłyśnik 50x70",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DNA SOFTBOX 1 SET 2X60W odbłyśnik 50x70",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "DNA SOFTBOX 1 SET 2X60W odbłyśnik 50x70",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249824171"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054231",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249824171",
+        "Weight": 3960.0,
+        "Height": 727.0,
+        "Width": 262.0,
+        "Depth": 182.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060684",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "abadb31c-4f45-4206-b952-1f939cd79ca2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-29T09:51:18Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISFM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:53.530000+00:00",
+        "sequence_number": 126475
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "OSCL4MEDY0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME SPIDER STRIPE efekt LED disco stroboskop",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME SPIDER STRIPE efekt LED disco stroboskop",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME SPIDER STRIPE efekt LED disco stroboskop",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249816541"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SPIDER",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100061991",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "LIGHT4ME SPIDER STRIPE - Efekt LED disco stroboskop"
+      },
+      "properties": {
+        "message_id": "1c7e0f34-cd09-4dcb-b6a4-d3beba3b77aa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-16T12:31:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'OSCL4MEDY0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:41.877000+00:00",
+        "sequence_number": 155788
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOUL",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME COMPACT PMH 7x8W głowica ruchoma LED wash",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME COMPACT PMH 7x8W głowica ruchoma LED wash",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME COMPACT PMH 7x8W głowica ruchoma LED wash",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249816572"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249816572",
+        "Weight": 5000.0,
+        "Height": 430.0,
+        "Width": 230.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56312
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091719",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2f87e7e1-5d42-4480-b10b-e7870cd0e83d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-23T00:06:29Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOUL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:22.855000+00:00",
+        "sequence_number": 171065
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP26",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME PARTY LIGHT 1 efekt LED oświetlenie disco",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME PARTY LIGHT 1 efekt LED oświetlenie disco",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME PARTY LIGHT 1 efekt LED oświetlenie disco",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249813816"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249813816",
+        "Weight": 600.0,
+        "Height": 150.0,
+        "Width": 110.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091720",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "87e4d403-8d38-467c-a053-d7717650150a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-23T00:06:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP26'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:22.855000+00:00",
+        "sequence_number": 171066
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISIJ",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME APP LASER 5W RGB oświetlenie laserowe Blu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME APP LASER 5W RGB oświetlenie laserowe Blu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME APP LASER 5W RGB oświetlenie laserowe Blu",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249823365"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249823365",
+        "Weight": 3150.0,
+        "Height": 230.0,
+        "Width": 235.0,
+        "Depth": 215.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56312
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081987",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8c5ae43e-8a12-4d7c-ae7c-406b340adddc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T22:08:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISIJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:54.723000+00:00",
+        "sequence_number": 113371
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOWW",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME LINE BEAM 230W głowica ruchoma oświetlen.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME LINE BEAM 230W głowica ruchoma oświetlen.",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME LINE BEAM 230W głowica ruchoma oświetlen.",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249817982"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249817982",
+        "Weight": 5000.0,
+        "Height": 430.0,
+        "Width": 230.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56312
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093838",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4927b234-01bd-44d3-b172-cca8c4b6982c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-03T20:04:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOWW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:37.888000+00:00",
+        "sequence_number": 171795
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP97",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME SPIDER STROBO LASER efekt LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME SPIDER STROBO LASER efekt LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME SPIDER STROBO LASER efekt LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249810648",
+        "Weight": 1750.0,
+        "Height": 180.0,
+        "Width": 310.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084230",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8704af2c-c882-4814-a06a-21ab7b71eeee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T19:30:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP97'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:08.316000+00:00",
+        "sequence_number": 156904
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOXX",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME DISCO KULA LASER multiefekt świetlny LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME DISCO KULA LASER multiefekt świetlny LED",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME DISCO KULA LASER multiefekt świetlny LED",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249804906",
+        "Weight": 1250.0,
+        "Height": 150.0,
+        "Width": 232.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084606",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "784dbbb5-dad6-4505-9a07-e4897c5e9137",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-26T06:59:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOXX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:10.550000+00:00",
+        "sequence_number": 156965
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPUU",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Volteno",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "VOLTENO REFLEKTOR LED STATYW 2x40W CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "VOLTENO REFLEKTOR LED STATYW 2x40W CZARNY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "VOLTENO REFLEKTOR LED STATYW 2x40W CZARNY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VO1889",
+        "Weight": 3490.0,
+        "Height": 130.0,
+        "Width": 620.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085640",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b0f2246d-bd48-4c03-af42-7d4d1f132af1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-01T09:29:57Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPUU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:17.895000+00:00",
+        "sequence_number": 157288
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP46",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME MULTIBOX multiefekt LED kula disco laser",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME MULTIBOX multiefekt LED kula disco laser",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME MULTIBOX multiefekt LED kula disco laser",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249816640"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249816640",
+        "Weight": 1200.0,
+        "Height": 230.0,
+        "Width": 260.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081723",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cdd2eec7-9cb9-4d30-b52d-f8f930f08637",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-11T16:10:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP46'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:28.611000+00:00",
+        "sequence_number": 128356
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOUK",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME QUATRO PAR 18x10W RGBW reflektor",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME QUATRO PAR 18x10W RGBW reflektor",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME QUATRO PAR 18x10W RGBW reflektor",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249820838"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249820838",
+        "Weight": 1404.0,
+        "Height": 261.0,
+        "Width": 239.0,
+        "Depth": 94.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075083",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "41e9e530-196e-4ee1-a156-155151f48e0b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-17T22:15:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOUK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:25.237000+00:00",
+        "sequence_number": 143227
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOXS",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME OCTALED efekt świetlny disco RGBWA flower",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME OCTALED efekt świetlny disco RGBWA flower",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME OCTALED efekt świetlny disco RGBWA flower",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249814585"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249814585",
+        "Weight": 4000.0,
+        "Height": 290.0,
+        "Width": 350.0,
+        "Depth": 33.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075084",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "435a9912-016d-40d7-bd83-8749e5ee3b2c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-16T07:21:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOXS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:25.237000+00:00",
+        "sequence_number": 143228
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOYU",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Oświetlenie disco LED LIGHT4ME PARTY LIGHT 3 efekt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Oświetlenie disco LED LIGHT4ME PARTY LIGHT 3 efekt",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Oświetlenie disco LED LIGHT4ME PARTY LIGHT 3 efekt",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249813830"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249813830",
+        "Weight": 406.0,
+        "Height": 163.0,
+        "Width": 114.0,
+        "Depth": 136.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075085",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a454add1-690f-4784-975f-471a391e5d88",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-16T14:34:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOYU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:25.237000+00:00",
+        "sequence_number": 143229
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP69",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME DERBY MIX STROBO LASER multiefekt L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME DERBY MIX STROBO LASER multiefekt L",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME DERBY MIX STROBO LASER multiefekt L",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249804869"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249804869",
+        "Weight": 2376.0,
+        "Height": 401.0,
+        "Width": 171.0,
+        "Depth": 400.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075086",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "08508ae4-3e47-494d-a373-b211114ca757",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-15T10:37:20Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP69'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:25.237000+00:00",
+        "sequence_number": 143230
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOW7",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "EVOLIGHTS LASER 3W RGB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "EVOLIGHTS LASER 3W RGB",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "EVOLIGHTS LASER 3W RGB",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249822320"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249822320",
+        "Weight": 3250.0,
+        "Height": 334.0,
+        "Width": 430.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087340",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "09ed7483-fe7e-4d84-8acb-57f74db4b3bd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-15T19:15:33Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOW7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:34.990000+00:00",
+        "sequence_number": 158043
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDOWI",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME LED PAR 18x3W UV reflektor ultrafioletowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME LED PAR 18x3W UV reflektor ultrafioletowy",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME LED PAR 18x3W UV reflektor ultrafioletowy",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907780148111"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5907780148111",
+        "Weight": 748.0,
+        "Height": 196.0,
+        "Width": 200.0,
+        "Depth": 147.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56307
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087341",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1a73c611-9e57-4d49-b33f-c89fc9139001",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-02T14:09:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDOWI'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:34.990000+00:00",
+        "sequence_number": 158044
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISIG",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME MAGIC BAR 3 multiefekt świetlny RGBW 3w1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME MAGIC BAR 3 multiefekt świetlny RGBW 3w1",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME MAGIC BAR 3 multiefekt świetlny RGBW 3w1",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249828872",
+        "Weight": 1300.0,
+        "Height": 280.0,
+        "Width": 240.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090531",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f0f700d6-594b-49cd-b4ca-55560fac6174",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-16T12:41:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISIG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:49.686000+00:00",
+        "sequence_number": 131232
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDP27",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME BATTEN MIX RGBW+UV wall LED BAR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME BATTEN MIX RGBW+UV wall LED BAR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME BATTEN MIX RGBW+UV wall LED BAR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249809628"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054231",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249809628",
+        "Weight": 1800.0,
+        "Height": 120.0,
+        "Width": 390.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56335
+              },
+              {
+                "CategoryId": 56794
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055347",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "123207a6-9ded-4d34-bf28-b6d78d8ea0f9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-16T11:50:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDP27'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:15.524000+00:00",
+        "sequence_number": 129524
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRISJ9",
+        "ProductVersion": "1.2",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME MAGIC BAR efekt disco kula LED PAR+statyw",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME MAGIC BAR efekt disco kula LED PAR+statyw",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME MAGIC BAR efekt disco kula LED PAR+statyw",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249809604"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249809604",
+        "Weight": 2200.0,
+        "Height": 250.0,
+        "Width": 525.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56311
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075441",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5f0d8060-2c19-44bb-a8ee-f58780320de9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T16:24:34Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRISJ9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:40.538000+00:00",
+        "sequence_number": 145797
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFP95",
+        "ProductVersion": "1.1",
+        "ProductType": "Oświetlenie sceniczne",
+        "Brand": "Light4Me",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "LIGHT4ME DECO BAR 24 RGB IR-Listwa belka LED",
+            "ProductDescription": "LIGHT4ME DECO BAR 24 RGB IR - belka LED + pil"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "LIGHT4ME DECO BAR 24 RGB IR-Listwa belka LED",
+            "ProductDescription": "LIGHT4ME DECO BAR 24 RGB IR - LED bar + pil"
+          },
+          {
+            "Language": "de",
+            "ProductName": "LIGHT4ME DECO BAR 24 RGB IR-Listwa belka LED",
+            "ProductDescription": "LIGHT4ME DECO BAR 24 RGB IR - LED-Leiste + Piloten"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5908249812185"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "94054210",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "5908249812185",
+        "Weight": 2190.0,
+        "Height": 1125.0,
+        "Width": 115.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.40.30.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56794
+              },
+              {
+                "CategoryId": 56335
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56069
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087388",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "166fcee7-8a9b-4342-95d8-21b4995e1ece",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-05T15:16:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFP95'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:34:06.562000+00:00",
+        "sequence_number": 161045
+      }
+    }
+  ]
+}

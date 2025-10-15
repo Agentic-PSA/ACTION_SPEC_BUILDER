@@ -1,0 +1,1130 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPOH",
+        "ProductVersion": "1.4",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAC KOSA SPALINOWA 52cc 2,7Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAC KOSA SPALINOWA 52cc 2,7Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAC KOSA SPALINOWA 52cc 2,7Nm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902067851463"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BP520-30KA-T",
+        "Weight": 11200.0,
+        "Height": 1080.0,
+        "Width": 290.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041252",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d0ea1087-34a0-4a6c-9fc5-1a80fb3e3c7e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-22T09:00:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPOH'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:25.029000+00:00",
+        "sequence_number": 164958
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRELJ8",
+        "ProductVersion": "1.2",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "VERTEX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KOSA SPALINOWA VERTEX VKS52 BASIC 3KM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KOSA SPALINOWA VERTEX VKS52 BASIC 3KM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KOSA SPALINOWA VERTEX VKS52 BASIC 3KM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903886642003"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VKS52BASIC",
+        "Weight": 7000.0,
+        "Height": 242.0,
+        "Width": 336.0,
+        "Depth": 1645.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100078894",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "77a634fa-c652-4820-8058-ac55cb8dc533",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-26T10:33:24Z'",
+          "ModificationDate": "b'2025-09-30T13:41:33Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRELJ8'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:24.456000+00:00",
+        "sequence_number": 104094
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIM8",
+        "ProductVersion": "1.4",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kosa spalinowa + żyłka 2KM BP517-20B-V NAC",
+            "ProductDescription": "Kosa spalinowa + żyłka 2KM BP517-20B-V NAC"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kosa spalinowa + żyłka 2KM BP517-20B-V NAC",
+            "ProductDescription": "Petrol scythe + line 2KM BP517-20B-V NAC"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kosa spalinowa + żyłka 2KM BP517-20B-V NAC",
+            "ProductDescription": "Benzin-Freischneider + Leitung 2KM BP517-20B-V NAC"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902067851272"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BP517-20B-V",
+        "Weight": 8950.0,
+        "Height": 950.0,
+        "Width": 295.0,
+        "Depth": 325.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036383",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "15ed96bc-b180-4c0b-8f17-3aa6682440a0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-14T12:13:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIM8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:01.714000+00:00",
+        "sequence_number": 162212
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPI2",
+        "ProductVersion": "1.4",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAC KOSA / PODKASZARKA SPALINOWA 24,8cc 1,05Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAC KOSA / PODKASZARKA SPALINOWA 24,8cc 1,05Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAC KOSA / PODKASZARKA SPALINOWA 24,8cc 1,05Nm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902067851234"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TP248-10SP",
+        "Weight": 6075.0,
+        "Height": 260.0,
+        "Width": 950.0,
+        "Depth": 250.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041182",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59d585c3-7282-4726-856a-99379393a046",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-27T11:29:35Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPI2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:40.949000+00:00",
+        "sequence_number": 137576
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPKG",
+        "ProductVersion": "1.3",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAC KOSA SPALINOWA 51,2cc 2,7Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAC KOSA SPALINOWA 51,2cc 2,7Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAC KOSA SPALINOWA 51,2cc 2,7Nm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902067851432"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BP520-27-T",
+        "Weight": 10000.0,
+        "Height": 1080.0,
+        "Width": 290.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041210",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "284079bc-673c-471c-a0a7-be5f0439b311",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-29T18:14:35Z'",
+          "ModificationDate": "b'2025-08-07T08:22:53Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPKG'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:41.824000+00:00",
+        "sequence_number": 137604
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPZS",
+        "ProductVersion": "1.4",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAC KOSA SPALINOWA 54cc 2,9Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAC KOSA SPALINOWA 54cc 2,9Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAC KOSA SPALINOWA 54cc 2,9Nm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902490787728"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BP540-30B-V",
+        "Weight": 9000.0,
+        "Height": 980.0,
+        "Width": 320.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041327",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8fd693ea-fc82-443a-9901-1e7078c5406b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-20T07:13:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPZS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:41.824000+00:00",
+        "sequence_number": 137614
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBPO9",
+        "ProductVersion": "1.3",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAC KOSA SPALINOWA 62cc 3,5Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAC KOSA SPALINOWA 62cc 3,5Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAC KOSA SPALINOWA 62cc 3,5Nm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902067851845"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BP620-38KA-T",
+        "Weight": 7000.0,
+        "Height": 1100.0,
+        "Width": 320.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041247",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e72b6f24-5666-47a5-bb0e-5241840e00aa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-26T21:54:00Z'",
+          "ModificationDate": "b'2025-08-07T08:23:01Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBPO9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:35.525000+00:00",
+        "sequence_number": 123310
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBUP2",
+        "ProductVersion": "1.4",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAC KOSA KOMBI SPALINOWA 42,7cc 1,8Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAC KOSA KOMBI SPALINOWA 42,7cc 1,8Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAC KOSA KOMBI SPALINOWA 42,7cc 1,8Nm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902067851487"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BP427-16MU-T",
+        "Weight": 9600.0,
+        "Height": 350.0,
+        "Width": 1070.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100041871",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5b241e6a-60cb-463a-8d51-a297b59b4900",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-26T11:55:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBUP2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:41.652000+00:00",
+        "sequence_number": 125833
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBWC5",
+        "ProductVersion": "1.1",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "NAC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NAC KOSA SPALINOWA 62cc 3,5Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NAC KOSA SPALINOWA 62cc 3,5Nm",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "NAC KOSA SPALINOWA 62cc 3,5Nm",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902067851852"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BP620-36-T",
+        "Weight": 7000.0,
+        "Height": 310.0,
+        "Width": 290.0,
+        "Depth": 980.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053079",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "867bd9a3-9394-4b00-a4ed-8cad3546725d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-20T12:54:35Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBWC5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:56.641000+00:00",
+        "sequence_number": 141751
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGN69",
+        "ProductVersion": "1.1",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "RYO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "822154 RYOBI Uprząż Pro-style Vertebrae+™ zapewnia",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "822154 RYOBI Uprząż Pro-style Vertebrae+™ zapewnia",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "822154 RYOBI Uprząż Pro-style Vertebrae+™ zapewnia",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4892210822154"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RAC138",
+        "Weight": 900.0,
+        "Height": 85.0,
+        "Width": 550.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094063",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3dc7b8e5-2aec-4001-81b2-a78a52b2b9ac",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-04T16:20:46Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGN69'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:41.749000+00:00",
+        "sequence_number": 172004
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHN7",
+        "ProductVersion": "1.1",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "Koss",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kosa spalinowa Demon RQ580 na kółkach",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kosa spalinowa Demon RQ580 na kółkach",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kosa spalinowa Demon RQ580 na kółkach",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "M83107",
+        "Weight": 7000.0,
+        "Height": 290.0,
+        "Width": 310.0,
+        "Depth": 980.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090492",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "668a8f82-0dca-4650-b4b4-229764d21280",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-16T11:26:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHN7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:48.545000+00:00",
+        "sequence_number": 131193
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHPF",
+        "ProductVersion": "1.4",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "AWTOOLS KOSA SPALINOWA KOMBI 2,95KM  M2600",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "AWTOOLS KOSA SPALINOWA KOMBI 2,95KM  M2600",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "AWTOOLS KOSA SPALINOWA KOMBI 2,95KM  M2600",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902198742906"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW70005",
+        "Weight": 14500.0,
+        "Height": 1070.0,
+        "Width": 290.0,
+        "Depth": 320.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043014",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1ab4353c-f4cd-4f8c-99f5-489260e70999",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-21T18:55:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHPF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:09.743000+00:00",
+        "sequence_number": 129256
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHO3",
+        "ProductVersion": "1.4",
+        "ProductType": "Kosy i Podkaszarki",
+        "Brand": "AWTOOLS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kosa spalinowa żyłkowa AWTOOLS BC620 3,5KM",
+            "ProductDescription": "AWTOOLS AW70003 kosiarka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kosa spalinowa żyłkowa AWTOOLS BC620 3,5KM",
+            "ProductDescription": "AWTOOLS PETROL TRIMMER BC620/3,5HP"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kosa spalinowa żyłkowa AWTOOLS BC620 3,5KM",
+            "ProductDescription": "AWTOOLS BENZIN-TRIMMER BC620/3,5HP"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903678607647"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84678900",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AW70003",
+        "Weight": 11500.0,
+        "Height": 290.0,
+        "Width": 1008.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.12.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55234
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53124
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043011",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f7bf731f-f016-4614-984e-812ac9615edb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-10T23:03:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHO3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:49.309000+00:00",
+        "sequence_number": 148065
+      }
+    }
+  ]
+}

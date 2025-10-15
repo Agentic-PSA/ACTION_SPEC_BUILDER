@@ -1,0 +1,347 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGRE5",
+        "ProductVersion": "1.1",
+        "ProductType": "Walizki",
+        "Brand": "KNIPEX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Walizka narzędziowa Knipex 20-elementowa",
+            "ProductDescription": "Knipex 2120 zestaw kluczy i narzędzi 20 przyb."
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Walizka narzędziowa Knipex 20-elementowa",
+            "ProductDescription": "Knipex 2120 mechanics tool set 20 tools"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Walizka narzędziowa Knipex 20-elementowa",
+            "ProductDescription": "Knipex 2120 Mechanik-Werkzeugsätze 20 Werkzeug"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1863263",
+        "Weight": 7000.0,
+        "Height": 480.0,
+        "Width": 170.0,
+        "Depth": 370.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52943
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089426",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7e71b64f-6925-461c-9f8a-d1b17eeffc82",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T08:38:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGRE5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:33.887000+00:00",
+        "sequence_number": 119492
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREGUG",
+        "ProductVersion": "1.1",
+        "ProductType": "Walizki",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Walizka/torba Makita 821551-8 Walizka twarda",
+            "ProductDescription": "Makita 821551-8 walizka/ torba Walizka twarda Czarny, Turkusowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Walizka/torba Makita 821551-8 Walizka twarda",
+            "ProductDescription": "Makita 821551-8 equipment case Hard shell case Black, Turquoise"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Walizka/torba Makita 821551-8 Walizka twarda",
+            "ProductDescription": "Makita 821551-8 Ausrüstungstasche/-koffer Hartschalenkoffer Schwarz, Türkis"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381432993"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "821551-8",
+        "Weight": 1920.0,
+        "Height": 300.0,
+        "Width": 400.0,
+        "Depth": 220.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52943
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100080224",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "02cb1a1d-6be8-400f-9fe9-70e6c5ffa9a7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-02T16:10:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREGUG'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:37.624000+00:00",
+        "sequence_number": 112526
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCHM4",
+        "ProductVersion": "1.2",
+        "ProductType": "Walizki",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Makita 821552-6 walizka/torba twarda",
+            "ProductDescription": "Makita 821552-6 walizka/ torba Walizka twarda Czarny, Niebieski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Makita 821552-6 walizka/torba twarda",
+            "ProductDescription": "Makita 821552-6 equipment case Hard shell case Black, Blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Makita 821552-6 walizka/torba twarda",
+            "ProductDescription": "Makita 821552-6 Ausrüstungstasche/-koffer Hartschalenkoffer Schwarz, Blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381433006"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "821552-6",
+        "Weight": 2510.0,
+        "Height": 296.0,
+        "Width": 397.0,
+        "Depth": 322.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52943
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070945",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d6ecb40c-ea63-4b52-a50f-b198f6438260",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-03T08:42:32Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCHM4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:15.313000+00:00",
+        "sequence_number": 127672
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGRDZ",
+        "ProductVersion": "1.2",
+        "ProductType": "Walizki",
+        "Brand": "KNIPEX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Walizka narzędziowa KNIPEX 465x410x200mm",
+            "ProductDescription": "Knipex 00 21 05 LE walizka na narzędzia Czarny Kopolimer akrylonitrylo-butadieno-styrenowy (ABS)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Walizka narzędziowa KNIPEX 465x410x200mm",
+            "ProductDescription": "KNIPEX tool case 465x410x200mm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Walizka narzędziowa KNIPEX 465x410x200mm",
+            "ProductDescription": "KNIPEX Werkzeugkoffer 465x410x200mm"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4003773056904"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "39231090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1264906",
+        "Weight": 4430.0,
+        "Height": 420.0,
+        "Width": 490.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "22.22.13.0",
+        "CountryOfOrigin": "DE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52943
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55275
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075385",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "08373343-168b-4531-af56-8f3e8adbb9c8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-13T13:09:43Z'",
+          "ModificationDate": "b'2025-09-30T13:41:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGRDZ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:29.943000+00:00",
+        "sequence_number": 143503
+      }
+    }
+  ]
+}

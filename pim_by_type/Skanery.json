@@ -1,0 +1,5404 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0005",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS DŁUGOPIS SKANUJĄCY NOTES AIR 3",
+            "ProductDescription": "I.R.I.S. IRISNotes Air 3 pióro cyfrowe 100 ark. A4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS DŁUGOPIS SKANUJĄCY NOTES AIR 3",
+            "ProductDescription": "I.R.I.S. IRISNotes Air 3 digital pen 100 sheets A4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS DŁUGOPIS SKANUJĄCY NOTES AIR 3",
+            "ProductDescription": "I.R.I.S. IRISNotes Air 3 Digitaler Stift 100 Blätter A4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900318"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458962",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056209",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d171fed8-7da1-49f4-a4d8-4068ac35b70e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-09-09T14:46:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:41.280000+00:00",
+        "sequence_number": 101833
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0008",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY AIR 7",
+            "ProductDescription": "I.R.I.S. Pen Air 7 Scanner w piórze Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY AIR 7",
+            "ProductDescription": "I.R.I.S. Pen Air 7 Pen scanner White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY AIR 7",
+            "ProductDescription": "I.R.I.S. Pen Air 7 Pen-Scanner Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900035"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458512",
+        "Weight": 210.0,
+        "Height": 155.0,
+        "Width": 215.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056210",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "56c4e043-63a9-4430-8e79-9126d276f33d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T09:44:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0008'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:41.280000+00:00",
+        "sequence_number": 101834
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0020",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIScan Desk 6 PRO",
+            "ProductDescription": "Iris 462006 skaner Skaner górny 300 x 300 DPI A3 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIScan Desk 6 PRO",
+            "ProductDescription": "Iris 462006 scanner Overhead scanner 300 x 300 DPI A3 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIScan Desk 6 PRO",
+            "ProductDescription": "Iris 462006 Scanner Overhead-Scanner 300 x 300 DPI A3 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900974"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "462006",
+        "Weight": 2080.0,
+        "Height": 498.0,
+        "Width": 435.0,
+        "Depth": 157.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056211",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IRIScan Desk 6 PRO"
+      },
+      "properties": {
+        "message_id": "e77fe629-046a-4417-8c8c-20e726d1d23e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-18T22:18:47Z'",
+          "ModificationDate": "b'2025-07-24T10:50:43Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:41.280000+00:00",
+        "sequence_number": 101835
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCREBOM",
+        "ProductVersion": "1.0",
+        "ProductType": "Skanery",
+        "Brand": "Brother",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Brother DS-940DW z podajnikiem",
+            "ProductDescription": "Brother DS-940DW Skaner z podajnikiem 600 x 600 DPI A4 Czarny, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Brother DS-940DW z podajnikiem",
+            "ProductDescription": "Brother DS-940DW Sheet-fed scanner 600 x 600 DPI A4 Black, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Brother DS-940DW z podajnikiem",
+            "ProductDescription": "Brother DS-940DW Scanner mit Vorlageneinzug 600 x 600 DPI A4 Schwarz, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4977766800648"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DS940DWTK1",
+        "Weight": 1135.0,
+        "Height": 75.0,
+        "Width": 160.0,
+        "Depth": 370.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3b49ee1c-59b4-44ed-91a7-e95ba4fd13d5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-06T17:50:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCREBOM'"
+        },
+        "enqueued_time_utc": "2025-10-07 14:20:22.818000+00:00",
+        "sequence_number": 174135
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDWTO",
+        "ProductVersion": "1.5",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner szczelinowy do dokumentów IRIS Executive 4",
+            "ProductDescription": "I.R.I.S. IRIScan Executive 4 Skaner z podajnikiem 600 x 600 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner szczelinowy do dokumentów IRIS Executive 4",
+            "ProductDescription": "IRIS IRIScan Executive 4 - scanner med"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner szczelinowy do dokumentów IRIS Executive 4",
+            "ProductDescription": "IRIS IRIScan Executive 4 - scanner med"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900097"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458737",
+        "Weight": 870.0,
+        "Height": 67.0,
+        "Width": 340.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046038",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "65fb8bf6-ee2a-4bc5-a31e-40ff7be7bb12",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-23T12:17:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDWTO'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:04.170000+00:00",
+        "sequence_number": 148895
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDEKH",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Kodak",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kodak S2050 Skaner ADF 600 x 600 DPI A4",
+            "ProductDescription": "Kodak S2050 Skaner ADF 600 x 600 DPI A4 Czarny, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kodak S2050 Skaner ADF 600 x 600 DPI A4",
+            "ProductDescription": "Kodak S2050 ADF scanner 600 x 600 DPI A4 Black, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kodak S2050 Skaner ADF 600 x 600 DPI A4",
+            "ProductDescription": "Kodak S2050 ADF-Scanner 600 x 600 DPI A4 Schwarz, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "041771014964"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1905962",
+        "Weight": 4506.0,
+        "Height": 370.0,
+        "Width": 248.0,
+        "Depth": 289.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044996",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f39e37ca-0e09-427c-9529-29d9542fbcd6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-08T15:36:55Z'",
+          "ModificationDate": "b'2025-07-24T10:36:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDEKH'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:56.006000+00:00",
+        "sequence_number": 106436
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0013",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 3, BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 3 Skaner ręczny 900 x 900 DPI A4 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 3, BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 3 Handheld scanner 900 x 900 DPI A4 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 3, BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 3 Handheld-Scanner 900 x 900 DPI A4 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7650104578887"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "457888",
+        "Weight": 430.0,
+        "Height": 140.0,
+        "Width": 310.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066036",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e3f9d831-bd52-42e2-9bf3-58a6c0cb17e7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T09:50:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0013'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:44.718000+00:00",
+        "sequence_number": 164314
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0019",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIScan Desk 6 Pro Dyslexic",
+            "ProductDescription": "Skaner dokumentowy A3 IRISCAN DESK 6 PRO DYSLEXIC 300 DPI Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIScan Desk 6 Pro Dyslexic",
+            "ProductDescription": "IRISCAN Document scanner A3 DESK 6 PRO DYSLEXIC 300 DPI Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIScan Desk 6 Pro Dyslexic",
+            "ProductDescription": "IRISCAN Dokumentenscanner A3 DESK 6 PRO DYSLEXIC 300 DPI Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "1410029901063"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "462992",
+        "Weight": 1986.0,
+        "Height": 270.0,
+        "Width": 498.0,
+        "Depth": 133.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066037",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IRIScan Desk 6 Pro Dyslexic"
+      },
+      "properties": {
+        "message_id": "9e9ab478-8b87-4c87-ba90-c3abd8e806bd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-18T22:18:43Z'",
+          "ModificationDate": "b'2025-07-24T10:59:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0019'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:44.718000+00:00",
+        "sequence_number": 164315
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0024",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIScan Express 4 IRIS IRIScan Express 4 IRIS",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIScan Express 4 IRIS IRIScan Express 4 IRIS",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIScan Express 4 IRIS IRIScan Express 4 IRIS",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3700379530913"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458510",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066038",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IRIScan Express 4 IRIS IRIScan Express 4 IRIS"
+      },
+      "properties": {
+        "message_id": "71b408d3-c964-4119-85d6-ba4b0965588e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-01-05T10:16:39Z'",
+          "ModificationDate": "b'2025-07-24T10:54:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:44.718000+00:00",
+        "sequence_number": 164316
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0012",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXPRESS 4",
+            "ProductDescription": "I.R.I.S. IRIScan Express 4 Skaner z podajnikiem 1200 x 1200 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXPRESS 4",
+            "ProductDescription": "I.R.I.S. IRIScan Express 4 Sheet-fed scanner 1200 x 1200 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXPRESS 4",
+            "ProductDescription": "I.R.I.S. IRIScan Express 4 Scanner mit Vorlageneinzug 1200 x 1200 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900028"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458510",
+        "Weight": 685.0,
+        "Height": 145.0,
+        "Width": 340.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100067954",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a2ec4e67-7f38-4809-91e3-7a34c27b4062",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T09:48:42Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:12.757000+00:00",
+        "sequence_number": 107311
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBFGA",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Plustek",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SKANER PLUSTEK OPTICFILM 8200I AI",
+            "ProductDescription": "Plustek OpticFilm 8200i Ai Skaner filmów/slajdów 7200 x 7200 DPI Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SKANER PLUSTEK OPTICFILM 8200I AI",
+            "ProductDescription": "Plustek OpticFilm 8200i Ai Film/slide scanner 7200 x 7200 DPI Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SKANER PLUSTEK OPTICFILM 8200I AI",
+            "ProductDescription": "Plustek OpticFilm 8200i Ai Film-/Dia-Scanner 7200 x 7200 DPI Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4042485365331"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLUS-OF-8200I-AI",
+        "Weight": 2790.0,
+        "Height": 194.0,
+        "Width": 378.0,
+        "Depth": 228.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040016",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3ff06b76-67af-4ad2-b1bd-1e34509d4833",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-22T10:46:39Z'",
+          "ModificationDate": "b'2025-07-24T10:45:50Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBFGA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:23.177000+00:00",
+        "sequence_number": 120863
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBFW9",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Plustek",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PLUSTEK SKANER OPTICSLIM 1180",
+            "ProductDescription": "Plustek OpticSlim 1180 Skaner Płaski 1200 x 1200 DPI A3 Srebrny, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PLUSTEK SKANER OPTICSLIM 1180",
+            "ProductDescription": "Plustek OpticSlim 1180 Flatbed scanner 1200 x 1200 DPI A3 Silver, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PLUSTEK SKANER OPTICSLIM 1180",
+            "ProductDescription": "Plustek OpticSlim 1180 Flachbettscanner 1200 x 1200 DPI A3 Silber, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4042485286223"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLUS-OS-1180",
+        "Weight": 6500.0,
+        "Height": 750.0,
+        "Width": 520.0,
+        "Depth": 165.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040062",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "46075478-bd17-4e97-8259-b94e4d81d32e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-25T14:33:10Z'",
+          "ModificationDate": "b'2025-07-24T10:45:52Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBFW9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:23.177000+00:00",
+        "sequence_number": 120872
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0002",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRISCAN SKANER PRZENOŚNY MYSZ SKANUJĄCA MOUSE 2",
+            "ProductDescription": "I.R.I.S. IRISCan Mouse 2 Skaner myszy 300 x 300 DPI A3 Czarny, Niebieski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRISCAN SKANER PRZENOŚNY MYSZ SKANUJĄCA MOUSE 2",
+            "ProductDescription": "I.R.I.S. IRISCan Mouse 2 Mouse scanner 300 x 300 DPI A3 Black, Blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRISCAN SKANER PRZENOŚNY MYSZ SKANUJĄCA MOUSE 2",
+            "ProductDescription": "I.R.I.S. IRISCan Mouse 2 Mausscanner 300 x 300 DPI A3 Schwarz, Blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7650104581245"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458124",
+        "Weight": 320.0,
+        "Height": 180.0,
+        "Width": 200.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066034",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "eee8e137-9540-410b-98e7-c60047286dbe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-09-09T14:43:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:33.341000+00:00",
+        "sequence_number": 130409
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0009",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Skaner ręczny 1200 x 1200 DPI A4 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Handheld scanner 1200 x 1200 DPI A4 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Handheld-Scanner 1200 x 1200 DPI A4 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900103"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458739",
+        "Weight": 385.0,
+        "Height": 140.0,
+        "Width": 320.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066035",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2ab10029-d6c0-4e72-a9d0-b0775948f20a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T09:46:56Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0009'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:33.341000+00:00",
+        "sequence_number": 130410
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCKP1",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Plustek",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner PLUSTEK ePhoto Z300",
+            "ProductDescription": "Plustek ePhoto Z300 Skaner zdjęć 600 x 600 DPI A4 Niebieski"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner PLUSTEK ePhoto Z300",
+            "ProductDescription": "Plustek ePhoto Z300 Photo scanner 600 x 600 DPI A4 Blue"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner PLUSTEK ePhoto Z300",
+            "ProductDescription": "Plustek ePhoto Z300 Fotoscanner 600 x 600 DPI A4 Blau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4042485687105"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLUS-EPHOTO-Z300",
+        "Weight": 2481.0,
+        "Height": 280.0,
+        "Width": 350.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043389",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c3b54acb-914f-4c45-b648-058cb6b7d80b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T13:52:46Z'",
+          "ModificationDate": "b'2025-07-24T10:46:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCKP1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:43.670000+00:00",
+        "sequence_number": 159985
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERCANSKA0039",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Canon LiDE 400 (2996C010AA)",
+            "ProductDescription": "Canon CanoScan Skaner płaski LiDE 400 – czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Canon LiDE 400 (2996C010AA)",
+            "ProductDescription": "Canon CanoScan LiDE 400 flatbed scanner, Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Canon LiDE 400 (2996C010AA)",
+            "ProductDescription": "Canon CanoScan LiDE 400 Flachbettscanner, Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4549292119855"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2996C010AA",
+        "Weight": 2478.0,
+        "Height": 112.0,
+        "Width": 329.0,
+        "Depth": 436.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047184",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8c99332d-2fbb-4298-9a2c-ecc839fff173",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-09T10:24:08Z'",
+          "ModificationDate": "b'2025-07-24T10:47:14Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERCANSKA0039'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:44.793000+00:00",
+        "sequence_number": 107775
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERCANSKA0036",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CANON Skaner CanoScan LiDE 300",
+            "ProductDescription": "Canon CanoScan 2995C010 skaner Skaner Płaski 2400 x 2400 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CANON Skaner CanoScan LiDE 300",
+            "ProductDescription": "Canon CanoScan LiDE 300 flatbed scanner, Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "CANON Skaner CanoScan LiDE 300",
+            "ProductDescription": "Canon CanoScan LiDE 300 Flachbettscanner – Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4549292119770"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2995C010",
+        "Weight": 2435.0,
+        "Height": 110.0,
+        "Width": 435.0,
+        "Depth": 335.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066011",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "CANON Skaner CanoScan LiDE 300"
+      },
+      "properties": {
+        "message_id": "9c56ef36-717b-4fb6-8a77-571730bfb80e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-01-23T16:17:17Z'",
+          "ModificationDate": "b'2025-07-24T10:59:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERCANSKA0036'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:40.933000+00:00",
+        "sequence_number": 121672
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PEREPSSKA0070",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "Epson",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Epson WorkForce ES-50 B11B252401",
+            "ProductDescription": "Epson WorkForce ES-50"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Epson WorkForce ES-50 B11B252401",
+            "ProductDescription": "Epson WorkForce ES-50 Handheld scanner 600 x 600 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Epson WorkForce ES-50 B11B252401",
+            "ProductDescription": "Epson WorkForce ES-50 Handheld-Scanner 600 x 600 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8715946656908"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "B11B252401",
+        "Weight": 570.0,
+        "Height": 145.0,
+        "Width": 330.0,
+        "Depth": 68.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066024",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "db9cd1d5-c7c3-4218-b3f7-cbadcd86c9bb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-10-07T11:10:49Z'",
+          "ModificationDate": "b'2025-07-24T10:54:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PEREPSSKA0070'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:40.933000+00:00",
+        "sequence_number": 121685
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PEREPSSKA0071",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "Epson",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Epson Workforce ES-580W B11B258401",
+            "ProductDescription": "Epson WorkForce ES-580W"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Epson Workforce ES-580W B11B258401",
+            "ProductDescription": "Epson WorkForce ES-580W Sheet-fed scanner 600 x 600 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Epson Workforce ES-580W B11B258401",
+            "ProductDescription": "Epson WorkForce ES-580W Scanner mit Vorlageneinzug 600 x 600 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8715946685984"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "B11B258401",
+        "Weight": 4885.0,
+        "Height": 325.0,
+        "Width": 372.0,
+        "Depth": 270.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066025",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f22cb439-475b-40d0-a33e-0a0bc72aecb9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-03-03T09:56:59Z'",
+          "ModificationDate": "b'2025-07-24T10:54:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PEREPSSKA0071'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:40.933000+00:00",
+        "sequence_number": 121686
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0007",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY ANYWHERE 5 BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 5 Skaner ADF 1200 x 1200 DPI A4 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY ANYWHERE 5 BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 5 ADF scanner 1200 x 1200 DPI A4 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY ANYWHERE 5 BIAŁY",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 5 ADF-Scanner 1200 x 1200 DPI A4 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900172"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458844",
+        "Weight": 615.0,
+        "Height": 140.0,
+        "Width": 320.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048671",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f97df3d-3ab7-43d0-8b56-eb75c590d7d1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-09-09T14:47:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:57.970000+00:00",
+        "sequence_number": 108504
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIRZ6",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Ricoh",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner dokumentów Ricoh ScanSnap iX1300",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner dokumentów Ricoh ScanSnap iX1300",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner dokumentów Ricoh ScanSnap iX1300",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4939761312533"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PA03805-B001",
+        "Weight": 3030.0,
+        "Height": 200.0,
+        "Width": 403.0,
+        "Depth": 182.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079037",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b9b62a4c-7c6f-454f-abe8-938f528c4817",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T07:13:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIRZ6'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:26.190000+00:00",
+        "sequence_number": 104157
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERCANSKA0038",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Canon LiDE 300 (2995C010AA)",
+            "ProductDescription": "Canon CanoScan Skaner płaski LiDE 300 – czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Canon LiDE 300 (2995C010AA)",
+            "ProductDescription": "Canon CanoScan LiDE 300 flatbed scanner, Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Canon LiDE 300 (2995C010AA)",
+            "ProductDescription": "Canon CanoScan LiDE 300 Flachbettscanner – Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4549292119770"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2995C010AA",
+        "Weight": 2414.0,
+        "Height": 112.0,
+        "Width": 329.0,
+        "Depth": 440.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056174",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2e8e8b58-21ba-4c11-b0ed-ec590e658ab3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-09T10:21:54Z'",
+          "ModificationDate": "b'2025-07-24T10:50:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERCANSKA0038'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:01.103000+00:00",
+        "sequence_number": 117808
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAMTY",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Ricoh",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ricoh ScanSnap iX1600 ADF+Ręczny skaner",
+            "ProductDescription": "Ricoh ScanSnap iX1600 ADF+Ręczny skaner pobierający 600 x 600 DPI A4 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ricoh ScanSnap iX1600 ADF+Ręczny skaner",
+            "ProductDescription": "Ricoh ScanSnap iX1600 ADF + Manual feed scanner 600 x 600 DPI A4 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ricoh ScanSnap iX1600 ADF+Ręczny skaner",
+            "ProductDescription": "Ricoh ScanSnap iX1600 ADF + Scanner mit manueller Zuführung 600 x 600 DPI A4 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PA03770-B401",
+        "Weight": 4560.0,
+        "Height": 248.0,
+        "Width": 401.0,
+        "Depth": 245.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083940",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "37b5b8e7-7106-4970-9235-ea1f89b3fac0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T11:11:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAMTY'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:58.525000+00:00",
+        "sequence_number": 122591
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0004",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY PRO 3 WIFI",
+            "ProductDescription": "I.R.I.S. IRIScan Pro 3 Wi-Fi Skaner z podajnikiem 600 x 600 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY PRO 3 WIFI",
+            "ProductDescription": "I.R.I.S. IRIScan Pro 3 Wi-Fi Sheet-fed scanner 600 x 600 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY PRO 3 WIFI",
+            "ProductDescription": "I.R.I.S. IRIScan Pro 3 Wi-Fi Scanner mit Vorlageneinzug 600 x 600 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7650104580712"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458071",
+        "Weight": 1240.0,
+        "Height": 170.0,
+        "Width": 350.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050435",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "45a0ba12-8145-4610-acc5-6b2c57fe59a5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-09-09T14:46:44Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:12.072000+00:00",
+        "sequence_number": 137827
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRACP6",
+        "ProductVersion": "1.5",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner ręczny I.R.I.S. IRIScan Anywhere 6 Wifi",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 6 Wifi Skaner ręczny 1200 x 1200 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner ręczny I.R.I.S. IRIScan Anywhere 6 Wifi",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 6 Wifi Handheld scanner 1200 x 1200 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner ręczny I.R.I.S. IRIScan Anywhere 6 Wifi",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 6 Wifi Handheld-Scanner 1200 x 1200 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900950"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "461855",
+        "Weight": 835.0,
+        "Height": 68.0,
+        "Width": 355.0,
+        "Depth": 165.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035183",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fe0b1bb6-a376-4602-ac1b-5d872fff7a2b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-04T15:01:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRACP6'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:30.059000+00:00",
+        "sequence_number": 110173
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRARLJ",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "I.R.I.S. IRISCan Desk 6 Business A3 Czarny",
+            "ProductDescription": "I.R.I.S. IRISCan Desk 6 Business A3 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "I.R.I.S. IRISCan Desk 6 Business A3 Czarny",
+            "ProductDescription": "I.R.I.S. IRISCan Desk 6 Business A3 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "I.R.I.S. IRISCan Desk 6 Business A3 Czarny",
+            "ProductDescription": "I.R.I.S. IRISCan Desk 6 Business A3 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079901025"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "462496",
+        "Weight": 2524.0,
+        "Height": 150.0,
+        "Width": 463.0,
+        "Depth": 197.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037821",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "aa92f0cd-9006-42f1-895e-97cb4f5ca636",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-03T15:29:08Z'",
+          "ModificationDate": "b'2025-08-07T08:18:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRARLJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:03.527000+00:00",
+        "sequence_number": 162346
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR4215",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS IRIScan Desk 5 Skaner aparatu biurkowego",
+            "ProductDescription": "I.R.I.S. IRIScan Desk 5 aparat do dokumentów Czarny, Srebrny CMOS USB 2.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS IRIScan Desk 5 Skaner aparatu biurkowego",
+            "ProductDescription": "IRIS IRIScan  Desk 5 Desktop camera scanner"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS IRIScan Desk 5 Skaner aparatu biurkowego",
+            "ProductDescription": "Iriscan Desk 5 - Digitale Dokumentenkamera - Farbe - 8 MP - 3264 x 2448 - USB 2.0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900820"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "459524",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100033721",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1cf9d822-4106-4a23-8229-3a8d0c686734",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-21T23:38:37Z'",
+          "ModificationDate": "b'2025-07-24T10:43:54Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR4215'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:07.465000+00:00",
+        "sequence_number": 111012
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0015",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 CZERWONY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Skaner ręczny 1200 x 1200 DPI A4 Czerwony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 CZERWONY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Handheld scanner 1200 x 1200 DPI A4 Red"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 CZERWONY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Handheld-Scanner 1200 x 1200 DPI A4 Rot"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900110"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458740",
+        "Weight": 385.0,
+        "Height": 140.0,
+        "Width": 310.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053423",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6218331b-706c-41f4-9f96-b3e1b2be6f10",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T10:31:38Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:46.326000+00:00",
+        "sequence_number": 139555
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDZ48",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Canon LiDE 400 (2996C010AA)",
+            "ProductDescription": "Canon CanoScan Skaner płaski LiDE 400 – czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Canon LiDE 400 (2996C010AA)",
+            "ProductDescription": "Canon CanoScan LiDE 400 flatbed scanner, Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Canon LiDE 400 (2996C010AA)",
+            "ProductDescription": "Canon CanoScan LiDE 400 Flachbettscanner, Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4549292119855"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2996C010AA",
+        "Weight": 2500.0,
+        "Height": 105.0,
+        "Width": 435.0,
+        "Depth": 325.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079477",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "af31f4cf-3612-4851-8cd4-c08e3b92c907",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-29T08:37:11Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDZ48'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:38.870000+00:00",
+        "sequence_number": 154056
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0022",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIScan Desk 6",
+            "ProductDescription": "Skaner dokumentowy A4 IRISCAN DESK 6 300 DPI Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIScan Desk 6",
+            "ProductDescription": "Document scanner A4 IRISCAN DESK 6 300 DPI Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIScan Desk 6",
+            "ProductDescription": "Dokumentenscanner A4 IRISCAN DESK 6 300 DPI Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900967"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "462005",
+        "Weight": 1692.0,
+        "Height": 135.0,
+        "Width": 388.0,
+        "Depth": 156.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048239",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IRIScan Desk 6"
+      },
+      "properties": {
+        "message_id": "072b0a14-4ae3-4abe-a285-8009301a2081",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-18T22:18:52Z'",
+          "ModificationDate": "b'2025-07-24T10:47:43Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:04.181000+00:00",
+        "sequence_number": 115979
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PEREPSSKA0075",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "Epson",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Epson Workforce ES-500WII B11B263401",
+            "ProductDescription": "Epson WorkForce ES-500WII"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Epson Workforce ES-500WII B11B263401",
+            "ProductDescription": "Epson WorkForce ES-500WII Sheet-fed scanner 600 x 600 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Epson Workforce ES-500WII B11B263401",
+            "ProductDescription": "Epson WorkForce ES-500WII Scanner mit Vorlageneinzug 600 x 600 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8715946686028"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "B11B263401",
+        "Weight": 4555.0,
+        "Height": 250.0,
+        "Width": 370.0,
+        "Depth": 280.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100048301",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c864eb24-63bb-4b98-83d3-06c427a8959f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-04T16:28:39Z'",
+          "ModificationDate": "b'2025-07-24T10:47:45Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PEREPSSKA0075'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:04.181000+00:00",
+        "sequence_number": 116002
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAM69",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner przenośny IRIS IRISCan Book 5 Biały",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Skaner ręczny 1200 x 1200 DPI A4 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner przenośny IRIS IRISCan Book 5 Biały",
+            "ProductDescription": "IRIS IRIScan Book 5 - handholdt scan"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner przenośny IRIS IRISCan Book 5 Biały",
+            "ProductDescription": "IRIS IRIScan Book 5 - handholdt scan"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900103"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458739",
+        "Weight": 404.0,
+        "Height": 59.0,
+        "Width": 316.0,
+        "Depth": 144.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037040",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d590b3cd-4c9f-4dff-add8-474415483ded",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-30T10:50:45Z'",
+          "ModificationDate": "b'2025-07-24T11:02:03Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAM69'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:21.669000+00:00",
+        "sequence_number": 111761
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAMYA",
+        "ProductVersion": "1.5",
+        "ProductType": "Skanery",
+        "Brand": "Ricoh",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ricoh fi-8040 ADF+Ręczny skaner pobierający",
+            "ProductDescription": "Ricoh fi-8040 ADF+Ręczny skaner pobierający 600 x 600 DPI A4 Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ricoh fi-8040 ADF+Ręczny skaner pobierający",
+            "ProductDescription": "Ricoh fi-8040 ADF + Manual feed scanner 600 x 600 DPI A4 Black, Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ricoh fi-8040 ADF+Ręczny skaner pobierający",
+            "ProductDescription": "Ricoh fi-8040 ADF + Scanner mit manueller Zuführung 600 x 600 DPI A4 Schwarz, Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4939761313615"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2303345",
+        "Weight": 4370.0,
+        "Height": 245.0,
+        "Width": 405.0,
+        "Depth": 235.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037202",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "37445557-7bc7-477f-8b0b-b7b4e18168fd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-27T12:12:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAMYA'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:23.482000+00:00",
+        "sequence_number": 111849
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0011",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXECUTIVE 7",
+            "ProductDescription": "I.R.I.S. IRISPen Executive 7 Scanner w piórze Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXECUTIVE 7",
+            "ProductDescription": "I.R.I.S. IRISPen Executive 7 Pen scanner Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXECUTIVE 7",
+            "ProductDescription": "I.R.I.S. IRISPen Executive 7 Pen-Scanner Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7650104578870"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "457887",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054387",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cf3f3057-70ee-42aa-9639-c221542873f8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T09:48:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:56.562000+00:00",
+        "sequence_number": 140102
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0010",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXECUTIVE 4 DUPLEX",
+            "ProductDescription": "I.R.I.S. IRIScan Executive 4 600 x 600 DPI Skaner z podajnikiem Czarny A4"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXECUTIVE 4 DUPLEX",
+            "ProductDescription": "I.R.I.S. IRIScan Executive 4 600 x 600 DPI Sheet-fed scanner Black A4"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY EXECUTIVE 4 DUPLEX",
+            "ProductDescription": "I.R.I.S. IRIScan Executive 4 600 x 600 DPI Scanner mit Vorlageneinzug Schwarz A4"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900097"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458737",
+        "Weight": 835.0,
+        "Height": 145.0,
+        "Width": 340.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071910",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1d02e881-1ad8-4021-bc67-541d11ea0542",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T09:47:54Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:35.171000+00:00",
+        "sequence_number": 112415
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0001",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 WIFI",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Wi-Fi Skaner ręczny 1200 x 1200 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 WIFI",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Wi-Fi Handheld scanner 1200 x 1200 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 WIFI",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Wi-Fi Handheld-Scanner 1200 x 1200 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900134"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458742",
+        "Weight": 395.0,
+        "Height": 140.0,
+        "Width": 320.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052071",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ce30a0a4-aee7-4c8e-84c0-9ebf89c9ce54",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-09-05T11:31:55Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:44.638000+00:00",
+        "sequence_number": 125983
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAXYU",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Canon image FORMULA DR-C230 Skaner",
+            "ProductDescription": "Canon imageFORMULA DR-C230 Skaner z podajnikiem 600 x 600 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Canon image FORMULA DR-C230 Skaner",
+            "ProductDescription": "Canon imageFORMULA DR-C230 Sheet-fed scanner 600 x 600 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Canon image FORMULA DR-C230 Skaner",
+            "ProductDescription": "Canon imageFORMULA DR-C230 Scanner mit Vorlageneinzug 600 x 600 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4528472107882"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "2646C003",
+        "Weight": 4680.0,
+        "Height": 320.0,
+        "Width": 370.0,
+        "Depth": 245.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055125",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "adb4cc1e-4909-48ef-97b8-e6cf7ed1b77f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-10T15:54:01Z'",
+          "ModificationDate": "b'2025-07-24T10:50:18Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAXYU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:01.376000+00:00",
+        "sequence_number": 142003
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAN25",
+        "ProductVersion": "1.5",
+        "ProductType": "Skanery",
+        "Brand": "Fujitsu",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FUJITSU-RICOH skaner Fi-8170 A4",
+            "ProductDescription": "Ricoh fi-8170 ADF+Ręczny skaner pobierający 600 x 600 DPI A4 Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FUJITSU-RICOH skaner Fi-8170 A4",
+            "ProductDescription": "Ricoh fi-8170 ADF + Manual feed scanner 600 x 600 DPI A4 Black, Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FUJITSU-RICOH skaner Fi-8170 A4",
+            "ProductDescription": "Ricoh fi-8170 ADF + Scanner mit manueller Zuführung 600 x 600 DPI A4 Schwarz, Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4939761312106"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PA03810-B051",
+        "Weight": 5330.0,
+        "Height": 245.0,
+        "Width": 400.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037218",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ca5a2206-27c3-48be-addf-e9c4c7c3cbb6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-28T11:16:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAN25'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:32.085000+00:00",
+        "sequence_number": 114253
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAN32",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Fujitsu",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Fujitsu fi-7030 Skaner ADF 600 x 600 DPI A4 Biały",
+            "ProductDescription": "Fujitsu fi-7030 Skaner ADF 600 x 600 DPI A4 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Fujitsu fi-7030 Skaner ADF 600 x 600 DPI A4 Biały",
+            "ProductDescription": "Fujitsu fi-7030 ADF scanner 600 x 600 DPI A4 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Fujitsu fi-7030 Skaner ADF 600 x 600 DPI A4 Biały",
+            "ProductDescription": "Fujitsu fi-7030 ADF-Scanner 600 x 600 DPI A4 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4939761308956"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PA03750-B001",
+        "Weight": 3985.0,
+        "Height": 245.0,
+        "Width": 395.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037220",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f7382c6e-df53-4a25-8df5-b09e5bb5f5bc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-09T13:20:39Z'",
+          "ModificationDate": "b'2025-07-24T10:45:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAN32'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:32.085000+00:00",
+        "sequence_number": 114255
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAN69",
+        "ProductVersion": "1.5",
+        "ProductType": "Skanery",
+        "Brand": "Ricoh",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ricoh fi 8150 - skaner dokumentów - biurko",
+            "ProductDescription": "Ricoh FI-8150 ADF+Ręczny skaner pobierający 600 x 600 DPI A4 Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ricoh fi 8150 - skaner dokumentów - biurko",
+            "ProductDescription": "Ricoh FI-8150 ADF + Manual feed scanner 600 x 600 DPI A4 Black, Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ricoh fi 8150 - skaner dokumentów - biurko",
+            "ProductDescription": "Ricoh FI-8150 ADF + Scanner mit manueller Zuführung 600 x 600 DPI A4 Schwarz, Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4939761312151"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PA03810-B101",
+        "Weight": 5300.0,
+        "Height": 250.0,
+        "Width": 400.0,
+        "Depth": 265.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100037230",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "68194c17-8a87-46cf-8692-1fd1e142324a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-27T16:18:30Z'",
+          "ModificationDate": "b'2025-09-30T13:41:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAN69'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:32.928000+00:00",
+        "sequence_number": 114265
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAXUW",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Canon imageFORMULA DR-C225 II ADF+Ręczny skaner",
+            "ProductDescription": "Canon imageFORMULA DR-C225 II ADF+Ręczny skaner pobierający 600 x 600 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Canon imageFORMULA DR-C225 II ADF+Ręczny skaner",
+            "ProductDescription": "Canon imageFORMULA DR-C225 II - dokume"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Canon imageFORMULA DR-C225 II ADF+Ręczny skaner",
+            "ProductDescription": "Canon imageFORMULA DR-C225 II Dokumentenscanner 25 S./Min. USB 2.0 ADF Duplex"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4528472108384"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "3258C003",
+        "Weight": 4150.0,
+        "Height": 245.0,
+        "Width": 385.0,
+        "Depth": 310.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070867",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "132d2f79-f1bf-4274-893d-3a9dbb1011af",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-06T10:13:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAXUW'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:14.438000+00:00",
+        "sequence_number": 127633
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJFA4",
+        "ProductVersion": "1.1",
+        "ProductType": "Skanery",
+        "Brand": "Hewlett-Packard",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Toner HP 331X Wydajność (W1331X)",
+            "ProductDescription": "HP Czarny oryginalny toner 331X o dużej wydajności"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Toner HP 331X Wydajność (W1331X)",
+            "ProductDescription": "HP 331X High Yield Black Original Laser Toner Cartridge"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Toner HP 331X Wydajność (W1331X)",
+            "ProductDescription": "HP 331X Schwarz Original Laser Tonerkartusche mit hoher Reichweite"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "193905925926"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "W1331X",
+        "Weight": 1507.0,
+        "Height": 200.0,
+        "Width": 160.0,
+        "Depth": 350.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094291",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9d3c1d80-2134-4086-a415-775a8692defa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-05T15:58:54Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJFA4'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:46.626000+00:00",
+        "sequence_number": 172212
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYBM",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Epson",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Epson WorkForce DS-1630",
+            "ProductDescription": "Epson WorkForce DS-1630"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Epson WorkForce DS-1630",
+            "ProductDescription": "Epson WorkForce DS-1630 - dokumentscan"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Epson WorkForce DS-1630",
+            "ProductDescription": "Epson WorkForce DS-1630 - dokumentscan"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8715946605630"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "B11B239401",
+        "Weight": 4800.0,
+        "Height": 510.0,
+        "Width": 400.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038833",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0f6127ff-90e3-4b3f-9616-8d0eaca74016",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-09T17:49:34Z'",
+          "ModificationDate": "b'2025-07-24T10:35:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYBM'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:39.132000+00:00",
+        "sequence_number": 114614
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYBP",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Epson",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner fotoEPSON Perfection V600 B11B198033",
+            "ProductDescription": "Epson Perfection V600 Photo"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner fotoEPSON Perfection V600 B11B198033",
+            "ProductDescription": "Epson Perfection V600 Photo - flatbed-"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner fotoEPSON Perfection V600 B11B198033",
+            "ProductDescription": "Epson Perfection V600 Photo - Pritsche-"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8715946448602"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "B11B198033",
+        "Weight": 10000.0,
+        "Height": 580.0,
+        "Width": 380.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038836",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ed2c0d38-0af2-40da-ae73-19ef4a1922cd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-09T09:37:36Z'",
+          "ModificationDate": "b'2025-07-24T10:35:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYBP'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:39.132000+00:00",
+        "sequence_number": 114617
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBFLD",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Plustek",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PLUSTEK OPTICSLIM 2610 PLUS",
+            "ProductDescription": "PLUSTEK OPTICSLIM 2610  PLUS"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PLUSTEK OPTICSLIM 2610 PLUS",
+            "ProductDescription": "PLUSTEK OPTICSLIM 2610 PLUS"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PLUSTEK OPTICSLIM 2610 PLUS",
+            "ProductDescription": "PLUSTEK OPTICSLIM 2610 PLUS"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4042485288869"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLUS-OS-2610-PLUS",
+        "Weight": 2110.0,
+        "Height": 315.0,
+        "Width": 455.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040038",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c47205ce-2c71-4a37-acc4-302a259d89e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-30T12:16:14Z'",
+          "ModificationDate": "b'2025-07-24T10:45:51Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBFLD'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:39.991000+00:00",
+        "sequence_number": 114669
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBFN9",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Plustek",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SKANER PLUSTEK OPTICFILM 8200I SE",
+            "ProductDescription": "Plustek OpticFilm 8200i SE Skaner filmów/slajdów 7200 x 7200 DPI Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SKANER PLUSTEK OPTICFILM 8200I SE",
+            "ProductDescription": "Plustek OpticFilm 8200i SE Film/slide scanner 7200 x 7200 DPI Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SKANER PLUSTEK OPTICFILM 8200I SE",
+            "ProductDescription": "Plustek OpticFilm 8200i SE Film-/Dia-Scanner 7200 x 7200 DPI Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4042485365348"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PLUS-OF-8200I-SE",
+        "Weight": 3540.0,
+        "Height": 210.0,
+        "Width": 435.0,
+        "Depth": 260.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040043",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "152b7426-a858-4929-ab9b-84db494b8ced",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-03T07:14:03Z'",
+          "ModificationDate": "b'2025-07-24T10:45:51Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBFN9'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:39.991000+00:00",
+        "sequence_number": 114674
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCLNA",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Kodak",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kodak E1030 Skaner ADF 600 x 600 DPI A4",
+            "ProductDescription": "Kodak E1030 Skaner ADF 600 x 600 DPI A4 Czarny, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kodak E1030 Skaner ADF 600 x 600 DPI A4",
+            "ProductDescription": "Kodak E1030 ADF scanner 600 x 600 DPI A4 Black, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kodak E1030 Skaner ADF 600 x 600 DPI A4",
+            "ProductDescription": "Kodak E1030 ADF-Scanner 600 x 600 DPI A4 Schwarz, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "041778011874"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "8011876",
+        "Weight": 5000.0,
+        "Height": 285.0,
+        "Width": 255.0,
+        "Depth": 365.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "US",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100074965",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0d7f6a7b-3d01-40b8-b091-06869f747cfd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-06T11:13:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCLNA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:23.284000+00:00",
+        "sequence_number": 143117
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCLY2",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Brother",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Brother ADS-1300 Skaner ADF 1200 x 1200 DPI A4",
+            "ProductDescription": "Brother ADS-1300 Skaner ADF 1200 x 1200 DPI A4 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Brother ADS-1300 Skaner ADF 1200 x 1200 DPI A4",
+            "ProductDescription": "Brother ADS-1300 ADF scanner 1200 x 1200 DPI A4 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Brother ADS-1300 Skaner ADF 1200 x 1200 DPI A4",
+            "ProductDescription": "Brother ADS-1300 ADF-Scanner 1200 x 1200 DPI A4 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4977766832212"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ADS1300UN1",
+        "Weight": 2050.0,
+        "Height": 200.0,
+        "Width": 365.0,
+        "Depth": 160.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043517",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "99b0662b-4d52-4a0b-afe2-63f2f3aec44c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-18T15:23:17Z'",
+          "ModificationDate": "b'2025-07-24T10:34:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCLY2'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:44.851000+00:00",
+        "sequence_number": 114950
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCSMX",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Brother",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Brother ADS-1700W Skaner",
+            "ProductDescription": "Brother ADS-1700W skaner Skaner ADF 600 x 600 DPI A4 Czarny, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Brother ADS-1700W Skaner",
+            "ProductDescription": "Brother ADS-1700W Scanner ADF Scanner 600 x 600 DPI A4 Black,White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Brother ADS-1700W Skaner",
+            "ProductDescription": "Brother ADS-1700W Scanner ADF Scanner 600 x 600 DPI A4 Schwarz, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4977766792226"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ADS1700WUN1",
+        "Weight": 2015.0,
+        "Height": 200.0,
+        "Width": 380.0,
+        "Depth": 157.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044083",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9c7cb9ea-bf7d-49b0-87f0-6b910447548a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-02T14:00:30Z'",
+          "ModificationDate": "b'2025-07-24T11:02:27Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCSMX'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:48.241000+00:00",
+        "sequence_number": 115124
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGKD1",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Fujitsu",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ricoh fi-8270 ADF+Ręczny skaner pobierający",
+            "ProductDescription": "Ricoh fi-8270 ADF+Ręczny skaner pobierający 600 x 600 DPI A4 Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ricoh fi-8270 ADF+Ręczny skaner pobierający",
+            "ProductDescription": "Ricoh fi-8270 ADF + Manual feed scanner 600 x 600 DPI A4 Black, Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ricoh fi-8270 ADF+Ręczny skaner pobierający",
+            "ProductDescription": "Ricoh fi-8270 ADF + Scanner mit manueller Zuführung 600 x 600 DPI A4 Schwarz, Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4939761312281"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PA03810-B551",
+        "Weight": 12500.0,
+        "Height": 365.0,
+        "Width": 690.0,
+        "Depth": 500.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087420",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "602e52c1-2728-4b6a-aa5c-4e8000dd600d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-12T12:14:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGKD1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:36.006000+00:00",
+        "sequence_number": 158083
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGKD2",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Canon imageFORMULA DR-M160II Skaner ADF",
+            "ProductDescription": "Canon imageFORMULA DR-M160II Skaner ADF 600 x 600 DPI A4 Czarny, Szary"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Canon imageFORMULA DR-M160II Skaner ADF",
+            "ProductDescription": "Canon imageFORMULA DR-M160II ADF scanner 600 x 600 DPI A4 Black, Grey"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Canon imageFORMULA DR-M160II Skaner ADF",
+            "ProductDescription": "Canon imageFORMULA DR-M160II ADF-Scanner 600 x 600 DPI A4 Schwarz, Grau"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4528472106274"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9725B003",
+        "Weight": 5135.0,
+        "Height": 384.0,
+        "Width": 335.0,
+        "Depth": 249.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055597",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4abd85d8-3077-44d7-a766-22b7170a83d8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-26T09:34:11Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGKD2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:58.858000+00:00",
+        "sequence_number": 160706
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGKEA",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Canon imageFORMULA DR-F120 Skaner płaski/ADF",
+            "ProductDescription": "Canon imageFORMULA DR-F120 Skaner płaski/ADF 600 x 600 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Canon imageFORMULA DR-F120 Skaner płaski/ADF",
+            "ProductDescription": "Canon imageFORMULA DR-F120 Flatbed & ADF scanner 600 x 600 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Canon imageFORMULA DR-F120 Skaner płaski/ADF",
+            "ProductDescription": "Canon imageFORMULA DR-F120 Flachbett- & ADF-Scanner 600 x 600 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4528472106588"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "9017B003",
+        "Weight": 5894.0,
+        "Height": 438.0,
+        "Width": 193.0,
+        "Depth": 558.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "JP",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060570",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0386543b-7d1b-4987-8677-928fb6fae968",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-05T12:53:29Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGKEA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:15.119000+00:00",
+        "sequence_number": 118554
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERCANSKA0040",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "Canon",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner Canon imageFORMULA DR-S350NW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner Canon imageFORMULA DR-S350NW",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner Canon imageFORMULA DR-S350NW",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6897C003",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090964",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "31d30a06-f7d7-4446-a7f2-33c1430407c5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T10:38:20Z'",
+          "ModificationDate": "b'2025-07-24T11:11:12Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERCANSKA0040'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:57.280000+00:00",
+        "sequence_number": 131625
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIRZ7",
+        "ProductVersion": "1.1",
+        "ProductType": "Skanery",
+        "Brand": "Fujitsu",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Skaner dokumentów Ricoh ScanSnap iX1400",
+            "ProductDescription": "Ricoh ScanSnap iX1400 Skaner ADF 600 x 600 DPI A4 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Skaner dokumentów Ricoh ScanSnap iX1400",
+            "ProductDescription": "Ricoh ScanSnap iX1400 ADF scanner 600 x 600 DPI A4 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Skaner dokumentów Ricoh ScanSnap iX1400",
+            "ProductDescription": "Ricoh ScanSnap iX1400 ADF-Scanner 600 x 600 DPI A4 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PA03820-B001",
+        "Weight": 5141.0,
+        "Height": 353.0,
+        "Width": 298.0,
+        "Depth": 500.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091042",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "38cc5647-572d-4b30-820b-5969520b53dd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-18T12:37:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIRZ7'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:58.218000+00:00",
+        "sequence_number": 131703
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0014",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY ANYWHERE 5 CZERWONY",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 5 Skaner ADF 1200 x 1200 DPI A4 Czerwony"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY ANYWHERE 5 CZERWONY",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 5 ADF scanner 1200 x 1200 DPI A4 Red"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY ANYWHERE 5 CZERWONY",
+            "ProductDescription": "I.R.I.S. IRIScan Anywhere 5 ADF-Scanner 1200 x 1200 DPI A4 Rot"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900165"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458843",
+        "Weight": 615.0,
+        "Height": 140.0,
+        "Width": 325.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062115",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "45c198f2-1c43-4291-90d5-a5d752e27c21",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T09:51:08Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0014'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:22.635000+00:00",
+        "sequence_number": 118897
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0016",
+        "ProductVersion": "1.4",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 TURKUSOWY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Skaner ręczny 1200 x 1200 DPI A4 Turkusowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 TURKUSOWY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Handheld scanner 1200 x 1200 DPI A4 Turquoise"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRIS SKANER PRZENOŚNY BOOK 5 TURKUSOWY",
+            "ProductDescription": "I.R.I.S. IRIScan Book 5 Handheld-Scanner 1200 x 1200 DPI A4 Türkis"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900127"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "458741",
+        "Weight": 380.0,
+        "Height": 140.0,
+        "Width": 310.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": "BE",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062116",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2fb97f7b-1af3-4427-96b3-ad9f0497f072",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-10-02T10:32:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:09Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0016'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:22.635000+00:00",
+        "sequence_number": 118898
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "PERIRSSKA0017",
+        "ProductVersion": "1.3",
+        "ProductType": "Skanery",
+        "Brand": "IRIS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "IRISCAN SKANER PRO 5 CZARNY Z PODAJNIKIEM",
+            "ProductDescription": "I.R.I.S. IRIScan Pro 5 Skaner ADF 600 x 600 DPI A4 Czarny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "IRISCAN SKANER PRO 5 CZARNY Z PODAJNIKIEM",
+            "ProductDescription": "I.R.I.S. IRIScan Pro 5 ADF scanner 600 x 600 DPI A4 Black"
+          },
+          {
+            "Language": "de",
+            "ProductName": "IRISCAN SKANER PRO 5 CZARNY Z PODAJNIKIEM",
+            "ProductDescription": "I.R.I.S. IRIScan Pro 5 ADF-Scanner 600 x 600 DPI A4 Schwarz"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5420079900721"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84716070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "459035",
+        "Weight": 2240.0,
+        "Height": 170.0,
+        "Width": 180.0,
+        "Depth": 380.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.20.16.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 7,
+            "CategoryCollection": [
+              {
+                "CategoryId": 57259
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52674
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54564
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062117",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "IRISCAN SKANER PRO 5 CZARNY Z PODAJNIKIEM"
+      },
+      "properties": {
+        "message_id": "b94e4665-4873-48b7-b6d9-e1eb7882dd23",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-12-18T15:58:12Z'",
+          "ModificationDate": "b'2025-07-24T10:53:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'PERIRSSKA0017'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:00:22.635000+00:00",
+        "sequence_number": 118899
+      }
+    }
+  ]
+}

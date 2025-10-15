@@ -1,0 +1,1396 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "LIASPNDML0002",
+        "ProductVersion": "1.0",
+        "ProductType": "Domki dla lalek",
+        "Brand": "SPIN MASTER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Koci Domek Gabi - Tęczowy domek Gabi 6071380",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Koci Domek Gabi - Tęczowy domek Gabi 6071380",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Koci Domek Gabi - Tęczowy domek Gabi 6071380",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "681147039674"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "681147039674",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156635",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Koci Domek Gabi - Tęczowy domek Gabi Zestaw z akcesoriami Dźwięk 6071380"
+      },
+      "properties": {
+        "message_id": "2986aa07-c659-49bd-8973-64baa9f8cfe4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-07T14:14:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIASPNDML0002'"
+        },
+        "enqueued_time_utc": "2025-10-07 12:29:02.699000+00:00",
+        "sequence_number": 174049
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "LIASPNDML0003",
+        "ProductVersion": "1.0",
+        "ProductType": "Domki dla lalek",
+        "Brand": "SPIN MASTER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gabby's Dollhouse Purrfect Dollhouse Rainbow",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gabby's Dollhouse Purrfect Dollhouse Rainbow",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gabby's Dollhouse Purrfect Dollhouse Rainbow",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "681147027183"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "681147027183",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100156636",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Zestaw zabawek Spin Master Gabby's Dollhouse Purrfect Dollhouse Rainbow"
+      },
+      "properties": {
+        "message_id": "1a87a8d5-f8cd-4989-b760-8650df483b4a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-10-07T14:14:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'LIASPNDML0003'"
+        },
+        "enqueued_time_utc": "2025-10-07 12:29:02.699000+00:00",
+        "sequence_number": 174050
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD011",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "PLAYMOBIL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PLAYMOBIL 70986 Dodatkowe piętro domu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PLAYMOBIL 70986 Dodatkowe piętro domu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PLAYMOBIL 70986 Dodatkowe piętro domu",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4008789709868"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030035",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1802773",
+        "Weight": 3360.0,
+        "Height": 356.0,
+        "Width": 508.0,
+        "Depth": 229.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044599",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9066f550-7db3-4e34-8e87-99a5f99c17e9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-26T07:23:35Z'",
+          "ModificationDate": "b'2025-06-04T12:20:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD011'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:56.747000+00:00",
+        "sequence_number": 148482
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD058",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "SPIN MASTER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Koci Domek Gabi: Magiczne mebelki 6069300",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Koci Domek Gabi: Magiczne mebelki 6069300",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Koci Domek Gabi: Magiczne mebelki 6069300",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "778988452745"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "528984",
+        "Weight": 388.0,
+        "Height": 90.0,
+        "Width": 255.0,
+        "Depth": 190.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044611",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9558bf51-852b-4160-90bd-16b161cc7874",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T19:49:48Z'",
+          "ModificationDate": "b'2025-06-04T12:20:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD058'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:56.747000+00:00",
+        "sequence_number": 148494
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD421",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PLAYMOBIL domek wakacyjny 9527",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PLAYMOBIL domek wakacyjny 9527",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PLAYMOBIL domek wakacyjny 9527",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4008789095275"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "238020",
+        "Weight": 3360.0,
+        "Height": 356.0,
+        "Width": 508.0,
+        "Depth": 229.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044699",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "756a35ec-3c3b-4fec-be8b-2e9655f7f0df",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-27T16:20:16Z'",
+          "ModificationDate": "b'2025-06-04T12:20:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD421'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:57.825000+00:00",
+        "sequence_number": 148545
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRD448",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "PLAYMOBIL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PLAYMOBIL Przedszkole Tęcza 4+ 70280",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PLAYMOBIL Przedszkole Tęcza 4+ 70280",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "PLAYMOBIL Przedszkole Tęcza 4+ 70280",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4008789702807"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "53271",
+        "Weight": 3360.0,
+        "Height": 356.0,
+        "Width": 508.0,
+        "Depth": 229.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044706",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3cb58218-c445-4c5f-a6ea-a2397d9b3f16",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T07:23:15Z'",
+          "ModificationDate": "b'2025-06-04T12:20:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRD448'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:53.537000+00:00",
+        "sequence_number": 106293
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRB158",
+        "ProductVersion": "1.3",
+        "ProductType": "Domki dla lalek",
+        "Brand": "MATTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PP Wakacyjny Kurort Walizka Hkv43 Wb1",
+            "ProductDescription": "Polly Pocket HKV43 akcesorium dla lalek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PP Wakacyjny Kurort Walizka Hkv43 Wb1",
+            "ProductDescription": "Polly Pocket POLLYVILLE RESORT ROLL AWAY Playset"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PP Wakacyjny Kurort Walizka Hkv43 Wb1",
+            "ProductDescription": "Polly Pocket HKV43 Puppenzubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "194735109067"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HKV43",
+        "Weight": 2230.0,
+        "Height": 355.0,
+        "Width": 297.0,
+        "Depth": 218.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039236",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ac8104a4-40c7-455e-a3cb-83fb893e8d83",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-14T11:13:47Z'",
+          "ModificationDate": "b'2025-09-30T13:41:26Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRB158'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:20.908000+00:00",
+        "sequence_number": 164748
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRB218",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "MATTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ENCH Miejski Domek Kawiarenka HHC18",
+            "ProductDescription": "Enchantimals City Tails HHC18 lalka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ENCH Miejski Domek Kawiarenka HHC18",
+            "ProductDescription": "Enchantimals City Tails TOWNHOUSE & CAFÉ Playset"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ENCH Miejski Domek Kawiarenka HHC18",
+            "ProductDescription": "Enchantimals City Tails HHC18 Puppe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "194735063161"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HHC18",
+        "Weight": 2188.0,
+        "Height": 115.0,
+        "Width": 560.0,
+        "Depth": 385.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039248",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c0cdd045-f6e8-421a-942a-0f60b544fbd7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-22T22:31:36Z'",
+          "ModificationDate": "b'2025-06-04T12:17:15Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRB218'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:21.779000+00:00",
+        "sequence_number": 164760
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRB855",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "MATTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PLP Imprezka Pieska Zestaw HKV52",
+            "ProductDescription": "Polly Pocket HKV52 akcesorium dla lalek Zestaw do zabawy lalkami"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PLP Imprezka Pieska Zestaw HKV52",
+            "ProductDescription": "Polly Pocket Party Doggy set HKV52 MATTEL p2"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PLP Imprezka Pieska Zestaw HKV52",
+            "ProductDescription": "Polly Pocket HKV52 Puppenzubehör Puppen-Spielset"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "194735109074"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HKV52",
+        "Weight": 680.0,
+        "Height": 245.0,
+        "Width": 315.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039354",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4f2cd0ee-7672-4873-9360-466818837065",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-13T13:00:06Z'",
+          "ModificationDate": "b'2025-06-04T12:17:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRB855'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:16.536000+00:00",
+        "sequence_number": 120531
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRB938",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "TM Toys",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "TM TOYS  PEPPA - DOMEK PEPPY + OGRÓD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "TM TOYS  PEPPA - DOMEK PEPPY + OGRÓD",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "TM TOYS  PEPPA - DOMEK PEPPY + OGRÓD",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5029736061562"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030049",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "?",
+        "Weight": 710.0,
+        "Height": 320.0,
+        "Width": 220.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.12.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039368",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "be26f3fd-cc7d-4edf-8c32-671e8cd24446",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-13T13:01:16Z'",
+          "ModificationDate": "b'2025-06-04T12:17:19Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRB938'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:16.536000+00:00",
+        "sequence_number": 120545
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBEI8",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "MATTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Mattel Barbie Zestaw Supermarket + Lalka FRP01",
+            "ProductDescription": "Mattel Games FRP01 lalka"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Mattel Barbie Zestaw Supermarket + Lalka FRP01",
+            "ProductDescription": "Mattel Games Barbie Doll and Playset"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Mattel Barbie Zestaw Supermarket + Lalka FRP01",
+            "ProductDescription": "Mattel Games FRP01 Puppe"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "887961632309"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "?",
+        "Weight": 996.0,
+        "Height": 325.0,
+        "Width": 395.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100039716",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3459974c-67a9-4400-ac86-07557142108c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-13T07:16:48Z'",
+          "ModificationDate": "b'2025-06-04T12:17:31Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBEI8'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:19.411000+00:00",
+        "sequence_number": 120709
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRBHP1",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "MATTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "PP FLAMINGOWA MYJNIA ZEST HHJ05",
+            "ProductDescription": "Polly Pocket HHJ05 zestaw zabawkowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "PP FLAMINGOWA MYJNIA ZEST HHJ05",
+            "ProductDescription": "Polly Pocket POLLYVILLE FLAMINGO FUN CAR WASH Playset"
+          },
+          {
+            "Language": "de",
+            "ProductName": "PP FLAMINGOWA MYJNIA ZEST HHJ05",
+            "ProductDescription": "Polly Pocket HHJ05 Spielzeug-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "194735068258"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HHJ05",
+        "Weight": 738.0,
+        "Height": 258.0,
+        "Width": 335.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100040204",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c327e672-7b16-41a5-b5e3-83efc53ddcfb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-27T07:16:36Z'",
+          "ModificationDate": "b'2025-06-04T12:17:48Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRBHP1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:35.445000+00:00",
+        "sequence_number": 137273
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDTZF",
+        "ProductVersion": "1.1",
+        "ProductType": "Domki dla lalek",
+        "Brand": "SPIN MASTER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Sypialnia do domu dla lalek Gabby's Dollhouse GDH",
+            "ProductDescription": "Gabby's Dollhouse GDH PYS Deluxe Room Bedroom GML Sypialnia do domu dla lalek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Sypialnia do domu dla lalek Gabby's Dollhouse GDH",
+            "ProductDescription": "Gabby's Dollhouse , Sweet Dreams Bedroom with Pillow Cat Figure and 3 Accessories, 3 Furniture and 2 Deliveries, Kids Toys for Ages 3 and up"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Sypialnia do domu dla lalek Gabby's Dollhouse GDH",
+            "ProductDescription": "Gabby's Dollhouse Gabby‘s Dollhouse Deluxe Raum, Sweet Dreams, Schlafzimmer mit Kuschelkatze (engl. Pillow Cat), Möbelstücken und thematischem Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "778988374115"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "6062037",
+        "Weight": 390.0,
+        "Height": 85.0,
+        "Width": 260.0,
+        "Depth": 195.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082510",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bd562d5c-b517-4093-a37a-c38d47e410f0",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-18T07:01:11Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDTZF'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:01.500000+00:00",
+        "sequence_number": 155170
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGB76",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "SPIN MASTER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Gabby's Dollhouse Rainbow-Themed Celebration",
+            "ProductDescription": "Gabby's Dollhouse Rainbow-Themed Celebration Dollhouse domek dla lalek"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Gabby's Dollhouse Rainbow-Themed Celebration",
+            "ProductDescription": "Gabby's Dollhouse Rainbow-Themed Celebration dollhouse"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Gabby's Dollhouse Rainbow-Themed Celebration",
+            "ProductDescription": "Gabby's Dollhouse Rainbow-Themed Celebration Dollhouse Puppenhaus"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "681147027183"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1252098",
+        "Weight": 3172.0,
+        "Height": 140.0,
+        "Width": 574.0,
+        "Depth": 432.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": "NA",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075272",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6149ad8d-fc3d-4c54-8d14-a1bd6a72a398",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-18T11:15:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGB76'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:27.927000+00:00",
+        "sequence_number": 143398
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCJUL",
+        "ProductVersion": "1.2",
+        "ProductType": "Domki dla lalek",
+        "Brand": "MATTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Polly Pocket Tęczowy park zestaw HBT13",
+            "ProductDescription": "Polly Pocket HBT13 zestaw zabawkowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Polly Pocket Tęczowy park zestaw HBT13",
+            "ProductDescription": "Polly Pocket RAINBOW FUNLAND Theme Park Playset"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Polly Pocket Tęczowy park zestaw HBT13",
+            "ProductDescription": "Polly Pocket HBT13 Spielzeug-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "194735000968"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030070",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "194735000968",
+        "Weight": 1830.0,
+        "Height": 145.0,
+        "Width": 425.0,
+        "Depth": 360.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.39.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043213",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e43fc4fd-fe89-4f62-bd27-b9f82f76b321",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-02T13:31:31Z'",
+          "ModificationDate": "b'2025-06-04T12:19:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCJUL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:51.028000+00:00",
+        "sequence_number": 148156
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCJNE",
+        "ProductVersion": "1.1",
+        "ProductType": "Domki dla lalek",
+        "Brand": "MATTEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Disney Princess HWX17 zestaw zabawkowy",
+            "ProductDescription": "Disney Princess HWX17 zestaw zabawkowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Disney Princess HWX17 zestaw zabawkowy",
+            "ProductDescription": "Disney Princess Carriage to Castle Transforming Playset with Aurora Small Doll, 4 Figures & 3 Levels"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Disney Princess HWX17 zestaw zabawkowy",
+            "ProductDescription": "Disney Princess HWX17 Spielzeug-Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "194735222766"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "95030021",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "HWX17",
+        "Weight": 1415.0,
+        "Height": 402.0,
+        "Width": 141.0,
+        "Depth": 261.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.40.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55862
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55814
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064086",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0cb2b285-5c59-41bc-925a-9d3e85392cc2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-29T10:14:22Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCJNE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:26.293000+00:00",
+        "sequence_number": 163444
+      }
+    }
+  ]
+}

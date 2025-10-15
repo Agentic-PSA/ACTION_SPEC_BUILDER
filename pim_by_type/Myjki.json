@@ -1,0 +1,1783 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFKW6",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "BRADAS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka samochodowa Soft z zaworem, teleskopowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka samochodowa Soft z zaworem, teleskopowa",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka samochodowa Soft z zaworem, teleskopowa",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907544447030"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96035000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1034984",
+        "Weight": 1400.0,
+        "Height": 1440.0,
+        "Width": 270.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.19.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064281",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "67384b6f-3a84-4daa-8326-b29484583ff9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-04T11:04:51Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFKW6'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:27.480000+00:00",
+        "sequence_number": 130150
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDNDK",
+        "ProductVersion": "1.2",
+        "ProductType": "Myjki",
+        "Brand": "BRADAS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ŚCIĄGACZKA DO WODY Z PODŁÓG 75cm",
+            "ProductDescription": "Bradas ES2263-H miotła"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ŚCIĄGACZKA DO WODY Z PODŁÓG 75cm",
+            "ProductDescription": "Bradas ES2263-H broom"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ŚCIĄGACZKA DO WODY Z PODŁÓG 75cm",
+            "ProductDescription": "Bradas ES2263-H Besen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907544408376"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84243090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ES2263-H",
+        "Weight": 1000.0,
+        "Height": 180.0,
+        "Width": 50.0,
+        "Depth": 1410.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52290
+              },
+              {
+                "CategoryId": 53219
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100045740",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f566acfb-dc85-4740-806c-dc95075b9856",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-20T12:59:15Z'",
+          "ModificationDate": "b'2025-06-04T12:20:59Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDNDK'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:03.381000+00:00",
+        "sequence_number": 106813
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPKAR2OO0154",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus - 1.633-741.0(WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus - 1.633-741.0(WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus - 1.633-741.0(WYP)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-741.0",
+        "Weight": 1334.0,
+        "Height": 311.0,
+        "Width": 129.0,
+        "Depth": 192.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091545",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Myjka do okien KARCHER WV 6 Plus - 1.633-741.0"
+      },
+      "properties": {
+        "message_id": "e25182db-2b13-4372-baf4-24ba23eeeab1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-22T13:49:28Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPKAR2OO0154'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:51.734000+00:00",
+        "sequence_number": 164664
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDCB1MDS0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Myjki",
+        "Brand": "CB1",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN E6 SLIM",
+            "ProductDescription": "Robot do mycia okien COBBO e6 slim"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN E6 SLIM",
+            "ProductDescription": "COBBO e6 slim window cleaning robot"
+          },
+          {
+            "Language": "de",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN E6 SLIM",
+            "ProductDescription": "COBBO e6 schlanker Fensterreinigungsroboter"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904463378759"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RN2-03",
+        "Weight": 3200.0,
+        "Height": 250.0,
+        "Width": 400.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100057051",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "57d9db18-eab8-4fc0-b85e-891d9723b68e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-07T14:47:55Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDCB1MDS0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:18.139000+00:00",
+        "sequence_number": 149625
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDKARMDS0027",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 1 Plus D500",
+            "ProductDescription": "Myjka do okien KARCHER WV 1 Plus D500 - 1.633-617.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 1 Plus D500",
+            "ProductDescription": "KARCHER WV 1 Plus D500 window cleaner - 1.633-617.0"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 1 Plus D500",
+            "ProductDescription": "KARCHER WV 1 Plus D500 Fensterreiniger - 1.633-617.0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278992037"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-617.0",
+        "Weight": 1414.0,
+        "Height": 193.0,
+        "Width": 290.0,
+        "Depth": 132.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068894",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Myjka do okien KARCHER WV 1 Plus D500 - 1.633-617.0"
+      },
+      "properties": {
+        "message_id": "88f71624-b4fa-426b-a6ec-4713d8e21acf",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T08:54:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDKARMDS0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:21.554000+00:00",
+        "sequence_number": 107703
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPKAR2OO0140",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus - 1.633-642.0(WYP)",
+            "ProductDescription": "Kärcher WV 2 Plus N elektryczny system do czyszczenia szyb 0,1 l Biały Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus - 1.633-642.0(WYP)",
+            "ProductDescription": "Kärcher WV 2 Plus N electric window cleaner 0.1 L White Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus - 1.633-642.0(WYP)",
+            "ProductDescription": "Kärcher WV 2 Plus N Elektrischer Fensterreiniger 0,1 l Weiß Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278977744"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-642.0",
+        "Weight": 1170.0,
+        "Height": 125.0,
+        "Width": 190.0,
+        "Depth": 300.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52290
+              },
+              {
+                "CategoryId": 53219
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064612",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Myjka do okien KARCHER WV 2 Plus N - 1.633-642.0"
+      },
+      "properties": {
+        "message_id": "ab6e38ad-7b3c-4880-8f90-e51e73c9574d",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-07T14:25:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPKAR2OO0140'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:34.822000+00:00",
+        "sequence_number": 121398
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAILL",
+        "ProductVersion": "1.2",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 5 Premium",
+            "ProductDescription": "Kärcher WV 5 Premium elektryczny system do czyszczenia szyb 0,1 l Czarny, Żółty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 5 Premium",
+            "ProductDescription": "Kärcher WV 5 Premium - vinduesrens - h"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 5 Premium",
+            "ProductDescription": "Kärcher WV 5 Premium - vinduesrens - h"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278241890"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84243090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-453.0",
+        "Weight": 1217.0,
+        "Height": 251.0,
+        "Width": 351.0,
+        "Depth": 151.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036378",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "59149226-c1af-4e02-8228-58b5f385d71a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-25T12:01:46Z'",
+          "ModificationDate": "b'2025-06-04T12:15:37Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAILL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:00.806000+00:00",
+        "sequence_number": 162207
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPKAR3UM0021",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 5 Plus N 1.633-467.0(WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 5 Plus N 1.633-467.0(WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 5 Plus N 1.633-467.0(WYP)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84243090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-467.0",
+        "Weight": 1212.0,
+        "Height": 310.0,
+        "Width": 180.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52290
+              },
+              {
+                "CategoryId": 53219
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084044",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5fcf1959-500c-443c-80a6-62c02829113b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T13:14:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPKAR3UM0021'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:59.400000+00:00",
+        "sequence_number": 122655
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDCB1MDS0001",
+        "ProductVersion": "1.2",
+        "ProductType": "Myjki",
+        "Brand": "CB1",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN Q6",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN Q6",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN Q6",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904463378889"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "YW703",
+        "Weight": 3100.0,
+        "Height": 142.0,
+        "Width": 307.0,
+        "Depth": 372.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089784",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "19ebd012-ab81-4831-8147-36974f0b174e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-04T13:00:23Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDCB1MDS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:48.689000+00:00",
+        "sequence_number": 167828
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDKARMDS0028",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus Multi Limited",
+            "ProductDescription": "Myjka do okien KARCHER WV 2 Plus Multi Limited Edition - 1.633-664.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus Multi Limited",
+            "ProductDescription": "KARCHER WV 2 Plus Multi Limited Edition Window Cleaner - 1.633-664.0"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus Multi Limited",
+            "ProductDescription": "KARCHER WV 2 Plus Multi Limited Edition Fensterreiniger - 1.633-664.0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4066529081421"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-664.0",
+        "Weight": 1610.0,
+        "Height": 315.0,
+        "Width": 190.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059192",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Myjka do okien KARCHER WV 2 Plus Multi Limited Edition - 1.633-664.0"
+      },
+      "properties": {
+        "message_id": "a0b03dfe-f0c0-45a7-8220-6cb6d0f3949b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T08:54:23Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDKARMDS0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:47.355000+00:00",
+        "sequence_number": 123990
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDKARMDS0007",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 5 Premium Non-Stop",
+            "ProductDescription": "Kärcher WV 5 Plus N elektryczny system do czyszczenia szyb 0,1 l Żółty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 5 Premium Non-Stop",
+            "ProductDescription": "Kärcher WV 5 Plus N electric window cleaner 0.1 L Yellow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 5 Premium Non-Stop",
+            "ProductDescription": "Kärcher WV 5 Plus N Elektrischer Fensterreiniger 0,1 l Gelb"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278233741"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84243090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-447.0",
+        "Weight": 1718.0,
+        "Height": 185.0,
+        "Width": 305.0,
+        "Depth": 180.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052436",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0ad38af2-6096-4f71-8607-f8b617181680",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-02-09T15:07:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDKARMDS0007'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:38.591000+00:00",
+        "sequence_number": 139181
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDLEHMIS0015",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "LEIFHEIT",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Leifheit Myjka do szyb W&F Cleaner S micro duo",
+            "ProductDescription": "Leifheit 51127 przyrząd do mycia okien 20 cm Czarny, Turkusowy, Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Leifheit Myjka do szyb W&F Cleaner S micro duo",
+            "ProductDescription": "Leifheit 51127 window cleaning tool 20 cm Black, Turquoise, White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Leifheit Myjka do szyb W&F Cleaner S micro duo",
+            "ProductDescription": "Leifheit 51127 Fensterreinigungsgerät 20 cm Schwarz, Türkis, Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4006501511270"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "96039099",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 160.0,
+        "Height": 80.0,
+        "Width": 200.0,
+        "Depth": 200.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "32.91.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53220
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100139849",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Leifheit Myjka do szyb W&F Cleaner S micro duo"
+      },
+      "properties": {
+        "message_id": "6cf8f4ba-0a15-4148-9bb6-6e54d304f9cc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-01-29T14:17:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDLEHMIS0015'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:16.606000+00:00",
+        "sequence_number": 169202
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPKAR3UM0027",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus - 1.633-741.0(WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus - 1.633-741.0(WYP)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus - 1.633-741.0(WYP)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278976471"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-741.0",
+        "Weight": 1334.0,
+        "Height": 311.0,
+        "Width": 129.0,
+        "Depth": 192.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 52290
+              },
+              {
+                "CategoryId": 53219
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093564",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Myjka do okien KARCHER WV 6 Plus - 1.633-741.0"
+      },
+      "properties": {
+        "message_id": "f13636d4-e7af-43d3-a550-bd20192322fd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-31T09:37:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPKAR3UM0027'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:32.888000+00:00",
+        "sequence_number": 171545
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDCB1MDS0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Myjki",
+        "Brand": "CB1",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN I5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN I5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "COBBO ROBOT DO MYCIA OKIEN I5",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904463378438"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "S60-8",
+        "Weight": 2000.0,
+        "Height": 250.0,
+        "Width": 310.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100094593",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "133a669f-9fa5-4021-9c4d-052f554a0494",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-07T14:48:59Z'",
+          "ModificationDate": "b'2025-09-30T13:40:35Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDCB1MDS0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:51.439000+00:00",
+        "sequence_number": 172496
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SPDVI1MIS0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "VILEDA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Ściągaczka do okien Vileda Windomatic Power SET",
+            "ProductDescription": "Ściągaczka do okien Vileda Windomatic Power Set"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Ściągaczka do okien Vileda Windomatic Power SET",
+            "ProductDescription": "Window/ glass Cleaner Vileda Windomatic Power Set"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Ściągaczka do okien Vileda Windomatic Power SET",
+            "ProductDescription": "Fenstersauger mit Spray-Einwascher Vileda Windomatic Power Set"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4023103212848"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84243090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "170493",
+        "Weight": 1086.0,
+        "Height": 320.0,
+        "Width": 180.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53220
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076171",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Ściągaczka do okien Vileda Windomatic Power SET"
+      },
+      "properties": {
+        "message_id": "5356a16d-4632-4f63-aac2-41988aef4d29",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-09-02T11:37:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SPDVI1MIS0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:31.693000+00:00",
+        "sequence_number": 143599
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPKAR2OO0151",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 1 1.633-601.0 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 1 1.633-601.0 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 1 1.633-601.0 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-601.0",
+        "Weight": 690.0,
+        "Height": 121.0,
+        "Width": 266.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088378",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "bdd2b9ca-64a3-435f-9e0b-9a78289c82bb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-08T09:40:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPKAR2OO0151'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:43.617000+00:00",
+        "sequence_number": 158407
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFKWX",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "BRADAS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "MYJKA SAMOCHODOWA SOFT Z ZAWOREM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "MYJKA SAMOCHODOWA SOFT Z ZAWOREM",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "MYJKA SAMOCHODOWA SOFT Z ZAWOREM",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907544447054"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1034921",
+        "Weight": 1000.0,
+        "Height": 1180.0,
+        "Width": 250.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054789",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "60723ca0-233a-4fa8-955a-6a503235c47c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-20T16:54:10Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFKWX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:14.571000+00:00",
+        "sequence_number": 129490
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAHUM",
+        "ProductVersion": "1.3",
+        "ProductType": "Myjki",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien akumulatorowa GlassVac BOSCH",
+            "ProductDescription": "Bosch GlassVAC elektryczny system do czyszczenia szyb 0,1 l Czarny, Czerwony, Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien akumulatorowa GlassVac BOSCH",
+            "ProductDescription": "BOSCH GLASS WASHER GLASS VAC 3.6V 2.0Ah"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien akumulatorowa GlassVac BOSCH",
+            "ProductDescription": "BOSCH GLASSPÜLMASCHINE GLASSAUGER 3,6V 2,0Ah"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3165140920148"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "06008B7000",
+        "Weight": 1624.0,
+        "Height": 150.0,
+        "Width": 195.0,
+        "Depth": 295.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036150",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "470b5009-dd60-4919-b90b-fa990b82dee8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-15T10:43:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAHUM'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:57.192000+00:00",
+        "sequence_number": 133426
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAHXA",
+        "ProductVersion": "1.2",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus",
+            "ProductDescription": "Kärcher 1.633-510.0 elektryczny system do czyszczenia szyb 0,15 l Czarny, Żółty"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus",
+            "ProductDescription": "Kärcher 1.633-510.0 electric window cleaner 0.15 L Black, Yellow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 6 Plus",
+            "ProductDescription": "Kärcher 1.633-510.0 Elektrischer Fensterreiniger 0,15 l Schwarz, Gelb"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278469546"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84243090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-510.0",
+        "Weight": 1250.0,
+        "Height": 185.0,
+        "Width": 310.0,
+        "Depth": 150.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.29.22.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036164",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a0253ebb-dae9-46b9-8b69-fff52490d513",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-20T09:46:15Z'",
+          "ModificationDate": "b'2025-06-04T12:15:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAHXA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:11:57.192000+00:00",
+        "sequence_number": 133440
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDKARMDS0024",
+        "ProductVersion": "1.1",
+        "ProductType": "Myjki",
+        "Brand": "KARCHER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus 1.633-640.0",
+            "ProductDescription": "Myjka do okien KARCHER WV 2 Plus 1.633-640.0"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus 1.633-640.0",
+            "ProductDescription": "KARCHER WV 2 Plus  Window Cleaner - 1.633-640.0"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Myjka do okien KARCHER WV 2 Plus 1.633-640.0",
+            "ProductDescription": "KARCHER WV 2 Plus  Fensterreiniger - 1.633-640.0"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4054278977720"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85098000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "1.633-640.0",
+        "Weight": 1042.0,
+        "Height": 311.0,
+        "Width": 192.0,
+        "Depth": 133.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.21.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 53219
+              },
+              {
+                "CategoryId": 52290
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56083
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100063086",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Myjka do okien KARCHER WV 2 Plus 1.633-640.0"
+      },
+      "properties": {
+        "message_id": "926a6af5-556f-4cc3-ac09-6a81af3e4134",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-17T09:28:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDKARMDS0024'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:16.887000+00:00",
+        "sequence_number": 163003
+      }
+    }
+  ]
+}

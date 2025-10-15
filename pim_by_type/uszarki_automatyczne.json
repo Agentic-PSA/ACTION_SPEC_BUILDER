@@ -1,0 +1,1376 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "AGDBOSSUW0063",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny BOSCH WQG233DPPL",
+            "ProductDescription": "Suszarka do bielizny BOSCH WQG233DPPL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny BOSCH WQG233DPPL",
+            "ProductDescription": "BOSCH WQG233DPPL Clothes Dryer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny BOSCH WQG233DPPL",
+            "ProductDescription": "Wäschetrockner BOSCH WQG233DPPL"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4242005400331"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WQG233DPPL",
+        "Weight": 52000.0,
+        "Height": 890.0,
+        "Width": 620.0,
+        "Depth": 685.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100059077",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "66cb46d5-27a0-40e9-a1b2-f8c9b2b85179",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-11-09T09:27:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBOSSUW0063'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:13:52.015000+00:00",
+        "sequence_number": 135005
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBOSSUW0072",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny BOSCH WQG241ALPL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny BOSCH WQG241ALPL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny BOSCH WQG241ALPL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WQG241ALPL",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089010",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f4c13a75-0488-447e-a60f-ae444ac9d9d6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-10T14:47:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBOSSUW0072'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:49.797000+00:00",
+        "sequence_number": 164579
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDELCSUW0031",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "Electrolux",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW6D284YP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW6D284YP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW6D284YP",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7333394055169"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EW6D284YP",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093055",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c5a8f18d-d0ff-4298-aab1-bb992620a6de",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T12:29:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELCSUW0031'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:29.890000+00:00",
+        "sequence_number": 165204
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDELCSUW0032",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "Electrolux",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW6D295GP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW6D295GP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW6D295GP",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7333394055336"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EW6D295GP",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093056",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b072c827-61e2-49bc-a4e2-5fccf0a1bed5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-29T12:31:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELCSUW0032'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:38:29.890000+00:00",
+        "sequence_number": 165205
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDELCSUW0030",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "Electrolux",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW7DX385AP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW7DX385AP",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny ELECTROLUX EW7DX385AP",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "7333394055152"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "EW7DX385AP",
+        "Weight": 50500.0,
+        "Height": 890.0,
+        "Width": 630.0,
+        "Depth": 670.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077798",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1654c1b2-28f7-4f4d-a6ca-d1339d097e67",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-02T12:26:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDELCSUW0030'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:14.267000+00:00",
+        "sequence_number": 136115
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBOSSUW0073",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny BOSCH WQB245AEPL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny BOSCH WQB245AEPL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny BOSCH WQB245AEPL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WQB245AEPL",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089891",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "be296fa5-3c72-46ee-a032-40dbd1fc9b0f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-15T14:23:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBOSSUW0073'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:50.533000+00:00",
+        "sequence_number": 167918
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRACPK",
+        "ProductVersion": "1.2",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "Candy",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Candy | ROW4856DWMCT/1-S | Pralka z suszarką",
+            "ProductDescription": "Candy RapidÓ ROW4856DWMCT/1-S pralko-suszarka Wolnostojący Od przodu Biały D"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Candy | ROW4856DWMCT/1-S | Pralka z suszarką",
+            "ProductDescription": "Candy | ROW4856DWMCT/1-S | Washer with dryer | Energy efficiency class A | Front Loading | Washing capacity 8 kg | 1400 rpm | Depth 53 cm | Width 60 cm | Display | TFT | Drying System | Drying capacity 5 kg | F"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Candy | ROW4856DWMCT/1-S | Pralka z suszarką",
+            "ProductDescription": "Süßigkeiten | ROW4856DWMCT/1-S | Waschmaschine mit Trockner | Energieeffizienzklasse A | Frontlader | Waschkapazität 8 kg | 1400 U/min | Tiefe 53 cm | Breite 60 cm | Anzeige | TFT | Trocknungssystem | Trocknungskapazität 5 kg | F"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8059019044392"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ROW4856DWMCT/1-S",
+        "Weight": 65000.0,
+        "Height": 890.0,
+        "Width": 650.0,
+        "Depth": 560.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100035187",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "22297db7-8309-4782-b44c-cf4c57fa0d81",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-12T10:44:23Z'",
+          "ModificationDate": "b'2025-06-04T12:14:56Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRACPK'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:53:30.059000+00:00",
+        "sequence_number": 110177
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDGJESUW0010",
+        "ProductVersion": "1.2",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "Gorenje",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny GORENJE DPNE83GNLWIFI/PL",
+            "ProductDescription": "Suszarka do bielizny GORENJE DPNE83GNLWIFI/PL"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny GORENJE DPNE83GNLWIFI/PL",
+            "ProductDescription": "GORENJE DPNE83GNLWIFI/EN laundry dryer"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny GORENJE DPNE83GNLWIFI/PL",
+            "ProductDescription": "GORENJE DPNE83GNLWIFI/EN Wäschetrockner"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "3838782835582"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DPNE83GNLWIFI/PL",
+        "Weight": 49000.0,
+        "Height": 850.0,
+        "Width": 620.0,
+        "Depth": 695.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092094",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a40ec7fe-641b-43ba-b5c5-c904dca87e8f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-27T16:13:50Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDGJESUW0010'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:59.924000+00:00",
+        "sequence_number": 168368
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDBOSSUW0071",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny BOSCH WTH83277PL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny BOSCH WTH83277PL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny BOSCH WTH83277PL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WTH83277PL",
+        "Weight": 46500.0,
+        "Height": 880.0,
+        "Width": 625.0,
+        "Depth": 670.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100085032",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4bb1388d-6886-4935-88cf-1598038f45d3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-27T10:12:36Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDBOSSUW0071'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:07.452000+00:00",
+        "sequence_number": 125031
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFTPC",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "GreenBlue",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka elektryczna bębnowa GreenBlue 3kg wsad GB4",
+            "ProductDescription": "Suszarka elektryczna bębnowa GreenBlue 3kg wsad GB410"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka elektryczna bębnowa GreenBlue 3kg wsad GB4",
+            "ProductDescription": "GreenBlue GB410 Electric Tumble Dryer 3kg 830W Vented 5 Drying Programs Compact Table Top Contertop Wall Moountable Portable with Accessories"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka elektryczna bębnowa GreenBlue 3kg wsad GB4",
+            "ProductDescription": "GreenBlue elektrischer Wäschetrockner mit 3 kg Füllgewicht GB410"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB410",
+        "Weight": 17500.0,
+        "Height": 470.0,
+        "Width": 560.0,
+        "Depth": 650.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088921",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3b235561-2af6-47a6-b91b-78f7d3c7ae45",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-10T08:43:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFTPC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:29:09.828000+00:00",
+        "sequence_number": 155571
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPGRB3UM0001",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "GreenBlue",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GREENBLUE SUSZARKA BĘBNOWA DO UBRAŃ GB405 (WYPRZED)",
+            "ProductDescription": "Suszarka elektryczna bębnowa do ubrań GreenBlue, 3kg wsad, GB405 Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GREENBLUE SUSZARKA BĘBNOWA DO UBRAŃ GB405 (WYPRZED)",
+            "ProductDescription": "GreenBlue GB405 Tumble Dryer Electric Clothes 830W 3kg Mini Travel Vented Freestanding Wall Mount 5 Drying Programs Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GREENBLUE SUSZARKA BĘBNOWA DO UBRAŃ GB405 (WYPRZED)",
+            "ProductDescription": "Green Blue GB405 Elektrischer Wäschetrockner 830W / 3kg Ablufttrockner / Trockner für Kleidung Freistehend oder Wandmontage Fünf Trocknungsprogramme zur Verfügung Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211123217"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB405",
+        "Weight": 17000.0,
+        "Height": 560.0,
+        "Width": 460.0,
+        "Depth": 650.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060744",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8c586f04-b676-4518-aeb1-66ae2593887b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T13:05:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPGRB3UM0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:53.530000+00:00",
+        "sequence_number": 126495
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAAFR",
+        "ProductVersion": "1.2",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "Candy",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka Candy RO4 H7A1TEX-S",
+            "ProductDescription": "Candy RapidÓ RO4H7A1TEX-S suszarki do prania Wolnostojący Od przodu 7 kg A+ Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka Candy RO4 H7A1TEX-S",
+            "ProductDescription": "Candy Dryer Machine RO4 H7A1TEX-S Energy efficiency class A+ Front loading 7 kg LCD Depth 46.5 cm Wi-Fi White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka Candy RO4 H7A1TEX-S",
+            "ProductDescription": "Bonbontrockner RO4 H7A1TEX-S Energieeffizienzklasse A+ Frontlader 7 kg LCD Tiefe 46,5 cm Wi-Fi Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8059019037356"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RO4 H7A1TEX-S",
+        "Weight": 39000.0,
+        "Height": 890.0,
+        "Width": 650.0,
+        "Depth": 525.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034852",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "34848951-aa2c-4a9f-85a7-872254653721",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-07-10T12:43:04Z'",
+          "ModificationDate": "b'2025-06-04T12:14:44Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAAFR'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:24.380000+00:00",
+        "sequence_number": 113820
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPBOS2OO0289",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "BOSCH",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka do bielizny BOSCH WQG241AKPL (WYPRZEDAŻ)",
+            "ProductDescription": "Suszarka do bielizny BOSCH WQG241AKPL Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka do bielizny BOSCH WQG241AKPL (WYPRZEDAŻ)",
+            "ProductDescription": "BOSCH WQG241AKPL Clothes Dryer Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka do bielizny BOSCH WQG241AKPL (WYPRZEDAŻ)",
+            "ProductDescription": "BOSCH WQG241AKPL Wäschetrockner Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4242005303502"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "WQG241AKPL",
+        "Weight": 51000.0,
+        "Height": 880.0,
+        "Width": 625.0,
+        "Depth": 685.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100071500",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Suszarka BOSCH WQG 241AKPL 9 kg , A++ EasyClean AutoDry pompa ciepła"
+      },
+      "properties": {
+        "message_id": "cdca8627-c463-4814-b202-fab2db52d625",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-09T13:40:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPBOS2OO0289'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:19.063000+00:00",
+        "sequence_number": 127880
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDHAISUW0001",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "HAIER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka Haier HD90-A3Q979U1-S",
+            "ProductDescription": "Haier I-Pro Series 7 Plus HD90-A3Q979U1 suszarki do prania Wolnostojący Od przodu 9 kg A+++ Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka Haier HD90-A3Q979U1-S",
+            "ProductDescription": "Haier I-Pro Series 7 Plus HD90-A3Q979U1 tumble dryer Freestanding Front-load 9 kg A+++ White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka Haier HD90-A3Q979U1-S",
+            "ProductDescription": "Haier I-Pro Series 7 Plus HD90-A3Q979U1 Wäschetrockner Freistehend Frontlader 9 kg A+++ Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6921081597484"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "31102660",
+        "Weight": 58000.0,
+        "Height": 888.0,
+        "Width": 656.0,
+        "Depth": 726.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100086838",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "30cdcf0e-e506-4ae2-b7f4-eff2a2052638",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-20T13:10:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDHAISUW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:31.037000+00:00",
+        "sequence_number": 157865
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "AGDGRBSUW0001",
+        "ProductVersion": "1.2",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "GreenBlue",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "GREENBLUE SUSZARKA BĘBNOWA DO UBRAŃ GB405",
+            "ProductDescription": "Suszarka elektryczna bębnowa do ubrań GreenBlue, 3kg wsad, GB405"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "GREENBLUE SUSZARKA BĘBNOWA DO UBRAŃ GB405",
+            "ProductDescription": "GreenBlue GB405 Tumble Dryer Electric Clothes 830W 3kg Mini Travel Vented Freestanding Wall Mount 5 Drying Programs"
+          },
+          {
+            "Language": "de",
+            "ProductName": "GREENBLUE SUSZARKA BĘBNOWA DO UBRAŃ GB405",
+            "ProductDescription": "Green Blue GB405 Elektrischer Wäschetrockner 830W / 3kg Ablufttrockner / Trockner für Kleidung Freistehend oder Wandmontage Fünf Trocknungsprogramme zur Verfügung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5902211123217"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GB405",
+        "Weight": 17000.0,
+        "Height": 560.0,
+        "Width": 460.0,
+        "Depth": 650.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054164",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c5aced40-fc12-4776-af82-99ceab5abbaa",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-03-12T12:09:12Z'",
+          "ModificationDate": "b'2025-09-30T13:40:36Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'AGDGRBSUW0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:13.212000+00:00",
+        "sequence_number": 129426
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPBEK4PS0022",
+        "ProductVersion": "1.1",
+        "ProductType": "uszarki automatyczne",
+        "Brand": "Beko",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Suszarka BEKO BM3T3820W (WYPRZEDAŻ)",
+            "ProductDescription": "Beko BM3T3820W suszarka do prania Wolnostojąca 8 kg A++ Biała Rozpakowany"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Suszarka BEKO BM3T3820W (WYPRZEDAŻ)",
+            "ProductDescription": "Beko BM3T3820W Freestanding washer dryer 8 kg A++ White Unpacked"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Suszarka BEKO BM3T3820W (WYPRZEDAŻ)",
+            "ProductDescription": "Beko BM3T3820W Freistehender Waschtrockner 8 kg A++ Weiß Unpacked"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "8690842709777"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84512100",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "BM3T3820W",
+        "Weight": 40500.0,
+        "Height": 885.0,
+        "Width": 650.0,
+        "Depth": 550.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.51.13.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 55015
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54896
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075485",
+        "Large": true,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0dd8fea0-8314-4e83-a193-5064e6c317b9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-06T12:50:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPBEK4PS0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:41.461000+00:00",
+        "sequence_number": 145839
+      }
+    }
+  ]
+}

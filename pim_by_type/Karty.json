@@ -1,0 +1,1130 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFTLR",
+        "ProductVersion": "1.2",
+        "ProductType": "Karty",
+        "Brand": "Ever",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KARTA SIECIOWA NMC EVER DO PWRL RT PRO 1K-3K",
+            "ProductDescription": "Karta sieciowa NMC EVER T/KKON-0022/00 do POWERLINE RT PRO 1K-3K"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KARTA SIECIOWA NMC EVER DO PWRL RT PRO 1K-3K",
+            "ProductDescription": "NMC network card EVER T/KKON-0022/00 for POWERLINE RT PRO 1K-3K"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KARTA SIECIOWA NMC EVER DO PWRL RT PRO 1K-3K",
+            "ProductDescription": "NMC-Netzwerkkarte EVER T/KKON-0022/00 für POWERLINE RT PRO 1K-3K"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "T/KKON-0022/00",
+        "Weight": 248.0,
+        "Height": 59.0,
+        "Width": 173.0,
+        "Depth": 169.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046900",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e239c486-7cf3-4776-8222-fc949372598e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-02T16:26:23Z'",
+          "ModificationDate": "b'2025-06-04T12:21:39Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFTLR'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:11.758000+00:00",
+        "sequence_number": 134185
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCAGE0005",
+        "ProductVersion": "1.1",
+        "ProductType": "Karty",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "APC AP9640",
+            "ProductDescription": "APC UPS NETWORK MANAGEMENT CARD"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "APC AP9640",
+            "ProductDescription": "APC AP9640 Smart-UPS Network Management Card (gen3)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "APC AP9640",
+            "ProductDescription": "APC AP9640 Smart-UPS Netzwerkmanagementkarte (Gen3)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304355533"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AP9640",
+        "Weight": 35.0,
+        "Height": 165.0,
+        "Width": 235.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100064729",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "APC UPS Network Management Card 3"
+      },
+      "properties": {
+        "message_id": "5c3f7e25-085a-4590-bbe0-b552f7beecbc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-21T11:32:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCAGE0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:32.185000+00:00",
+        "sequence_number": 163735
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCZYL",
+        "ProductVersion": "1.3",
+        "ProductType": "Karty",
+        "Brand": "Orvaldi",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "ORVALDI Karta SNMP - seria V",
+            "ProductDescription": "ORVALDI wewnętrzna karta komunikacyjna SNMP do UPSów z serii: ORVALDI V sinus i ORVALDI V on-line"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "ORVALDI Karta SNMP - seria V",
+            "ProductDescription": "ORVALDI internal SNMP communication card for UPS series: ORVALDI V sinus and ORVALDI V on-line"
+          },
+          {
+            "Language": "de",
+            "ProductName": "ORVALDI Karta SNMP - seria V",
+            "ProductDescription": "ORVALDI interne SNMP-Kommunikationskarte für USV-Serien: ORVALDI V sinus und ORVALDI V online"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5904006036993"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "V-SNMP",
+        "Weight": 110.0,
+        "Height": 44.0,
+        "Width": 170.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044579",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ecf17e5e-0051-49c9-8f89-df2962eaafe2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-04T14:23:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:30Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCZYL'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:50:52.646000+00:00",
+        "sequence_number": 106240
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDZDK",
+        "ProductVersion": "1.3",
+        "ProductType": "Karty",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "UPS Network Management Card 3",
+            "ProductDescription": "APC UPS NTWK MGMT CARD POWERCHUTE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "UPS Network Management Card 3",
+            "ProductDescription": "APC Network Management Card 3 with Pow"
+          },
+          {
+            "Language": "de",
+            "ProductName": "UPS Network Management Card 3",
+            "ProductDescription": "APC Netzwerk Management Karte AP9641"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304355540"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AP9641",
+        "Weight": 422.0,
+        "Height": 54.0,
+        "Width": 164.0,
+        "Depth": 233.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046174",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e6533f63-90c8-49c8-8ebc-94c44f6a7867",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-25T16:46:11Z'",
+          "ModificationDate": "b'2025-09-30T13:41:32Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDZDK'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:07.069000+00:00",
+        "sequence_number": 107026
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WYPCBP4PS0012",
+        "ProductVersion": "1.1",
+        "ProductType": "Karty",
+        "Brand": "CyberPower",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KARTA SIECIOWA CYBERPOWER RMCARD205 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KARTA SIECIOWA CYBERPOWER RMCARD205 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "KARTA SIECIOWA CYBERPOWER RMCARD205 (WYPRZEDAŻ)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4712364141089"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "RMCARD205",
+        "Weight": 235.0,
+        "Height": 165.0,
+        "Width": 170.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047910",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "13b55c6f-182c-4cb1-8582-cee4fa70dfcd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-20T10:21:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WYPCBP4PS0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:00.243000+00:00",
+        "sequence_number": 115802
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAIZ1",
+        "ProductVersion": "1.3",
+        "ProductType": "Karty",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER MODUŁ SNMP VI/VFI/T RT LCD, 3/1",
+            "ProductDescription": " MODUŁ SNMP DLA UPS POWER WALKER VI RT LCD, VFI RT/T LCD, VFI 3/1"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER MODUŁ SNMP VI/VFI/T RT LCD, 3/1",
+            "ProductDescription": "SNMP MODULE FOR POWER WALKER UPS VI RT LCD, VFI RT/T LCD, VFI 3/1"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER MODUŁ SNMP VI/VFI/T RT LCD, 3/1",
+            "ProductDescription": "SNMP-MODUL FÜR POWER WALKER VI RT LCD, VFI RT/T LCD, VFI 3/1 UPS"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074974461"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10120517",
+        "Weight": 250.0,
+        "Height": 170.0,
+        "Width": 170.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100036507",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1c5761ee-1ade-4d4a-a4ea-62e6cd98d0da",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-08T17:14:21Z'",
+          "ModificationDate": "b'2025-09-30T13:41:23Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAIZ1'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:02.636000+00:00",
+        "sequence_number": 162260
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIAPCAGE0004",
+        "ProductVersion": "1.2",
+        "ProductType": "Karty",
+        "Brand": "APC",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Karta sieciowa APC AP9641",
+            "ProductDescription": "APC UPS NTWK MGMT CARD POWERCHUTE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Karta sieciowa APC AP9641",
+            "ProductDescription": "APC AP9641 Smart-UPS Network Management Card (gen3) with environmental monitoring"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Karta sieciowa APC AP9641",
+            "ProductDescription": "APC AP9641 Smart-UPS Netzwerkmanagementkarte (gen3) mit Umgebungsüberwachung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "731304355540"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AP9641",
+        "Weight": 420.0,
+        "Height": 160.0,
+        "Width": 230.0,
+        "Depth": 50.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": "PH",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075646",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ba4b5690-3f80-45a5-9b0f-75c2a076845a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-01-25T11:55:52Z'",
+          "ModificationDate": "b'2025-09-30T13:41:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIAPCAGE0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:58.419000+00:00",
+        "sequence_number": 124563
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIQOCAGE0002",
+        "ProductVersion": "1.2",
+        "ProductType": "Karty",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "QOLTEC MODUŁ SNMP DO ZASILACZA AWARYJNEGO UPS",
+            "ProductDescription": "Qoltec 50389 Moduł SNMP do zasilacza awaryjnego UPS"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "QOLTEC MODUŁ SNMP DO ZASILACZA AWARYJNEGO UPS",
+            "ProductDescription": "Qoltec 50389 SNMP module for Uninterruptible Power Supply"
+          },
+          {
+            "Language": "de",
+            "ProductName": "QOLTEC MODUŁ SNMP DO ZASILACZA AWARYJNEGO UPS",
+            "ProductDescription": "Qoltec 50389 SNMP-Modul für unterbrechungsfreie Stromversorgung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878503899"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50389",
+        "Weight": 151.0,
+        "Height": 135.0,
+        "Width": 42.0,
+        "Depth": 170.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100075674",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "baad44c7-b64d-4128-8dab-c3b8b85a83a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-10-12T15:58:53Z'",
+          "ModificationDate": "b'2025-09-30T13:41:42Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIQOCAGE0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:58.419000+00:00",
+        "sequence_number": 124591
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRGH81",
+        "ProductVersion": "1.1",
+        "ProductType": "Karty",
+        "Brand": "Qoltec",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Qoltec Moduł SNMP do zasilacza awaryjnego UPS",
+            "ProductDescription": "Qoltec 50398 Moduł SNMP do zasilacza awaryjnego UPS"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Qoltec Moduł SNMP do zasilacza awaryjnego UPS",
+            "ProductDescription": "Qoltec SNMP Module for UPS"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Qoltec Moduł SNMP do zasilacza awaryjnego UPS",
+            "ProductDescription": "Qoltec SNMP-Modul für USV"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5901878503981"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84718000",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "50398",
+        "Weight": 95.0,
+        "Height": 115.0,
+        "Width": 115.0,
+        "Depth": 60.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.12.20.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100055568",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "712ebcb7-3115-454f-9c30-5252e0e1bbed",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-07T17:59:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRGH81'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:17:05.453000+00:00",
+        "sequence_number": 140539
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFP08",
+        "ProductVersion": "1.1",
+        "ProductType": "Karty",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER MODUŁ SNMP DO VI R1U/RLE",
+            "ProductDescription": "PowerWalker 10131008 akcesorium do zasilaczy bezprzerwowych (UPS)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER MODUŁ SNMP DO VI R1U/RLE",
+            "ProductDescription": "PowerWalker 10131008 UPS accessory"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER MODUŁ SNMP DO VI R1U/RLE",
+            "ProductDescription": "PowerWalker 10131008 USV-Zubehör"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074980424"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10131008",
+        "Weight": 140.0,
+        "Height": 168.0,
+        "Width": 167.0,
+        "Depth": 63.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.90.41.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060447",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "43b67bc4-1ac9-4ae5-b406-543d387ddf74",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-09T11:06:39Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFP08'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:06:51.670000+00:00",
+        "sequence_number": 126357
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFOXK",
+        "ProductVersion": "1.3",
+        "ProductType": "Karty",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER MODUŁ SNMP DLA VFI RM/R/C/LCD",
+            "ProductDescription": "MODUŁ SNMP DLA UPS POWER WALKER VFI 1000/1500/2000/3000RM VFI 6000/10000R LCD"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER MODUŁ SNMP DLA VFI RM/R/C/LCD",
+            "ProductDescription": "SNMP MODULE FOR UPS POWER WALKER VFI 1000/1500/2000/3000RM VFI 6000/10000R LCD"
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER MODUŁ SNMP DLA VFI RM/R/C/LCD",
+            "ProductDescription": "SNMP-MODUL FÜR UPS POWER WALKER VFI 1000/1500/2000/3000RM VFI 6000/10000R LCD"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074974034"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10120505",
+        "Weight": 111.0,
+        "Height": 180.0,
+        "Width": 130.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100046836",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "958433bf-5427-4675-82bd-e44be55a058f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-04T10:23:51Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFOXK'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:12.793000+00:00",
+        "sequence_number": 162803
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRATHC",
+        "ProductVersion": "1.2",
+        "ProductType": "Karty",
+        "Brand": "DIGITUS",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Digitus Karta SNMP i WEB (UPS) ® OnLine",
+            "ProductDescription": "Digitus Karta SNMP i WEB do zasilaczy awaryjnych (UPS) ® OnLine"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Digitus Karta SNMP i WEB (UPS) ® OnLine",
+            "ProductDescription": "Digitus SNMP & WEB Card for ® OnLine UPS Units"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Digitus Karta SNMP i WEB (UPS) ® OnLine",
+            "ProductDescription": "Digitus SNMP & WEB Karte für ® OnLine USV-Anlagen"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4016032485988"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DN-170100-1",
+        "Weight": 110.0,
+        "Height": 95.0,
+        "Width": 220.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087266",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0304b9a7-844d-4a7f-b6df-94363d4338f2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-01-23T10:59:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRATHC'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:34.990000+00:00",
+        "sequence_number": 158009
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "ZSIPWAAGE0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Karty",
+        "Brand": "POWER WALKER",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "POWER WALKER MODUŁ BMS DLA BANKU ENERGII 48-100",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "POWER WALKER MODUŁ BMS DLA BANKU ENERGII 48-100",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "POWER WALKER MODUŁ BMS DLA BANKU ENERGII 48-100",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4260074983746"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85049090",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10131017",
+        "Weight": 192.0,
+        "Height": 110.0,
+        "Width": 160.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "27.11.62.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54768
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54579
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060877",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5f01a41c-7960-4981-8b4c-79775fc768e8",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-19T12:00:43Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'ZSIPWAAGE0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:19.353000+00:00",
+        "sequence_number": 129737
+      }
+    }
+  ]
+}

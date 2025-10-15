@@ -1,0 +1,342 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "STZRZGKUL0004",
+        "ProductVersion": "1.1",
+        "ProductType": "Kulochwyty",
+        "Brand": "RazorGun",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kulochwyt magnetyczny RazorGun kaczki (337-082)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kulochwyt magnetyczny RazorGun kaczki (337-082)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kulochwyt magnetyczny RazorGun kaczki (337-082)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "73269098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.337-082",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084184",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kulochwyt magnetyczny RazorGun kaczki (337-082)"
+      },
+      "properties": {
+        "message_id": "e10fad0c-5721-43e3-9ff5-0aac0ee8396e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T15:36:02Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZRZGKUL0004'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:04:59.357000+00:00",
+        "sequence_number": 124619
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZUMRKUL0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Kulochwyty",
+        "Brand": "UMAREX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kulochwyt Umarex 14x14 cm (121-197)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kulochwyt Umarex 14x14 cm (121-197)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kulochwyt Umarex 14x14 cm (121-197)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000844351098"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73269098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.121-197",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082387",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kulochwyt Umarex 14x14 cm (121-197)"
+      },
+      "properties": {
+        "message_id": "33688dbf-e12f-4295-ae7f-f01ff12ea317",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-17T15:18:49Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZUMRKUL0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:58.583000+00:00",
+        "sequence_number": 113571
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZUMRKUL0002",
+        "ProductVersion": "1.1",
+        "ProductType": "Kulochwyty",
+        "Brand": "UMAREX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Kulochwyt Umarex Magnum 14x14 cm (121-237)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Kulochwyt Umarex Magnum 14x14 cm (121-237)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Kulochwyt Umarex Magnum 14x14 cm (121-237)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "4000844561749"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "73269098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.121-237",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082390",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Kulochwyt Umarex Magnum 14x14 cm (121-237)"
+      },
+      "properties": {
+        "message_id": "a969bf87-0a3d-400c-b366-828da0897925",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-17T15:18:59Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZUMRKUL0002'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:58.583000+00:00",
+        "sequence_number": 113574
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "STZUMRKUL0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Kulochwyty",
+        "Brand": "UMAREX",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Cel reaktywny Umarex Target 5 (121-257)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Cel reaktywny Umarex Target 5 (121-257)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Cel reaktywny Umarex Target 5 (121-257)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "73269098",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "KOL.121-257",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "25.99.29.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56170
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56710
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084078",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Cel reaktywny Umarex Target 5 (121-257)"
+      },
+      "properties": {
+        "message_id": "7504e5e7-715c-4ddc-9536-39d464cfb18b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T13:35:00Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'STZUMRKUL0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:08.316000+00:00",
+        "sequence_number": 156871
+      }
+    }
+  ]
+}

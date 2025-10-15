@@ -1,0 +1,6044 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCOEA",
+        "ProductVersion": "1.3",
+        "ProductType": "Czujki",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "HIKVISION Czujnik PIR PET 25kg AX PRO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "HIKVISION Czujnik PIR PET 25kg AX PRO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "HIKVISION Czujnik PIR PET 25kg AX PRO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6942160434605"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "46841",
+        "Weight": 160.0,
+        "Height": 107.0,
+        "Width": 72.0,
+        "Depth": 61.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043657",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "893d53ac-164c-4540-a153-b764f9d51bb1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-23T12:22:04Z'",
+          "ModificationDate": "b'2025-09-30T13:41:29Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCOEA'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:52.153000+00:00",
+        "sequence_number": 148238
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRDCX2",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL CZUJNIK ZBICIA SZYBY, SZKŁA MAGENTA",
+            "ProductDescription": "Satel MAGENTA czujnik potłuczonego szkła Przewodowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL CZUJNIK ZBICIA SZYBY, SZKŁA MAGENTA",
+            "ProductDescription": "SATEL GLASS BREAKAGE SENSOR, MAGENTA GLASS"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL CZUJNIK ZBICIA SZYBY, SZKŁA MAGENTA",
+            "ProductDescription": "SATEL GLAS BRUCHSENSOR, MAGENTA GLAS"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330382"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MAGENTA",
+        "Weight": 60.0,
+        "Height": 35.0,
+        "Width": 155.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100044840",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c58051aa-1c9c-4c17-98fc-bf36e4da72f9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-07T10:21:38Z'",
+          "ModificationDate": "b'2025-06-04T12:20:28Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRDCX2'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:23:59.591000+00:00",
+        "sequence_number": 148612
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALKIDCZU0028",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "Optyczny czujnik dymu 10Y29A Kidde"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "KIDDE 10Y29A smoke detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "KIDDE 10Y29A Rauchmelder"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "047871102518"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10Y29A",
+        "Weight": 185.0,
+        "Height": 135.0,
+        "Width": 215.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091380",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8e51dedd-e1e4-4b6a-97bc-769a0e582040",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-04-24T12:29:36Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALKIDCZU0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:12:19.305000+00:00",
+        "sequence_number": 134567
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALKIDCZU0040",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik dymu i tlenku węgla K10LLCO KIDDE",
+            "ProductDescription": "Czujnik dymu i tlenku węgla K10LLCO KIDDE"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik dymu i tlenku węgla K10LLCO KIDDE",
+            "ProductDescription": "Smoke and carbon monoxide detector K10LLCO KIDDE"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik dymu i tlenku węgla K10LLCO KIDDE",
+            "ProductDescription": "Rauch- und Kohlenmonoxidmelder K10LLCO KIDDE"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "047871313433"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "K10LLCO",
+        "Weight": 180.0,
+        "Height": 130.0,
+        "Width": 88.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066203",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c90df415-353c-4e7a-83d2-6cdfc47de207",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-14T11:01:37Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALKIDCZU0040'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:45.655000+00:00",
+        "sequence_number": 164395
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0034",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL AMBER 2E Cyfrowa pasywna czujka podczerwieni",
+            "ProductDescription": "Satel AMBER 2E Bezprzewodowy Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL AMBER 2E Cyfrowa pasywna czujka podczerwieni",
+            "ProductDescription": "Satel AMBER 2E Wireless Wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL AMBER 2E Cyfrowa pasywna czujka podczerwieni",
+            "ProductDescription": "Satel AMBER 2E Kabellos Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334984"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AMBER 2E",
+        "Weight": 51.0,
+        "Height": 45.0,
+        "Width": 55.0,
+        "Depth": 80.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066207",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8795481c-27d3-4c2d-9658-ce3e6b11c8e1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-21T17:03:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0034'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:46.561000+00:00",
+        "sequence_number": 164399
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0048",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel GRAPHITE Czujka PIR",
+            "ProductDescription": "Satel GRAPHITE detektor ruchu Pasywny czujnik podczerwieni (PIR) Przewodowa Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel GRAPHITE Czujka PIR",
+            "ProductDescription": "Satel GRAPHITE motion detector Passive infrared (PIR) sensor Wired Wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel GRAPHITE Czujka PIR",
+            "ProductDescription": "Satel GRAPHITE Bewegungsmelder Passiver Infrarot-Sensor (PIR) Verkabelt Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335325"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GRAPHITE",
+        "Weight": 122.0,
+        "Height": 55.0,
+        "Width": 70.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066208",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8a9d4774-f50e-45c0-ba1c-54d3c7c09fb5",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-12-01T16:59:06Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0048'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:46.561000+00:00",
+        "sequence_number": 164400
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYLJ",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZUJKA UNIWERSALNA SATEL XD-2",
+            "ProductDescription": "CZUJKA UNIWERSALNA SATEL XD-2"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZUJKA UNIWERSALNA SATEL XD-2",
+            "ProductDescription": "UNIVERSAL DETECTOR SATEL XD-2"
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZUJKA UNIWERSALNA SATEL XD-2",
+            "ProductDescription": "UNIVERSAL-DETEKTOR SATEL XD-2"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334410"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "XD-2",
+        "Weight": 250.0,
+        "Height": 120.0,
+        "Width": 45.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038925",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b6bdee22-6172-4fbf-b4f1-ebfb75474dc3",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-06-23T13:06:39Z'",
+          "ModificationDate": "b'2025-06-04T12:17:04Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYLJ'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:12.567000+00:00",
+        "sequence_number": 120324
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYLN",
+        "ProductVersion": "1.3",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bezprzewodowa czujka uniwersalna SATEL AXD-200",
+            "ProductDescription": "BEZPRZEWODOWA CZUJKA UNIWERSALNA SATEL AXD-200"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bezprzewodowa czujka uniwersalna SATEL AXD-200",
+            "ProductDescription": "UNIVERSAL WIRELESS DETECTOR SATEL AXD-200"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bezprzewodowa czujka uniwersalna SATEL AXD-200",
+            "ProductDescription": "UNIVERSAL-DRAHTLOS-DETEKTOR SATEL AXD-200"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336575"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AXD-200",
+        "Weight": 85.0,
+        "Height": 40.0,
+        "Width": 118.0,
+        "Depth": 51.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038928",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "7c1064bb-a1e4-4f8c-81fe-6a4d31a6e963",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-21T10:02:37Z'",
+          "ModificationDate": "b'2025-09-30T13:41:25Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYLN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:12.567000+00:00",
+        "sequence_number": 120327
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYM9",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "Garvan",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik Gazów Wybuchowych Garvan MTG-3000H",
+            "ProductDescription": "Czujnik Gazów Wybuchowych Garvan MTG-3000H"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik Gazów Wybuchowych Garvan MTG-3000H",
+            "ProductDescription": "Garvan MTG-3000H Explosive Gas Detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik Gazów Wybuchowych Garvan MTG-3000H",
+            "ProductDescription": "Garvan MTG-3000H Explosivgas-Detektor"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5907437062845"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GAR-MTG-3000H",
+        "Weight": 176.0,
+        "Height": 106.0,
+        "Width": 140.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038938",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8a89c320-a3fd-432f-9533-f7c77f206fb9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-05-06T12:08:24Z'",
+          "ModificationDate": "b'2025-06-04T12:17:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYM9'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:12.567000+00:00",
+        "sequence_number": 120337
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0056",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel MSD-300 detektor dymu",
+            "ProductDescription": "Satel MSD-300 detektor dymu Fotoelektryczne czujniki odbicia Interconnectable Bezprzewodowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel MSD-300 detektor dymu",
+            "ProductDescription": "Satel MSD-300 smoke detector Photoelectrical reflection detector Interconnectable Wireless"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel MSD-300 detektor dymu",
+            "ProductDescription": "Satel MSD-300 Rauchmelder Photoelektrischer Reflexionsmelder Interkonnektabel Kabellos"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330320"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MSD-300",
+        "Weight": 422.0,
+        "Height": 65.0,
+        "Width": 125.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056962",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9fb432e8-f4e2-4b21-957e-018dc44238f2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-08T07:13:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0056'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:17.186000+00:00",
+        "sequence_number": 149576
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0131",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL BEZPRZEWODOWY CZUJNIK RUCHU APMD-250",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL BEZPRZEWODOWY CZUJNIK RUCHU APMD-250",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL BEZPRZEWODOWY CZUJNIK RUCHU APMD-250",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336650"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "APMD-250",
+        "Weight": 190.0,
+        "Height": 55.0,
+        "Width": 181.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056963",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "26a7947a-50ff-40b1-a1d5-8e297d270d80",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-06T21:25:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0131'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:24:17.186000+00:00",
+        "sequence_number": 149577
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0005",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL ASD-110 - Czujnik dymu i ciepła bezprzewodowy",
+            "ProductDescription": "Satel ASD-110 detektor dymu Przewodowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL ASD-110 - Czujnik dymu i ciepła bezprzewodowy",
+            "ProductDescription": "Satel ASD-110 smoke detector Wired"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL ASD-110 - Czujnik dymu i ciepła bezprzewodowy",
+            "ProductDescription": "Satel ASD-110 Rauchmelder Kabelgebunden"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335967"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ASD-110",
+        "Weight": 221.0,
+        "Height": 65.0,
+        "Width": 120.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100054250",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "42473c0d-d42a-4663-bbd9-b9e58ab56a9f",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-06-30T12:25:46Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0005'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:25:47.163000+00:00",
+        "sequence_number": 149781
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFY71",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "FireAngel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FIREANGEL CZUJNIK DYMU THERMOPTEK",
+            "ProductDescription": "Czujnik Dymu - FireAngel ST-625"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FIREANGEL CZUJNIK DYMU THERMOPTEK",
+            "ProductDescription": "FireAngel ST-625 Smoke Detector - 2 xAA Batery"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FIREANGEL CZUJNIK DYMU THERMOPTEK",
+            "ProductDescription": "FireAngel ST-625 Rauchmelder"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "816317003920"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ST-625",
+        "Weight": 196.0,
+        "Height": 44.0,
+        "Width": 113.0,
+        "Depth": 163.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100060489",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "57c54a9a-057d-425d-8d2c-064adbc9ed49",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-12-12T20:28:33Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFY71'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:04.438000+00:00",
+        "sequence_number": 135611
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0045",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel AQUA LUNA Czujnik ruchu",
+            "ProductDescription": "Satel AQUA Luna Przewodowy i Bezprzewodowy Sufit / Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel AQUA LUNA Czujnik ruchu",
+            "ProductDescription": "Satel AQUA Luna Wired & Wireless Ceiling/wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel AQUA LUNA Czujnik ruchu",
+            "ProductDescription": "Satel AQUA Luna Verkabelt & Kabellos Decke/Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335561"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AQUALUNA",
+        "Weight": 129.0,
+        "Height": 60.0,
+        "Width": 135.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068102",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "987a1ae5-aa9f-48d4-8dfb-deb7f99fbd88",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-07-20T12:30:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0045'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107379
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0053",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel GRAPHITE Pet Cyfrowa pasywna czujka podczerwi",
+            "ProductDescription": "Satel GRAPHITE Pet Pasywny czujnik podczerwieni (PIR) Przewodowy i Bezprzewodowy Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel GRAPHITE Pet Cyfrowa pasywna czujka podczerwi",
+            "ProductDescription": "Satel GRAPHITE Pet Passive infrared (PIR) sensor Wired & Wireless Wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel GRAPHITE Pet Cyfrowa pasywna czujka podczerwi",
+            "ProductDescription": "Satel GRAPHITE Pet Passiver Infrarot-Sensor (PIR) Verkabelt & Kabellos Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335417"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "GRAPHITE Pet",
+        "Weight": 105.0,
+        "Height": 110.0,
+        "Width": 70.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068103",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0a1f2f8b-73af-453e-8607-b9bb4ce33b56",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-06-19T16:43:26Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0053'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107380
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0059",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL MICRA MPD-300 Bezprzewodowa czujka ruchu",
+            "ProductDescription": "Satel MPD-300 detektor ruchu Pasywny czujnik podczerwieni (PIR) Bezprzewodowy Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL MICRA MPD-300 Bezprzewodowa czujka ruchu",
+            "ProductDescription": "Satel MPD-300 motion detector Passive infrared (PIR) sensor Wireless Wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL MICRA MPD-300 Bezprzewodowa czujka ruchu",
+            "ProductDescription": "Satel MPD-300 Bewegungsmelder Passiver Infrarot-Sensor (PIR) Kabellos Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330238"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MPD-300",
+        "Weight": 150.0,
+        "Height": 145.0,
+        "Width": 65.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068104",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "37dc1ab6-a0ed-4497-8276-778193a07164",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-11-20T09:44:18Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0059'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107381
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0063",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dualna czujka ruchu PIR+MW Satel SLIM-DUAL-PET",
+            "ProductDescription": "Satel SLIM-DUAL-PET detektor ruchu Pasywny czujnik podczerwieni (PIR) Bezprzewodowy Sufit / Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dualna czujka ruchu PIR+MW Satel SLIM-DUAL-PET",
+            "ProductDescription": "Satel SLIM-DUAL-PET motion detector Passive infrared (PIR) sensor Wireless Ceiling/wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dualna czujka ruchu PIR+MW Satel SLIM-DUAL-PET",
+            "ProductDescription": "Satel SLIM-DUAL-PET Bewegungsmelder Passiver Infrarot-Sensor (PIR) Kabellos Decke/Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334335"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SLIM-DUAL-PET",
+        "Weight": 120.0,
+        "Height": 150.0,
+        "Width": 65.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068105",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9206b245-c979-4440-a63b-443477e0e663",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2020-07-31T09:38:49Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0063'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107382
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0069",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "OPTYCZNA CZUJKA DYMU SATEL DRP-100",
+            "ProductDescription": "Punktowa optyczna czujka dymu SATEL DRP-100 Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "OPTYCZNA CZUJKA DYMU SATEL DRP-100",
+            "ProductDescription": "Point-type Optical Smoke Detector SATEL DRP-100 White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "OPTYCZNA CZUJKA DYMU SATEL DRP-100",
+            "ProductDescription": "Punktförmiger optischer Rauchdetektor SATEL DRP-100 Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330641"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DRP-100",
+        "Weight": 145.0,
+        "Height": 60.0,
+        "Width": 140.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068106",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "5374bd6f-adf1-4938-af9b-32a1cf1f5c24",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-08-05T12:34:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0069'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107383
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0071",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KONTAKTRON SATEL BRAMOWY GARAŻOWY (METAL) B-4M",
+            "ProductDescription": "KONTAKTRON SATEL BRAMOWY GARAŻOWY (METAL) B-4M"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KONTAKTRON SATEL BRAMOWY GARAŻOWY (METAL) B-4M",
+            "ProductDescription": "GARAGE SATEL GATE REED SWITCH (METAL) B-4M"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KONTAKTRON SATEL BRAMOWY GARAŻOWY (METAL) B-4M",
+            "ProductDescription": "GARAGENTORKONTAKT SATEL (METALL) B-4M"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "B-4M",
+        "Weight": 250.0,
+        "Height": 50.0,
+        "Width": 160.0,
+        "Depth": 90.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068107",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6fcf3be0-cad1-435f-9fae-9ecebc47f2ce",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-04-27T14:58:00Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0071'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:15.320000+00:00",
+        "sequence_number": 107384
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0065",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dualna czujka ruchu PIR+MW Satel SLIM-DUAL",
+            "ProductDescription": "Satel SLIM-DUAL-LUNA Pasywny czujnik podczerwieni (PIR) Przewodowa Sufit / Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dualna czujka ruchu PIR+MW Satel SLIM-DUAL",
+            "ProductDescription": "Satel SLIM-DUAL-LUNA Passive infrared (PIR) sensor Wired Ceiling/wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dualna czujka ruchu PIR+MW Satel SLIM-DUAL",
+            "ProductDescription": "Satel SLIM-DUAL-LUNA Passiver Infrarot-Sensor (PIR) Verkabelt Decke/Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334328"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SLIM-DUAL",
+        "Weight": 127.0,
+        "Height": 145.0,
+        "Width": 65.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100056382",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c27a6316-c1bc-4fce-870b-81113bca8e71",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-08T09:00:52Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0065'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:48:42.921000+00:00",
+        "sequence_number": 101926
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0130",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL ZEW. CZUJNIK RUCHU OPAL PLUS GY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL ZEW. CZUJNIK RUCHU OPAL PLUS GY",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL ZEW. CZUJNIK RUCHU OPAL PLUS GY",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334458"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OPAL-PLUS-GY",
+        "Weight": 206.0,
+        "Height": 71.0,
+        "Width": 72.0,
+        "Depth": 164.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066799",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e052230f-28e9-4ffb-8df7-2151810107ef",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-21T15:46:05Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0130'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:33.341000+00:00",
+        "sequence_number": 130435
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0067",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel ASD-200 detektor dymu Bezprzewodowy",
+            "ProductDescription": "Satel ASD-200 detektor dymu Bezprzewodowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel ASD-200 detektor dymu Bezprzewodowy",
+            "ProductDescription": "Satel ASD-200 smoke detector Wireless"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel ASD-200 detektor dymu Bezprzewodowy",
+            "ProductDescription": "Satel ASD-200 Rauchmelder Kabellos"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336698"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ASD-200",
+        "Weight": 220.0,
+        "Height": 70.0,
+        "Width": 120.0,
+        "Depth": 120.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100068706",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c7b4b05d-f175-471a-8ea3-2a108a6a0598",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-05T15:06:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0067'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:51:21.179000+00:00",
+        "sequence_number": 107664
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALKIDCZU0041",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik dymu KIDDE 10Y29A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik dymu KIDDE 10Y29A",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik dymu KIDDE 10Y29A",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10Y29A",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084373",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czujnik dymu KIDDE 10Y29A"
+      },
+      "properties": {
+        "message_id": "e11fb83b-d143-407f-8649-182092ffb673",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T13:53:53Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALKIDCZU0041'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:19.205000+00:00",
+        "sequence_number": 136361
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALKIDCZU0042",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik czadu, tlenku węgla + wyświetlacz K10LLDCO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik czadu, tlenku węgla + wyświetlacz K10LLDCO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik czadu, tlenku węgla + wyświetlacz K10LLDCO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10LLDCO",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084374",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "Czujnik czadu, tlenku węgla z wyświetlaczem K10LLDCO"
+      },
+      "properties": {
+        "message_id": "73db4b1d-bf7e-4fdf-b9a7-23fa1d06eba9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T13:53:56Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALKIDCZU0042'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:19.205000+00:00",
+        "sequence_number": 136362
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0060",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL MMD-300 Bezprzewodowa czujka magnetyczna",
+            "ProductDescription": "Satel MMD-300 detektor ruchu Bezprzewodowy Sufit / Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL MMD-300 Bezprzewodowa czujka magnetyczna",
+            "ProductDescription": "Satel MMD-300 motion detector Wireless Ceiling/wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL MMD-300 Bezprzewodowa czujka magnetyczna",
+            "ProductDescription": "Satel MMD-300 Bewegungsmelder Kabellos Decke/Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330221"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MMD-300",
+        "Weight": 105.0,
+        "Height": 160.0,
+        "Width": 40.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047864",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ff0b2891-70ab-499d-9817-56de81b34cee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-11-20T10:10:03Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0060'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:52:50.723000+00:00",
+        "sequence_number": 108095
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALNONCZU0003",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik indukcyjny M12, wyjście PNP + NPN, zasięg 5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik indukcyjny M12, wyjście PNP + NPN, zasięg 5",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik indukcyjny M12, wyjście PNP + NPN, zasięg 5",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "PSC1205-NP",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087101",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "fc04e4dc-6e33-4c2f-87a0-1f70e6e8038e",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-03-04T11:34:40Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALNONCZU0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:27.554000+00:00",
+        "sequence_number": 136837
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0083",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL DUALNA CZUJKA RUCHU PIR+MW SLIM-DUAL-PETNr ka",
+            "ProductDescription": "Satel SLIM-DUAL-PET detektor ruchu Pasywny czujnik podczerwieni (PIR) Bezprzewodowy Sufit / Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL DUALNA CZUJKA RUCHU PIR+MW SLIM-DUAL-PETNr ka",
+            "ProductDescription": "Satel SLIM-DUAL-PET motion detector Passive infrared (PIR) sensor Wireless Ceiling/wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL DUALNA CZUJKA RUCHU PIR+MW SLIM-DUAL-PETNr ka",
+            "ProductDescription": "Satel SLIM-DUAL-PET Bewegungsmelder Passiver Infrarot-Sensor (PIR) Kabellos Decke/Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334335"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SLIM-DUAL-PET",
+        "Weight": 135.0,
+        "Height": 55.0,
+        "Width": 150.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100087103",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": "SATEL DUALNA CZUJKA RUCHU PIR+MW SLIM-DUAL-PETNr kat: 23474"
+      },
+      "properties": {
+        "message_id": "4deba31c-1bf5-41da-a76c-b327999fa533",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-14T10:55:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0083'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:27.554000+00:00",
+        "sequence_number": 136839
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0055",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel TD-1 sensory temperatury i wilgotności",
+            "ProductDescription": "Satel TD-1 sensory temperatury i wilgotności powietrza Wewnętrzna Przewodowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel TD-1 sensory temperatury i wilgotności",
+            "ProductDescription": "Satel TD-1 temperature/humidity sensor Indoor Wired"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel TD-1 sensory temperatury i wilgotności",
+            "ProductDescription": "Satel TD-1 Temperatur- & Feuchtigkeitssensor Drinnen Kabelgebunden"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330269"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TD-1",
+        "Weight": 108.0,
+        "Height": 155.0,
+        "Width": 86.0,
+        "Depth": 35.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083107",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "3d49a951-18af-43e2-b4c9-02d3855dce52",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-19T15:00:19Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0055'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:50.712000+00:00",
+        "sequence_number": 122196
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGSS",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel SLIM-PIR-LUNA-PET detektor ruchu Pasywny czuj",
+            "ProductDescription": "Satel SLIM-PIR-LUNA-PET detektor ruchu Pasywny czujnik podczerwieni (PIR) Przewodowa Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel SLIM-PIR-LUNA-PET detektor ruchu Pasywny czuj",
+            "ProductDescription": "Satel SLIM-PIR-LUNA-PET motion detector Passive infrared (PIR) sensor Wired Wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel SLIM-PIR-LUNA-PET detektor ruchu Pasywny czuj",
+            "ProductDescription": "Satel SLIM-PIR-LUNA-PET Bewegungsmelder Passiver Infrarot-Sensor (PIR) Kabelgebunden Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SLIM-PIR-LUNA-PET",
+        "Weight": 50.0,
+        "Height": 60.0,
+        "Width": 50.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088606",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "1a7a6a48-232b-4e15-8a65-09a172548984",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-08T14:10:08Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGSS'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:31.133000+00:00",
+        "sequence_number": 137058
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0068",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujka ruchu SATEL PIR SLIM-PIR",
+            "ProductDescription": "Detektor ruchu czujnik podczerwieni SATEL PIR SLIM-PIR"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujka ruchu SATEL PIR SLIM-PIR",
+            "ProductDescription": "Motion detector infrared sensor SATEL PIR SLIM-PIR"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujka ruchu SATEL PIR SLIM-PIR",
+            "ProductDescription": "Bewegungsmelder Infrarotsensor SATEL PIR SLIM-PIR"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334304"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SLIM-PIR",
+        "Weight": 130.0,
+        "Height": 70.0,
+        "Width": 150.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088893",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e929e338-4e45-44c6-b46d-f8530abc2639",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-08-02T11:12:32Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0068'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:14:32.008000+00:00",
+        "sequence_number": 137073
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGST",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel SLIM-PIR-LUNA detektor ruchu (PIR)",
+            "ProductDescription": "Satel SLIM-PIR-LUNA detektor ruchu Pasywny czujnik podczerwieni (PIR)/ czujnik mikrofalowy Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel SLIM-PIR-LUNA detektor ruchu (PIR)",
+            "ProductDescription": "Satel SLIM-PIR-LUNA motion detector Passive infrared (PIR) sensor/Microwave sensor White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel SLIM-PIR-LUNA detektor ruchu (PIR)",
+            "ProductDescription": "Satel SLIM-PIR-LUNA Bewegungsmelder Passiv-Infrarot-Sensor (PIR) / Mikrowellen-Sensor Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334359"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SLIM-PIR-LUNA",
+        "Weight": 180.0,
+        "Height": 55.0,
+        "Width": 183.0,
+        "Depth": 67.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079196",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "b642e548-ae9f-4ef4-9a7b-bd7fa1cd9457",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T15:16:05Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGST'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:27.346000+00:00",
+        "sequence_number": 104236
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAOZ4",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Zewnętrzny czujnik ruchu SATEL OPAL PLUS biała",
+            "ProductDescription": "Satel DETECTOR PIR OUTDOOR/OPAL PLUS Pasywny czujnik podczerwieni (PIR)/ czujnik mikrofalowy Bezprzewodowy Sufit / Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Zewnętrzny czujnik ruchu SATEL OPAL PLUS biała",
+            "ProductDescription": "Satel DETECTOR PIR OUTDOOR/OPAL PLUS Passive infrared (PIR) sensor/Microwave sensor Wireless Ceiling/wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Zewnętrzny czujnik ruchu SATEL OPAL PLUS biała",
+            "ProductDescription": "Satel DETECTOR PIR OUTDOOR/OPAL PLUS Passiv-Infrarot-Sensor (PIR) / Mikrowellen-Sensor Kabellos Decke/Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334472"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OPAL PLUS",
+        "Weight": 210.0,
+        "Height": 65.0,
+        "Width": 158.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100079197",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2d75a9f2-4fb3-48be-b325-7dcb37206ce6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-27T15:16:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:24Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAOZ4'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:27.346000+00:00",
+        "sequence_number": 104237
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6813",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "Hikvision",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik PIR HIKVISION DS-PDPC12P-EG2-WE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik PIR HIKVISION DS-PDPC12P-EG2-WE",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik PIR HIKVISION DS-PDPC12P-EG2-WE",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "6941264054085"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DSPDPC12PEG2WE",
+        "Weight": 260.0,
+        "Height": 60.0,
+        "Width": 135.0,
+        "Depth": 75.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100034143",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e8aefda4-7e08-4c7f-984f-07bb5965c854",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-29T12:41:11Z'",
+          "ModificationDate": "b'2025-06-04T12:14:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6813'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:35:58.353000+00:00",
+        "sequence_number": 162064
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABK3",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL ZEWNĘTRZNY DUALNY CZUJNIK RUCHU OPAL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL ZEWNĘTRZNY DUALNY CZUJNIK RUCHU OPAL",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL ZEWNĘTRZNY DUALNY CZUJNIK RUCHU OPAL",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "OPAL-PRO-GY",
+        "Weight": 212.0,
+        "Height": 163.0,
+        "Width": 73.0,
+        "Depth": 69.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100083872",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e2f8f3f6-a941-47a3-8d67-d32163d53975",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-24T09:39:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABK3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:02:58.525000+00:00",
+        "sequence_number": 122562
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0064",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel APD-200PET detektor ruchu czujnik",
+            "ProductDescription": "Satel APD-200PET detektor ruchu Pasywny czujnik podczerwieni (PIR) Bezprzewodowy Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel APD-200PET detektor ruchu czujnik",
+            "ProductDescription": "Satel APD-200PET motion detector Passive infrared (PIR) sensor Wireless White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel APD-200PET detektor ruchu czujnik",
+            "ProductDescription": "Satel APD-200PET Bewegungsmelder Passiver Infrarot-Sensor (PIR) Kabellos Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336643"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "APD-200PET",
+        "Weight": 422.0,
+        "Height": 125.0,
+        "Width": 65.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100070713",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9d0e8656-33ee-49fd-941a-c59288712add",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-17T13:29:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0064'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:26:31.455000+00:00",
+        "sequence_number": 152111
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SSPSALCZU0003",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DRP-100",
+            "ProductDescription": "SATEL DRP-100 PUNKTOWA OPTYCZNA CZUJKA DYMU"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DRP-100",
+            "ProductDescription": "SATEL DRP-100 POINT OPTICAL SMOKE DETECTOR"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DRP-100",
+            "ProductDescription": "SATEL DRP-100 PUNKTFÖRMIGER OPTISCHER RAUCHMELDER"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330641"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DRP-100",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54187
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100050613",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ce486cf9-73ac-49e7-a3f2-bd6cfbe90aa6",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-01-30T16:41:17Z'",
+          "ModificationDate": "b'2025-09-30T13:41:13Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SSPSALCZU0003'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:15.276000+00:00",
+        "sequence_number": 137995
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALKIDCZU0032",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Dualny czujnik dymu i tlenku węgla K10SCO",
+            "ProductDescription": "Dualny czujnik dymu i tlenku węgla K10SCO"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Dualny czujnik dymu i tlenku węgla K10SCO",
+            "ProductDescription": "Dual smoke and carbon monoxide detector K10SCO"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Dualny czujnik dymu i tlenku węgla K10SCO",
+            "ProductDescription": "Doppelter Rauch- und Kohlenmonoxidmelder K10SCO"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "047871319930"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "K10SCO",
+        "Weight": 346.0,
+        "Height": 156.0,
+        "Width": 153.0,
+        "Depth": 62.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051217",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "0d7442d5-51dd-4644-9965-94d599ac040c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-02-19T09:29:27Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALKIDCZU0032'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:26.198000+00:00",
+        "sequence_number": 138541
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0067",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik gazu usypiającego SATEL DG-1 TCM",
+            "ProductDescription": "Satel DG-1 TCM detektor gazu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik gazu usypiającego SATEL DG-1 TCM",
+            "ProductDescription": "Satel DG-1 TCM gas detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik gazu usypiającego SATEL DG-1 TCM",
+            "ProductDescription": "Satel DG-1 TCM Gasdetektor"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335394"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DG-1TCM",
+        "Weight": 80.0,
+        "Height": 45.0,
+        "Width": 110.0,
+        "Depth": 110.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051287",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c62e0459-9d39-4b3e-9b3f-f12a1ada7c41",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-08T09:50:02Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0067'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:28.152000+00:00",
+        "sequence_number": 138609
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0044",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL AQUA PLUS Cyfrowa pasywna czujka podczerwieni",
+            "ProductDescription": "Satel AQUA Plus Pasywny czujnik podczerwieni (PIR) Przewodowy i Bezprzewodowy Sufit / Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL AQUA PLUS Cyfrowa pasywna czujka podczerwieni",
+            "ProductDescription": "Satel AQUA Plus Passive infrared (PIR) sensor Wired & Wireless Ceiling/wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL AQUA PLUS Cyfrowa pasywna czujka podczerwieni",
+            "ProductDescription": "Satel AQUA Plus Passiver Infrarot-Sensor (PIR) Verkabelt & Kabellos Decke/Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335349"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AQUAPLUS",
+        "Weight": 120.0,
+        "Height": 55.0,
+        "Width": 140.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100091977",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "8ca05ad2-5acf-420b-b464-130fb2bec15c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-06-23T12:49:16Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0044'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:40:56.799000+00:00",
+        "sequence_number": 168254
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0070",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "KONTAKTRON SATEL BRAMOWY GARAŻOWY (METAL) B-4M",
+            "ProductDescription": "Czujka magnetyczna bramowa SATEL B-4M kontaktron (obudowa metalowa) Srebrny"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "KONTAKTRON SATEL BRAMOWY GARAŻOWY (METAL) B-4M",
+            "ProductDescription": "Magnetic door detector SATEL B-4M reed switch (metal enclosure) Silver"
+          },
+          {
+            "Language": "de",
+            "ProductName": "KONTAKTRON SATEL BRAMOWY GARAŻOWY (METAL) B-4M",
+            "ProductDescription": "Magnetischer Türdetektor SATEL B-4M Reedschalter (Metallgehäuse) Silber"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336230"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "B-4M",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100051644",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "adf6fe39-7e50-4064-bdab-5f39f1d0abde",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2022-04-26T15:01:27Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0070'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:33.856000+00:00",
+        "sequence_number": 138942
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRMSWX",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "eura",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "CZUJNIK EURA DYMU PAP. AUTO. SD-20B8",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "CZUJNIK EURA DYMU PAP. AUTO. SD-20B8",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "CZUJNIK EURA DYMU PAP. AUTO. SD-20B8",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905548273051"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SD-20B8",
+        "Weight": 710.0,
+        "Height": 25.0,
+        "Width": 145.0,
+        "Depth": 100.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100092527",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "64bec3a7-c391-46c0-8910-f3ee2afa66fd",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-25T14:20:09Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRMSWX'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:05.698000+00:00",
+        "sequence_number": 168683
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0066",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik gazu metan SATEL DG-1 ME",
+            "ProductDescription": "Satel DG-1 ME detektor gazu Metan"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik gazu metan SATEL DG-1 ME",
+            "ProductDescription": "Satel DG-1 ME gas detector Methane"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik gazu metan SATEL DG-1 ME",
+            "ProductDescription": "Satel DG-1 ME Gasdetektor Methan"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335363"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DG-1ME",
+        "Weight": 82.0,
+        "Height": 107.0,
+        "Width": 111.0,
+        "Depth": 51.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100052580",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "9364ec20-3e4b-461e-861b-7e5603ec7546",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2021-06-08T09:38:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0066'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:41.685000+00:00",
+        "sequence_number": 139315
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJGMP",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "FireAngel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "FireAngel FA3313-EUX10 det. gazu Tlenek Węglu (CO)",
+            "ProductDescription": "FireAngel FA3313-EUX10 detektor gazu Tlenek Węglu (CO)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "FireAngel FA3313-EUX10 det. gazu Tlenek Węglu (CO)",
+            "ProductDescription": "FireAngel FA3313-EUX10 gas detector Carbon monoxide (CO)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "FireAngel FA3313-EUX10 det. gazu Tlenek Węglu (CO)",
+            "ProductDescription": "FireAngel FA3313-EUX10 Gasdetektor Kohlenstoffmonoxid"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "8103253",
+        "Weight": 178.0,
+        "Height": 120.0,
+        "Width": 48.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100084575",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c8c2d50f-7c0d-4c87-b585-282b5563ab3a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-25T16:20:20Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJGMP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:05:03.577000+00:00",
+        "sequence_number": 124813
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0029",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL FD-1 Czujnik zalania wodą (biały)",
+            "ProductDescription": "Satel FD-1 detektor wody Przewodowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL FD-1 Czujnik zalania wodą (biały)",
+            "ProductDescription": "Satel FD-1 water detector Wired"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL FD-1 Czujnik zalania wodą (biały)",
+            "ProductDescription": "Satel FD-1 Wasserdetektor Verkabelt"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335424"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "FD-1",
+        "Weight": 110.0,
+        "Height": 85.0,
+        "Width": 133.0,
+        "Depth": 30.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053564",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "ec77eda7-90a2-46f8-8773-3b1cdf1f2cb1",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-16T16:03:50Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0029'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:16:48.217000+00:00",
+        "sequence_number": 139674
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0022",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL AQUA-PET Czujnik ruchu",
+            "ProductDescription": "Satel AQUA Pet Pasywny czujnik podczerwieni (PIR) Przewodowy Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL AQUA-PET Czujnik ruchu",
+            "ProductDescription": "Satel AQUA Pet Passive infrared (PIR) sensor Wired Wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL AQUA-PET Czujnik ruchu",
+            "ProductDescription": "Satel AQUA Pet Passiver Infrarot-Sensor (PIR) Verkabelt Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335431"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": null,
+        "Weight": 100.0,
+        "Height": 115.0,
+        "Width": 55.0,
+        "Depth": 65.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100138535",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c16aa055-69a4-4eab-a846-7c98f8fea5e4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-16T15:23:21Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0022'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:41:15.668000+00:00",
+        "sequence_number": 169156
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0039",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL GREY Plus Miniaturowa dualna czujka ruchu PIR",
+            "ProductDescription": "Satel GREY Plus Pasywny czujnik podczerwieni (PIR)/ czujnik mikrofalowy Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL GREY Plus Miniaturowa dualna czujka ruchu PIR",
+            "ProductDescription": "Satel GREY Plus Passive infrared (PIR) sensor/Microwave sensor White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL GREY Plus Miniaturowa dualna czujka ruchu PIR",
+            "ProductDescription": "Satel GREY Plus Passiv-Infrarot-Sensor (PIR) / Mikrowellen-Sensor Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334700"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SATELGREYPlus",
+        "Weight": 125.0,
+        "Height": 65.0,
+        "Width": 135.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100047979",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "cd4e1ced-d805-47ed-8620-70b111c66b1a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2016-02-03T17:46:15Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0039'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:01.197000+00:00",
+        "sequence_number": 115833
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYN3",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik gazu ziemnego SAFE MI SHG-01 KIDDE",
+            "ProductDescription": "Czujnik gazu ziemnego SafeMi SHG-01"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik gazu ziemnego SAFE MI SHG-01 KIDDE",
+            "ProductDescription": "SafeMi SHG-01 Natural Gas Sensor"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik gazu ziemnego SAFE MI SHG-01 KIDDE",
+            "ProductDescription": "SafeMi SHG-01 Gassensor"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903714407385"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SHG-01",
+        "Weight": 325.0,
+        "Height": 125.0,
+        "Width": 190.0,
+        "Depth": 55.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038951",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "237cfb23-b519-4096-ad14-d289c53e4b50",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-11-05T15:30:46Z'",
+          "ModificationDate": "b'2025-06-04T12:17:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYN3'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:07.683000+00:00",
+        "sequence_number": 162532
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYNE",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL TSD-1 Czujka dymu i ciepła",
+            "ProductDescription": "Satel TSD-1 detektor dymu Przewodowa"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL TSD-1 Czujka dymu i ciepła",
+            "ProductDescription": "SATEL SMOKE AND HEAT DETECTOR TSD-1"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL TSD-1 Czujka dymu i ciepła",
+            "ProductDescription": "SATEL RAUCH- UND WÄRMEMELDER TSD-1"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335455"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TSD-1",
+        "Weight": 215.0,
+        "Height": 125.0,
+        "Width": 125.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038957",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6711df5a-6801-4396-ae99-1016a91335f2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-04-15T10:27:16Z'",
+          "ModificationDate": "b'2025-06-04T12:17:05Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYNE'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:07.683000+00:00",
+        "sequence_number": 162538
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAYNU",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL GREY Cyfrowa dualna czujka ruchu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL GREY Cyfrowa dualna czujka ruchu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL GREY Cyfrowa dualna czujka ruchu",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033334717"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SATELGREY",
+        "Weight": 126.0,
+        "Height": 55.0,
+        "Width": 65.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100038965",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "47af6a15-4c76-48e6-b189-d5484733b6d9",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-09-30T16:18:49Z'",
+          "ModificationDate": "b'2025-06-04T12:17:06Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAYNU'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:36:07.683000+00:00",
+        "sequence_number": 162546
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0061",
+        "ProductVersion": "1.3",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL BEZPRZEWODOWA CZUJKA AXD-200 BR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL BEZPRZEWODOWA CZUJKA AXD-200 BR",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL BEZPRZEWODOWA CZUJKA AXD-200 BR",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336582"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AXD-200BR",
+        "Weight": 86.0,
+        "Height": 118.0,
+        "Width": 52.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100032860",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "deb148e4-22f2-46bd-8c92-e6ede18fce02",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-10-24T12:36:36Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0061'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:42.417000+00:00",
+        "sequence_number": 141050
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRFPSP",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik gazu Propan Butan SafeMi SHG-02 KIDDE",
+            "ProductDescription": "Czujnik gazu propan butan SafeMi SHG-02"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik gazu Propan Butan SafeMi SHG-02 KIDDE",
+            "ProductDescription": "Propane-butane gas sensor SafeMi SHG-02"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik gazu Propan Butan SafeMi SHG-02 KIDDE",
+            "ProductDescription": "Propan-Butan-Gassensor SafeMi SHG-02"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5903714407392"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "SHG-02",
+        "Weight": 325.0,
+        "Height": 189.0,
+        "Width": 125.0,
+        "Depth": 63.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081065",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f1bae31d-9f61-4503-ad40-8182c509824b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-06T12:51:23Z'",
+          "ModificationDate": "b'2025-09-30T13:41:34Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRFPSP'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:55:46.270000+00:00",
+        "sequence_number": 112928
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0052",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel VD-1 Czujka wibracyjna",
+            "ProductDescription": "Satel VD-1 Czujnik drgań"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel VD-1 Czujka wibracyjna",
+            "ProductDescription": "Satel VD-1 vibration detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel VD-1 Czujka wibracyjna",
+            "ProductDescription": "Satel VD-1 Vibrationsmelder"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335448"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "VD-1",
+        "Weight": 86.0,
+        "Height": 165.0,
+        "Width": 40.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062293",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4d68749a-9530-44a5-bec4-8dd460b7142b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2017-06-19T16:38:39Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0052'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:45.049000+00:00",
+        "sequence_number": 155918
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0062",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL B-3A - Czujka magnetyczna boczna",
+            "ProductDescription": "SATEL B-3A - Czujka magnetyczna boczna"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL B-3A - Czujka magnetyczna boczna",
+            "ProductDescription": "SATEL B-3A - Side magnetic detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL B-3A - Czujka magnetyczna boczna",
+            "ProductDescription": "SATEL B-3A - Magnetischer Seitendetektor"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "2032000002386"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "B-3A",
+        "Weight": 80.0,
+        "Height": 55.0,
+        "Width": 95.0,
+        "Depth": 85.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062294",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "84317c27-8517-4102-9bd8-0e1c69d34ee4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2019-12-06T11:28:13Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0062'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:45.049000+00:00",
+        "sequence_number": 155919
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0020",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL MICRA MPD-300 Bezprzewodowa czujka ruchu",
+            "ProductDescription": "Satel MPD-300 detektor ruchu Pasywny czujnik podczerwieni (PIR) Bezprzewodowy Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL MICRA MPD-300 Bezprzewodowa czujka ruchu",
+            "ProductDescription": "Satel MPD-300 motion detector Passive infrared (PIR) sensor Wireless Wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL MICRA MPD-300 Bezprzewodowa czujka ruchu",
+            "ProductDescription": "Satel MPD-300 Bewegungsmelder Passiver Infrarot-Sensor (PIR) Kabellos Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MPD-300",
+        "Weight": 166.0,
+        "Height": 55.0,
+        "Width": 70.0,
+        "Depth": 145.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053030",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d6f066e5-de70-44ed-84fa-a1f55ba4c756",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-16T15:06:14Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0020'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:18:55.781000+00:00",
+        "sequence_number": 141704
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0023",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL DG-1 CO czujnik czadu (tlenku węgla)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL DG-1 CO czujnik czadu (tlenku węgla)",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL DG-1 CO czujnik czadu (tlenku węgla)",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335387"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DG-1CO",
+        "Weight": 80.0,
+        "Height": 45.0,
+        "Width": 106.0,
+        "Depth": 106.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100053975",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "dceaced6-c22c-4386-8212-9d2c17b65353",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-16T15:28:14Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0023'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:33:53.420000+00:00",
+        "sequence_number": 160457
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0065",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Satel AOD-210 czujnik podczerwieni (PIR)",
+            "ProductDescription": "Satel AOD-210 detektor ruchu Pasywny czujnik podczerwieni (PIR) Bezprzewodowy Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Satel AOD-210 czujnik podczerwieni (PIR)",
+            "ProductDescription": "Satel AOD-210 motion detector Passive infrared (PIR) sensor Wireless Wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Satel AOD-210 czujnik podczerwieni (PIR)",
+            "ProductDescription": "Satel AOD-210 Bewegungsmelder Passiver Infrarot-Sensor (PIR) Kabellos Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336667"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AOD-210",
+        "Weight": 218.0,
+        "Height": 162.0,
+        "Width": 70.0,
+        "Depth": 69.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076609",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "06434db8-9cba-457a-9b8a-0da46737ccd7",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-16T11:08:07Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0065'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:30:54.112000+00:00",
+        "sequence_number": 156265
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR0057",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "DETECTOR PIR+MW OUTDOOR/AGATE SATEL",
+            "ProductDescription": "Satel AGATE detektor ruchu Pasywny czujnik podczerwieni (PIR) Bezprzewodowy Sufit / Ściana Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "DETECTOR PIR+MW OUTDOOR/AGATE SATEL",
+            "ProductDescription": "Satel AGATE motion detector Passive infrared (PIR) sensor Wireless Ceiling/wall White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "DETECTOR PIR+MW OUTDOOR/AGATE SATEL",
+            "ProductDescription": "Satel AGATE Bewegungsmelder Passiver Infrarot-Sensor (PIR) Kabellos Decke/Wand Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033331129"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "AGATE",
+        "Weight": 422.0,
+        "Height": 125.0,
+        "Width": 65.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093477",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "d6f8f22c-1f5f-4c29-91b7-f1f0de3d0d4c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-30T16:48:45Z'",
+          "ModificationDate": "b'2025-09-30T13:41:20Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR0057'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:31.747000+00:00",
+        "sequence_number": 171462
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRAGWP",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik czadu Kidde K5CO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik czadu Kidde K5CO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik czadu Kidde K5CO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "047871313419"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "K5CO",
+        "Weight": 210.0,
+        "Height": 155.0,
+        "Width": 110.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100093801",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "960ef4b4-8617-479a-a9d3-308a12177b07",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-08-01T16:41:12Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRAGWP'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:43:36.779000+00:00",
+        "sequence_number": 171758
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0061",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL MMD-300BR Bezprzewodowa czujka magnetyczna",
+            "ProductDescription": "Satel MMD-300 BR Przewodowy i Bezprzewodowy Sufit / Ściana Brązowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL MMD-300BR Bezprzewodowa czujka magnetyczna",
+            "ProductDescription": "Satel MMD-300 BR Wired & Wireless Ceiling/wall Brown"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL MMD-300BR Bezprzewodowa czujka magnetyczna",
+            "ProductDescription": "Satel MMD-300 BR Verkabelt & Kabellos Decke/Wand Braun"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033330115"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "MMD-300BR",
+        "Weight": 105.0,
+        "Height": 160.0,
+        "Width": 40.0,
+        "Depth": 40.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100072085",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e3308ac1-a4dd-46e0-9742-0d211e1e49ee",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2018-11-20T10:14:40Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0061'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:09.985000+00:00",
+        "sequence_number": 142453
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJECL",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "Optyczny czujnik dymu 10Y29A Kidde"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "KIDDE 10Y29A smoke detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "KIDDE 10Y29A Rauchmelder"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "047871102518"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10Y29A",
+        "Weight": 190.0,
+        "Height": 52.0,
+        "Width": 215.0,
+        "Depth": 133.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100081739",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "f67de89f-00c7-4f12-baf0-1fda92ae7d9a",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-12T07:11:03Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJECL'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:28.611000+00:00",
+        "sequence_number": 128372
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRCOY2",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL CZUJNIK ZBICIA SZYBY, SZKŁA INDIGO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL CZUJNIK ZBICIA SZYBY, SZKŁA INDIGO",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL CZUJNIK ZBICIA SZYBY, SZKŁA INDIGO",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335059"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "INDIGO",
+        "Weight": 50.0,
+        "Height": 30.0,
+        "Width": 81.0,
+        "Depth": 51.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100043707",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c484ef7f-3977-4da6-9bd1-9ad0ed1aa250",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2024-08-19T10:00:31Z'",
+          "ModificationDate": "b'2025-06-04T12:19:49Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRCOY2'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:57:45.663000+00:00",
+        "sequence_number": 114998
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRJECN",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Optyczny czujnik dymu 29HD KIDDE",
+            "ProductDescription": "Kidde KID-29HD detektor dymu Czujnik optyczny Bezprzewodowy"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Optyczny czujnik dymu 29HD KIDDE",
+            "ProductDescription": "Kidde KID-29HD smoke detector Optical detector Wireless"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Optyczny czujnik dymu 29HD KIDDE",
+            "ProductDescription": "Kidde KID-29HD Rauchmelder Optischer Melder Kabellos"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "047871078936"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "29HD",
+        "Weight": 190.0,
+        "Height": 45.0,
+        "Width": 216.0,
+        "Depth": 130.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100082057",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "e184ac7c-0d15-4b2a-b097-0af0edff53a2",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-06-13T12:57:19Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRJECN'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:07:31.580000+00:00",
+        "sequence_number": 128537
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0028",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL TSD-1 Czujka dymu i ciepła",
+            "ProductDescription": "SATEL TSD-1 Czujnik dymu i ciepła wewnętrzny biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL TSD-1 Czujka dymu i ciepła",
+            "ProductDescription": "SATEL TSD-1 Smoke and heat detector inside white"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL TSD-1 Czujka dymu i ciepła",
+            "ProductDescription": "SATEL TSD-1 Rauch - und Wärmemelder innere weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335455"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "TSD-1",
+        "Weight": 206.0,
+        "Height": 120.0,
+        "Width": 120.0,
+        "Depth": 70.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100076046",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "c59bcf9b-8956-4645-b9a7-299b9856f04b",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-16T16:00:10Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0028'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:19:30.802000+00:00",
+        "sequence_number": 143554
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCR6372",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "No name",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Bezprzewodowy czujnik PIR DS PWRG PET",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Bezprzewodowy czujnik PIR DS PWRG PET",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "Bezprzewodowy czujnik PIR DS PWRG PET",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "45005",
+        "Weight": 422.0,
+        "Height": 125.0,
+        "Width": 65.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100090469",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "04b872b0-1bd4-42c9-8ddd-5501cbfea592",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-16T11:26:58Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCR6372'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:48.545000+00:00",
+        "sequence_number": 131170
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALKIDCZU0026",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "KIDDE 10Y29A detektor dymu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "KIDDE 10Y29A smoke detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Optyczny czujnik dymu 10Y29A Kidde",
+            "ProductDescription": "KIDDE 10Y29A Rauchmelder"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "047871102518"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "10Y29A",
+        "Weight": 180.0,
+        "Height": 60.0,
+        "Width": 210.0,
+        "Depth": 135.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088054",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "a7d3740f-0021-47e6-928d-6f204e23315c",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2023-03-01T10:15:06Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALKIDCZU0026'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:40.412000+00:00",
+        "sequence_number": 158282
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALSALCZU0012",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL DG-1 LPG Czujnik gazu propan-butan",
+            "ProductDescription": "Satel DG-1 LPG detektor gazu"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL DG-1 LPG Czujnik gazu propan-butan",
+            "ProductDescription": "Satel DG-1 LPG gas detector"
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL DG-1 LPG Czujnik gazu propan-butan",
+            "ProductDescription": "Satel DG-1 LPG Gasdetektor"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033335370"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DG-1LPG",
+        "Weight": 78.0,
+        "Height": 115.0,
+        "Width": 107.0,
+        "Depth": 47.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "CN",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100088055",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "4b1cd57f-8e46-4ef6-a6e2-e021009f67eb",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2015-10-13T14:15:25Z'",
+          "ModificationDate": "b'2025-09-30T13:41:11Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALSALCZU0012'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:31:40.412000+00:00",
+        "sequence_number": 158283
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "SALFIACZU0033",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "FireAngel",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik dymu THERMOPTEK FireAngel ST-622-PLT",
+            "ProductDescription": "Czujnik dymu FireAngel ST-622 detektor dymu optyczny (ST-622-PLT)"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik dymu THERMOPTEK FireAngel ST-622-PLT",
+            "ProductDescription": "Smoke alarm FireAngel ST-622 Optical smoke detector (ST-622-PLT)"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik dymu THERMOPTEK FireAngel ST-622-PLT",
+            "ProductDescription": "Rauchmelder FireAngel ST-622 Optischer Melder (ST-622-PLT)"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "816317003913"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ST-622-PLT",
+        "Weight": 202.0,
+        "Height": 170.0,
+        "Width": 134.0,
+        "Depth": 45.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100062290",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "2abb6ae4-0387-46c8-894d-927ce0402163",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-02-18T17:06:30Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'SALFIACZU0033'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:09:25.541000+00:00",
+        "sequence_number": 130035
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRADZD",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "Kidde",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik tlenku węgla z wyświetl. LCD K7DCO Kidde",
+            "ProductDescription": "Czujnik tlenku węgla Kidde K7DCO z wyświetlaczem Biały"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik tlenku węgla z wyświetl. LCD K7DCO Kidde",
+            "ProductDescription": "Carbon monoxide detector Kidde K7DCO with display White"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik tlenku węgla z wyświetl. LCD K7DCO Kidde",
+            "ProductDescription": "Kohlenmonoxid-Detektor Kidde K7DCO mit Anzeige Weiß"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "047871313402"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "K7DCO",
+        "Weight": 226.0,
+        "Height": 81.0,
+        "Width": 159.0,
+        "Depth": 77.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100066848",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "329e09e4-177a-40b8-b7ec-311068b92dfe",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-11T20:15:17Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRADZD'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:49:03.984000+00:00",
+        "sequence_number": 103026
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRABOS",
+        "ProductVersion": "1.2",
+        "ProductType": "Czujki",
+        "Brand": "SATEL",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "SATEL BE WAVE Bezprzewodowa czujka dymu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "SATEL BE WAVE Bezprzewodowa czujka dymu",
+            "ProductDescription": null
+          },
+          {
+            "Language": "de",
+            "ProductName": "SATEL BE WAVE Bezprzewodowa czujka dymu",
+            "ProductDescription": null
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-13",
+            "BarCode": "5905033336780"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "85311030",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "ASD-250",
+        "Weight": 230.0,
+        "Height": 70.0,
+        "Width": 125.0,
+        "Depth": 125.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "26.30.50.0",
+        "CountryOfOrigin": "PL",
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100049471",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "81081686-66a9-4b74-a905-25730a9a93a4",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-04-17T13:22:58Z'",
+          "ModificationDate": "b'2025-09-30T13:41:22Z'",
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRABOS'"
+        },
+        "enqueued_time_utc": "2025-10-03 14:58:14.214000+00:00",
+        "sequence_number": 116520
+      }
+    },
+    {
+      "body": {
+        "ProductNumber": "WLONONWCRIAN5",
+        "ProductVersion": "1.1",
+        "ProductType": "Czujki",
+        "Brand": "NETATMO",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "Czujnik czadu Netatmo NCO-EC",
+            "ProductDescription": "Netatmo CO Detector Detektor tlenku węgla Połączenia bezprzewodowe"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "Czujnik czadu Netatmo NCO-EC",
+            "ProductDescription": "Netatmo Smart Carbon Monoxide Alarm"
+          },
+          {
+            "Language": "de",
+            "ProductName": "Czujnik czadu Netatmo NCO-EC",
+            "ProductDescription": "Netatmo CO Detector Kohlenstoffmonoxid-Melder Drahtlose Verbindung"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [],
+        "BundleType": "",
+        "CNCode": null,
+        "DirectoryGTIN": "",
+        "ProducerNumber": "NCO-EC",
+        "Weight": 388.0,
+        "Height": 46.0,
+        "Width": 172.0,
+        "Depth": 162.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": null,
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54166
+              }
+            ]
+          },
+          {
+            "SalesChannelId": 2,
+            "CategoryCollection": [
+              {
+                "CategoryId": 54908
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100089700",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "971dc58d-37b6-4cae-9316-f1e292ac2575",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-07-14T18:27:26Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'WLONONWCRIAN5'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:21:48.430000+00:00",
+        "sequence_number": 146206
+      }
+    }
+  ]
+}

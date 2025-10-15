@@ -1,0 +1,83 @@
+{
+  "pim": [
+    {
+      "body": {
+        "ProductNumber": "NAKMAKNIT0001",
+        "ProductVersion": "1.1",
+        "ProductType": "Nitownice",
+        "Brand": "MAKITA",
+        "TranslationCollection": [
+          {
+            "Language": "pl",
+            "ProductName": "NITKOWNICA AKUMULATOROWA 18V DRV250Z MAKITA",
+            "ProductDescription": "Makita DRV250Z narzędzie do nitów mechanicznych Czarny, Niebieski 2.4,3.2,4,4.8,6 mm 20 kN"
+          },
+          {
+            "Language": "en-US",
+            "ProductName": "NITKOWNICA AKUMULATOROWA 18V DRV250Z MAKITA",
+            "ProductDescription": "Makita DRV250Z power rivet tool Black, Blue 2.4,3.2,4,4.8,6 mm 20 kN"
+          },
+          {
+            "Language": "de",
+            "ProductName": "NITKOWNICA AKUMULATOROWA 18V DRV250Z MAKITA",
+            "ProductDescription": "Makita DRV250Z Strombetriebenes Nietwerkzeug Schwarz, Blau 2.4,3.2,4,4.8,6 mm 20 kN"
+          }
+        ],
+        "RelatedProductCollection": [],
+        "ComponentCollection": [],
+        "BarcodeCollection": [
+          {
+            "BarCodeType": "GTIN-12",
+            "BarCode": "088381876360"
+          }
+        ],
+        "BundleType": "",
+        "CNCode": "84672920",
+        "DirectoryGTIN": "",
+        "ProducerNumber": "DRV250Z",
+        "Weight": 0.0,
+        "Height": 0.0,
+        "Width": 0.0,
+        "Depth": 0.0,
+        "Battery100Wh": false,
+        "LooseBattery": false,
+        "InstalledBattery": false,
+        "PKWiU": "28.24.11.0",
+        "CountryOfOrigin": null,
+        "CategoryMapCollection": [
+          {
+            "SalesChannelId": 1,
+            "CategoryCollection": [
+              {
+                "CategoryId": 56780
+              }
+            ]
+          }
+        ],
+        "PIMProductId": "100077515",
+        "Large": false,
+        "ImporterGPSR": null,
+        "Piktograms": null,
+        "ProducerGPSR": null,
+        "SferisName": null
+      },
+      "properties": {
+        "message_id": "6ae4ff11-cb3e-4e40-b627-9fb9d43c28cc",
+        "session_id": "0",
+        "content_type": "application/json",
+        "correlation_id": null,
+        "subject": "Product",
+        "application_properties": {
+          "Company": "b'ACT'",
+          "CreationDate": "b'2025-05-08T15:09:04Z'",
+          "ModificationDate": null,
+          "Source": "b'PIM'",
+          "Version": "b'1.0'",
+          "SourceId": "b'NAKMAKNIT0001'"
+        },
+        "enqueued_time_utc": "2025-10-03 15:28:22.382000+00:00",
+        "sequence_number": 153286
+      }
+    }
+  ]
+}

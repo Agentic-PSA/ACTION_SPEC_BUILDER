@@ -298,6 +298,7 @@ async def fill_graph_single_core(pim_data):
         if "ProductVersion" not in pim_data['body']:
             pim_data['body']['ProductVersion'] = "1.0"
 
+        specification['common']["ProductNumber"] = pim_data['body'].get('ProductNumber', '')
         # wysyłka do API grafu
         add_nodes_data = {
             "type": ean_type,
@@ -335,6 +336,7 @@ async def fill_graph_single_core(pim_data):
                 speccollection.append(spec)
 
         output = {
+            "ProductNumber": pim_data['body'].get("ProductNumber"),
             "PIMProductId": pim_data['body'].get("PIMProductId"),
             "Brand": pim_data['body'].get("Brand"),
             "CategoryMapCollection": pim_data['body'].get("CategoryMapCollection"),

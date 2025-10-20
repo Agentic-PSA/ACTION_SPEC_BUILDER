@@ -227,8 +227,8 @@ async def fill_graph_single_core(pim_data):
 
         # konwertujemy ID na level2 / level3
         level2_3_names = [
-            get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level3'] + " / " +
-            get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level2']
+            get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level2'] + " / " +
+            get_pg_data('categoryid_level3', str(cat), 'iserwis_categories')['categoryname_level3']
             for cat in category_ids if cat and cat != "0"]
 
         # łączymy wynik

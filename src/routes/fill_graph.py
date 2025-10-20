@@ -44,9 +44,14 @@ async def fill_graph(request):
     file = data["file"]
     results = []
 
-    with open(f"database/pim_by_type/{file}", "r", encoding="utf-8") as f:
-        #pim_list = json.load(f).get("pim", [])
-        pim_list = [json.loads(line) for line in f if line.strip()]  # każda linia to osobny JSON
+    file_path = f"database/pim_by_type/{file}"
+    _, ext = os.path.splitext(file_path)
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        if ext == ".jsonl":
+            pim_list = [json.loads(line) for line in f if line.strip()]  # każda linia to osobny JSON
+        elif ext == ".json":
+            pim_list = json.load(f).get("pim", [])
         print(f"Wczytano {len(pim_list)} elementów z pliku Grzejniki.json")
 
     for idx, pim_data in enumerate(pim_list):

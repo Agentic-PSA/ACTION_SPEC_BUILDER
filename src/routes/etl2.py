@@ -332,8 +332,8 @@ async def etl2_create_spec_aka(request):
     limit = 10000
     #limit = 1
     
-    product_type = 'Telewizory'
-    #product_type = 'Grzejniki'
+    #product_type = 'Telewizory'
+    product_type = 'Grzejniki'
     #product_type = 'Golarki/Maszynki do strzyżenia'
     category_desc = product_type
     #category = get_category_by_id(category_id)

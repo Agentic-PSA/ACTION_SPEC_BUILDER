@@ -259,7 +259,7 @@ async def fill_graph_single_core(pim_data):
                                         attributes[key] = f"{correct_key} {unit}"
                                     else:
                                         # nie-numerical - zapis jako obiekt {value, unit}
-                                        attributes[key] = {"value": value_avg, "unit": unit}
+                                        attributes[key] = {"value": correct_key, "unit": unit}
                                 else:
                                     attributes[key] = correct_key
                                 break

@@ -259,22 +259,7 @@ async def fill_graph_single_core(pim_data):
                                         attributes[key] = f"{correct_key} {unit}"
                                     else:
                                         # nie-numerical - zapis jako obiekt {value, unit}
-                                        parts = [p.strip().replace(",", ".") for p in str(correct_key).replace("-", "/").split("/") if p.strip()]
-                                        numbers = []
-                                        for p in parts:
-                                            try:
-                                                numbers.append(float(p))
-                                            except ValueError:
-                                                match = re.search(r"\d+(\.\d+)?", p)
-                                                if match:
-                                                    numbers.append(float(match.group()))
-                                                else:
-                                                    numbers.append(0.0)
-
-                                        value_min = min(numbers) if numbers else 0.0
-                                        value_max = max(numbers) if numbers else 0.0
-                                        value_avg = value_max
-                                        attributes[key] = {"value": value_avg, "unit": unit, "value_min": value_min, "value_max": value_max}
+                                        attributes[key] = {"value": value_avg, "unit": unit}
                                 else:
                                     attributes[key] = correct_key
                                 break

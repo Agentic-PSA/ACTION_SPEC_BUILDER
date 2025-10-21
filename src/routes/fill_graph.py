@@ -52,7 +52,7 @@ async def fill_graph(request):
             pim_list = [json.loads(line) for line in f if line.strip()]  # każda linia to osobny JSON
         elif ext == ".json":
             pim_list = json.load(f).get("pim", [])
-        print(f"Wczytano {len(pim_list)} elementów z pliku Grzejniki.json")
+        print(f"Wczytano {len(pim_list)} elementów z pliku {file}")
 
     for idx, pim_data in enumerate(pim_list):
         print(f"\n--- Przetwarzanie obiektu {idx + 1}/{len(pim_list)} ---")

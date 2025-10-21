@@ -243,6 +243,7 @@ def find_hallucinations(combined_groups, block):
     return hallucinations
 
 async def classify_block(system_prompt, block, current_merged, idx, save_fn):
+    sep = "\t"
     user_prompt = f"""
 Masz tabelę z kolumnami: Kategoria, Podkategoria, Typ produktu, Grupy typów produktu.
 
@@ -277,7 +278,7 @@ Zwróć wyłącznie JSON w tym formacie:
 }}
 
 Tabela wejściowa:
-{block.write_csv(separator="\t")}
+{block.write_csv(separator=sep)}
 """
 
     try:
@@ -375,11 +376,11 @@ async def validate_with_agent3(groups_from_agent1, groups_from_agent2, block, sy
     hallucinations = find_hallucinations(combined_groups, block)
 
 
-
+    sep = "\t"
     validation_prompt = f"""
 Masz oryginalną tabelę typów produktów:
 
-{block.write_csv(separator="\t")}
+{block.write_csv(separator=sep)}
 
 Masz też propozycje grupowania z wcześniejszych kroków:
 

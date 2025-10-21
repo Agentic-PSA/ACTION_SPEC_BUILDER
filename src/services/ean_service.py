@@ -122,7 +122,6 @@ def get_specification(panel_data):
     return specification
 
 async def send_message(session, message, data):
-    print('SEND_MESSAGE')
     panel_output_data = await get_panel_data(data)
     specification = get_specification(panel_output_data)
     # Request

@@ -41,8 +41,8 @@ def convert_units(numerical: dict) -> dict:
             value = value[0]
         value = value.replace(",", ".", 1)
         match = re.search(r'(\d+(?:\.\d+)?)(\")?', value)
-        #if match and match.group(2) == '"':
-        #    value = value.replace('"', ' in', 1)
+        if match and match.group(2) == '"':
+            value = value.replace('"', ' in', 1)
 
         try:
             # Jeśli °C lub °F – pomijamy Pint
@@ -267,7 +267,6 @@ async def fill_graph_single_core(pim_data):
                                 else:
                                     attributes[key] = correct_key
                                 break
-
         numerical = {}
         for section in specification.get("PL", []):
             attributes = section.get("attributes")
@@ -388,11 +387,11 @@ def apply_changes(data, changes):
                 new_attr = mapping.get(attr, attr)
                 if new_attr != attr:
                     print(f"Section '{section_name}': '{attr}' -> '{new_attr}'")
-                new_attributes[new_attr] = val
-
-                # poprawiamy też typ atrybutu
-                if attr in section["attributes_types"]:
-                    new_types[new_attr] = section["attributes_types"][attr]
+                if new_attr not in new_attributes:
+                    new_attributes[new_attr] = val
+                    # poprawiamy też typ atrybutu
+                    if attr in section["attributes_types"]:
+                        new_types[new_attr] = section["attributes_types"][attr]
 
             # podmieniamy całość
             section["attributes"] = new_attributes

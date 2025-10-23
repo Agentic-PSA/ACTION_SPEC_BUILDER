@@ -54,6 +54,10 @@ def convert_units(numerical: dict) -> dict:
                 num = float(re.search(r'[-+]?\d+(?:\.\d+)?', value).group(0))
                 response[key] = {'value': num, 'unit': '°F'}
                 continue
+            elif "\"" in value:
+                num = float(re.search(r'[-+]?\d+(?:\.\d+)?', value).group(0))
+                response[key] = {'value': num, 'unit': 'in'}
+                continue
 
             # Wszystko inne normalnie przez Pint
             q = Q_(value)

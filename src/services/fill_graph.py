@@ -41,8 +41,8 @@ def convert_units(numerical: dict) -> dict:
             value = value[0]
         value = value.replace(",", ".", 1)
         match = re.search(r'(\d+(?:\.\d+)?)(\")?', value)
-        if match and match.group(2) == '"':
-            value = value.replace('"', ' in', 1)
+        #if match and match.group(2) == '"':
+        #    value = value.replace('"', ' in', 1)
 
         try:
             # Jeśli °C lub °F – pomijamy Pint
@@ -56,7 +56,7 @@ def convert_units(numerical: dict) -> dict:
                 continue
             elif "\"" in value:
                 num = float(re.search(r'[-+]?\d+(?:\.\d+)?', value).group(0))
-                response[key] = {'value': num, 'unit': 'in'}
+                response[key] = {'value': num, 'unit': '"'}
                 continue
 
             # Wszystko inne normalnie przez Pint

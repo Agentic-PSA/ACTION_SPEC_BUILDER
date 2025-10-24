@@ -35,6 +35,7 @@ PIKTOGRAMY = {
 }
 
 def convert_units(numerical: dict) -> dict:
+    #print(json.dumps(numerical, ensure_ascii=False, indent=4))
     response = {}
     for key, value in numerical.items():
         if isinstance(value, list):
@@ -43,6 +44,24 @@ def convert_units(numerical: dict) -> dict:
         match = re.search(r'(\d+(?:\.\d+)?)(\")?', value)
         if match and match.group(2) == '"':
             value = value.replace('"', ' in', 1)
+        num_match = re.search(r'[-+]?\d+(?:\.\d+)?', value)
+        unit_match = re.search(r'[^\d\.\s]+', value)
+        if not num_match:
+            response[key] = {
+                'value': value,
+                'unit': ""
+            }
+            continue
+
+        num_str = num_match.group(0)
+        try:
+            if '.' in num_str:
+                num = float(num_str)
+            else:
+                num = int(num_str)
+        except ValueError:
+            num = num_str
+        unit2 = unit_match.group(0) if unit_match else ""
 
         try:
             # Jeśli °C lub °F – pomijamy Pint
@@ -60,14 +79,15 @@ def convert_units(numerical: dict) -> dict:
                 continue
 
             # Wszystko inne normalnie przez Pint
-            q = Q_(value)
-            v = q.to_base_units().magnitude  # wartości w jednostkach bazowych
-            u = q.to_base_units().units
-            response[key] = {'value': v, 'unit': f"{u:~}"}
-
+            # q = Q_(value)
+            # v = q.to_base_units().magnitude  # wartości w jednostkach bazowych
+            # u = q.to_base_units().units
+            # response[key] = {'value': v, 'unit': f"{u:~}"}
+            response[key] = {'value': num, 'unit': unit2}
         except Exception as e:
             logging.warning(f"Error processing {key}: {e}")
 
+    #print(json.dumps(response, ensure_ascii=False, indent=4))
     return response
 
 

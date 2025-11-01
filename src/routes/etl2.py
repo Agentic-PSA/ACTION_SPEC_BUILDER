@@ -297,129 +297,124 @@ async def etl2_create_spec(request):
     })
 
 async def etl2_create_spec_aka(request):
-    # Utworzenie katalogu wyjściowego
-    output_dir = create_output_directory()
-
-    # mapowanie
-    with open("data/section_mapping.json", "r", encoding="utf-8") as f:
-        section_mapping = json.load(f)
-
-    #data_lcd = await read_eans_from_file('data/TVA-LCD.json')
-    #data_oled = await read_eans_from_file('data/TVA-OLE.json')
-    #data_lcd = await read_eans_from_file('data/AGD-EXP.json')
-    #data_oled = await read_eans_from_file('data/AGD-EXZ.json')
-    #data = {**{d['gtin']: d for d in data_lcd}, **{d['gtin']: d for d in data_oled}}
-
-    # telewizory
-    # category_desc = "Telewizory"
-    # files = [
-    #     'data/TVA-LCD.json',
-    #     'data/TVA-OLE.json',
-    # ]
-    # grzejniki
-    # category_desc = "Grzejniki"
-    # files = [
-    #     'data/AGD-GKO.json',
-    #     'data/AGD-GRO.json',
-    # ]
-    # golarki
-    # category_desc = "Golarki"
-    # files = [
-    #     'data/AGD-GOL.json',
-    #     'data/AGD-GDU.json',
-    #     'data/AGD-STR.json',
-    # ]
-    limit = 10000
-    #limit = 1
-    
-    #product_type = 'Telewizory'
-    product_type = 'Grzejniki'
-    #product_type = 'Golarki/Maszynki do strzyżenia'
-    category_desc = product_type
-    #category = get_category_by_id(category_id)
-    #print(category)
-    #category_desc = f"{category.get('categoryname_level2') or ''} / {category.get('categoryname_level3') or ''}".strip(' /')
-    folder_path = 'data/pim_data'
-    files = [
-        os.path.join(folder_path, f)
-        for f in os.listdir(folder_path)
-        if f.endswith('.json')
-    ]
-    #print(files)
-
-    # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
+    # funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
     def save_to_output_dir(data, filename):
         file_path = os.path.join(output_dir, f'{filename}')
         save_json_file(data, file_path)
         return file_path
+    
+    # utworzenie katalogu wyjściowego
+    output_dir = create_output_directory()
 
+    # ręczne mapowanie sekcji 
+    with open("data/section_mapping.json", "r", encoding="utf-8") as f:
+        section_mapping = json.load(f)
 
+    # wczytanie danych z plików (pobranych z szyny)
+    data = await request.json()  # wejście np. lista lub jakieś parametry
+    type = data["type"]
+    base_path = f"database/pim_by_type/{type}"
+    pim_list = []
+
+    for ext in [".jsonl", ".json"]:
+        file_path = f"{base_path}{ext}"
+        if not os.path.exists(file_path):
+            print(f"Plik {file_path} nie istnieje, pomijam.")
+            continue
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            if ext == ".jsonl":
+                pim_part = [json.loads(line) for line in f if line.strip()]
+            elif ext == ".json":
+                try:
+                    data_json = json.load(f)
+                    pim_part = data_json.get("pim", data_json if isinstance(data_json, list) else [])
+                except json.JSONDecodeError as e:
+                    print(f"Błąd dekodowania JSON w {file_path}: {e}")
+                    pim_part = []
+            pim_list.extend(pim_part)
+            print(f"Wczytano {len(pim_part)} elementów z pliku {file_path}")
+
+    # nazwa kategorii dla llma
+    product_type = type.replace("_", " ")
+    category_desc = product_type
+
+    # przetwarzanie pobranych plików
+    start_index = 0
+    count = 20
+    end_index = start_index + count
     data = {}
     tt = 0
-    for file_path in files:
-        records = await read_eans_from_file(file_path)
-        # data.update({d['gtin']: d for d in records})
-        for record in records.get("pim", []):
-            if not isinstance(record, dict):
-                print("⚠️ Pominięto rekord — nie jest słownikiem:", record)
+    limit = 10000
+    #limit = 1
+#    return JSONResponse({        "result": True    })       
+    for idx, record in enumerate(pim_list):
+#    for idx, record in enumerate(pim_list[start_index:end_index], start=start_index):
+        #print(f"\n--- Przetwarzanie obiektu {idx + 1}/{len(pim_list)} ---")
+
+        # wstępna weryfikacja danych wejściowych
+#        if not pim_data['body'].get('BarcodeCollection'):
+            #print(f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber')}")
+
+        if not isinstance(record, dict):
+            print("ERROR - pominięto rekord — nie jest słownikiem:", record)
+            continue
+
+        body = record.get("body") or {}
+        if not isinstance(body, dict):
+            print("ERROR - pominięto rekord — body to None lub nie dict")
+            continue
+
+        #print('---------------------------------------------')
+        #print(body.get("ProductNumber"))
+
+        record_type = body.get("ProductType") or ''
+        if record_type != product_type:
+            print('ERROR - pominięto rekord — błędny typ', record_type, product_type)
+            continue
+
+        category_maps = body.get("CategoryMapCollection") or []
+        if not isinstance(category_maps, list):
+            print(f"ERROR - pominięto produkt {body.get('ProductNumber')} — CategoryMapCollection nie jest listą")
+            #print(json.dumps(record, indent=2, ensure_ascii=False))
+            continue
+
+
+        category_ids = []
+        for mapping in category_maps:
+            if not isinstance(mapping, dict):
                 continue
 
-            body = record.get("body") or {}
-            if not isinstance(body, dict):
-                print("⚠️ Pominięto rekord — body to None lub nie dict")
-                continue
+            if mapping.get("SalesChannelId") == 1: #ISERWICE
+                for cat in (mapping.get("CategoryCollection") or []):
+                    if not isinstance(cat, dict):
+                        continue
 
+                    category = get_category_by_id(cat.get("CategoryId"))
+                    category_ids.append(
+                        (category.get('categoryname_level3') if category else None)
+                        or cat.get("CategoryId")
+                    )
+                    #    category.get('categoryname_level3') or cat.get("CategoryId"))
 
-            print('---------------------------------------------')
-            print(body.get("ProductNumber"))
-
-            type = body.get("ProductType") or ''
-            if type != product_type:
-                continue
-
-            category_maps = body.get("CategoryMapCollection") or []
-            if not isinstance(category_maps, list):
-                print(f"⚠️ Pominięto produkt {body.get('ProductNumber')} — CategoryMapCollection nie jest listą")
-                continue
-            category_ids = []
-            for mapping in category_maps:
-                if not isinstance(mapping, dict):
-                    continue
-
-                if mapping.get("SalesChannelId") == 1: #ISERWICE
-                    for cat in (mapping.get("CategoryCollection") or []):
-                        if not isinstance(cat, dict):
-                            continue
-
-                        category = get_category_by_id(cat.get("CategoryId"))
-                        category_ids.append(
-                            (category.get('categoryname_level3') if category else None)
-                            or cat.get("CategoryId")
-                        )
-                        #    category.get('categoryname_level3') or cat.get("CategoryId"))
-
-            barcodes = body.get("BarcodeCollection", [])
-            gtin = None
-            for b in barcodes:
-                if b.get("BarCodeType") == "GTIN-13":
-                    gtin = b.get("BarCode")
-                    break
-
-            if gtin:
-                record["gtin"] = gtin
-                record["category_ids"] = category_ids
-                data[gtin] = record
-                tt = tt+1
-            else:
-                print(f"⚠️ Brak GTIN dla produktu {body.get('ProductNumber')}")
-
-            if tt > limit:
+        barcodes = body.get("BarcodeCollection", [])
+        gtin = None
+        for b in barcodes:
+            if b.get("BarCodeType") == "GTIN-13":
+                gtin = b.get("BarCode")
                 break
+
+        if gtin:
+            record["gtin"] = gtin
+            record["category_ids"] = category_ids
+            data[gtin] = record
+            tt = tt+1
+        else:
+            print(f"ERROR - brak GTIN dla produktu {body.get('ProductNumber')}")
+            #print(json.dumps(record, indent=2, ensure_ascii=False))
+
         if tt > limit:
             break
-
-
-
     connector = aiohttp.TCPConnector(limit=30)
 
     async with aiohttp.ClientSession(connector=connector) as session:

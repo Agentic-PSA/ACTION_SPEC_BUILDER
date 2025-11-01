@@ -10,7 +10,7 @@ from .pim import pim
 routes = [
     # MCP related routes
     Route("/etl2", endpoint=etl2_create_spec, methods=["POST"]),
-    Route("/etlaka", endpoint=etl2_create_spec_aka, methods=["GET"]),
+    Route("/etlaka", endpoint=etl2_create_spec_aka, methods=["POST"]),
     Route("/group_types", endpoint=group_types, methods=["POST"]),
     Route("/map_values", endpoint=map_values, methods=["POST"]),
     Route("/fill_graph", endpoint=fill_graph, methods=["POST"]),

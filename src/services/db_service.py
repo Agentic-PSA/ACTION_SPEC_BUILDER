@@ -16,6 +16,7 @@ def category_to_type(type, category):
     query = """
         INSERT INTO category_to_type (type, category)
         VALUES(%s, %s)
+        ON CONFLICT (type, category) DO NOTHING;
     """
     with psycopg2.connect(**conn_params) as conn:
         with conn.cursor() as cur:

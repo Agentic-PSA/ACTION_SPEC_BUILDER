@@ -655,6 +655,7 @@ async def etl2_create_spec_aka(request):
         form_save(product_type, ordered, form, form_with_values, translates, params_for_categories)
 
         # zapisz do tabeli category_to_type
+        category_to_type(product_type, product_type)
         for cat_id, category in categories_from_db.items():
             if (isinstance(category, dict)):
                 level3 = (category.get("categoryname_level3") or "").replace("-", "_")

@@ -4,6 +4,26 @@ import json
 import psycopg2
 from psycopg2.extras import RealDictCursor
 
+def category_to_type(type, category):
+    # połączenie
+    conn_params = {
+        "dbname": os.environ.get("POSTGRES_DB"),
+        "user": os.environ.get("POSTGRES_USER"),
+        "password": os.environ.get("POSTGRES_PASSWORD"),
+        "host": os.environ.get("POSTGRES_HOST"),
+        "port": os.environ.get("POSTGRES_PORT")
+    }      
+    query = """
+        INSERT INTO category_to_type (type, category)
+        VALUES(%s, %s)
+    """
+    with psycopg2.connect(**conn_params) as conn:
+        with conn.cursor() as cur:
+            cur.execute(
+                query, (type, category)
+            ) 
+        conn.commit()   
+
 def form_save(product_type, llm_form, form, form_with_values, translates, form_categories):
     # połączenie
     conn_params = {
@@ -38,6 +58,7 @@ def form_save(product_type, llm_form, form, form_with_values, translates, form_c
                     json.dumps(form_categories, ensure_ascii=False)            
                 )
             )
+        conn.commit()
 
 def get_category_by_id(category_id):
     conn_params = {

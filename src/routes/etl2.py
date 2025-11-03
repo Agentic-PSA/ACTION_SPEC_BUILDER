@@ -9,7 +9,7 @@ from src.services.specification_service import merge_specifications, combine_spe
 from src.services.ai_service import analyze_and_save, ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order, ai_sugest_section_names
 from src.services.file_service import save_json_file
 from src.services.form_service import build_form
-from src.services.db_service import form_save, get_category_by_id
+from src.services.db_service import form_save, get_category_by_id, category_to_type
 
 import datetime
 import os
@@ -346,6 +346,7 @@ async def etl2_create_spec_aka(request):
     data = {}
     tt = 0
     limit = 10000
+    categories_from_db = {}
     #limit = 1
 #    return JSONResponse({        "result": True    })       
     for idx, record in enumerate(pim_list):
@@ -391,11 +392,11 @@ async def etl2_create_spec_aka(request):
                         continue
 
                     category = get_category_by_id(cat.get("CategoryId"))
+                    categories_from_db[cat.get("CategoryId")] = category
                     category_ids.append(
                         (category.get('categoryname_level3') if category else None)
                         or cat.get("CategoryId")
                     )
-                    #    category.get('categoryname_level3') or cat.get("CategoryId"))
 
         barcodes = body.get("BarcodeCollection", [])
         gtin = None
@@ -653,6 +654,15 @@ async def etl2_create_spec_aka(request):
         save_to_output_dir(form_with_values, f'zz_zz_form_with_values')
         form_save(product_type, ordered, form, form_with_values, translates, params_for_categories)
 
+        # zapisz do tabeli category_to_type
+        for cat_id, category in categories_from_db.items():
+            if (isinstance(category, dict)):
+                level3 = (category.get("categoryname_level3") or "").replace("-", "_")
+                level2 = (category.get("categoryname_level2") or "").replace("-", "_")
+                category_to_type(product_type, level3)
+                category_to_type(product_type, f"{level2} / {level3}")
+            else:
+                category_to_type(product_type, str(cat_id))
 
     return JSONResponse({
         "result": True

@@ -1,7 +1,7 @@
 import base64
 import json
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, UTC
 from pathlib import Path
 import os
 from glob import glob
@@ -22,7 +22,7 @@ for folder in [DOWNLOAD_FOLDER, OLD_FOLDER, OUTPUT_FOLDER, BY_TYPE_FOLDER]:
     folder.mkdir(exist_ok=True)
 
 BATCH_SIZE = 25
-MAX_MESSAGES_PER_RUN = 100
+MAX_MESSAGES_PER_RUN = 1000
 ROTATE_EVERY = 200
 CHECK_INTERVAL = 5 * 60  # 15 minut
 PIM_BATCH_SIZE = 1000
@@ -106,6 +106,7 @@ def message_to_dict(msg):
 
 def new_outfile_path(counter: int, prefix="sb") -> Path:
     ts = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    #ts = datetime.now(UTC).strftime("%Y%m%d_%H%M%S")
     return DOWNLOAD_FOLDER / f"{prefix}__{TOPIC_NAME}__{SUBSCRIPTION_NAME}__session_{SESSION_ID}__part{counter}_{ts}.jsonl"
 
 def process_pim_files():
@@ -249,7 +250,7 @@ def fetch_and_process():
 
 if __name__ == "__main__":
     while True:
-        print(f"[info] start fetchu o {datetime.utcnow().isoformat()}")
+        print(f"[info] start fetchu o {datetime.now(UTC).isoformat()}")
         fetch_and_process()
         print(f"[info] koniec fetchu, czekam {CHECK_INTERVAL/60:.0f} minut...")
         time.sleep(CHECK_INTERVAL)

@@ -54,6 +54,10 @@ async def fill_graph(request):
             pim_list = json.load(f).get("pim", [])
         print(f"Wczytano {len(pim_list)} elementów z pliku {file}")
 
+    # start_index = 0
+    # count = 1
+    # end_index = start_index + count
+    # for idx, pim_data in enumerate(pim_list[start_index:end_index], start=start_index):
     for idx, pim_data in enumerate(pim_list):
         print(f"\n--- Przetwarzanie obiektu {idx + 1}/{len(pim_list)} ---")
         # można tu zrobić drobną wstępną weryfikację

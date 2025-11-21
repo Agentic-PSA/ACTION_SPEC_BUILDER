@@ -4,17 +4,15 @@ import aiohttp
 import asyncio
 import json
 import os
-from src.services.ean_service import read_eans, send_message, is_ean_valid, generate_ean_variants, read_eans_from_file
-from src.services.specification_service import merge_specifications, combine_specifications_with_values, normalize_specification 
-from src.services.ai_service import analyze_and_save, ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order, ai_sugest_section_names
+import re
+from src.services.ean_service import send_message, is_ean_valid, generate_ean_variants
+from src.services.ai_service import ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order, ai_sugest_section_names, ai_remove_excess_sections
 from src.services.file_service import save_json_file
 from src.services.form_service import build_form
-from src.services.db_service import form_save, get_category_by_id, category_to_type
+from src.services.db_service import form_save, get_category_by_id, category_to_type, get_forms, get_categories_in_type, add_excludes_to_search
 
 import datetime
 import os
-
-
 
 def create_output_directory():
     """
@@ -32,6 +30,18 @@ def create_output_directory():
 
     print(f"Utworzono katalog wyjściowy: {output_dir}")
     return output_dir
+
+def add_truncated_sections(categories_type, save_to_output_dir):
+    forms = get_forms(categories_type)
+    categories = get_categories_in_type(categories_type)
+
+    for category in categories:
+            print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Optymalizacja dla {category['category']} (AI)")
+            filename = re.sub(r'[<>:"/\\|?*\n\r\t]', '_', category['category'])
+            excludes = ai_remove_excess_sections(category['category'], forms['llm_form'], f"optymalization_{filename}", save_to_output_dir)
+            add_excludes_to_search(category['category'], excludes)
+            save_to_output_dir(excludes, f"excludes_{filename}")
+
 async def process_single_ean(session, idx, total, k, v):
     if not is_ean_valid(v['gtin']):
         print("nieprawidłowy EAN", v['gtin'])
@@ -55,246 +65,6 @@ async def process_single_ean(session, idx, total, k, v):
     print(f"{idx}/{total} EAN: {v['gtin']} | progress: {100 * idx / total:.1f}%")
 
     return {'panel': single_spec['panel_data'], 'specification': single_spec['specification']} if single_spec else None
-
-
-def clean_duplicate_mapping(duplicate_mapping):
-    """
-    Usuwa z listy duplikatów nazwy identyczne z kluczami kanonicznymi
-    oraz rozwiązuje problem hierarchii duplikatów, zachowując puste klucze.
-
-    Args:
-        duplicate_mapping (dict): Mapa duplikatów do oczyszczenia
-
-    Returns:
-        dict: Oczyszczona mapa duplikatów
-    """
-    # Najpierw budujemy odwrotną mapę: duplikat -> nazwa kanoniczna
-    reverse_mapping = {}
-    for section, mappings in duplicate_mapping.items():
-        for canonical_name, duplicates in mappings.items():
-            for dup in duplicates:
-                reverse_mapping.setdefault(section, {})[dup] = canonical_name
-
-    # Przygotowujemy nową mapę
-    cleaned_mapping = {}
-    print(reverse_mapping)
-    # Rozwiązujemy problem hierarchii duplikatów
-    for section, mappings in duplicate_mapping.items():
-        cleaned_mapping[section] = {}
-        section_reverse = reverse_mapping.get(section, {})
-
-        for canonical_name, duplicates in mappings.items():
-            # Pomijamy wpisy, gdzie nazwa kanoniczna jest duplikatem
-            if canonical_name in section_reverse:
-
-                higher_canonical = section_reverse[canonical_name]
-
-
-                # Przekazujemy "osierocone" duplikaty do wyższego poziomu
-                for dup in duplicates:
-                    if dup != canonical_name and dup != higher_canonical:
-
-                        cleaned_mapping[section].setdefault(higher_canonical, []).append(dup)
-                if duplicates:
-                    cleaned_mapping[section].setdefault(higher_canonical, []).append(canonical_name)
-
-                continue
-
-            # Usuwamy z listy duplikatów sam klucz kanoniczny
-            cleaned_duplicates = [dup for dup in duplicates if dup != canonical_name]
-
-        # Dodajemy zawsze, nawet jeśli lista duplikatów jest pusta
-            if canonical_name not in cleaned_mapping[section]:
-                cleaned_mapping[section][canonical_name] = cleaned_duplicates
-            # cleaned_mapping[section][canonical_name] = cleaned_duplicates
-
-    # Usuwamy potencjalne duplikaty w listach duplikatów po przekierowaniu
-    for section, mappings in cleaned_mapping.items():
-        for canonical_name, duplicates in mappings.items():
-            cleaned_mapping[section][canonical_name] = list(dict.fromkeys(duplicates))
-
-    return cleaned_mapping
-
-async def etl2_create_spec(request):
-    # Utworzenie katalogu wyjściowego
-    output_dir = create_output_directory()
-
-    # Funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
-    def save_to_output_dir(data, filename):
-        file_path = os.path.join(output_dir, filename)
-        save_json_file(data, file_path)
-        return file_path
-
-    data_lcd = await read_eans_from_file('data/TVA-LCD.json')
-    data_oled = await read_eans_from_file('data/TVA-OLE.json')
-    
-    data = {**{d['gtin']: d for d in data_lcd}, **{d['gtin']: d for d in data_oled}}
-    connector = aiohttp.TCPConnector(limit=30)
-
-    async with aiohttp.ClientSession(connector=connector) as session:
-        all_specs = []
-        all_examples = []
-        merged_specification = []
-        #total = len(data)
-        total = 20
-        batch_size = 10
-        language = "PL"
-
-        # Inicjalizacja globalnej mapy duplikatów
-        global_duplicate_mapping = {}
-
-        for batch_num, i in enumerate(range(0, total, batch_size)):
-            print(f"Przetwarzanie batcha {batch_num + 1}")
-
-            # 1. Wczytaj batch
-            batch_items = list(data.items())[i:i + batch_size]
-            tasks = [process_single_ean(session, idx + i, total, k, v) for idx, (k, v) in enumerate(batch_items)]
-            batch_results = await asyncio.gather(*tasks)
-
-            # 2. Filtrowanie i normalizacja batcha
-            batch_specs = [spec for spec in batch_results if spec]
-            batch_specifications = [
-                normalize_specification(spec.get("specification", []), global_duplicate_mapping)
-                for spec in batch_specs if spec
-            ]
-
-            # 3. Merge batcha
-            batch_merged = []
-            for specification in batch_specifications:
-                batch_merged = merge_specifications(batch_merged, specification)
-
-            # 4. Merge z wcześniejszym wynikiem
-            merged_specification = merge_specifications(merged_specification, batch_merged)
-
-            # 5. Dodaj examples
-            batch_examples = [panel['panel']["specification_values"] for panel in batch_specs]
-            all_examples.extend(batch_examples)
-
-            # 6. Wersja z examples (na starej mapie duplikatów)
-            save_to_output_dir({
-                "merged_specification": merged_specification,
-                "all_examples": all_examples,
-                "duplicate_mapping": global_duplicate_mapping
-            }, f'debug_input_before_combine_batch1_{batch_num + 1}.json')
-            current_with_examples = combine_specifications_with_values(merged_specification, all_examples, language,
-                                                                       global_duplicate_mapping)
-
-            # 7. Analiza AI → aktualizacja mapy duplikatów
-            print(f"Analiza AI dla batcha {batch_num + 1}...")
-            save_to_output_dir(current_with_examples, f'input_for_ai_batch_{batch_num + 1}.json')
-
-            try:
-                batch_ai_analysis = analyze_and_save(current_with_examples, f'batch_{batch_num + 1}',
-                                                     save_to_output_dir)
-
-                if isinstance(batch_ai_analysis, dict):
-                    for section, mappings in batch_ai_analysis.items():
-                        # Dodatkowe sprawdzenie czy mappings jest słownikiem
-                        if not isinstance(mappings, dict):
-                            print(
-                                f"UWAGA: Nieprawidłowy format odpowiedzi AI dla sekcji {section} w batchu {batch_num + 1}")
-                            continue
-
-                        if section not in global_duplicate_mapping:
-                            global_duplicate_mapping[section] = {}
-
-                        for canonical_name, duplicates in mappings.items():
-                            # Sprawdź czy duplicates jest listą
-                            if not isinstance(duplicates, list):
-                                print(
-                                    f"UWAGA: Nieprawidłowy format listy duplikatów dla {canonical_name} w sekcji {section}")
-                                continue
-
-                            global_duplicate_mapping[section].setdefault(canonical_name, [])
-                            for duplicate in duplicates:
-                                if duplicate not in global_duplicate_mapping[section][canonical_name]:
-                                    global_duplicate_mapping[section][canonical_name].append(duplicate)
-                else:
-                    print(f"UWAGA: Nieprawidłowy format odpowiedzi AI dla batcha {batch_num + 1}")
-                    save_to_output_dir({"error": "Invalid AI response format"},
-                                       f'invalid_ai_response_batch_{batch_num + 1}.json')
-            except Exception as e:
-                print(f"BŁĄD podczas analizy AI dla batcha {batch_num + 1}: {str(e)}")
-                save_to_output_dir({"error": str(e)}, f'ai_analysis_exception_batch_{batch_num + 1}.json')
-
-            # 8. Re-normalizacja na podstawie zaktualizowanej mapy
-            # Ta część wykonuje się niezależnie od wyniku analizy AI
-            global_duplicate_mapping = clean_duplicate_mapping(global_duplicate_mapping)
-            merged_specification = normalize_specification(merged_specification, global_duplicate_mapping)
-
-            # 9. Nowa wersja z examples (po wyczyszczeniu duplikatów)
-            save_to_output_dir({
-                "merged_specification": merged_specification,
-                "all_examples": all_examples,
-                "duplicate_mapping": global_duplicate_mapping
-            }, f'debug_input_before_combine_batch2_{batch_num + 1}.json')
-            current_with_examples = combine_specifications_with_values(merged_specification, all_examples, language,
-                                                                       global_duplicate_mapping)
-
-            # 10. Zapis tylko znormalizowanych wyników
-            save_to_output_dir(merged_specification, f'normalized_merged_after_batch_{batch_num + 1}.json')
-            save_to_output_dir(current_with_examples, f'normalized_with_examples_after_batch_{batch_num + 1}.json')
-            save_to_output_dir(global_duplicate_mapping, f'duplicate_mapping_after_batch_{batch_num + 1}.json')
-
-    # Finalne połączenie wszystkich specyfikacji z wszystkimi przykładami
-    save_to_output_dir({
-        "merged_specification": merged_specification,
-        "all_examples": all_examples,
-        "duplicate_mapping": global_duplicate_mapping
-    }, f'debug_input_before_combine_batchf_{batch_num + 1}.json')
-    final_spec = combine_specifications_with_values(merged_specification, all_examples, language,
-                                                    global_duplicate_mapping)
-
-    # Zapisanie finalnych wyników
-    save_to_output_dir({
-        "top_level_key": "attributes",
-        "secondary_key": "TVA-LCD",
-        "value": merged_specification}, 'final_merged.json')
-    save_to_output_dir(final_spec, 'final_with_examples.json')
-    save_to_output_dir(all_specs, 'all_specs.json')
-
-    # Oczyszczenie mapy duplikatów przed zapisaniem
-    cleaned_duplicate_mapping = clean_duplicate_mapping(global_duplicate_mapping)
-
-    save_to_output_dir(cleaned_duplicate_mapping, 'final_duplicate_mapping_cleaned.json')
-    save_to_output_dir(global_duplicate_mapping, 'final_duplicate_mapping.json')
-
-    # Finalna analiza AI
-    # Definiujemy system prompt dla GPT
-    system_prompt = """Przeanalizuj poniższe dane specyfikacji produktów i sprawdź, czy jakieś klucze nie zostały nadmiarowo połączone.
-    Twoim zadaniem jest znalezienie atrybutów, które powinny być rozdzielone, ponieważ dotyczą różnych cech produktu.
-    Zwróć finalną mapę duplikatów, ale usuń z niej wszelkie pary, które Twoim zdaniem nie powinny być łączone.
-    Odpowiedź zwróć w formie JSON bez żadnych dodatkowych komentarzy czy formatowania."""
-
-    # Przygotowujemy treść zapytania z finalną specyfikacją i mapą duplikatów
-    content = f"""Oto specyfikacja produktu z przykładami:
-    {json.dumps(final_spec, ensure_ascii=False, indent=2)}
-
-    Oraz aktualna mapa duplikatów:
-    {json.dumps(cleaned_duplicate_mapping, ensure_ascii=False, indent=2)}
-
-    Jeśli uważasz, że jakieś atrybuty zostały nieprawidłowo połączone jako duplikaty, usuń je z mapy.
-    Zwróć finalną, poprawioną mapę duplikatów."""
-
-    # Wywołujemy funkcję ask_gpt_custom
-    final_ai_analysis = ask_gpt_custom(system_prompt, content)
-
-    # Próbujemy przekonwertować odpowiedź na JSON
-    try:
-        final_ai_mapping = json.loads(final_ai_analysis)
-        save_to_output_dir(final_ai_mapping, 'final_duplicate_mapping_verified.json')
-    except json.JSONDecodeError:
-        print("Odpowiedź AI nie była poprawnym JSONem")
-        save_to_output_dir({"raw_response": final_ai_analysis}, 'final_ai_verification_raw.json')
-        final_ai_mapping = cleaned_duplicate_mapping  # Używamy oryginalnej mapy jako fallback
-    # Zwracamy finalny wynik z przykładami
-    return JSONResponse({
-        "final_specification": final_spec,
-        "merged_specification": merged_specification,
-        "duplicate_mapping": cleaned_duplicate_mapping,
-        "ai_analysis": final_ai_analysis,
-        "output_directory": output_dir
-    })
 
 async def etl2_create_spec_aka(request):
     # funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
@@ -605,6 +375,12 @@ async def etl2_create_spec_aka(request):
                             del all_params[section][param]
         save_to_output_dir(all_params, f'zz_all_params_without_duplicates')
 
+        #usun sekcje - dla kazdej kategorii z osobna
+        #for category in categories:
+        #    print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Optymalizacja dla {category} (AI)")
+        #    truncated = ai_remove_excess_sections(category, all_params, f'optymalization_{category}', save_to_output_dir)
+        #    save_to_output_dir(truncated, f'truncated_{category}')
+
         #zasugeruj nazwy zmian sekcji
         print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Zmiany nazw sekcji (AI)")
         sugest_section_names = ai_sugest_section_names(category_desc, all_params, f'zz_new_section_names_final', save_to_output_dir)
@@ -664,6 +440,8 @@ async def etl2_create_spec_aka(request):
                 category_to_type(product_type, f"{level2} / {level3}")
             else:
                 category_to_type(product_type, str(cat_id))
+
+        add_truncated_sections(product_type, save_to_output_dir)
 
     return JSONResponse({
         "result": True

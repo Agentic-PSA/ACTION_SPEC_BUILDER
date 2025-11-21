@@ -52,6 +52,7 @@ async def send_message_spiff(session, message, data):
             return response_data['task_data']
     except (aiohttp.ClientError, asyncio.TimeoutError):
         return None
+
 async def get_panel_data(ean: str):
     user = "BLUEBOX"
     key = "ZUNutFkVddOUf5El6udSUJIxYPFrys83"

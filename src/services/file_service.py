@@ -2,7 +2,6 @@
 import os
 import json
 
-
 def save_json_file(data, filename):
     """
     Zapisuje dane w formacie JSON do pliku.

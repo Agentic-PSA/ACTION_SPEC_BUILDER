@@ -476,21 +476,25 @@ Struktura danych wejściowych:
     }}
 }}
 
-Na podstawie przesłanej formatki
-1. Zdefiniuj, które parametry w sekcji nie pasują do sekcji i powinny zostać usunięte. 
-   - na przykład "kolor" nie powinien występować w sekcji "wymiary" czy też "wydajność" - należy go przesunąć w inne miejsce lub usunąć
-2. Znajdź duplikaty parametrów pomiędzy sekcjami. Jeden z nich (ten najlepiej pasujący) zarekomenduj do pozostawienia, pozostałe zarekomenduj do usunięcia
-   - pamiętaj, że np. parametr "kolor" w sekcji "Oparcie krzesła" nie jest duplikatem parametru "kolor" w sekcji "Siedzisko krzesła"
+Twoje zadanie:
 
-WYJŚCIE: 
-Przetworzony zestaw danych wejściowych tylko z listą proponowanych atrybutów do zmiany / usunięcia 
-Zamiast przykładowych wartości w kilku / kilkunastu słowach podaj powód swojej decyzji. Rozpocznij od słów:
-USUN - jeśli rekomendujesz usunięcie
-ZOSTAW - jeśli rekomendujesz pozostawienie
-PRZESUN DO nazwa_sekcji - jesli rekomendujesz przesuniecie do innej sekcji
-Zachowaj strukturę formatki (atrybuty powinny być w odpowiednich sekcjach)
+1. Zidentyfikuj parametry w sekcji, które **nie pasują do tej sekcji** i zarekomenduj ich usunięcie lub przesunięcie.
+   - Na przykład: parametr "kolor" nie powinien znajdować się w sekcji "Wymiary" czy "Wydajność" – wtedy zarekomenduj `PRZESUN DO <istniejąca sekcja>` lub `USUN`.
+2. Znajdź duplikaty parametrów między sekcjami.
+   - Jeśli parametr występuje w kilku sekcjach, wybierz **najbardziej pasujące wystąpienie** do pozostawienia (`ZOSTAW`) i zarekomenduj usunięcie lub przesunięcie pozostałych.
+   - Pamiętaj: parametr w jednej sekcji np. „Oparcie krzesła” nie jest duplikatem tego samego parametru w innej sekcji np. „Siedzisko krzesła”.
+3. **Nie usuwaj wszystkich wystąpień zdublowanego parametru** – zawsze pozostaw przynajmniej jedno.
+4. **Nie twórz nowych sekcji** – przesuwaj parametry tylko do istniejących sekcji.
+5. Każdą decyzję uzasadnij w kilku słowach, np. „parametr nie pasuje do sekcji”, „najlepiej pasuje do tej sekcji”, itp.
 
-ZAWSZE musi pozostać choć jedno wystąpienie zdublowanego atrybutu - NIE WOLNO wszystkich rekomendować do usunięcia.
+WYJŚCIE:
+- Przetworzony zestaw danych wejściowych zawierający **tylko parametry, dla których rekomendujesz zmianę/usunięcie/przesunięcie**.
+- Zamiast przykładowych wartości podaj powód swojej decyzji.
+- Użyj formatu:
+  - `USUN - powód usunięcia`
+  - `ZOSTAW - powód pozostawienia`
+  - `PRZESUN DO <nazwa_sekcji> - powód przesunięcia`
+- Zachowaj strukturę formatki (atrybuty powinny znajdować się w odpowiednich sekcjach).
 
 Struktura danych wyjściowych (dane do potencjalnego usunięcia):
 {{
@@ -536,14 +540,20 @@ Struktura danych wejściowych:
         "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
     }}
 }}
-Na podstawie przesłanej formatki zdefiniuj, które sekcje powinny być prezentowane jako pierwsze. 
-Są to kluczowe parametry, po których najczęściej dokonuje się wyboru danego produktu. 
-Zachowaj dowiązanie atrybutów do sekcji - zmień tylko kolejność w ramach sekcji i/lub kolejność całych sekcji.
-Sekcje związane z wagą ZAWSZE daj jako przed ostatnie.
-Sekcje związane z wymiarami ZAWSZE daj jako ostatnie.
 
-Struktura danych wyjściowych: taka sama jak danych wejściowych, ale we właściwej kolejności
+Twoje zadanie:
 
+1. Zdefiniuj, które sekcje i atrybuty są najważniejsze i powinny być prezentowane jako pierwsze.
+2. Zmień tylko kolejność sekcji i kolejność atrybutów w sekcji.
+3. **Nie usuwaj żadnych sekcji ani atrybutów.**
+4. Sekcja związana z wagą **powinna być umieszczona jako przedostatnia**.
+   - Jeśli atrybuty związane z wagą występują w innych sekcjach, **pozostaw je tam**, nie przenoś ani nie usuwaj.
+   - Możesz przesuwać atrybuty związane z wagą w ramach własnej sekcji, aby ustawić je w logicznej kolejności.
+5. Sekcja związana z wymiarami **powinna być umieszczona jako ostatnia**.
+   - Jeśli atrybuty związane z wymiarami występują w innych sekcjach, **pozostaw je tam**, nie przenoś ani nie usuwaj.
+   - Możesz przesuwać atrybuty związane z wymiarami w ramach własnej sekcji, aby ustawić je w logicznej kolejności.
+6. **Nie twórz żadnych nowych sekcji**. Wykorzystuj tylko sekcje już istniejące w danych wejściowych.
+7. Struktura danych wyjściowych powinna być taka sama jak wejściowa, ale z poprawną kolejnością sekcji i atrybutów.
 
 Now process the user input (JSON) and return only the required JSON output.
 
@@ -586,6 +596,73 @@ Struktura danych wyjściowych    :
 {{
     "Sekcja 1": "Nowa nazwa sekcji 1",
     "Sekcja 3": "Nowa nazwa sekcji 3"
+}}
+
+Now process the user input (JSON) and return only the required JSON output.
+
+"""
+    question = json.dumps(current_structure, ensure_ascii=False, indent=2)+ "\n\n"
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response_ERROR.json')
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+
+    return {}
+
+def ai_remove_excess_sections(category, current_structure, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}".
+Celem jest zmniejszenie liczby danych używanych do filtrowania i wyszukiwania, aby przyspieszyć działanie systemu.
+
+Struktura danych wejściowych:
+{{
+    "Sekcja 1": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"]
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+        "Drugi parametr": ["przykładowa wartość 1", "przykładowa wartość 2"],
+    }}
+}}
+
+Twoje zadanie:
+Na podstawie formatki wskaż parametry, które można usunąć, ponieważ:
+- wyszukiwania po tych parametrach są bardzo rzadkie,
+- wyszukiwania po tych parametrach nic nie wnoszą,
+- parametry są nadmiarowe, wtórne, oczywiste lub nieprzydatne w procesie wyboru produktu,
+- parametr posiada wartości niskiej jakości (np. powtarzalne, mało informacyjne).
+
+Przykłady typowych parametrów kwalifikujących się do usunięcia:
+- parametry kosmetyczne bez znaczenia przy wyszukiwaniu,
+- parametry identyczne dla większości produktów,
+- parametry nieużywane przez użytkowników (np. w logach zapytań),
+- parametry zbyt szczegółowe lub technicznie nieistotne.
+
+Zasady:
+1. Nigdy nie usuwaj wszystkich parametrów z jednej sekcji — minimum jeden musi pozostać.
+2. Jeśli nie masz pewności, nie rekomenduj usunięcia.
+3. Nie przesuwaj parametrów między sekcjami.
+4. Nie dodawaj nowych sekcji ani parametrów.
+5. Zwracasz tylko listę parametrów proponowanych do usunięcia (żadnych pozostawionych).
+
+Struktura danych wyjściowych (odpowiedz dokładnie w tym formacie):
+{{
+    "Sekcja 1": {{
+        "Drugi parametr": "USUN - powód usunięcia, np. wszystkie produkty mają ten parametr ",
+    }},
+    "Sekcja 2": {{
+        "Pierwszy parametr": "USUN - powód usunięcia, np. wyszukiwania po tych parametrach są bardzo rzadkie",
+        "Piąty parametr": "USUN - powód usunięcia ozosatwienia, np. wyszukiwania po tych parametrach nic nie wnoszą"
+    }}
 }}
 
 Now process the user input (JSON) and return only the required JSON output.

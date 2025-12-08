@@ -243,7 +243,12 @@ async def fetch_eans(eans_to_fetch):
 
             for idx, result in enumerate(batch_results):
                 k, v = batch_items[idx]  # dane wejściowe
-                gtin = result['panel']['product_ean']
+
+                panel = result.get("panel", {})
+                gtin = panel.get("product_ean") or panel.get("ean") or None
+                if not gtin:
+                    print("Brak product_ean / ean w panelu:", result)
+                    continue  # lub return error
 
                 product_data = {}  # słownik specyfikacji
                 specification = result["panel"].get("specification", [])

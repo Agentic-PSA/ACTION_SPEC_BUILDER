@@ -666,9 +666,8 @@ async def process_merged_products(product_type, merged_products, categories_from
             except Exception as e:
                 resp_ok = False
                 resp_content = str(e)
-            print("add_type", resp_ok, resp_content)
-            category_to_type(product_type, str(cat_id))
-    #add_truncated_sections(product_type, save_to_output_dir) - tymczasowo
+            print("add_type", resp_ok)
+    add_truncated_sections(product_type, save_to_output_dir)
     await map_values_logic({"category": product_type})
 
 

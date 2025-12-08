@@ -410,6 +410,7 @@ Surowe zasady (należy ich ściśle przestrzegać):
     - "min" nie łącz z "max"
     Należy traktować je jako odrębne parametry, nawet jeśli nazwa podstawowa wygląda podobnie.
     Parametry opisujące różne poziomy szczegółowości tej samej cechy (np. „typ karty graficznej” i „model karty graficznej”) traktuj jako odrębne, jeśli wartości nie są identyczne.
+    Parametry opisujące kolory traktuj jako odrębne (nie łącz parametrów jeśli wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów)
  6. Preferuj **konserwatywne grupowanie**: w razie wątpliwości NIE grupuj.
  7. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.
  8. Zachowaj deterministyczność wyników.
@@ -780,10 +781,11 @@ Surowe zasady (stosuj dosłownie):
 4. Parametry opisujące różne poziomy tej samej cechy traktuj jako odrębne, jeśli wartości nie są identyczne.  
 5. Jeśli dwa parametry mają takie same lub bardzo podobne nazwy, ale wartości wyraźnie różnią się semantycznie, NIE łącz ich.  
 6. Nie łącz parametrów, które oznaczają inne cechy („brutto” ≠ „netto”, „mikrofon” ≠ „rodzaj mikrofonu”, „poziomy” ≠ „pionowy” itp.).  
-7. Preferuj konserwatywne grupowanie – jeśli nie jesteś pewny, pozostaw parametr osobno.  
-8. Jeśli już łączysz, wybierz najbardziej zrozumiałą nazwę parametru w zestawie.  
-9. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.  
-10. Odpowiedź musi być deterministyczna: te same dane wejściowe → ten sam wynik.
+7. Nie łącz parametrów, które oznaczają kolory (które zawierają kolory podstawowe jak i jeśli wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów)
+8. Preferuj konserwatywne grupowanie – jeśli nie jesteś pewny, pozostaw parametr osobno.  
+9. Jeśli już łączysz, wybierz najbardziej zrozumiałą nazwę parametru w zestawie.  
+10. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.  
+11. Odpowiedź musi być deterministyczna: te same dane wejściowe → ten sam wynik.
 
 
 Przetwórz dane wejściowe JSON i zwróć wyłącznie wymagane dane wyjściowe JSON.

@@ -294,7 +294,7 @@ async def fill_graph_single_core(pim_data):
             for key, value in attributes_types.items():
                 if value == "numerical":
                     numerical[key] = attributes[key]
-        print(json.dumps(numerical, indent=1))
+        #print(json.dumps(numerical, indent=1))
         units = convert_units(numerical)
         for section in specification.get("PL", []):
             attributes = section.get("attributes")

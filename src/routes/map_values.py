@@ -139,9 +139,11 @@ def normalize_values(original_map, final_map):
             normalized_map[section][param] = result
     return normalized_map
 
-
-
 async def map_values(request):
+    data = await request.json()
+    return await map_values_logic(data)
+
+async def map_values_logic(data):
     output_dir = create_output_directory()
     print('test')
     def save_to_output_dir(data, filename):
@@ -149,7 +151,7 @@ async def map_values(request):
         save_json_file(data, file_path)
         return file_path
 
-    data = await request.json()  # <- to zwraca dict
+    #data = await request.json()  # <- to zwraca dict
     category = data.get("category")
     if not category:
         return JSONResponse({'error': 'Brak kategorii w żądaniu'}, status_code=400)

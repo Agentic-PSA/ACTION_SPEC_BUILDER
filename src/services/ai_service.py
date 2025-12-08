@@ -5,12 +5,12 @@ from functools import lru_cache
 import aiohttp
 import requests
 from openai import OpenAI
+import google.generativeai as genai
 from httpx import ReadTimeout
 
 
 SONOMA_KEY = "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"
 GPT_KEY = "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"
-
 
 @lru_cache(maxsize=1)
 def get_system_prompt(final: bool = False):
@@ -153,7 +153,59 @@ def ask_gpt_custom(system_prompt, content, model="gpt-4.1", api_key=GPT_KEY):
 
     return cleaned_response
 
+def ask_gemini(question, prompt):
+    api_key = os.environ.get("GEMINI_API_KEY", "")
+    if not api_key:
+        raise ValueError(
+            "Brak klucza Google Gemini. Podaj go jako parametr lub ustaw zmienną środowiskową GEMINI_API_KEY")
+    genai.configure(api_key=api_key)
+    
+    # print('------------------')
+    # for m in genai.list_models():
+    #     print(m.name, m.supported_generation_methods)
+    # print('------------------')
+    # exit()
+    model = genai.GenerativeModel("models/gemini-2.5-pro")
+
+    try:
+        full_prompt = (
+            f"{prompt}\n\n"
+            f"Dane wejściowe do analizy:\n\n{question}\n\n"
+            "IMPORTANT: Your response must be a valid, complete JSON object. "
+            "Don't include Markdown formatting like ```json or ``` in your response. "
+            "Don't truncate your response."
+        )
+        response = model.generate_content(
+            full_prompt,
+            safety_settings=None,  # opcjonalnie usunięcie filtrów bezpieczeństwa
+            generation_config={
+                "temperature": 0.0,
+                "max_output_tokens": 30000
+            }
+        )
+        #print("-----ask_gemini----")
+        #print(full_prompt)
+        raw_response = response.text.strip()
+
+        # Usuwanie formatowania Markdown, jeśli występuje
+        cleaned_response = raw_response.strip()
+        if cleaned_response.startswith('```json'):
+            cleaned_response = cleaned_response.replace('```json', '', 1).strip()
+        elif cleaned_response.startswith('```'):
+            cleaned_response = cleaned_response.replace('```', '', 1).strip()
+
+        if cleaned_response.endswith('```'):
+            cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
+
+        return cleaned_response
+    except ReadTimeout:
+        print("⏳ Timeout - serwer nie odpowiedział na czas (5 minut)")
+        return "⏳ Timeout - serwer nie odpowiedział na czas (5 minut)"
+
+
+
 def ask_gpt_aka(question, prompt, api_key=GPT_KEY):
+    return ask_gemini(question, prompt)
     """
     Wysyła zapytanie do modelu GPT-4.1 przez OpenAI API i zwraca odpowiedź.
 
@@ -357,6 +409,7 @@ Surowe zasady (należy ich ściśle przestrzegać):
     - "poziomy" nie łącz z "pionowy"
     - "min" nie łącz z "max"
     Należy traktować je jako odrębne parametry, nawet jeśli nazwa podstawowa wygląda podobnie.
+    Parametry opisujące różne poziomy szczegółowości tej samej cechy (np. „typ karty graficznej” i „model karty graficznej”) traktuj jako odrębne, jeśli wartości nie są identyczne.
  6. Preferuj **konserwatywne grupowanie**: w razie wątpliwości NIE grupuj.
  7. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.
  8. Zachowaj deterministyczność wyników.
@@ -494,16 +547,18 @@ WYJŚCIE:
   - `USUN - powód usunięcia`
   - `ZOSTAW - powód pozostawienia`
   - `PRZESUN DO <nazwa_sekcji> - powód przesunięcia`
+     * nazwa sekcji w poleceniu PRZESUN DO musi być zawsze zapisana w nawiasach trójkątnych < >. Jeśli ich zabraknie, odpowiedź jest niepoprawna.
 - Zachowaj strukturę formatki (atrybuty powinny znajdować się w odpowiednich sekcjach).
 
 Struktura danych wyjściowych (dane do potencjalnego usunięcia):
 {{
     "Sekcja 1": {{
         "Drugi parametr": "USUN - powód usunięcia, np. parametr nie pasuje do sekcji",
+        "Trzeci parametr": "PRZESUN DO <Sekcja 2> - parametr jest odpowiedni dla Sekcji 2"
     }},
     "Sekcja 2": {{
         "Pierwszy parametr": "USUN - powód usunięcia, np. podwojone wystąpienie",
-        "Piąty parametr": "ZOSTAW - powód pozosatwienia, np. najbardziej pasujący z trzech wystąpień"
+        "Piąty parametr": "ZOSTAW - powód pozostawienia, np. najbardziej pasujący z trzech wystąpień"
     }}
 }}
 
@@ -554,6 +609,8 @@ Twoje zadanie:
    - Możesz przesuwać atrybuty związane z wymiarami w ramach własnej sekcji, aby ustawić je w logicznej kolejności.
 6. **Nie twórz żadnych nowych sekcji**. Wykorzystuj tylko sekcje już istniejące w danych wejściowych.
 7. Struktura danych wyjściowych powinna być taka sama jak wejściowa, ale z poprawną kolejnością sekcji i atrybutów.
+8. Jeśli któryś z atrybutów oznacza kolory, a wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów to dodaj do listy wartości odpowiadający im kolor podstawowy lub powszechnie używany.
+   Używaj tylko podstawowych kolorów: czerwony, niebieski, zielony, żółty, pomarańczowy, różowy, fioletowy, brązowy, czarny, biały, szary.
 
 Now process the user input (JSON) and return only the required JSON output.
 
@@ -683,3 +740,104 @@ Now process the user input (JSON) and return only the required JSON output.
             print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
 
     return {}
+
+
+
+
+
+##### NOWE
+def ai_analyze_and_create_form_new(category, section, section_data, filename_prefix, save_function, max_attempts=2):
+    prompt = f"""
+Analizujesz formatkę opisową produktów w kategorii "{category}". Aktualne zapytanie dotyczy parametrów w sekcji "{section}"
+
+Struktura danych wejściowych:
+{{
+    "Parametr A": ["wartość 1", "wartość 2"],
+    "Parametr B": ["wartość X", "wartość Y"]
+}}
+
+Twoim zadaniem jest zwrócić strukturalną decyzję, czy:
+- dany parametr powinien pozostać osobno („ZOSTAW”),
+- czy należy go połączyć z innym istniejącym parametrem (np. "Parametr B": "Parametr A").
+
+WYJŚCIE: Przetworzony zestaw danych, tak aby zamiast przykładowych wartości była jedna z odpowiedzi: 
+- słowo ZOSTAW
+- LUB nazwa parametru z którym należy połączyć aktualne wartości
+
+Struktura danych wyjściowych:
+{{
+    "Parametr A": "ZOSTAW",
+    "Parametr B": "Parametr A"
+}}
+
+Surowe zasady (stosuj dosłownie):
+
+1. Używaj **nazw parametrów jako głównej wskazówki**, ale weryfikuj je również przez wartości.  
+2. Nie łącz parametrów o różnych typach wartości (zakres vs wartość ścisła, różne jednostki, różne poziomy szczegółowości).  
+3. Jeśli nazwy parametrów sugerują tę samą cechę i wartości mają częściowe pokrycie, połącz je.  
+   - Nie muszą mieć identycznej listy wartości, wystarczy że typ wartości jest spójny.  
+   - **Wyjątek:** wartości zakresowe nigdy nie łącz z wartościami ścisłymi.
+4. Parametry opisujące różne poziomy tej samej cechy traktuj jako odrębne, jeśli wartości nie są identyczne.  
+5. Jeśli dwa parametry mają takie same lub bardzo podobne nazwy, ale wartości wyraźnie różnią się semantycznie, NIE łącz ich.  
+6. Nie łącz parametrów, które oznaczają inne cechy („brutto” ≠ „netto”, „mikrofon” ≠ „rodzaj mikrofonu”, „poziomy” ≠ „pionowy” itp.).  
+7. Preferuj konserwatywne grupowanie – jeśli nie jesteś pewny, pozostaw parametr osobno.  
+8. Jeśli już łączysz, wybierz najbardziej zrozumiałą nazwę parametru w zestawie.  
+9. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.  
+10. Odpowiedź musi być deterministyczna: te same dane wejściowe → ten sam wynik.
+
+
+Przetwórz dane wejściowe JSON i zwróć wyłącznie wymagane dane wyjściowe JSON.
+
+
+"""
+
+    question = json.dumps(section_data, ensure_ascii=False, indent=2) + "\n\n"
+
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+
+            # Zapisz surową odpowiedź dla celów diagnostycznych
+            # save_function({"raw_response": ai_response}, f'{filename_prefix}_raw_ai_response.json')
+
+            try:
+                # Próba analizy JSON
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+
+                # Spróbuj wyczyścić odpowiedź - usuń tekst przed i po JSON
+                cleaned_response = ai_response.strip()
+                if cleaned_response.startswith('```json'):
+                    cleaned_response = cleaned_response.replace('```json', '', 1).strip()
+                if cleaned_response.endswith('```'):
+                    cleaned_response = cleaned_response.rsplit('```', 1)[0].strip()
+
+                # Ponowna próba parsowania
+                try:
+                    ai_json = json.loads(cleaned_response)
+                    save_function(ai_json, f'{filename_prefix}_ai_analysis_cleaned.json')
+                    return ai_json
+                except json.JSONDecodeError:
+                    # Jeśli jesteśmy w ostatniej próbie, zwróć pusty słownik
+                    if attempt == max_attempts - 1:
+                        print(f"Wszystkie próby nieudane dla {filename_prefix}")
+                        error_result = {}
+                        save_function({"error": "Invalid JSON response after all attempts",
+                                       "response": ai_response},
+                                      f'{filename_prefix}_ai_analysis_error.json')
+                        return error_result
+        except Exception as e:
+            print(f"Błąd podczas analizy AI dla {filename_prefix}: {str(e)}")
+            if attempt == max_attempts - 1:
+                error_result = {}
+                save_function({"error": str(e)}, f'{filename_prefix}_ai_analysis_error.json')
+                return error_result
+
+    # Jeśli wszystkie próby się nie powiodły, zwróć pusty słownik
+    return {}
+
+
+

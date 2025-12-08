@@ -537,9 +537,10 @@ Twoje zadanie:
 2. Znajdź duplikaty parametrów między sekcjami.
    - Jeśli parametr występuje w kilku sekcjach, wybierz **najbardziej pasujące wystąpienie** do pozostawienia (`ZOSTAW`) i zarekomenduj usunięcie lub przesunięcie pozostałych.
    - Pamiętaj: parametr w jednej sekcji np. „Oparcie krzesła” nie jest duplikatem tego samego parametru w innej sekcji np. „Siedzisko krzesła”.
-3. **Nie usuwaj wszystkich wystąpień zdublowanego parametru** – zawsze pozostaw przynajmniej jedno.
-4. **Nie twórz nowych sekcji** – przesuwaj parametry tylko do istniejących sekcji.
-5. Każdą decyzję uzasadnij w kilku słowach, np. „parametr nie pasuje do sekcji”, „najlepiej pasuje do tej sekcji”, itp.
+3. Nie usuwaj parametrów, które oznaczają kolory (które zawierają kolory podstawowe jak i jeśli wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów, np. Cosmic Blue, Ocean Breeze, Sunset Glow)
+4. **Nie usuwaj wszystkich wystąpień zdublowanego parametru** – zawsze pozostaw przynajmniej jedno.
+5. **Nie twórz nowych sekcji** – przesuwaj parametry tylko do istniejących sekcji.
+6. Każdą decyzję uzasadnij w kilku słowach, np. „parametr nie pasuje do sekcji”, „najlepiej pasuje do tej sekcji”, itp.
 
 WYJŚCIE:
 - Przetworzony zestaw danych wejściowych zawierający **tylko parametry, dla których rekomendujesz zmianę/usunięcie/przesunięcie**.
@@ -707,10 +708,11 @@ Przykłady typowych parametrów kwalifikujących się do usunięcia:
 
 Zasady:
 1. Nigdy nie usuwaj wszystkich parametrów z jednej sekcji — minimum jeden musi pozostać.
-2. Jeśli nie masz pewności, nie rekomenduj usunięcia.
-3. Nie przesuwaj parametrów między sekcjami.
-4. Nie dodawaj nowych sekcji ani parametrów.
-5. Zwracasz tylko listę parametrów proponowanych do usunięcia (żadnych pozostawionych).
+2. Nigdy nie usuwaj parametrów które oznaczają kolory (które zawierają kolory podstawowe jak i jeśli wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów, np. Cosmic Blue, Ocean Breeze, Sunset Glow)
+3. Jeśli nie masz pewności, nie rekomenduj usunięcia.
+4. Nie przesuwaj parametrów między sekcjami.
+5. Nie dodawaj nowych sekcji ani parametrów.
+6. Zwracasz tylko listę parametrów proponowanych do usunięcia (żadnych pozostawionych).
 
 Struktura danych wyjściowych (odpowiedz dokładnie w tym formacie):
 {{
@@ -781,7 +783,7 @@ Surowe zasady (stosuj dosłownie):
 4. Parametry opisujące różne poziomy tej samej cechy traktuj jako odrębne, jeśli wartości nie są identyczne.  
 5. Jeśli dwa parametry mają takie same lub bardzo podobne nazwy, ale wartości wyraźnie różnią się semantycznie, NIE łącz ich.  
 6. Nie łącz parametrów, które oznaczają inne cechy („brutto” ≠ „netto”, „mikrofon” ≠ „rodzaj mikrofonu”, „poziomy” ≠ „pionowy” itp.).  
-7. Nie łącz parametrów, które oznaczają kolory (które zawierają kolory podstawowe jak i jeśli wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów)
+7. Nie łącz parametrów, które oznaczają kolory (które zawierają kolory podstawowe jak i jeśli wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów, np. Cosmic Blue, Ocean Breeze, Sunset Glow)
 8. Preferuj konserwatywne grupowanie – jeśli nie jesteś pewny, pozostaw parametr osobno.  
 9. Jeśli już łączysz, wybierz najbardziej zrozumiałą nazwę parametru w zestawie.  
 10. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.  

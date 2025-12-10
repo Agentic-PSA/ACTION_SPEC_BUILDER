@@ -190,14 +190,19 @@ async def map_values_logic(data):
         1. Usunięciu duplikatów w wartościach atrybutów.
         2. Jeśli wartości różnią się tylko formatem (np. cal/cm, zapis liczbowy z przecinkiem/kropką, nawiasy) → ujednolić do jednego formatu.
         3. Jeśli wartości są bardzo zbliżone (np. wynik konwersji jednostek, różnice z zaokrągleń, minimalne różnice po przecinku <1% wartości) → potraktować jako duplikaty i zostawić tylko jedną reprezentatywną wartość.
-        4. Pojedyncza jedostka wartości nie może być wartością znormalizowaną, błędem jest przypisanie wartości (200 kWh, 300 kWh, 400 kWh) do znormalizowanej wartości (kWh).
+        4. Pojedyncza jednostka wartości nie może być wartością znormalizowaną, błędem jest przypisanie wartości (200 kWh, 300 kWh, 400 kWh) do znormalizowanej wartości (kWh).
         5. Utworzeniu wspólnych wartości dla kilku nazw oznaczających to samo (np. „Direct-LED BLU” = „Direct-LED”, lub ""4K Ultra HD" = "Ultra HD").
         6. Poprawieniu wszystkich wartości odbiegających od formatu przeważającego w danym atrybucie (np "2,54 m (100\")", na "100\"").
-        7. Jeśli analizowany parametr odpowiada za niefunkcjonalny rozmiar lub wagę urządzenia (np. "Waga z opakowaniem", "Głębokość z podstawą") Nie mapuj go. Analogicznie dla parametrów liczbowych typu moc, energia itp. np. średnie zużycie energii nie powinno być mapowane.
+        7. Jeśli analizowany parametr odpowiada za niefunkcjonalny rozmiar lub wagę urządzenia (np. "Waga z opakowaniem", "Głębokość z podstawą") pozostaw wartość bez zmian.
+           Analogicznie dla parametrów liczbowych typu moc, energia itp. np. średnie zużycie energii nie powinno być mapowane (pozostaw wartość bez zmian).
         8. Jeśli analizowany parametr to funkcyjny wymiar np. "długość przekątnej ekranu" lub  "pojemność powerbanka" należy je zmapować.
         9. Dla kolorów, odcieni i barw: traktuj każdą wartość jako unikalną. Nigdy nie łącz wartości, nawet jeśli są podobne, tłumaczone czy zawierają dodatkowe przymiotniki (np. "Titan Black" ≠ "Black").
         10. Jeśli w wartości parametru pojawią się widoczny błąd np "erfect" lub "podsawowy", zmapuj na wartość bez błędu "perfect" lub "podstawowy".
         11. Nigdy nie łącz różnych przedziałów wartości w jeden klucz, krytycznym błedem jest zrobienie takiego układu: {{"unit": "W", "values": {{"30/1000/1500/2000/2200/2500/3000/3500": ["1000 W", "2500 W", "2000 W", "3500 W", "2200 W", "30/2000/3000W", "25/1000/2000W", "1500 W", "30/2000W"]}}}}
+        12. Jeśli wartość zawiera kilka elementów (np. oddzielonych przecinkiem, średnikiem itp.), traktuj ją jako jeden zestaw elementów i reprezentuj w ustalonej kolejności (np. alfabetycznie). W "values" umieść wszystkie oryginalne warianty tego zestawu. Pojedyncze wartości pozostają osobnymi kluczami. Nie dziel elementów na osobne klucze ani nie twórz dodatkowych znormalizowanych wartości.
+        13. Parametry opisujące różne poziomy szczegółowości tej samej cechy (np. „typ karty graficznej” i „model karty graficznej”) traktuj jako odrębne, jeśli wartości nie są identyczne.
+        14. Parametry opisujące kolory traktuj jako odrębne – nie łącz ich, jeśli wśród wartości znajdują się kreatywne lub marketingowe nazwy kolorów.
+
         Wynik ma zawierać:
         - wszystkie atrybuty i ich strukturę identyczną jak w danych wejściowych,
         - przy każdej znormalizowanej wartości listę wartości oryginalnych, które zostały zmapowane/usunięte.

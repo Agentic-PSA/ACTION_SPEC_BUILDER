@@ -107,6 +107,7 @@ async def ask_sonoma_custom(system_prompt=None, user_prompt=None, api_key=SONOMA
             return response_json["choices"][0]["message"]["content"]
 
 def ask_gpt_custom(system_prompt, content, model="gpt-4.1", api_key=GPT_KEY):
+    return ask_gemini(content, system_prompt)
     """
     Wysyła zapytanie do modelu GPT z niestandardowym promptem systemowym i treścią.
 
@@ -259,6 +260,7 @@ def ask_gpt_aka(question, prompt, api_key=GPT_KEY):
         return "⏳ Timeout - serwer nie odpowiedział na czas (5 minut)"
 
 def ask_gpt(question, final=False, model="gpt-4.1", api_key=GPT_KEY):
+    return ask_gemini(question, "")
     if not api_key:
         api_key = os.environ.get("OPENAI_API_KEY", "")
         if not api_key:

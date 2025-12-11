@@ -181,7 +181,7 @@ def ask_gemini(question, prompt):
             safety_settings=None,  # opcjonalnie usunięcie filtrów bezpieczeństwa
             generation_config={
                 "temperature": 0.0,
-                "max_output_tokens": 30000
+                "max_output_tokens": 60000
             }
         )
         #print("-----ask_gemini----")
@@ -783,7 +783,9 @@ Surowe zasady (stosuj dosłownie):
    - Nie muszą mieć identycznej listy wartości, wystarczy że typ wartości jest spójny.  
    - **Wyjątek:** wartości zakresowe nigdy nie łącz z wartościami ścisłymi.
 4. Parametry opisujące różne poziomy tej samej cechy traktuj jako odrębne, jeśli wartości nie są identyczne.  
-5. Jeśli dwa parametry mają takie same lub bardzo podobne nazwy, ale wartości wyraźnie różnią się semantycznie, NIE łącz ich.  
+5. Jeśli dwa parametry mają takie same lub bardzo podobne nazwy, ale wartości wyraźnie różnią się semantycznie, NIE łącz ich.
+    Parametry opisujące różne poziomy szczegółowości tej samej cechy (np. „typ karty graficznej” i „model karty graficznej”) traktuj jako odrębne, jeśli wartości nie są identyczne.
+    Parametry opisujące kolory traktuj jako odrębne (nie łącz parametrów jeśli wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów)
 6. Nie łącz parametrów, które oznaczają inne cechy („brutto” ≠ „netto”, „mikrofon” ≠ „rodzaj mikrofonu”, „poziomy” ≠ „pionowy” itp.).  
 7. Nie łącz parametrów, które oznaczają kolory (które zawierają kolory podstawowe jak i jeśli wśród wartości znajdują się kreatywne, marketingowe nazwy kolorów, np. Cosmic Blue, Ocean Breeze, Sunset Glow)
 8. Preferuj konserwatywne grupowanie – jeśli nie jesteś pewny, pozostaw parametr osobno.  

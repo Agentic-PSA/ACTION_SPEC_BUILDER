@@ -160,6 +160,8 @@ async def map_values_logic(data):
     map_vals = {}
     for section in premap_vals[0]['value']:
         map_vals[section['section_name']['PL']] = {p['PL']: p['values'] for p in section['attributes']}
+        # if section['section_name']['PL'] == 'Dane podstawowe':
+        #     map_vals[section['section_name']['PL']] = {p['PL']: p['values'] for p in section['attributes'] if p['PL'] == 'Model wbudowanej karty graficznej'}
     # if True:
     #     return JSONResponse(map_values)
     # with open('data/all_params_after_449.json', 'r', encoding='utf-8') as file:

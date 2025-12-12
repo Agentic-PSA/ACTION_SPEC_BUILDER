@@ -247,8 +247,8 @@ async def fill_graph_single_core(pim_data):
                         if cat.get("SalesChannelId", 0) == 1
                         for category in cat.get("CategoryCollection", [])}
         # konwertujemy ID na nazwy level3
-        level3_names = [get_category_by_id(cat)['categoryname_level3']
-                        for cat in category_ids if cat and cat != "0"]
+        # nie chcemy samego liscia
+        # level3_names = [get_category_by_id(cat)['categoryname_level3'] for cat in category_ids if cat and cat != "0"]
 
         # konwertujemy ID na level2 / level3
         level2_3_names = [
@@ -256,7 +256,8 @@ async def fill_graph_single_core(pim_data):
             for cat in category_ids if cat and cat != "0"]
 
         # łączymy wynik
-        ean_category = level3_names + level2_3_names
+        # ean_category = level3_names + level2_3_names
+        ean_category = level2_3_names
 
         ean_type = pim_data['body'].get("ProductType", "")
         panel_data = element.get("panel_data", {})

@@ -264,7 +264,11 @@ async def fill_graph_single_core(pim_data):
         spec_data = get_pg_data('category', ean_type)
 
         translates = spec_data['translates']
+        # with open(f"aaa1_before.json", "w", encoding="utf-8") as f:
+        #     json.dump(specification, f, ensure_ascii=False, indent=2)
         specification = apply_changes(specification, translates)
+        # with open(f"aaa2_after.json", "w", encoding="utf-8") as f:
+        #     json.dump(specification, f, ensure_ascii=False, indent=2)
 
         correct_values = spec_data['values_map']
         for section in specification.get("PL", []):
@@ -402,16 +406,29 @@ def apply_changes(data, changes):
             new_attributes = {}
             new_types = {}
 
-            for attr, val in section["attributes"].items():
+            for old_attr, old_val in section["attributes"].items():
                 # sprawdzamy czy attr jest w mapowaniu
-                new_attr = mapping.get(attr, attr)
-                if new_attr != attr:
-                    print(f"Section '{section_name}': '{attr}' -> '{new_attr}'")
-                if new_attr not in new_attributes:
-                    new_attributes[new_attr] = val
-                    # poprawiamy też typ atrybutu
-                    if attr in section["attributes_types"]:
-                        new_types[new_attr] = section["attributes_types"][attr]
+                new_attr = mapping.get(old_attr, old_attr)
+
+                new_val = section["attributes"].get(new_attr)
+                new_type = section["attributes_types"].get(new_attr)
+                old_type = section["attributes_types"].get(old_attr)
+
+                # jeśli mamy podmianę i docelowy atrybut już istnieje
+                if new_attr != old_attr and new_val is not None:
+                    # jeśli oba typy są multi_dropdown -> scalamy listy unikalnie
+                    if old_type == "multi_dropdown" and new_type == "multi_dropdown":
+                        old_list = old_val if isinstance(old_val, list) else [old_val]
+                        new_list = new_val if isinstance(new_val, list) else [new_val]
+                        combined = list(dict.fromkeys(new_list + old_list))
+                        new_attributes[new_attr] = combined
+                    # w każdym przypadku konfliktu pomijamy standardowe kopiowanie
+                    continue
+
+                # normalne kopiowanie, jeśli nie było konfliktu
+                new_attributes[new_attr] = old_val
+                if old_type:
+                    new_types[new_attr] = old_type
 
             # podmieniamy całość
             section["attributes"] = new_attributes

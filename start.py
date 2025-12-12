@@ -1,11 +1,11 @@
 from dotenv import load_dotenv
+load_dotenv()
 import uvicorn
 from starlette.applications import Starlette
 from src.routes import routes
 import os
 
 
-print(os.environ.get('NEO4J_URI'))
 
 app = Starlette(
         debug=True,

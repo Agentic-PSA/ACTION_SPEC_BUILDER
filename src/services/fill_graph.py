@@ -424,11 +424,6 @@ def apply_changes(data, changes):
 
                 # jeśli mamy podmianę i docelowy atrybut już istnieje
                 if new_attr != old_attr and new_val is not None:
-                    # zapisujemy do sekcji "Przeniesione"
-                    removed_section["attributes"][old_attr] = old_val
-                    if old_type:
-                        removed_section["attributes_types"][old_attr] = old_type
-
                     # jeśli oba typy są multi_dropdown -> scalamy listy unikalnie
                     if old_type == "multi_dropdown" and new_type == "multi_dropdown":
                         old_list = old_val if isinstance(old_val, list) else [old_val]
@@ -436,6 +431,11 @@ def apply_changes(data, changes):
                         combined = list(dict.fromkeys(new_list + old_list))
                         new_attributes[new_attr] = combined
                         new_types[new_attr] = old_type
+                    else:
+                        # zapisujemy do sekcji "Przeniesione"
+                        removed_section["attributes"][old_attr] = old_val
+                        if old_type:
+                            removed_section["attributes_types"][old_attr] = old_type
                     # w każdym przypadku konfliktu pomijamy standardowe kopiowanie
                     continue
 

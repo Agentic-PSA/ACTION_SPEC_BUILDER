@@ -397,7 +397,14 @@ async def fill_graph_single_core(pim_data):
 
 
 def apply_changes(data, changes):
-    for section in data.get("PL", []):
+    sections = data.get("PL", [])
+    # przygotowujemy sekcję "usunięte"
+    removed_section = {
+        "section_name": "Przeniesione",
+        "attributes": {},
+        "attributes_types": {}
+    }
+    for section in sections:
         section_name = section["section_name"]
 
         # jeśli są mapowania dla tej sekcji
@@ -417,12 +424,18 @@ def apply_changes(data, changes):
 
                 # jeśli mamy podmianę i docelowy atrybut już istnieje
                 if new_attr != old_attr and new_val is not None:
+                    # zapisujemy do sekcji "Przeniesione"
+                    removed_section["attributes"][old_attr] = old_val
+                    if old_type:
+                        removed_section["attributes_types"][old_attr] = old_type
+
                     # jeśli oba typy są multi_dropdown -> scalamy listy unikalnie
                     if old_type == "multi_dropdown" and new_type == "multi_dropdown":
                         old_list = old_val if isinstance(old_val, list) else [old_val]
                         new_list = new_val if isinstance(new_val, list) else [new_val]
                         combined = list(dict.fromkeys(new_list + old_list))
                         new_attributes[new_attr] = combined
+                        new_types[new_attr] = old_type
                     # w każdym przypadku konfliktu pomijamy standardowe kopiowanie
                     continue
 
@@ -434,5 +447,9 @@ def apply_changes(data, changes):
             # podmieniamy całość
             section["attributes"] = new_attributes
             section["attributes_types"] = new_types
+
+    # dodajemy sekcję "Przeniesione" tylko jeśli coś do niej trafiło
+    if removed_section["attributes"]:
+        sections.append(removed_section)
 
     return data

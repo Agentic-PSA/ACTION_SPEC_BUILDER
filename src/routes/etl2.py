@@ -359,15 +359,15 @@ def apply_to_remove(all_params, to_remove, categories_in_params=None):
 
             # sprawdzamy, czy wartość zaczyna się od "USUN"
             if isinstance(reason, str) and reason.strip().startswith("USUN"):
-                if "Usunięte" not in all_params:
-                    all_params["Usunięte"] = {}
-                if param not in all_params["Usunięte"]:
-                    all_params["Usunięte"][param] = section_data.get(param)
+                if "Przeniesione" not in all_params:
+                    all_params["Przeniesione"] = {}
+                if param not in all_params["Przeniesione"]:
+                    all_params["Przeniesione"][param] = section_data.get(param)
                 else:
                     source_values = section_data.get(param, [])
-                    target_values = all_params["Usunięte"].get(param, [])
+                    target_values = all_params["Przeniesione"].get(param, [])
                     merged = list(dict.fromkeys(target_values + source_values))
-                    all_params["Usunięte"][param] = merged
+                    all_params["Przeniesione"][param] = merged
                 section_data.pop(param, None)
 
                 # ⬅️ dodatkowo usuń z categories_in_params
@@ -375,14 +375,14 @@ def apply_to_remove(all_params, to_remove, categories_in_params=None):
                     if param in categories_in_params[section]:
                         removed_values = categories_in_params[section].pop(param)
                     # dodanie do "Usunięte" w categories_in_params
-                    if "Usunięte" not in categories_in_params:
-                        categories_in_params["Usunięte"] = {}
-                    if param not in categories_in_params["Usunięte"]:
-                        categories_in_params["Usunięte"][param] = removed_values
+                    if "Przeniesione" not in categories_in_params:
+                        categories_in_params["Przeniesione"] = {}
+                    if param not in categories_in_params["Przeniesione"]:
+                        categories_in_params["Przeniesione"][param] = removed_values
                     else:
-                        existing_values = categories_in_params["Usunięte"][param]
+                        existing_values = categories_in_params["Przeniesione"][param]
                         merged_values = list(dict.fromkeys(existing_values + removed_values))
-                        categories_in_params["Usunięte"][param] = merged_values
+                        categories_in_params["Przeniesione"][param] = merged_values
                 
 
             # sprawdzamy, czy wartość zaczyna się od "PRZESUN DO"

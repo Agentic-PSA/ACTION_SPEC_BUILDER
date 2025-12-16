@@ -53,6 +53,33 @@ async def send_message_spiff(session, message, data):
     except (aiohttp.ClientError, asyncio.TimeoutError):
         return None
 
+
+async def get_panel_data_by_action(action: str):
+    user = "BLUEBOX"
+    key = "ZUNutFkVddOUf5El6udSUJIxYPFrys83"
+    current_time = int(time.time())
+    data = {
+        "user": user,
+        "key": hashlib.md5((key + str(current_time)).encode()).hexdigest(),
+        "time": current_time,
+        "requestType": "GetProduct",
+        "dax_index": action
+    }
+    # print(data)
+    # exit()
+    url = "https://icecat.action.pl/api/GetProduct"
+    headers = {'Content-Type': 'application/json'}
+    async with aiohttp.ClientSession() as session:
+        async with session.post(url, headers=headers, json=data) as response:
+            try:
+                panel_response = json.loads(await response.text())
+                panel_data = panel_response.get("product", {})
+            except Exception as e:
+                print(f"Error parsing JSON response: {e}")
+                panel_data = {}
+    return panel_data
+
+
 async def get_panel_data(ean: str):
     user = "BLUEBOX"
     key = "ZUNutFkVddOUf5El6udSUJIxYPFrys83"
@@ -140,6 +167,14 @@ async def send_message(session, message, data):
         "panel_data": panel_output_data,
     }
 
+async def send_message_by_action(session, message, data):
+    panel_output_data = await get_panel_data_by_action(data)
+    specification = get_specification(panel_output_data)
+
+    return {
+        "specification": specification,
+        "panel_data": panel_output_data,
+    }
 
 def is_ean_valid(ean):
     if not ean or not isinstance(ean, str):

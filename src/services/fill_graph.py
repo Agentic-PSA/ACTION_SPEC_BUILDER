@@ -9,7 +9,7 @@ from psycopg2 import extras, sql
 from starlette.responses import JSONResponse
 from src.services.db_service import get_category_by_id
 
-from src.services.ean_service import send_message
+from src.services.ean_service import send_message, send_message_by_action
 
 ureg = UnitRegistry()
 ureg.define("dni = day")
@@ -223,13 +223,17 @@ async def fill_graph_single_core(pim_data):
     ean_category = []
     connector = aiohttp.TCPConnector(limit=30)
     async with aiohttp.ClientSession(connector=connector) as session:
-        if not len(pim_data['body'].get('BarcodeCollection', [])):
-            return {
-                "success": False,
-                "error": f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber', '')}"
-            }
+        action = pim_data['body'].get('ProductNumber', '')
+        if action:
+            element = await send_message_by_action(session, "get_action", action)
 
-        element = await send_message(session, "get_ean", pim_data['body']['BarcodeCollection'][0]['BarCode'])
+        if not element or element.get("ean_response_is_empty", False):
+            if not len(pim_data['body'].get('BarcodeCollection', [])):
+                return {
+                    "success": False,
+                    "error": f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber', '')}"
+                }
+            element = await send_message(session, "get_ean", pim_data['body']['BarcodeCollection'][0]['BarCode'])
 
         if not element or element.get("ean_response_is_empty", False):
             return {
@@ -327,6 +331,7 @@ async def fill_graph_single_core(pim_data):
             pim_data['body']['ProductVersion'] = "1.0"
 
         specification['common']["ProductNumber"] = pim_data['body'].get('ProductNumber', '')
+
         # wysyłka do API grafu
         add_nodes_data = {
             "type": ean_type,
@@ -334,6 +339,8 @@ async def fill_graph_single_core(pim_data):
             "properties": specification,
             "pim_data": pim_data['body']
         }
+        # with open(f"wynik_add.json", "w", encoding="utf-8") as f:
+        #     json.dump(add_nodes_data, f, ensure_ascii=False, indent=2)
 
         try:
             async with session.post(

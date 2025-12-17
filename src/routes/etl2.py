@@ -78,10 +78,13 @@ def load_data():
 # --------------------------------------------------------------------------------------------------------------
 
 def load_category_types(category_type):
+    if isinstance(category_type, (list, tuple, set)):
+        return list(category_type)
+
     if category_type == 'ALL':
         return [os.path.splitext(f)[0] for f in os.listdir("database/pim_by_type/") if f.endswith(".jsonl")]
-    else:
-        return [category_type]
+
+    return [category_type]
 # --------------------------------------------------------------------------------------------------------------
 
 def load_pim_list(category_type):

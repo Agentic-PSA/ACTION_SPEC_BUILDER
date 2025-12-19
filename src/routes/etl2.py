@@ -275,7 +275,7 @@ async def fetch_eans(eans_to_fetch):
     return products
 # --------------------------------------------------------------------------------------------------------------
 
-def merge_attributes_with_translation(data, ai_map):
+def merge_attributes_with_translation(data, ai_map, categories_in_params):
     merged = {}
     translation = {}  # <-- lista tłumaczeń
 
@@ -303,6 +303,31 @@ def merge_attributes_with_translation(data, ai_map):
         for v in values:
             if v not in merged[group]:
                 merged[group].append(v)
+
+    # scal kategorie in params
+    if categories_in_params:
+        for section, params in list(categories_in_params.items()):
+            for param, cats in list(params.items()):
+                if param not in target:
+                    continue
+
+                target_param = target[param]
+
+                # jeśli parametr zostaje → nic nie robimy
+                if target_param == param:
+                    continue
+
+                # upewnij się, że struktura docelowa istnieje
+                categories_in_params.setdefault(section, {})
+                categories_in_params[section].setdefault(target_param, [])
+
+                # merge kategorii (bez nadpisywania)
+                for c in cats:
+                    if c not in categories_in_params[section][target_param]:
+                        categories_in_params[section][target_param].append(c)
+
+                # usuń źródłowy parametr
+                categories_in_params[section].pop(param, None)
 
     return merged, translation
 # --------------------------------------------------------------------------------------------------------------
@@ -413,9 +438,16 @@ def apply_to_remove(all_params, to_remove, categories_in_params=None):
                     # ⬅️ dodatkowo przenieś categories_in_params
                     if categories_in_params:
                         if section in categories_in_params and param in categories_in_params[section]:
+                            source_categories = categories_in_params[section].pop(param)
                             if target_section not in categories_in_params:
                                 categories_in_params[target_section] = {}
-                            categories_in_params[target_section][param] = categories_in_params[section].pop(param)                    
+
+                            if param not in categories_in_params[target_section]:
+                                categories_in_params[target_section][param] = source_categories
+                            else:
+                                target_categories = categories_in_params[target_section][param]
+                                merged_categories = list(dict.fromkeys(target_categories + source_categories))
+                                categories_in_params[target_section][param] = merged_categories
 
     return all_params
 
@@ -590,7 +622,7 @@ async def process_merged_products(product_type, merged_products, categories_from
         print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Tworzę formatkę dla {product_type} {section_name} {len(json.dumps(section_data, ensure_ascii=False))} (AI)")
         ai_analysis = ai_analyze_and_create_form_new(product_type, section_name, section_data, f'section_{i}', save_to_output_dir)
         if ai_analysis:
-            all_params[section_name], translations[section_name] = merge_attributes_with_translation(section_data, ai_analysis)
+            all_params[section_name], translations[section_name] = merge_attributes_with_translation(section_data, ai_analysis, merged_products["categories_in_params"])
             save_to_output_dir(section_data, f'ai_item_{i}_we')
             save_to_output_dir(translations[section_name], f'ai_item_{i}_wy')
         else:

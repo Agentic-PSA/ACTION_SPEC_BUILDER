@@ -37,48 +37,49 @@ def create_output_directory():
     print(f"Utworzono katalog wyjściowy: {output_dir}")
     return output_dir
 
+def load_category_types(category_type):
+    if isinstance(category_type, (list, tuple, set)):
+        return list(category_type)
+
+    if category_type == 'ALL':
+        return [os.path.splitext(f)[0] for f in os.listdir("database/pim_by_type/") if f.endswith(".jsonl")]
+
+    return [category_type]
 
 async def fill_graph(request):
-    output_dir = create_output_directory()
     data = await request.json()  # wejście np. lista lub jakieś parametry
-    file = data["file"]
+    category_types = load_category_types(data["type"])
     results = []
 
-    file_path = f"database/pim_by_type/{file}"
-    _, ext = os.path.splitext(file_path)
-
-    with open(file_path, "r", encoding="utf-8") as f:
-        if ext == ".jsonl":
+    for category_type in category_types:
+        file_path = f"database/pim_by_type/{category_type}.jsonl"
+        with open(file_path, "r", encoding="utf-8") as f:
             pim_list = [json.loads(line) for line in f if line.strip()]  # każda linia to osobny JSON
-        elif ext == ".json":
-            pim_list = json.load(f).get("pim", [])
-        print(f"Wczytano {len(pim_list)} elementów z pliku {file}")
+        print(f"Wczytano {len(pim_list)} elementów z pliku {category_type}.jsonl")
 
-    # start_index = 0
-    # count = 1
-    # end_index = start_index + count
-    # for idx, pim_data in enumerate(pim_list[start_index:end_index], start=start_index):
-    for idx, pim_data in enumerate(pim_list):
-        print(f"\n--- Przetwarzanie obiektu {idx + 1}/{len(pim_list)} ---")
-        # można tu zrobić drobną wstępną weryfikację
-        if not pim_data['body'].get('BarcodeCollection'):
-            print(f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber')}")
-            continue
+        # start_index = 0
+        # count = 1
+        # end_index = start_index + count
+        # for idx, pim_data in enumerate(pim_list[start_index:end_index], start=start_index):
+        for idx, pim_data in enumerate(pim_list):
+            print(f"\n--- Przetwarzanie obiektu {idx + 1}/{len(pim_list)} ---")
+            # można tu zrobić drobną wstępną weryfikację
+            if not pim_data['body'].get('BarcodeCollection'):
+                print(f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber')}")
+                continue
 
-        # wywołanie core
-        output = await fill_graph_single_core(pim_data)
+            # wywołanie core
+            output = await fill_graph_single_core(pim_data)
 
-        # dodanie do results
-        results.append({
-            "PIMProductId": pim_data['body'].get("PIMProductId"),
-            "ean": pim_data['body']['BarcodeCollection'][0]['BarCode'],
-            "output": output
-        })
+            # dodanie do results
+            results.append({
+                "PIMProductId": pim_data['body'].get("PIMProductId"),
+                "ean": pim_data['body']['BarcodeCollection'][0]['BarCode']
+            })
 
     return JSONResponse({
         "success": True,
-        "count": len(results),
-        "results": results
+        "count": len(results)
     })
 
 

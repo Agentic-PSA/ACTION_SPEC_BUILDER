@@ -267,8 +267,23 @@ async def fill_graph_single_core(pim_data):
         panel_data = element.get("panel_data", {})
         specification, errors = process_specification(panel_data, ["PL"])
         spec_data = get_pg_data('category', ean_type)
-
         translates = spec_data['translates']
+        # with open(f"aaa1_tr1_before.json", "w", encoding="utf-8") as f:
+        #     json.dump(translates, f, ensure_ascii=False, indent=2)
+        # translates["Konstrukcja"]["aka"] = "duda"
+        # translates["Konstrukcja"]["aaa"] = "bbb"
+        # translates["Zasilanie"]["aka"] = "duda"
+        # translates["Chłodzenie"]["aaa"] = "bbb"
+        # with open(f"aaa1_tr2_after.json", "w", encoding="utf-8") as f:
+        #    json.dump(translates, f, ensure_ascii=False, indent=2)
+        # specification["PL"][0]["attributes"]["aka"] = "aka_val"
+        # specification["PL"][0]["attributes_types"]["aka"] = "dropdown"
+        # specification["PL"][0]["attributes"]["duda"] = "duda_val"
+        # specification["PL"][0]["attributes_types"]["duda"] = "dropdown"
+        # specification["PL"][1]["attributes"]["aka"] = "aka3_val"
+        # specification["PL"][1]["attributes_types"]["aka"] = "dropdown"
+        # specification["PL"][3]["attributes"]["aaa"] = "aaa_val"
+        # specification["PL"][3]["attributes_types"]["aaa"] = "dropdown"
         # with open(f"aaa1_before.json", "w", encoding="utf-8") as f:
         #     json.dump(specification, f, ensure_ascii=False, indent=2)
         specification = apply_changes(specification, translates)
@@ -339,7 +354,7 @@ async def fill_graph_single_core(pim_data):
             "properties": specification,
             "pim_data": pim_data['body']
         }
-        # with open(f"wynik_add.json", "w", encoding="utf-8") as f:
+        # with open(f"aaa3_wynik_add.json", "w", encoding="utf-8") as f:
         #     json.dump(add_nodes_data, f, ensure_ascii=False, indent=2)
 
         try:

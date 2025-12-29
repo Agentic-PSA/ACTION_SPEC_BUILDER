@@ -161,8 +161,8 @@ async def map_values_logic(data):
     for section in premap_vals[0]['value']:
         if section['section_name']['PL'] == 'Dane podstawowe':
             continue
-        if section['section_name']['PL'] == 'Oczyszczone':
-            continue
+        # if section['section_name']['PL'] == 'Oczyszczone':
+        #     continue
         # if section['section_name']['PL'] == 'Dane podstawowe':
         #     map_vals[section['section_name']['PL']] = {p['PL']: p['values'] for p in section['attributes'] if p['PL'] == 'Model wbudowanej karty graficznej'}
         map_vals[section['section_name']['PL']] = {p['PL']: p['values'] for p in section['attributes']}

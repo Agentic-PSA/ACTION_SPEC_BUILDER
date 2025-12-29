@@ -176,6 +176,8 @@ def ask_gemini(question, prompt):
             "Don't include Markdown formatting like ```json or ``` in your response. "
             "Don't truncate your response."
         )
+        #print("-----ask_gemini----")
+        #print(full_prompt)
         response = model.generate_content(
             full_prompt,
             safety_settings=None,  # opcjonalnie usunięcie filtrów bezpieczeństwa
@@ -184,8 +186,6 @@ def ask_gemini(question, prompt):
                 "max_output_tokens": 60000
             }
         )
-        #print("-----ask_gemini----")
-        #print(full_prompt)
         raw_response = response.text.strip()
 
         # Usuwanie formatowania Markdown, jeśli występuje
@@ -751,7 +751,7 @@ Now process the user input (JSON) and return only the required JSON output.
 
 
 ##### NOWE
-def ai_analyze_and_create_form_new(category, section, section_data, filename_prefix, save_function, max_attempts=2):
+def ai_analyze_and_create_form_new(category, section, section_data, product_params_cnt, filename_prefix, save_function, max_attempts=2):
     prompt = f"""
 Analizujesz formatkę opisową produktów w kategorii "{category}". Aktualne zapytanie dotyczy parametrów w sekcji "{section}"
 
@@ -793,6 +793,8 @@ Surowe zasady (stosuj dosłownie):
 10. Wynik musi być **wyłącznie prawidłowym JSON**, bez wyjaśnień, bez dodatkowego tekstu, bez końcowych przecinków.  
 11. Odpowiedź musi być deterministyczna: te same dane wejściowe → ten sam wynik.
 
+Aby pomóc w ocenie, dołączam liczbę produktów posiadającyh dany atrybut 
+{json.dumps(product_params_cnt, ensure_ascii=False, indent=2)}
 
 Przetwórz dane wejściowe JSON i zwróć wyłącznie wymagane dane wyjściowe JSON.
 

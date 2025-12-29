@@ -289,7 +289,7 @@ async def fill_graph_single_core(pim_data):
         specification = apply_changes(specification, translates)
         # with open(f"aaa2_after.json", "w", encoding="utf-8") as f:
         #     json.dump(specification, f, ensure_ascii=False, indent=2)
-
+        # exit()
         correct_values = spec_data['values_map']
         for section in specification.get("PL", []):
             attributes = section.get("attributes")
@@ -420,58 +420,82 @@ async def fill_graph_single_core(pim_data):
 
 def apply_changes(data, changes):
     sections = data.get("PL", [])
-    # przygotowujemy sekcję "usunięte"
+    sections_map = {s["section_name"]: s for s in sections}
+
     removed_section = {
         "section_name": "Przeniesione",
         "attributes": {},
         "attributes_types": {}
     }
+
     for section in sections:
         section_name = section["section_name"]
+        mapping = changes.get(section_name)
 
-        # jeśli są mapowania dla tej sekcji
-        if section_name in changes:
-            mapping = changes[section_name]
+        # sekcja bez mapowań → nietknięta
+        if not mapping:
+            continue
 
-            new_attributes = {}
-            new_types = {}
+        for old_attr in list(section["attributes"].keys()):
+            if old_attr not in mapping:
+                continue
 
-            for old_attr, old_val in section["attributes"].items():
-                # sprawdzamy czy attr jest w mapowaniu
-                new_attr = mapping.get(old_attr, old_attr)
+            old_val = section["attributes"][old_attr]
+            old_type = section["attributes_types"].get(old_attr)
 
-                new_val = section["attributes"].get(new_attr)
-                new_type = section["attributes_types"].get(new_attr)
-                old_type = section["attributes_types"].get(old_attr)
+            map_entry = mapping[old_attr]
+            target_section_name = map_entry.get("section", section_name)
+            new_attr = map_entry.get("param", old_attr)
 
-                # jeśli mamy podmianę i docelowy atrybut już istnieje
-                if new_attr != old_attr and new_val is not None:
-                    # jeśli oba typy są multi_dropdown -> scalamy listy unikalnie
-                    if old_type == "multi_dropdown" and new_type == "multi_dropdown":
-                        old_list = old_val if isinstance(old_val, list) else [old_val]
-                        new_list = new_val if isinstance(new_val, list) else [new_val]
-                        combined = list(dict.fromkeys(new_list + old_list))
-                        new_attributes[new_attr] = combined
-                        new_types[new_attr] = old_type
-                    else:
-                        # zapisujemy do sekcji "Przeniesione"
-                        removed_section["attributes"][old_attr] = old_val
-                        if old_type:
-                            removed_section["attributes_types"][old_attr] = old_type
-                    # w każdym przypadku konfliktu pomijamy standardowe kopiowanie
-                    continue
+            # print(
+            #     f"MAP: {section_name}.{old_attr} "
+            #     f"→ {target_section_name}.{new_attr} | value={old_val}"
+            # )
 
-                # normalne kopiowanie, jeśli nie było konfliktu
-                new_attributes[new_attr] = old_val
+            target_section = sections_map.get(target_section_name)
+            if not target_section:
+                # print(f"  CREATE SECTION: {target_section_name}")
+                target_section = {
+                    "section_name": target_section_name,
+                    "section_sort": len(sections_map) + 1,
+                    "attributes": {},
+                    "attributes_types": {}
+                }
+                sections.append(target_section)
+                sections_map[target_section_name] = target_section
+
+            target_attrs = target_section["attributes"]
+            target_types = target_section["attributes_types"]
+
+            existing_val = target_attrs.get(new_attr)
+            existing_type = target_types.get(new_attr)
+
+            # konflikt
+            if existing_val is not None:
+                if old_type == "multi_dropdown" and existing_type == "multi_dropdown":
+                    old_list = old_val if isinstance(old_val, list) else [old_val]
+                    new_list = existing_val if isinstance(existing_val, list) else [existing_val]
+                    combined = list(dict.fromkeys(new_list + old_list))
+                    target_attrs[new_attr] = combined
+                    target_types[new_attr] = old_type
+                    # print(f"  MERGE multi_dropdown → {combined}")
+                else:
+                    removed_section["attributes"][old_attr] = old_val
+                    if old_type:
+                        removed_section["attributes_types"][old_attr] = old_type
+                    # print(f"  CONFLICT → Przeniesione.{old_attr}")
+            else:
+                target_attrs[new_attr] = old_val
                 if old_type:
-                    new_types[new_attr] = old_type
+                    target_types[new_attr] = old_type
+                # print("  OK")
 
-            # podmieniamy całość
-            section["attributes"] = new_attributes
-            section["attributes_types"] = new_types
+            # usuwamy tylko świadomie przeniesiony atrybut
+            del section["attributes"][old_attr]
+            section["attributes_types"].pop(old_attr, None)
 
-    # dodajemy sekcję "Przeniesione" tylko jeśli coś do niej trafiło
     if removed_section["attributes"]:
+        # print("ADD SECTION: Przeniesione")
         sections.append(removed_section)
 
     return data

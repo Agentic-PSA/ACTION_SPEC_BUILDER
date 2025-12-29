@@ -109,18 +109,20 @@ def category_to_type(category_type, category):
         (category_type, category)
     )
 
-def form_save(product_type, llm_form, form, form_with_values, translates, form_categories, to_remove):
+def form_save(product_type, llm_form, form, form_with_values, translates, form_categories, to_remove, product_params_cnt, main_data):
     return db_execute(
         """
-        INSERT INTO forms (category, form, form_with_values, translates, llm_form, categories, to_remove)
-        VALUES (%s, %s, %s, %s, %s, %s, %s)
+        INSERT INTO forms (category, form, form_with_values, translates, llm_form, categories, to_remove, product_params_cnt, main_data)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
         ON CONFLICT (category) DO UPDATE SET
             form = EXCLUDED.form,
             form_with_values = EXCLUDED.form_with_values,
             translates = EXCLUDED.translates,
             llm_form = EXCLUDED.llm_form,
             categories = EXCLUDED.categories,
-            to_remove = EXCLUDED.to_remove;
+            to_remove = EXCLUDED.to_remove,
+            product_params_cnt = EXCLUDED.product_params_cnt,
+            main_data = EXCLUDED.main_data;
         """,
         (
             product_type,
@@ -129,7 +131,9 @@ def form_save(product_type, llm_form, form, form_with_values, translates, form_c
             json.dumps(translates, ensure_ascii=False),
             json.dumps(llm_form, ensure_ascii=False),
             json.dumps(form_categories, ensure_ascii=False),
-            json.dumps(to_remove, ensure_ascii=False)
+            json.dumps(to_remove, ensure_ascii=False),
+            json.dumps(product_params_cnt, ensure_ascii=False),
+            json.dumps(main_data, ensure_ascii=False)
         )
     )
 

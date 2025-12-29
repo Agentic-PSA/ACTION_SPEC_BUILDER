@@ -275,7 +275,7 @@ async def fetch_eans(eans_to_fetch):
     return products
 # --------------------------------------------------------------------------------------------------------------
 
-def merge_attributes_with_translation(data, ai_map, categories_in_params):
+def merge_attributes_with_translation(section_name, data, ai_map, categories_in_params):
     merged = {}
     translation = {}  # <-- lista tłumaczeń
 
@@ -291,7 +291,7 @@ def merge_attributes_with_translation(data, ai_map, categories_in_params):
             target[param] = param
         else:
             target[param] = decision
-            translation[param] = decision
+            translation[param] = {"section": section_name, "param": decision}
 
     # utwórz puste listy NA PODSTAWIE realnych danych źródłowych
     for group in set(target.values()):
@@ -347,6 +347,8 @@ def merge_products(products, merged_products):
                 merged_products["specification"][section_name] = {}
             if section_name not in merged_products["categories_in_params"]:
                 merged_products["categories_in_params"][section_name] = {}
+            if section_name not in merged_products["product_params_cnt"]:
+                merged_products["product_params_cnt"][section_name] = {}
 
             # iteracja po polach w sekcji
             for field_name, values in section_data.items():
@@ -355,6 +357,8 @@ def merge_products(products, merged_products):
                     merged_products["specification"][section_name][field_name] = []
                 if field_name not in merged_products["categories_in_params"][section_name]:
                     merged_products["categories_in_params"][section_name][field_name] = []
+                if field_name not in merged_products["product_params_cnt"][section_name]:
+                    merged_products["product_params_cnt"][section_name][field_name] = 0
 
                 # dodawanie unikalnych wartości do specification
                 for v in values:
@@ -366,11 +370,20 @@ def merge_products(products, merged_products):
                     if c not in merged_products["categories_in_params"][section_name][field_name]:
                         merged_products["categories_in_params"][section_name][field_name].append(c)
 
+                merged_products["product_params_cnt"][section_name][field_name] = merged_products["product_params_cnt"][section_name][field_name] + 1
+
     return merged_products
 
 # --------------------------------------------------------------------------------------------------------------
 
-def apply_to_remove(all_params, to_remove, categories_in_params=None):
+def apply_to_remove(all_params, to_remove, categories_in_params=None, translations=None):
+    if "Oczyszczone" not in all_params:
+        all_params["Oczyszczone"] = {}
+    if "Oczyszczone" not in translations:
+        translations["Oczyszczone"] = {}
+    if "Oczyszczone" not in categories_in_params:
+        categories_in_params["Oczyszczone"] = {}
+
     for section, params in to_remove.items():
         # ⬅️ jeśli sekcji nie ma w all_params → pomijamy
         if section not in all_params:
@@ -387,8 +400,7 @@ def apply_to_remove(all_params, to_remove, categories_in_params=None):
 
             # sprawdzamy, czy wartość zaczyna się od "USUN"
             if isinstance(reason, str) and reason.strip().startswith("USUN"):
-                if "Oczyszczone" not in all_params:
-                    all_params["Oczyszczone"] = {}
+                translations[section][param] = {"section": "Oczyszczone", "param":param}
                 if param not in all_params["Oczyszczone"]:
                     all_params["Oczyszczone"][param] = section_data.get(param)
                 else:
@@ -402,16 +414,12 @@ def apply_to_remove(all_params, to_remove, categories_in_params=None):
                 if categories_in_params and section in categories_in_params:
                     if param in categories_in_params[section]:
                         removed_values = categories_in_params[section].pop(param)
-                    # dodanie do "Usunięte" w categories_in_params
-                    if "Oczyszczone" not in categories_in_params:
-                        categories_in_params["Oczyszczone"] = {}
                     if param not in categories_in_params["Oczyszczone"]:
                         categories_in_params["Oczyszczone"][param] = removed_values
                     else:
                         existing_values = categories_in_params["Oczyszczone"][param]
                         merged_values = list(dict.fromkeys(existing_values + removed_values))
                         categories_in_params["Oczyszczone"][param] = merged_values
-                
 
             # sprawdzamy, czy wartość zaczyna się od "PRZESUN DO"
             if isinstance(reason, str) and reason.strip().startswith("PRZESUN DO"):
@@ -426,6 +434,7 @@ def apply_to_remove(all_params, to_remove, categories_in_params=None):
                     if not isinstance(target_data, dict):
                         continue  # sekcja docelowa nie jest słownikiem → pomijamy
 
+                    translations[section][param] = {"section": target_section, "param":param}
                     if param not in target_data:
                         target_data[param] = section_data.get(param)
                     else:
@@ -469,6 +478,48 @@ def rename_attributes_in_products(products, translates):
         new_spec = {}
 
         for section_name, section_attrs in specification.items():
+            attr_map = translates.get(section_name, {})
+
+            for attr_name, values in section_attrs.items():
+                translate = attr_map.get(attr_name)
+
+                # domyślne wartości (brak tłumaczenia)
+                target_section = section_name
+                target_param = attr_name
+
+                # jeśli istnieje mapowanie
+                if isinstance(translate, dict):
+                    target_section = translate.get("section", section_name)
+                    target_param = translate.get("param", attr_name)
+
+                # utwórz sekcję docelową jeśli nie istnieje
+                if target_section not in new_spec:
+                    new_spec[target_section] = {}
+
+                # jeśli parametr już istnieje → łącz wartości
+                if target_param in new_spec[target_section]:
+                    existing_values = new_spec[target_section][target_param]
+                    for v in values:
+                        if v not in existing_values:
+                            existing_values.append(v)
+                else:
+                    new_spec[target_section][target_param] = values.copy()
+
+        renamed_products[ean] = {
+            **product_data,
+            "specification": new_spec
+        }
+
+    return renamed_products
+
+def rename_attributes_in_products_OLD(products, translates):
+    renamed_products = {}
+
+    for ean, product_data in products.items():
+        specification = product_data.get("specification", {})
+        new_spec = {}
+
+        for section_name, section_attrs in specification.items():
             new_section = {}
             attr_map = translates.get(section_name, {})
 
@@ -496,13 +547,13 @@ def rename_attributes_in_products(products, translates):
 
     return renamed_products
 
-def remove_attributes_from_products(products, to_remove):
+def remove_attributes_from_products(products, to_remove, translates):
     changed_products = {}
 
     for ean, product_data in products.items():
         specification = product_data.get("specification", {})
         categories_in_params = product_data.get("categories_in_params", {})
-        specification = apply_to_remove(specification, to_remove, categories_in_params)
+        specification = apply_to_remove(specification, to_remove, categories_in_params, translates)
 
         changed_products[ean] = {
             **product_data,
@@ -539,14 +590,14 @@ async def etl2_create_spec_aka_single(request):
     # obsługa translates
     products = rename_attributes_in_products(products, forms.get("translates"))
     save_to_output_dir(products, f'a2_products')    
-    products = remove_attributes_from_products(products, forms.get('to_remove'))
+    products = remove_attributes_from_products(products, forms.get('to_remove'), forms.get("translates"))
     save_to_output_dir(products, f'a2_products_removed')    
-
 
     merged_products = {}
     merged_products["categories"] = (forms.get("form") or [{}])[0].get("secondary_key", [])
     merged_products["categories_in_params"] = forms.get('categories')
     merged_products["specification"] = forms.get('llm_form')
+    merged_products["product_params_cnt"] = forms.get('product_params_cnt')
     merged_before = copy.deepcopy(merged_products)
 
     merged_products = merge_products(products, merged_products)
@@ -598,11 +649,13 @@ async def etl2_create_spec_aka(request):
         merged_products = {}
         merged_products["categories"] = [] #wszystkie kategorie dla tego typu produktow
         merged_products["categories_in_params"] = {} #kategorie w atrybutach
-        merged_products["specification"] = {}        
+        merged_products["specification"] = {}    
+        merged_products["product_params_cnt"] = {}
         merged_products = merge_products(products, merged_products)
         save_to_output_dir(merged_products, f'x1_merged_products')
         save_to_output_dir(merged_products["categories"], f'x2_categories')
         save_to_output_dir(merged_products["categories_in_params"], f'x3_categories_in_params')
+        save_to_output_dir(merged_products["product_params_cnt"], f'x4_product_params_cnt')
 
         await process_merged_products(product_type, merged_products, categories_from_db, section_mapping, save_to_output_dir)
 
@@ -613,16 +666,16 @@ async def etl2_create_spec_aka(request):
 async def process_merged_products(product_type, merged_products, categories_from_db, section_mapping, save_to_output_dir):
     all_params = {} # pierwsza wersja formatki od AI (łączenie atrybutów w sekcjach)
     translations = {} # tablica łączenia atrybutów w sekcjach
-    translations['sections'] = section_mapping # ręcznie ustawione przeniesienia / usuwanie sekcji
+    #translations['sections'] = section_mapping # ręcznie ustawione przeniesienia / usuwanie sekcji
 
     # pierwsza wersja formatki od AI (łączenie atrybutów w sekcjach)
     i = 0
     for section_name, section_data in merged_products["specification"].items():
         i = i + 1
         print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Tworzę formatkę dla {product_type} {section_name} {len(json.dumps(section_data, ensure_ascii=False))} (AI)")
-        ai_analysis = ai_analyze_and_create_form_new(product_type, section_name, section_data, f'section_{i}', save_to_output_dir)
+        ai_analysis = ai_analyze_and_create_form_new(product_type, section_name, section_data, merged_products["product_params_cnt"][section_name], f'section_{i}', save_to_output_dir)
         if ai_analysis:
-            all_params[section_name], translations[section_name] = merge_attributes_with_translation(section_data, ai_analysis, merged_products["categories_in_params"])
+            all_params[section_name], translations[section_name] = merge_attributes_with_translation(section_name, section_data, ai_analysis, merged_products["categories_in_params"])
             save_to_output_dir(section_data, f'ai_item_{i}_we')
             save_to_output_dir(translations[section_name], f'ai_item_{i}_wy')
         else:
@@ -637,14 +690,15 @@ async def process_merged_products(product_type, merged_products, categories_from
     print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Usuwam duplikaty {len(json.dumps(all_params, ensure_ascii=False))} (AI)")
     to_remove = ai_remove_duplicates(product_type, all_params, f'without_duplicates', save_to_output_dir)
     save_to_output_dir(to_remove, f'y3_to_remove_final_ai')
-    all_params = apply_to_remove(all_params, to_remove, merged_products["categories_in_params"])
+    all_params = apply_to_remove(all_params, to_remove, merged_products["categories_in_params"], translations)
     save_to_output_dir(all_params, f'y4_all_params_without_duplicates')
+    save_to_output_dir(translations, f'y5_translations')
 
     #zasugeruj nazwy zmian sekcji - NIE UZYWAMY
     # print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Zmiany nazw sekcji {len(json.dumps(all_params, ensure_ascii=False))} (AI)")
     # sugest_section_names = ai_sugest_section_names(product_type, all_params, f'zz_new_section_names_final', save_to_output_dir)
     # save_to_output_dir(sugest_section_names, f'y5_new_section_names_final')
-
+    #exit()
     # ustal kolejność
     print(f"{datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} - Ustalam kolejność {len(json.dumps(all_params, ensure_ascii=False))} (AI)")
     ordered = ai_set_order(product_type, all_params, f'ordered', save_to_output_dir)
@@ -683,7 +737,7 @@ async def process_merged_products(product_type, merged_products, categories_from
     form_with_values = build_form({}, ordered_with_main, merged_products["categories"], include_values=True)
     save_to_output_dir(form, f'z2_form')
     save_to_output_dir(form_with_values, f'z3_form_with_values')
-    form_save(product_type, ordered, form, form_with_values, translations, merged_products["categories_in_params"], to_remove)
+    form_save(product_type, ordered, form, form_with_values, translations, merged_products["categories_in_params"], to_remove, merged_products["product_params_cnt"], main_data)
 
     # zapisz do tabeli category_to_type
     # category_to_type(product_type, product_type) - dodanie typu do listy kategorii

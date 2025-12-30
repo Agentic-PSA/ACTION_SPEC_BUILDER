@@ -377,6 +377,8 @@ def merge_products(products, merged_products):
 # --------------------------------------------------------------------------------------------------------------
 
 def apply_to_remove(all_params, to_remove, categories_in_params=None, translations=None):
+    categories_in_params = categories_in_params or {}
+    translations = translations or {}
     if "Oczyszczone" not in all_params:
         all_params["Oczyszczone"] = {}
     if "Oczyszczone" not in translations:
@@ -412,14 +414,13 @@ def apply_to_remove(all_params, to_remove, categories_in_params=None, translatio
 
                 # ⬅️ dodatkowo usuń z categories_in_params
                 if categories_in_params and section in categories_in_params:
-                    if param in categories_in_params[section]:
-                        removed_values = categories_in_params[section].pop(param)
-                    if param not in categories_in_params["Oczyszczone"]:
-                        categories_in_params["Oczyszczone"][param] = removed_values
-                    else:
-                        existing_values = categories_in_params["Oczyszczone"][param]
-                        merged_values = list(dict.fromkeys(existing_values + removed_values))
-                        categories_in_params["Oczyszczone"][param] = merged_values
+                    removed_values = categories_in_params[section].pop(param, None)
+                    if removed_values:
+                        if param not in categories_in_params["Oczyszczone"]:
+                            categories_in_params["Oczyszczone"][param] = removed_values
+                        else:
+                            existing_values = categories_in_params["Oczyszczone"][param]
+                            categories_in_params["Oczyszczone"][param] = list(dict.fromkeys(existing_values + removed_values))
 
             # sprawdzamy, czy wartość zaczyna się od "PRZESUN DO"
             if isinstance(reason, str) and reason.strip().startswith("PRZESUN DO"):

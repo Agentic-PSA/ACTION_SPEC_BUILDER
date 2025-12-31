@@ -850,4 +850,52 @@ Przetwórz dane wejściowe JSON i zwróć wyłącznie wymagane dane wyjściowe J
     return {}
 
 
+def ai_build_names(data, max_attempts=2):
+    prompt = f"""
+Rola: 
+Działaj jako specjalista ds. zarządzania danymi produktowymi (PIM) i tłumacz.
+
+Zadanie: 
+Na podstawie przesłanej listy produktów przygotuj ustandaryzowane nazwy w formacie JSON. 
+Jeśli na liście wystąpią duplikaty (ten sam numer produktu), połącz dane w jeden unikalny rekord.
+
+Wytyczne dla pól:
+1. product_number: Skopiuj identyfikator produktu.
+2. nazwa_systemowa:
+   - maksymalna długość: 51 znaków.
+   - szyk: [Co to za produkt] [Producent] [Model/Parametry].
+   - zasada: Jeśli nazwa jest za długa, używaj powszechnie zrozumiałych skrótów (np. "akum." zamiast "akumulator", "elektr." zamiast "elektryczny", "szt." zamiast "sztuki").
+   - obowiązkowo zachowaj nazwę producenta i typ produktu.
+3. nazwa_systemowa_ang / nazwa_systemowa_de:
+   - analogiczne zasady jak wyżej, ale w języku angielskim i niemieckim.
+   - również limit 51 znaków.
+4. nazwa_ofertowa:
+   - pełna, czytelna nazwa do ofert handlowych w języku polskim.
+   - szyk: [Co to za produkt] [Producent] [Pełne parametry z oryginału].
+   - możesz delikatnie rozwinąć nazwę, aby brzmiała bardziej profesjonalnie.
+5. nazwa_ofertowa_ang / nazwa_ofertowa_de:
+   - tłumaczenie nazwy ofertowej na język angielski i niemiecki z zachowaniem profesjonalnej terminologii technicznej.
+6. input
+   - tablica
+   - skopiuj vendor_product_name z danych wejściowych (kilka wpisow jesli łączysz duplikaty)
+
+Format wyjściowy:
+Zwróć wyłącznie czysty kod JSON jako tablicę obiektów.
+"""
+    
+    question = json.dumps(data, ensure_ascii=False, indent=2) + "\n\n"
+    
+    for attempt in range(max_attempts):
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            try:
+                ai_json = json.loads(ai_response)
+                #save_function(ai_json, f'{filename_prefix}_ai_analysis.json')
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+        except Exception as e:
+            print(f"Błąd podczas analizy AI: {str(e)}")
+
+    return {}
 

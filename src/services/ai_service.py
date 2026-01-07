@@ -850,6 +850,49 @@ Przetwórz dane wejściowe JSON i zwróć wyłącznie wymagane dane wyjściowe J
     return {}
 
 
+def ai_build_suppliers(data, max_attempts=2):
+    prompt = f"""
+Przeanalizuj dołączone obrazy (logi wiadomości) i wyodrębnij z nich dane o kontrahentach według poniższych, bardzo rygorystycznych reguł: 
+1. Kryterium wyboru ID: Wyodrębnij dane TYLKO z tych wierszy, w których występuje numer ID spełniający WYŁĄCZNIE poniższy wzorzec:    
+  - ID musi składać się z dokładnie 5 cyfr (np. 31318).    
+  - ID może opcjonalnie kończyć się przyrostkiem ADR, EUR lub USD (np. 71757EUR).    
+  - ABSOLUTNIE ODRZUĆ numery, które:      
+    * zaczynają się od litery (np. N82434 - BŁĄD),      
+    * zawierają myślniki lub kropki (np. 1-02184 - BŁĄD),      
+    * mają inną liczbę cyfr niż 5. 
+2. Dostawca/Nazwa: Na podstawie domeny mailowej lub treści tematu zidentyfikuj nazwę kontrahenta. 
+3. Adres e-mail:    
+  - Pobierz adresy e-mail powiązane z danym wierszem.    
+  - ABSOLUTNIE POMIŃ wszystkie adresy w domenie @action.pl.    
+  - Jeśli dla jednego ID w danym wierszu występuje więcej niż jeden poprawny adres (spoza action.pl), wypisz je w jednej linii po średniku. 
+4. Unikalność: Zwróć tylko jeden wiersz dla danej pary "ID klienta + Nazwa klienta". Nie duplikuj wpisów. 
+5. Format wyjściowy: Zwróć dane wyłącznie w formacie: id klienta; nazwa klienta; adres mailowy Nie dodawaj żadnych wstępów, wyjaśnień ani podsumowań.
+
+"""
+    
+    question = json.dumps(data, ensure_ascii=False, indent=2) + "\n\n"
+    
+    from datetime import datetime
+    for attempt in range(max_attempts):
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
+        try:
+            ai_response = ask_gpt_aka(question, prompt)
+            error1_filename = f"aaaaa_{timestamp}_ai_response.txt"
+            with open(error1_filename, "w", encoding="utf-8") as f:
+                f.write(ai_response)
+            try:
+                ai_json = json.loads(ai_response)
+                return ai_json
+            except json.JSONDecodeError as e:
+                print(f"Próba {attempt + 1}/{max_attempts}: Odpowiedź AI nie jest poprawnym JSONem: {str(e)}")
+                error_filename = f"aaaaa_{timestamp}_bad_response_attempt_{attempt+1}.txt"
+                with open(error_filename, "w", encoding="utf-8") as f:
+                    f.write(ai_response)
+        except Exception as e:
+            print(f"Błąd podczas analizy AI: {str(e)}")
+
+    return {}
+
 def ai_build_names(data, max_attempts=2):
     prompt = f"""
 Rola: 

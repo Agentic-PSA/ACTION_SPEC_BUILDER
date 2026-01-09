@@ -138,8 +138,8 @@ async def build_suppliers(request):
 
 
 async def build_names(request):
-    z = 1000  # od którego wiersza zaczynamy (0-based)
-    x = 9000  # ile linii chcesz wczytać
+    z = 50000  # od którego wiersza zaczynamy (0-based)
+    x = 20000  # ile linii chcesz wczytać
     y = 50   # rozmiar paczki
     input_rows = []
 
@@ -175,7 +175,7 @@ async def build_names(request):
         batches.append(current_batch)
 
     # Zapis i przetwarzanie paczek
-    output_file = "aaa3_names.jsonl"
+    output_file = "aaa_names_50000.jsonl"
     output = []
     with open(output_file, "a", encoding="utf-8") as fw:
         for batch_index, batch in enumerate(batches, start=1):

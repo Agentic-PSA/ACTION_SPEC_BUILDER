@@ -8,52 +8,6 @@ from functools import lru_cache
 import time
 import hashlib
 
-@lru_cache(maxsize=100)
-def get_token(username="admin", password="admin"):
-    url = "http://172.16.10.3:31008/openid/token"
-    headers = {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        'Authorization': 'Basic ' + base64.b64encode(b'spiffworkflow-backend:my_open_id_secret_key').decode('utf-8')
-    }
-    data = {
-        'grant_type': 'password',
-        'code': 'admin:this_is_not_secure_do_not_use_in_production',
-        'username': username,
-        'password': password,
-        'client_id': 'spiffworkflow-backend'
-    }
-
-    response = requests.post(url, headers=headers, data=data)
-    return response.json().get("access_token")
-
-
-async def read_eans(data):
-    with open('data/ean_dict.json', 'r', encoding='utf-8') as f:
-        ean_dict = json.load(f)
-    return {k: ean for k, ean in ean_dict.items() if ean['type'] in data}
-
-async def read_eans_from_file(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        ean_dict = json.load(f)
-    return ean_dict
-
-async def send_message_spiff(session, message, data):
-    headers = {
-        'Authorization': f'Bearer {get_token()}',
-        'Content-Type': 'application/json'
-    }
-
-    try:
-        async with session.post(f'http://172.16.10.3:31008/v1.0/messages/{message}',
-                               headers=headers, json=data, timeout=30) as response:
-            response_data = await response.json()
-            if "error_code" in response_data:
-                return None
-            return response_data['task_data']
-    except (aiohttp.ClientError, asyncio.TimeoutError):
-        return None
-
-
 async def get_panel_data_by_action(action: str):
     user = "BLUEBOX"
     key = "ZUNutFkVddOUf5El6udSUJIxYPFrys83"
@@ -156,6 +110,37 @@ def get_specification(panel_data):
         if key in panel_data:
             del panel_data[key]
     return specification
+
+
+async def send_message_with_fallback(action='', gtin13='', gtin12='', part_number=''):
+    result = None
+
+    if action:
+        result = await send_message_by_action(None, "get_action", action)
+        if result and result.get("panel_data"):
+            return result
+        
+    base_gtin = gtin13 or gtin12
+    if base_gtin:
+        ean_variants = generate_ean_variants(base_gtin)
+        for variant in ean_variants:
+            if len(variant) == 13:
+                result = await send_message(None, "get_ean", variant)
+            elif len(variant) == 12:
+                result = await send_message(None, "get_ean_12", variant)
+            else:
+                continue
+
+            if result and result.get("panel_data"):
+                return result
+
+    if part_number:
+        result = await send_message(None, "get_pn", part_number)
+        if result and result.get("panel_data"):
+            return result
+
+    return result
+
 
 async def send_message(session, message, data):
     panel_output_data = await get_panel_data(data)

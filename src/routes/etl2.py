@@ -5,7 +5,7 @@ import asyncio
 import json
 import os
 import re
-from src.services.ean_service import send_message, is_ean_valid, generate_ean_variants
+from src.services.ean_service import is_ean_valid, generate_ean_variants, send_message_with_fallback
 from src.services.ai_service import ai_analyze_and_create_form, ai_add_main_data, ai_remove_duplicates, ai_set_order, ai_sugest_section_names, ai_remove_excess_sections, ai_analyze_and_create_form_new
 from src.services.file_service import save_json_file
 from src.services.form_service import build_form
@@ -47,28 +47,13 @@ def add_truncated_sections(categories_type, save_to_output_dir):
 # --------------------------------------------------------------------------------------------------------------
 
 async def process_single_ean(session, idx, total, k, v):
-    if not is_ean_valid(v['gtin']):
-        print("nieprawidłowy EAN", v['gtin'])
+    single_spec = await send_message_with_fallback(v.get('action'), v.get('gtin_12'), v.get('gtin_13'), v.get('part_number'))
+    if not single_spec:
         return None
-
-    single_spec = None
-    ean_variants = generate_ean_variants(v['gtin'])
-
-    # Równoległe sprawdzenie wszystkich wariantów EAN
-    tasks = [send_message(session, "get_ean", variant) for variant in ean_variants]
-    results = await asyncio.gather(*tasks)
-
-    for result in results:
-        if result:
-            single_spec = result
-            break
-
-    if not single_spec and v.get('part_number'):
-        single_spec = await send_message(session, "get_pn", v['partNumber'])
-
-    #print(f"{idx}/{total} EAN: {v['gtin']} | progress: {100 * idx / total:.1f}%")
-
-    return {'panel': single_spec['panel_data'], 'specification': single_spec['specification']} if single_spec else None
+    return {
+        'panel': single_spec['panel_data'],
+        'specification': single_spec['specification']
+    }
 # --------------------------------------------------------------------------------------------------------------
 
 
@@ -138,86 +123,63 @@ def check_record(record, product_type):
 
 def get_eans_to_fetch_single(category_type, categories_from_db, record):
     product_type = category_type.replace("_", " ")
-    data_to_fetch = {}
     if not check_record(record, product_type):
         return None
-    print("----")
+
     body = record.get("body") or {}
-    category_maps = body.get("CategoryMapCollection") or []
+    category_maps = body.get("CategoryMapCollection", [])
     category_ids = []
+
     for mapping in category_maps:
         if not isinstance(mapping, dict):
-            return None
+            continue
+        if mapping.get("SalesChannelId") != 1:  # tylko ISERVICE
+            continue
+        for cat in mapping.get("CategoryCollection", []):
+            if not isinstance(cat, dict):
+                continue
+            category = get_category_by_id(cat.get("CategoryId"))
+            categories_from_db[cat.get("CategoryId")] = category
+            category_ids.append((category.get('categoryname_level3') if category else None) or cat.get("CategoryId"))
 
-        if mapping.get("SalesChannelId") == 1: #ISERWICE
-            for cat in (mapping.get("CategoryCollection") or []):
-                if not isinstance(cat, dict):
-                    continue
-
-                category = get_category_by_id(cat.get("CategoryId"))
-                categories_from_db[cat.get("CategoryId")] = category
-                category_ids.append((category.get('categoryname_level3') if category else None) or cat.get("CategoryId"))
-
+    action = body.get("ProductNumber", "")
+    gtin_12 = ""
+    gtin_13 = ""
     barcodes = body.get("BarcodeCollection", [])
-    gtin = None
     for b in barcodes:
         if b.get("BarCodeType") == "GTIN-13":
-            gtin = b.get("BarCode")
-            break
+            gtin_13 = b.get("BarCode")
+        if b.get("BarCodeType") == "GTIN-12":
+            gtin_12 = b.get("BarCode")
+   
+    if not (action or gtin_12 or gtin_13):
+        return None
+    
+    record.update({
+        "action": action,
+        "gtin_12": gtin_12,
+        "gtin_13": gtin_13,
+        "category_ids": category_ids
+    })    
 
-    if gtin:
-        record["gtin"] = gtin
-        record["category_ids"] = category_ids
-        data_to_fetch[gtin] = record
-
-    return data_to_fetch
-
+    return {(action, gtin_12, gtin_13): record}
+# --------------------------------------------------------------------------------------------------------------
 
 def get_eans_to_fetch(category_type, categories_from_db):
     start_index = 0
-    count = int(os.environ.get('EAN_TEST_COUNT'))
+    count = int(os.environ.get('EAN_TEST_COUNT', 10000))
     end_index = start_index + count
-    product_type = category_type.replace("_", " ")
     data_to_fetch = {}
 
     pim_list = load_pim_list(category_type)
 
     for idx, record in enumerate(pim_list[start_index:end_index], start=start_index):
         if idx % 10 == 0:
-            print(f"--- Pobieranie z pliku {idx + 1}/{len(pim_list)} [max {count}]---")
-        if not check_record(record, product_type):
-            continue
-
-        body = record.get("body") or {}
-        category_maps = body.get("CategoryMapCollection") or []
-
-        category_ids = []
-        for mapping in category_maps:
-            if not isinstance(mapping, dict):
-                continue
-
-            if mapping.get("SalesChannelId") == 1: #ISERWICE
-                for cat in (mapping.get("CategoryCollection") or []):
-                    if not isinstance(cat, dict):
-                        continue
-
-                    category = get_category_by_id(cat.get("CategoryId"))
-                    categories_from_db[cat.get("CategoryId")] = category
-                    category_ids.append((category.get('categoryname_level3') if category else None) or cat.get("CategoryId"))
-
-        barcodes = body.get("BarcodeCollection", [])
-        gtin = None
-        for b in barcodes:
-            if b.get("BarCodeType") == "GTIN-13":
-                gtin = b.get("BarCode")
-                break
-
-        if gtin:
-            record["gtin"] = gtin
-            record["category_ids"] = category_ids
-            data_to_fetch[gtin] = record
-        # else:
-        #     print(f"ERROR - brak GTIN dla produktu {body.get('ProductNumber')}")
+            print(f"--- Pobieranie z pliku {idx + 1}/{len(pim_list)} [max {count}] ---")
+        
+        data = get_eans_to_fetch_single(category_type, categories_from_db, record)
+        if data:
+            data_to_fetch.update(data)
 
     return data_to_fetch
 # --------------------------------------------------------------------------------------------------------------
@@ -246,20 +208,33 @@ async def fetch_eans(eans_to_fetch):
 
             for idx, result in enumerate(batch_results):
                 k, v = batch_items[idx]  # dane wejściowe
+                product_key = next((x for x in k if x), None)
+                if not product_key:
+                    print("Brak klucza produktu w k:", k)
+                    continue
+                if result is None:
+                    print("Brak danych dla:", product_key, k)
+                    continue                
 
                 panel = result.get("panel", {})
-                gtin = panel.get("product_ean") or panel.get("ean") or None
-                if not gtin:
-                    print("Brak product_ean / ean w panelu:", result)
-                    continue  # lub return error
+                if not panel:
+                    print("Brak panel_data dla:", product_key, k)
+                    continue
+                specification = panel.get("specification", [])
+                if not specification:
+                    print("Brak specification w panelu dla:", product_key, k)
+                    continue
 
                 product_data = {}  # słownik specyfikacji
-                specification = result["panel"].get("specification", [])
                 for section in specification:
-                    section_name = section["section_name"]["PL"]
+                    section_name = section.get("section_name", {}).get("PL")
+                    if not section_name:
+                        continue
                     product_data[section_name] = {}
-                    for attr in section["attributes"]:
-                        attribute_name = attr["attribute_name"]["PL"]
+                    for attr in section.get("attributes", []):
+                        attribute_name = attr.get("attribute_name", {}).get("PL")
+                        if not attribute_name:
+                            continue
                         attribute_values = [
                             val.get("attribute_value_name", {}).get("PL") 
                             for val in attr.get("values", [])
@@ -268,10 +243,11 @@ async def fetch_eans(eans_to_fetch):
                         product_data[section_name][attribute_name] = attribute_values
 
                 # dodajemy dane wejściowe do słownika produktu
-                products[gtin] = {
-                    "category_ids": v["category_ids"], 
+                products[product_key] = {
+                    "category_ids": v.get("category_ids", []), 
                     "specification": product_data
                 }
+    print("Pobrano", len(products))
     return products
 # --------------------------------------------------------------------------------------------------------------
 
@@ -658,6 +634,7 @@ async def etl2_create_spec_aka(request):
         save_to_output_dir(merged_products["categories_in_params"], f'x3_categories_in_params')
         save_to_output_dir(merged_products["product_params_cnt"], f'x4_product_params_cnt')
 
+        #akaduda
         await process_merged_products(product_type, merged_products, categories_from_db, section_mapping, save_to_output_dir)
 
     return JSONResponse({

@@ -109,7 +109,7 @@ def check_record(record, product_type):
         return False
 
     record_type = body.get("ProductType") or ''
-    if record_type != product_type:
+    if record_type.replace("-", "").replace(" ", "").lower() != product_type.replace("-", "").replace(" ", "").lower():
         print('ERROR - pominięto rekord — błędny typ', record_type, product_type)
         return False
 
@@ -635,13 +635,13 @@ async def etl2_create_spec_aka(request):
         save_to_output_dir(merged_products["product_params_cnt"], f'x4_product_params_cnt')
 
         #akaduda
-        await process_merged_products(product_type, merged_products, categories_from_db, section_mapping, save_to_output_dir)
+        await process_merged_products(product_type, merged_products, categories_from_db, section_mapping, save_to_output_dir, len(products))
 
     return JSONResponse({
         "result": True
     })
 
-async def process_merged_products(product_type, merged_products, categories_from_db, section_mapping, save_to_output_dir):
+async def process_merged_products(product_type, merged_products, categories_from_db, section_mapping, save_to_output_dir, items=0):
     all_params = {} # pierwsza wersja formatki od AI (łączenie atrybutów w sekcjach)
     translations = {} # tablica łączenia atrybutów w sekcjach
     #translations['sections'] = section_mapping # ręcznie ustawione przeniesienia / usuwanie sekcji
@@ -715,8 +715,7 @@ async def process_merged_products(product_type, merged_products, categories_from
     form_with_values = build_form({}, ordered_with_main, merged_products["categories"], include_values=True)
     save_to_output_dir(form, f'z2_form')
     save_to_output_dir(form_with_values, f'z3_form_with_values')
-    form_save(product_type, ordered, form, form_with_values, translations, merged_products["categories_in_params"], to_remove, merged_products["product_params_cnt"], main_data)
-
+    form_save(product_type, ordered, form, form_with_values, translations, merged_products["categories_in_params"], to_remove, merged_products["product_params_cnt"], main_data, items)
     # zapisz do tabeli category_to_type
     # category_to_type(product_type, product_type) - dodanie typu do listy kategorii
     for cat_id, category in categories_from_db.items():

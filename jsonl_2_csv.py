@@ -2,8 +2,8 @@ import json
 import csv
 
 # Ścieżki do plików
-input_file = "aaa3_names.jsonl"
-output_file = "10000.csv"
+input_file = "aaa_names_all.jsonl"
+output_file = "aaa_names_all.csv"
 
 # Otwieramy plik JSONL i wczytujemy wszystkie wiersze jako słowniki
 data = []

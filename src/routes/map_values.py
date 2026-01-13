@@ -261,9 +261,20 @@ async def map_values_logic(data):
                 if param not in llm_map[section]:
                     llm_map[section][param] = {}
                 for norm_val, orig_vals in mappings.items():
+                    # --- BEZPIECZNE PRZETWARZANIE ORIG_VALS (AI nie zawsze słucha, i daje inny format odpowiedzi) ---
+                    # Standardowy przypadek: orig_vals jest słownikiem {"values": [...], "unit": "..."}
+                    if isinstance(orig_vals, dict):
+                        values = set(orig_vals.get("values", []))
+                        unit = orig_vals.get("unit", "")
+                    # Niepoprawny przypadek: orig_vals jest stringiem
+                    # Zamieniamy go na słownik ze stringiem jako pojedyncza wartość
+                    else:
+                        values = {orig_vals}
+                        unit = ""
+
                     if norm_val not in llm_map[section][param]:
-                        llm_map[section][param][norm_val] = {"values": set(), 'unit': orig_vals.get('unit', '')}
-                    llm_map[section][param][norm_val]["values"].update(orig_vals['values'])
+                        llm_map[section][param][norm_val] = {"values": set(), 'unit': unit}
+                    llm_map[section][param][norm_val]["values"].update(values)
     print('C')
     print(llm_map)
     # Konwersja zbiorów na listy przed zapisem

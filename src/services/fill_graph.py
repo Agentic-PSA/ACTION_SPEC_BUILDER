@@ -365,10 +365,21 @@ async def fill_graph_single_core(pim_data):
             ) as response:
                 resp_ok = response.status == 200
                 resp_content = await response.json() if resp_ok else await response.text()
+                if not resp_ok:
+                    return {
+                        "success": False,
+                        "error": f"Status != 200: {pim_data['body'].get('ProductNumber', '')} - {resp_content}"
+                    }
+
         except Exception as e:
             logging.error(f"Błąd podczas komunikacji z API grafu: {str(e)}")
             resp_ok = False
             resp_content = str(e)
+            return {
+                "success": False,
+                "error": f"Błąd podczas komunikacji z API grafu: {pim_data['body'].get('ProductNumber', '')} - {resp_content}"
+            }
+
 
         # konwersja specification na Speccollection
         speccollection = []

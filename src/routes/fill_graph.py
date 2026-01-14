@@ -50,6 +50,8 @@ async def fill_graph(request):
     data = await request.json()  # wejście np. lista lub jakieś parametry
     category_types = load_category_types(data["type"])
     results = []
+    ok = 0
+    fail = 0
 
     for category_type in category_types:
         file_path = f"database/pim_by_type/{category_type}.jsonl"
@@ -64,22 +66,25 @@ async def fill_graph(request):
         for idx, pim_data in enumerate(pim_list):
             print(f"\n--- Przetwarzanie obiektu {idx + 1}/{len(pim_list)} ---")
             # można tu zrobić drobną wstępną weryfikację
-            if not pim_data['body'].get('BarcodeCollection'):
-                print(f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber')}")
-                continue
+            # if not pim_data['body'].get('BarcodeCollection'):
+            #     print(f"Brak EAN dla ProductNumber: {pim_data['body'].get('ProductNumber')}")
+            #     continue
 
             # wywołanie core
             output = await fill_graph_single_core(pim_data)
+            if output.get("ProductNumber"):
+                ok += 1
+            else:
+                fail += 1
 
             # dodanie do results
-            results.append({
-                "PIMProductId": pim_data['body'].get("PIMProductId"),
-                "ean": pim_data['body']['BarcodeCollection'][0]['BarCode']
-            })
+            results.append(output)
 
     return JSONResponse({
         "success": True,
-        "count": len(results)
+        "count": len(results),
+        "ok": ok,
+        "fail": fail
     })
 
 

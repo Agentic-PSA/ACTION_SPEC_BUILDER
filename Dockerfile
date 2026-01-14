@@ -24,4 +24,5 @@ COPY . /sanic
 
 RUN mkdir /database
 
-CMD ["python3", "start.py"]
+#CMD ["python3", "start.py"]
+CMD ["uvicorn", "start:app", "--host", "0.0.0.0", "--port", "7001", "--workers", "6"]

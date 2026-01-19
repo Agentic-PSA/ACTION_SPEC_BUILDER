@@ -5,6 +5,7 @@ from .map_values import map_values
 from .fill_graph import fill_graph, fill_graph_single
 from .pim import pim
 from .build_names import build_names
+from .create_description import create_description
 
 
 # All routes list, including standard web routes and MCP routes
@@ -18,4 +19,6 @@ routes = [
     Route("/fill_graph_single", endpoint=fill_graph_single, methods=["POST"]),
     Route("/pim", endpoint=pim, methods=["POST"]),
     Route("/build_names", endpoint=build_names, methods=["POST"]),
+    # RabbitMQ / description route
+    Route("/create_description", endpoint=create_description, methods=["POST"])
 ]

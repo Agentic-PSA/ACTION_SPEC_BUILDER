@@ -600,6 +600,14 @@ async def etl2_create_spec_aka_single(request):
 # --------------------------------------------------------------------------------------------------------------
 
 
+def should_skip_category(category_type: str, force: bool) -> bool:
+    forms = get_forms(category_type)
+    if forms is None:
+        return False
+    llm_form = forms.get("llm_form")
+    return bool(llm_form) and not force
+
+
 async def etl2_create_spec_aka(request):
     # funkcja pomocnicza do zapisywania plików w katalogu wyjściowym
     output_dir = create_output_directory()
@@ -614,10 +622,17 @@ async def etl2_create_spec_aka(request):
     category_types = load_category_types(data["type"]) # jakie pliki bierzemy ("ALL" czy wybrany typ np. "Karma")
 
     for category_type in category_types:
+        # jeśli jest już formatka to pomijamy
+        if should_skip_category(category_type, data["force"]):
+            print(f"Pomijam, bo jest już formatka dla {category_type}")
+            continue
         categories_from_db = {} # kategorie występujące dla typu (w formatce)
         eans_to_fetch = get_eans_to_fetch(category_type, categories_from_db)
         products = await fetch_eans(eans_to_fetch)
         save_to_output_dir(products, f'tmp_products')
+        if not products or len(products) < 10:
+            print(f"Pomijam, bo jest mniej niż 10 produktów. Są {len(products)}")
+            continue
 
         # nazwa kategorii dla llma
         product_type = category_type.replace("_", " ")

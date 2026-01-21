@@ -66,8 +66,9 @@ def load_category_types(category_type):
     if isinstance(category_type, (list, tuple, set)):
         return list(category_type)
 
+    SKIP_FILES = {"None", "do_rozbicia"}
     if category_type == 'ALL':
-        return [os.path.splitext(f)[0] for f in os.listdir("database/pim_by_type/") if f.endswith(".jsonl")]
+        return [os.path.splitext(f)[0] for f in os.listdir("database/pim_by_type/") if f.endswith(".jsonl") and os.path.splitext(f)[0] not in SKIP_FILES]
 
     return [category_type]
 # --------------------------------------------------------------------------------------------------------------
@@ -76,7 +77,7 @@ def load_pim_list(category_type):
     base_path = f"database/pim_by_type/{category_type}"
     pim_list = []
 
-    for ext in [".jsonl", ".json"]:
+    for ext in [".jsonl"]:
         file_path = f"{base_path}{ext}"
         if not os.path.exists(file_path):
             print(f"Plik {file_path} nie istnieje, pomijam.")
@@ -97,6 +98,9 @@ def load_pim_list(category_type):
     return pim_list
 # --------------------------------------------------------------------------------------------------------------
 
+def normalize_type(value: str) -> str:
+    return "".join(c.lower() for c in str(value) if c.isalnum())
+
 # wstępna weryfikacja danych wejściowych
 def check_record(record, product_type):
     if not isinstance(record, dict):
@@ -109,7 +113,7 @@ def check_record(record, product_type):
         return False
 
     record_type = body.get("ProductType") or ''
-    if record_type.replace("-", "").replace(" ", "").lower() != product_type.replace("-", "").replace(" ", "").lower():
+    if normalize_type(record_type) != normalize_type(product_type):
         print('ERROR - pominięto rekord — błędny typ', record_type, product_type)
         return False
 

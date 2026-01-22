@@ -626,9 +626,12 @@ async def etl2_create_spec_aka(request):
     category_types = load_category_types(data["type"]) # jakie pliki bierzemy ("ALL" czy wybrany typ np. "Karma")
 
     for category_type in category_types:
+        # nazwa kategorii dla llma
+        product_type = category_type.replace("_", " ")
         # jeśli jest już formatka to pomijamy
-        if should_skip_category(category_type, data["force"]):
-            print(f"Pomijam, bo jest już formatka dla {category_type}")
+        print(f"Sprawdzam {category_type} zmienione na {product_type}")
+        if should_skip_category(product_type, data["force"]):
+            print(f"Pomijam, bo jest już formatka dla {product_type}")
             continue
         categories_from_db = {} # kategorie występujące dla typu (w formatce)
         eans_to_fetch = get_eans_to_fetch(category_type, categories_from_db)
@@ -637,9 +640,6 @@ async def etl2_create_spec_aka(request):
         if not products or len(products) < 10:
             print(f"Pomijam, bo jest mniej niż 10 produktów. Są {len(products)}")
             continue
-
-        # nazwa kategorii dla llma
-        product_type = category_type.replace("_", " ")
 
         # dane z wszystkich formatek w 1 miejscu
         merged_products = {}
@@ -734,6 +734,7 @@ async def process_merged_products(product_type, merged_products, categories_from
     form_with_values = build_form({}, ordered_with_main, merged_products["categories"], include_values=True)
     save_to_output_dir(form, f'z2_form')
     save_to_output_dir(form_with_values, f'z3_form_with_values')
+    print(f"Zapisuje formatke {product_type}")
     form_save(product_type, ordered, form, form_with_values, translations, merged_products["categories_in_params"], to_remove, merged_products["product_params_cnt"], main_data, items)
     # zapisz do tabeli category_to_type
     # category_to_type(product_type, product_type) - dodanie typu do listy kategorii

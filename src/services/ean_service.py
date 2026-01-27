@@ -24,7 +24,7 @@ async def get_panel_data_by_action(action: str):
     url = "https://icecat.action.pl/api/GetProduct"
     headers = {'Content-Type': 'application/json'}
     async with aiohttp.ClientSession() as session:
-        async with session.post(url, headers=headers, json=data) as response:
+        async with session.post(url, headers=headers, json=data, ssl=False) as response:
             try:
                 panel_response = json.loads(await response.text())
                 panel_data = panel_response.get("product", {})
@@ -50,7 +50,7 @@ async def get_panel_data(ean: str):
     url = "https://icecat.action.pl/api/GetProduct"
     headers = {'Content-Type': 'application/json'}
     async with aiohttp.ClientSession() as session:
-        async with session.post(url, headers=headers, json=data) as response:
+        async with session.post(url, headers=headers, json=data, ssl=False) as response:
             try:
                 panel_response = json.loads(await response.text())
                 panel_data = panel_response.get("product", {})

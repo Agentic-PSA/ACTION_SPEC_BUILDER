@@ -195,12 +195,12 @@ async def map_values_logic(data):
         Twoje zadanie polega na:
         1. Usunięciu duplikatów w wartościach atrybutów.
         2. Jeśli wartości różnią się tylko formatem (np. cal/cm, zapis liczbowy z przecinkiem/kropką, nawiasy) → ujednolić do jednego formatu.
-        3. Jeśli wartości są bardzo zbliżone (np. wynik konwersji jednostek, różnice z zaokrągleń, minimalne różnice po przecinku <1% wartości) → potraktować jako duplikaty i zostawić tylko jedną reprezentatywną wartość.
+        3. Jeśli wartości są bardzo zbliżone lub równoważne po konwersji jednostek (np. TB ↔ GB, cal ↔ cm, Wh ↔ kWh) → OBOWIĄZKOWO przelicz je do jednej, wybranej jednostki i wartości liczbowej, a następnie potraktuj jako duplikaty i zostaw tylko jedną reprezentatywną wartość.
         4. Pojedyncza jednostka wartości nie może być wartością znormalizowaną, błędem jest przypisanie wartości (200 kWh, 300 kWh, 400 kWh) do znormalizowanej wartości (kWh).
         5. Utworzeniu wspólnych wartości dla kilku nazw oznaczających to samo (np. „Direct-LED BLU” = „Direct-LED”, lub ""4K Ultra HD" = "Ultra HD").
         6. Poprawieniu wszystkich wartości odbiegających od formatu przeważającego w danym atrybucie (np "2,54 m (100\")", na "100\"").
         7. Jeśli analizowany parametr odpowiada za niefunkcjonalny rozmiar lub wagę urządzenia (np. "Waga z opakowaniem", "Głębokość z podstawą") pozostaw wartość bez zmian.
-           Analogicznie dla parametrów liczbowych typu moc, energia itp. np. średnie zużycie energii nie powinno być mapowane (pozostaw wartość bez zmian).
+           Analogicznie dla parametrów liczbowych typu moc, energia itp. np. średnie zużycie energii nie powinno być mapowane (pozostaw wartość bez zmian, chyba że różnice wynikają wyłącznie z konwersji jednostek).
         8. Jeśli analizowany parametr to funkcyjny wymiar np. "długość przekątnej ekranu" lub  "pojemność powerbanka" należy je zmapować.
         9. Dla kolorów, odcieni i barw: traktuj każdą wartość jako unikalną. Nigdy nie łącz wartości, nawet jeśli są podobne, tłumaczone czy zawierają dodatkowe przymiotniki (np. "Titan Black" ≠ "Black").
         10. Jeśli w wartości parametru pojawią się widoczny błąd np "erfect" lub "podsawowy", zmapuj na wartość bez błędu "perfect" lub "podstawowy".
@@ -219,6 +219,13 @@ async def map_values_logic(data):
         - Zachowaj dokładnie strukturę sekcji i parametrów z wejściowego JSON-a.
         - Jeśli wartości mają jednostki np. kg, kWh itp. wybierz jedną najbardziej dopasowaną i umieść w kluczu "unit", jeśli brak takiej wartości zostaw unit puste.
         - Jeśli umieszczasz jednostkę w unit to tylko i wyłacznie wtedy możesz usunąć ją z wartości znormalizowanej.
+        - Jeśli wartości różnią się jednostką, a parametr opisuje funkcyjną wielkość liczbową (np. pojemność, rozmiar, przekątna, pamięć, moc), nie wolno zmieniać samej liczby bez przeliczenia jednostki.
+          Przykład:
+            "1 TB" → "1024" przy unit: "GB"
+            "2 TB" → "2048" przy unit: "GB"
+            **Zakazane jest mapowanie "1 TB" → "1" przy unit: "GB"
+        - Jeśli w obrębie jednego parametru występuje kilka jednostek tej samej wielkości (np. GB i TB, Wh i kWh, cm i m), jako jednostkę docelową wybierz tę, która występuje najczęściej w danych wejściowych (w przypadku remisu wybierz jednostkę mniejszą).
+          Wszystkie pozostałe wartości OBOWIĄZKOWO przelicz do tej jednostki.
         - Jeśli wartość nie pasuje do żadnej innej, pozostaw ją bez zmian, ale umieść w strukturze znormalizowanych wartości wraz z jej jednostką.
         Format odpowiedzi:
         - Nie używaj zwrotów typu "NIE MAPUJ" czy "ZOSTAW JAK JEST", zamiast tego po prostu umieść oryginalną wartość jako znormalizowaną.

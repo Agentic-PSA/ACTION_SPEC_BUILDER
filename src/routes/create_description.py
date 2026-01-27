@@ -3,6 +3,20 @@ import json
 from starlette.responses import JSONResponse
 import os
 
+
+# exchanges
+# gen_descr.request.exchange - topic, durable
+# gen_descr.response.exchange - topic, durable
+
+# queues
+# gen_descr.request.minimal.queue - quorum
+# gen_descr.request.simple.queue - quorum
+# gen_descr.response.created.queue - quorum
+# gen_descr.response.failed.queue - quorum
+
+# routings
+
+
 # RabbitMQ config
 EXCHANGE_NAME = "gen_descr.request.exchange"
 RABBIT_USER=os.environ.get("RABBIT_USER")

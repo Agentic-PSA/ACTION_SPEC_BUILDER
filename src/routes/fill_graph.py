@@ -12,13 +12,28 @@ from starlette.responses import JSONResponse
 
 from src.services.ean_service import send_message
 from src.services.file_service import save_json_file
-from src.services.fill_graph import fill_graph_single_core, convert_units, process_specification, apply_changes
+from src.services.fill_graph import fill_graph_single_core, convert_units, process_specification, apply_changes, check_quantity
+from .etl2 import load_category_types
+from src.services.db_service import get_forms
 
 
+async def should_skip_category(category_type: str, force: bool) -> bool:
+    #sprawdź czy jest formatka
+    forms = get_forms(category_type)
+    if not forms or not forms.get("values_map"):
+        return True
 
+    # sprawdź czy są już wpisy w memgrafie
+    if force:
+        return False
+    
+    quantity_resp = await check_quantity(category_type)
+    if not quantity_resp or not quantity_resp.get("success"):
+        print(f"Error pobierania liczby produktów dla {category_type}: {quantity_resp.get('error') if quantity_resp else 'Brak odpowiedzi'}")
+        return True
 
-
-
+    print(f"Jest {quantity_resp.get('cnt', 0)} produktów w {category_type}")
+    return quantity_resp.get("cnt", 0) > 0
 
 def create_output_directory():
     """
@@ -37,14 +52,6 @@ def create_output_directory():
     print(f"Utworzono katalog wyjściowy: {output_dir}")
     return output_dir
 
-def load_category_types(category_type):
-    if isinstance(category_type, (list, tuple, set)):
-        return list(category_type)
-
-    if category_type == 'ALL':
-        return [os.path.splitext(f)[0] for f in os.listdir("database/pim_by_type/") if f.endswith(".jsonl")]
-
-    return [category_type]
 
 async def fill_graph(request):
     data = await request.json()  # wejście np. lista lub jakieś parametry
@@ -54,6 +61,14 @@ async def fill_graph(request):
     fail = 0
 
     for category_type in category_types:
+        # nazwa kategorii dla llma
+        product_type = category_type.replace("_", " ")
+        # jeśli nie ma formatki lub są już dane w bazie to pomijamy
+        print(f"Sprawdzam {category_type} zmienione na {product_type}")
+        if await should_skip_category(product_type, data["force"]):
+            print(f"Pomijam {product_type}")
+            continue
+        print(f"-------------> Pracuję {product_type}")
         file_path = f"database/pim_by_type/{category_type}.jsonl"
         with open(file_path, "r", encoding="utf-8") as f:
             pim_list = [json.loads(line) for line in f if line.strip()]  # każda linia to osobny JSON

@@ -213,6 +213,37 @@ def get_pg_data(column: str, value: str, table: str='forms') -> dict:
         raise
 
 
+async def check_quantity(category_type):
+    try:
+        json_data = {"category": category_type}
+        timeout = aiohttp.ClientTimeout(total=10)
+        connector = aiohttp.TCPConnector(limit=30)
+        async with aiohttp.ClientSession(timeout=timeout, connector=connector) as session:
+            async with session.post(
+                    f"http://{os.environ.get('NEO_RETRIEVER_URL')}/check_quantity",
+                    json=json_data,
+                    headers={"Content-Type": "application/json"}
+            ) as response:
+                resp_ok = response.status == 200
+                resp_content = await response.json() if resp_ok else await response.text()
+                if not resp_ok:
+                    return {
+                        "success": False,
+                        "error": f"Status dla {category_type} != 200: {resp_content}"
+                    }
+                return {
+                    "success": True,
+                    "cnt": resp_content.get('cnt', -1)
+                }
+    except Exception as e:
+        logging.error(f"Błąd podczas komunikacji z API grafu dla {category_type}: {str(e)}")
+        return {
+            "success": False,
+            "error": f"Błąd podczas komunikacji z API grafu dla {category_type}: {str(e)}"
+        }
+
+
+
 async def fill_graph_single_core(pim_data):
     """
     Core logika fill_graph_single.

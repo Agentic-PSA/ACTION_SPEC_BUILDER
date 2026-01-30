@@ -297,7 +297,8 @@ async def fill_graph_single_core(pim_data):
         ean_type = pim_data['body'].get("ProductType", "")
         panel_data = element.get("panel_data", {})
         specification, errors = process_specification(panel_data, ["PL"])
-        spec_data = get_pg_data('category', ean_type)
+        product_type = "".join(c if c.isalnum() else " " for c in str(ean_type))
+        spec_data = get_pg_data('category', product_type)
         translates = spec_data['translates']
         # with open(f"aaa2_before.json", "w", encoding="utf-8") as f:
         #     json.dump(specification, f, ensure_ascii=False, indent=2)

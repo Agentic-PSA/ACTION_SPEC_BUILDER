@@ -223,3 +223,7 @@ def get_category_tree(category_id: int):
         return None
 
     return data
+
+def get_all_categories():
+    return db_select("SELECT ct.type, ct.category, f.product_params_cnt, f.form FROM category_to_type ct, forms f where ct.type=f.category") or []
+

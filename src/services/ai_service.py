@@ -9,8 +9,8 @@ import google.generativeai as genai
 from httpx import ReadTimeout
 
 
-SONOMA_KEY = "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"
-GPT_KEY = "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"
+SONOMA_KEY = os.environ.get("SONOMA_KEY")
+GPT_KEY = os.environ.get("OPENAI_API_KEY")
 
 @lru_cache(maxsize=1)
 def get_system_prompt(final: bool = False):

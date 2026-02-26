@@ -7,10 +7,12 @@ import requests
 from functools import lru_cache
 import time
 import hashlib
+import os
 
 async def get_panel_data_by_action(action: str):
     user = "BLUEBOX"
-    key = "ZUNutFkVddOUf5El6udSUJIxYPFrys83"
+    key = os.environ.get("BLUEBOX_KEY")
+
     current_time = int(time.time())
     data = {
         "user": user,
@@ -36,7 +38,7 @@ async def get_panel_data_by_action(action: str):
 
 async def get_panel_data(ean: str):
     user = "BLUEBOX"
-    key = "ZUNutFkVddOUf5El6udSUJIxYPFrys83"
+    key = os.environ.get("BLUEBOX_KEY")
     current_time = int(time.time())
     data = {
         "user": user,
@@ -58,13 +60,7 @@ async def get_panel_data(ean: str):
                 print(f"Error parsing JSON response: {e}")
                 panel_data = {}
     return panel_data
-# {
-#     "user": "BLUEBOX", 
-#     "key": "bca0d480346c656b236e8620a790b7dd", 
-#     "time": 1765361534, 
-#     "requestType": "GetProduct", 
-#     "dax_index": "DLKRITKAS0016"
-# }
+
 def get_specification(panel_data):
     specification_languages = ["PL", "EN", "DE"]
     panel_data_specification = panel_data.get("specification", [])

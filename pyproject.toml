@@ -23,6 +23,7 @@ dependencies = [
     "azure-servicebus (>=7.14.2,<8.0.0)",
     "google-generativeai (>=0.8.5,<0.9.0)",
     "aio-pika (>=9.5.8,<10.0.0)",
+    "neo4j (>=6.1.0,<7.0.0)",
 ]
 
 

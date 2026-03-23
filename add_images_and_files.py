@@ -22,9 +22,14 @@ driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
 
 def get_products(tx):
+    # query = """
+    # MATCH (p:Product)
+    # WHERE p.Photocollection IS NULL AND p.action IS NOT NULL AND p.action <> ""
+    # RETURN p.action AS productId
+    # """
     query = """
     MATCH (p:Product)
-    WHERE p.Photocollection IS NULL
+    WHERE p.action IS NOT NULL AND p.action <> ""
     RETURN p.action AS productId
     """
     result = tx.run(query)
@@ -34,7 +39,7 @@ def get_products(tx):
 def update_images_and_files(tx, product_id, images, files):
     query = """
     MATCH (p:Product {action: $product_id})
-    SET p.Photocollection = $images, p.FileCollection = $files
+    SET p.Photocollection = $images, p.Filecollection = $files
     """
     tx.run(query, product_id=product_id, images=images, files=files)
 
@@ -66,6 +71,7 @@ async def main():
     with driver.session() as session:
 
         product_ids = session.execute_read(get_products)
+        print(f"mam {len(product_ids)} produktow")
         # product_ids = ['AGDDLOEXP0301']
         # print(product_ids)
 
@@ -73,7 +79,16 @@ async def main():
             print(f"Przetwarzam {product_id}")
             product = await fetch_product_from_api(product_id) 
             images = product.get('images',[])
-            parsed_images = [{'Photolink': image.get('url', '')} for image in images]
+            parsed_images = [
+                {
+                    'Photolink': image.get('url', ''),
+                    'token': image.get('token', ''),
+                    'main': image.get('main', ''),
+                    'extension': image.get('extension', ''),
+                    'date': image.get('date', ''),
+                    'copyright': image.get('copyright', ''),
+                } 
+                for image in images]
             files = product.get('multimedia',{}).get('PL',[])
             parsed_files = [{'Filelink': f.get('url', ''), 'Name': f.get('description','')} for f in files]
             session.execute_write(update_images_and_files, product_id, json.dumps(parsed_images), json.dumps(parsed_files))
